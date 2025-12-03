@@ -1,0 +1,1875 @@
+{
+  "nav": {
+    "home": "Beranda",
+    "product": "Produk",
+    "features": "Fitur",
+    "pricing": "Harga",
+    "roadmap": "Peta Jalan",
+    "developers": "Pengembang",
+    "blog": "Blog",
+    "security": "Keamanan",
+    "launchApp": "Luncurkan Aplikasi",
+    "getStarted": "Mulai"
+  },
+  "header": {
+    "company": "Perusahaan",
+    "aboutUs": "Tentang Kami",
+    "companyPage": "Perusahaan",
+    "careers": "Karir",
+    "contact": "Kontak",
+    "support": "Dukung Kami",
+    "resources": "Sumber Daya",
+    "legal": "Hukum",
+    "privacy": "Kebijakan Privasi",
+    "terms": "Ketentuan Layanan",
+    "compliance": "Kepatuhan",
+    "disclosures": "Pengungkapan"
+  },
+  "hero": {
+    "title": "Masa Depan Nilai Stabil",
+    "description": "$USDP adalah stablecoin yang dipatok ke USD yang dibangun di Pi Network. Aman, transparan, dan dirancang untuk keuangan digital generasi berikutnya.",
+    "launchApp": "Luncurkan Aplikasi",
+    "visitTelegram": "Kunjungi Telegram",
+    "usdEquivalence": "1 USD = 1 $USDP",
+    "overcollateralized": "Overcollateralized",
+    "mintRedeemFees": "Biaya Mint/Tebus",
+    "transactionCost": "Biaya Transaksi"
+  },
+  "features": {
+    "title": "Mengapa Memilih $USDP?",
+    "subtitle": "Dibangun dengan teknologi canggih dan dirancang untuk ekosistem keuangan modern.",
+    "secure": {
+      "title": "Aman & Transparan",
+      "description": "Keamanan tingkat perusahaan dengan autentikasi passkey dan pelacakan cadangan waktu nyata."
+    },
+    "fast": {
+      "title": "Sangat Cepat",
+      "description": "Transaksi diselesaikan dalam hitungan detik dengan biaya minimal di blockchain Pi Network."
+    },
+    "backed": {
+      "title": "Didukung Penuh",
+      "description": "Overcollateralisasi 150% memastikan stabilitas dan melindungi aset Anda."
+    },
+    "privacy": {
+      "title": "Privasi Utama",
+      "description": "Enkripsi sisi klien dan autentikasi biometrik untuk keamanan maksimal."
+    }
+  },
+  "useCases": {
+    "title": "Kasus Penggunaan",
+    "subtitle": "$USDP bekerja untuk semua orang—dari pengguna individu hingga perusahaan.",
+    "ecommerce": {
+      "title": "E-commerce",
+      "description": "Terima pembayaran $USDP dengan penyelesaian instan dan biaya minimal."
+    },
+    "crossBorder": {
+      "title": "Pembayaran Lintas Batas",
+      "description": "Kirim uang secara global dengan biaya rendah dan waktu transaksi yang cepat."
+    },
+    "defi": {
+      "title": "Perdagangan DeFi",
+      "description": "Gunakan $USDP sebagai jaminan atau berikan likuiditas untuk mendapatkan hasil."
+    },
+    "storage": {
+      "title": "Penyimpanan Nilai",
+      "description": "Pegang nilai stabil tanpa paparan volatilitas cryptocurrency."
+    }
+  },
+  "roadmap": {
+    "title": "Peta Jalan Kami",
+    "subtitle": "Membangun masa depan stablecoin, satu tonggak pada satu waktu.",
+    "q4_2025": "Q4 2025",
+    "q1_2026": "Q1 2026",
+    "q2_2026": "Q2 2026",
+    "q3_2026": "Q3 2026",
+    "betaLaunch": "Peluncuran Beta",
+    "coreFeatures": "Fitur Inti",
+    "securityAudit": "Audit Keamanan",
+    "mainnetLaunch": "Peluncuran Mainnet",
+    "merchantPartnerships": "Kemitraan Merchant",
+    "mobileApps": "Aplikasi Seluler",
+    "defiIntegrations": "Integrasi DeFi",
+    "crossChainBridge": "Jembatan Lintas Chain",
+    "governanceToken": "Token Tata Kelola",
+    "institutionalServices": "Layanan Institusional",
+    "globalExpansion": "Ekspansi Global",
+    "advancedFeatures": "Fitur Lanjutan",
+    "pageTitle": "Peta Jalan Produk",
+    "pageSubtitle": "Visi kami untuk masa depan $USDP dan ekosistem Provena Labs.",
+    "betaLaunchTitle": "Peluncuran Beta & Fitur Inti",
+    "betaLaunchDesc": "Peluncuran beta di Pi Network testnet",
+    "coreMintingDesc": "Fitur minting dan penebusan inti",
+    "securityAuditDesc": "Penyelesaian audit keamanan",
+    "mainnetTitle": "Peluncuran Mainnet & Kemitraan",
+    "mainnetDesc": "Peluncuran mainnet di Pi Network",
+    "merchantDesc": "Kemitraan merchant",
+    "mobileAppDesc": "Peluncuran aplikasi seluler",
+    "defiTitle": "Integrasi & Ekspansi DeFi",
+    "defiProtocolDesc": "Integrasi protokol DeFi",
+    "bridgeDesc": "Peluncuran jembatan lintas chain",
+    "governanceDesc": "Pengenalan token tata kelola",
+    "institutionalTitle": "Layanan Institusional & Ekspansi Global",
+    "institutionalDesc": "Peluncuran layanan institusional",
+    "globalDesc": "Ekspansi global ke pasar baru",
+    "advancedDesc": "Fitur dan alat lanjutan"
+  },
+  "security": {
+    "title": "Keamanan yang Dapat Dipercaya",
+    "subtitle": "Aset Anda dilindungi oleh tindakan keamanan tingkat perusahaan dan audit rutin. Kami menganggap keamanan dengan serius sehingga Anda tidak perlu khawatir.",
+    "viewReport": "Lihat Laporan Keamanan",
+    "webauthn": "Autentikasi Passkey WebAuthn",
+    "encryption": "Enkripsi AES-256 Saat Istirahat",
+    "tls": "TLS 1.3 untuk Data dalam Transit",
+    "hsm": "Modul Keamanan Perangkat Keras",
+    "audits": "Audit Keamanan Rutin",
+    "detection": "Deteksi Ancaman 24/7",
+    "multisig": "Transaksi Multi-Tanda Tangan",
+    "insurance": "Asuransi Dompet Dingin"
+  },
+  "cta": {
+    "title": "Siap Memulai?",
+    "subtitle": "Bergabunglah dengan ribuan pengguna yang sudah menggunakan $USDP untuk penyimpanan dan transaksi nilai yang aman dan stabil.",
+    "launchApp": "Luncurkan Aplikasi",
+    "contactSales": "Hubungi Penjualan"
+  },
+  "logoCloud": {
+    "title": "Dibangun dengan Provena",
+    "subtitle": "Dipercaya oleh platform terkemuka di ekosistem"
+  },
+  "tokenEconomics": {
+    "title": "Ekonomi Token",
+    "subtitle": "Dirancang untuk stabilitas, didukung oleh cadangan Pi, dan dipertahankan pada 1:1 USD peg.",
+    "utilities": {
+      "mediumOfExchange": {
+        "title": "Media Pertukaran",
+        "description": "Gunakan $USDP untuk transaksi global yang cepat dan berbiaya rendah."
+      },
+      "storeOfValue": {
+        "title": "Penyimpan Nilai",
+        "description": "Simpan $USDP sebagai aset stabil tanpa volatilitas."
+      },
+      "defiCollateral": {
+        "title": "Jaminan DeFi",
+        "description": "Gunakan $USDP sebagai jaminan dalam protokol keuangan terdesentralisasi."
+      }
+    },
+    "supplyModel": {
+      "title": "Model Pasokan",
+      "backedByPi": {
+        "title": "Didukung oleh Cadangan Pi",
+        "description": "Setiap $USDP didukung oleh jaminan Pi"
+      },
+      "dynamicSupply": {
+        "title": "Pasokan Dinamis",
+        "description": "Pasokan menyesuaikan berdasarkan permintaan sambil mempertahankan peg"
+      },
+      "overcollateralization": {
+        "title": "Overcollateralization 150%",
+        "description": "Jaminan ekstra memastikan stabilitas dan melindungi pengguna"
+      }
+    }
+  },
+  "targetMarket": {
+    "title": "Pasar Sasaran",
+    "subtitle": "Melayani segmen pengguna yang beragam dengan solusi yang disesuaikan.",
+    "markets": {
+      "defiUsers": {
+        "title": "Pengguna DeFi",
+        "description": "Pemegang stablecoin yang mencari diversifikasi dan peluang imbal hasil."
+      },
+      "piNetwork": {
+        "title": "Komunitas Pi Network",
+        "description": "55+ juta pengguna aktif yang siap mengadopsi solusi blockchain."
+      },
+      "ecommerce": {
+        "title": "E-commerce",
+        "description": "Pedagang yang membutuhkan opsi pembayaran stabil dengan biaya rendah."
+      },
+      "crossBorder": {
+        "title": "Pembayaran Lintas Batas",
+        "description": "Solusi remitansi berbiaya rendah untuk transaksi global."
+      }
+    }
+  },
+  "competitiveAdvantages": {
+    "title": "Mengapa $USDP Menonjol",
+    "subtitle": "Keunggulan kompetitif yang membedakan kami dari stablecoin lainnya.",
+    "table": {
+      "feature": "Fitur",
+      "usdp": "$USDP",
+      "competitors": "Pesaing",
+      "network": "Jaringan",
+      "fees": "Biaya",
+      "collateralRatio": "Rasio Jaminan",
+      "authentication": "Autentikasi",
+      "blockchainFees": "Biaya Blockchain"
+    },
+    "values": {
+      "piNetwork": "Pi Network",
+      "ethereumTron": "Ethereum, Tron",
+      "fees03": "0.3%",
+      "fees05to1": "0.5-1%",
+      "collateral150": "150%",
+      "collateral100to110": "100-110%",
+      "passkeys": "Passkeys",
+      "passwords2fa": "Kata Sandi/2FA",
+      "feesLess001": "<$0.01",
+      "fees1to50": "$1-50"
+    }
+  },
+  "businessModel": {
+    "title": "Model Bisnis Berkelanjutan",
+    "subtitle": "Banyak aliran pendapatan yang dirancang untuk pertumbuhan dan stabilitas jangka panjang.",
+    "revenueStreams": {
+      "mintingFees": {
+        "title": "Biaya Pencetakan",
+        "description": "0.3% pada semua pencetakan"
+      },
+      "redeemingFees": {
+        "title": "Biaya Penebusan",
+        "description": "0.3% pada semua penebusan"
+      },
+      "transferFees": {
+        "title": "Biaya Transfer",
+        "description": "0.0% per transfer"
+      },
+      "partnershipFees": {
+        "title": "Biaya Kemitraan",
+        "description": "Kemitraan integrasi"
+      }
+    }
+  },
+  "footer": {
+    "tagline": "Membangun masa depan nilai stabil di Pi Network.",
+    "product": "Produk",
+    "company": "Perusahaan",
+    "about": "Tentang",
+    "legal": "Hukum",
+    "privacy": "Privasi",
+    "terms": "Ketentuan",
+    "disclosures": "Pengungkapan",
+    "copyright": "© {year} Provena Labs. Hak cipta dilindungi.",
+    "year": "year"
+  },
+  "common": {
+    "loading": "Memuat...",
+    "error": "Kesalahan",
+    "retry": "Coba Lagi"
+  },
+  "pages": {
+    "roadmap": {
+      "pageTitle": "Peta Jalan Produk",
+      "pageSubtitle": "Visi kami untuk masa depan $USDP dan ekosistem Provena Labs.",
+      "q4_2025": "Q4 2025",
+      "q1_2026": "Q1 2026",
+      "q2_2026": "Q2 2026",
+      "q3_2026": "Q3 2026",
+      "betaLaunchTitle": "Peluncuran Beta & Fitur Inti",
+      "betaLaunchDesc": "Peluncuran beta di Pi Network testnet",
+      "coreMintingDesc": "Fitur minting dan penebusan inti",
+      "securityAuditDesc": "Penyelesaian audit keamanan",
+      "mainnetTitle": "Peluncuran Mainnet & Kemitraan",
+      "mainnetDesc": "Peluncuran mainnet di Pi Network",
+      "merchantDesc": "Kemitraan merchant",
+      "mobileAppDesc": "Peluncuran aplikasi seluler",
+      "defiTitle": "Integrasi & Ekspansi DeFi",
+      "defiProtocolDesc": "Integrasi protokol DeFi",
+      "bridgeDesc": "Peluncuran jembatan lintas chain",
+      "governanceDesc": "Pengenalan token tata kelola",
+      "institutionalTitle": "Layanan Institusional & Ekspansi Global",
+      "institutionalDesc": "Peluncuran layanan institusional",
+      "globalDesc": "Ekspansi global ke pasar baru",
+      "advancedDesc": "Fitur dan alat lanjutan"
+    },
+    "features": {
+      "title": "Fitur Kuat untuk Keuangan Modern",
+      "subtitle": "$PNA menggabungkan teknologi canggih dengan desain yang ramah pengguna untuk memberikan pengalaman stablecoin yang layak Anda dapatkan.",
+      "features": {
+        "secure": {
+          "title": "Aman & Transparan",
+          "description": "Dompet multi-tanda tangan, audit rutin, dan transparansi on-chain penuh memastikan aset Anda selalu dilindungi dan dapat diverifikasi."
+        },
+        "fast": {
+          "title": "Sangat Cepat",
+          "description": "Transaksi diselesaikan dalam hitungan detik dengan biaya minimal. Tidak ada penantian, tidak ada penundaan, hanya transfer nilai instan."
+        },
+        "stable": {
+          "title": "Nilai Stabil",
+          "description": "Mempertahankan patokan 1:1 dengan Dolar AS melalui overcollateralisasi 115% dan mekanisme stabilitas algoritmik."
+        },
+        "community": {
+          "title": "Didorong Komunitas",
+          "description": "Dibangun untuk komunitas Pi Network dengan partisipasi tata kelola dan pengembangan yang berfokus pada komunitas."
+        },
+        "defi": {
+          "title": "Siap DeFi",
+          "description": "Terintegrasi mulus dengan protokol DeFi, platform pinjaman, dan pertukaran terdesentralisasi."
+        },
+        "compliance": {
+          "title": "Kepatuhan Pertama",
+          "description": "Dirancang dengan mempertimbangkan kepatuhan regulasi, mendukung adopsi institusional dan penggunaan mainstream."
+        }
+      },
+      "advancedSecurity": {
+        "title": "Keamanan Lanjutan",
+        "description": "Keamanan Anda adalah prioritas kami. $PNA menerapkan praktik keamanan terdepan di industri termasuk dompet multi-tanda tangan, audit pihak ketiga rutin, dan pemantauan berkelanjutan.",
+        "features": [
+          "Perlindungan dompet multi-tanda tangan",
+          "Audit keamanan rutin oleh firma terkemuka",
+          "Pemantauan dan deteksi ancaman 24/7",
+          "Cakupan asuransi untuk dana pengguna"
+        ]
+      },
+      "lightningFast": {
+        "title": "Transaksi Sangat Cepat",
+        "description": "Rasakan kecepatan blockchain tanpa menunggu. Transaksi $PNA diselesaikan dalam hitungan detik, bukan jam atau hari.",
+        "features": [
+          "Konfirmasi transaksi sub-detik",
+          "Biaya transaksi minimal",
+          "Kapasitas throughput tinggi",
+          "Infrastruktur yang dapat diskalakan"
+        ]
+      }
+    },
+    "product": {
+      "title": "Stablecoin $USDP",
+      "subtitle": "Stablecoin yang dipatok ke USD yang dibangun di Pi Network, dirancang untuk stabilitas, keamanan, dan transaksi yang mulus.",
+      "tagline": "Stabil. Aman. Sederhana.",
+      "whatIs": {
+        "title": "Apa itu $USDP?",
+        "description1": "$USDP adalah stablecoin yang sepenuhnya dijaminkan yang mempertahankan patokan 1:1 dengan Dolar AS. Setiap token $USDP didukung oleh lebih dari 115% dalam jaminan, memastikan stabilitas dan keamanan untuk semua pengguna.",
+        "description2": "Dibangun di blockchain Pi Network, $USDP memungkinkan transaksi cepat dan berbiaya rendah sambil mempertahankan kepercayaan dan keandalan yang diharapkan pengguna dari stablecoin.",
+        "features": [
+          "150% Overcollateralized",
+          "Patokan 1:1 USD",
+          "Transparan & Diaudit",
+          "Native Pi Network"
+        ]
+      },
+      "coreFeatures": {
+        "title": "Fitur Inti",
+        "items": [
+          {
+            "icon": "shield",
+            "title": "Aman",
+            "description": "Dompet multi-tanda tangan dan audit keamanan yang ketat memastikan dana Anda dilindungi."
+          },
+          {
+            "icon": "zap",
+            "title": "Cepat",
+            "description": "Transaksi diselesaikan dalam hitungan detik dengan biaya minimal di Pi Network."
+          },
+          {
+            "icon": "globe",
+            "title": "Global",
+            "description": "Kirim dan terima $USDP di mana saja di dunia tanpa batas."
+          },
+          {
+            "icon": "check",
+            "title": "Transparan",
+            "description": "Transparansi on-chain penuh dengan audit rutin dan laporan kepatuhan."
+          }
+        ]
+      },
+      "technicalSpecs": {
+        "title": "Spesifikasi Teknis",
+        "blockchain": {
+          "label": "Blockchain",
+          "value": "Pi Network"
+        },
+        "tokenStandard": {
+          "label": "Standar Token",
+          "value": "Token Native Pi Network"
+        },
+        "decimals": {
+          "label": "Desimal",
+          "value": "18"
+        },
+        "collateralization": {
+          "label": "Kolateralisasi",
+          "value": "150% Overcollateralized"
+        },
+        "mintRedeemFee": {
+          "label": "Biaya Mint/Tebus",
+          "value": "0.3%"
+        },
+        "auditStatus": {
+          "label": "Status Audit",
+          "value": "Secara Rutin Diaudit"
+        }
+      }
+    },
+    "pricing": {
+      "title": "Harga Sederhana, Transparan",
+      "subtitle": "Tidak ada biaya tersembunyi. Tidak ada kejutan. Hanya harga yang jelas untuk semua kebutuhan stablecoin Anda.",
+      "plans": [
+        {
+          "title": "Mint & Tebus",
+          "description": "Buat atau bakar token $USDP",
+          "price": "0.3%",
+          "priceNote": "Per transaksi",
+          "features": [
+            "Pemrosesan instan",
+            "Tidak ada jumlah minimum",
+            "Transparansi penuh"
+          ]
+        },
+        {
+          "popular": true,
+          "badge": "Paling Populer",
+          "title": "Transfer",
+          "description": "Kirim $USDP antar dompet",
+          "price": "<$0.01",
+          "priceNote": "Per transaksi",
+          "features": [
+            "Sangat cepat",
+            "Detik untuk diselesaikan",
+            "Jangkauan global"
+          ]
+        },
+        {
+          "title": "Akses API",
+          "description": "Untuk pengembang & bisnis",
+          "price": "Kustom",
+          "priceNote": "Harga berbasis volume",
+          "features": [
+            "Dukungan khusus",
+            "Integrasi kustom",
+            "Jaminan SLA"
+          ]
+        }
+      ],
+      "feeBreakdown": {
+        "title": "Rincian Biaya",
+        "transactionType": "Jenis Transaksi",
+        "fee": "Biaya",
+        "speed": "Kecepatan",
+        "rows": [
+          {
+            "type": "Mint $USDP",
+            "fee": "0.3%",
+            "speed": "Instan"
+          },
+          {
+            "type": "Tebus $USDP",
+            "fee": "0.3%",
+            "speed": "Instan"
+          },
+          {
+            "type": "Transfer $USDP",
+            "fee": "<$0.01",
+            "speed": "Detik"
+          },
+          {
+            "type": "Panggilan API",
+            "fee": "Kustom",
+            "speed": "Waktu nyata"
+          }
+        ]
+      },
+      "faq": {
+        "title": "Pertanyaan yang Sering Diajukan",
+        "items": [
+          {
+            "question": "Apakah ada biaya tersembunyi?",
+            "answer": "Tidak. Semua biaya transparan dan ditampilkan di muka. Apa yang Anda lihat adalah apa yang Anda bayar."
+          },
+          {
+            "question": "Apakah Anda menawarkan diskon volume?",
+            "answer": "Ya. Untuk pengguna dan bisnis volume tinggi, kami menawarkan harga kustom. Hubungi tim penjualan kami untuk detail."
+          },
+          {
+            "question": "Metode pembayaran apa yang Anda terima?",
+            "answer": "Kami menerima USD, stablecoin lainnya, dan cryptocurrency utama untuk minting dan menebus $USDP."
+          }
+        ]
+      }
+    },
+    "developers": {
+      "title": "Sumber Daya Pengembang",
+      "subtitle": "Semua yang Anda butuhkan untuk mengintegrasikan $PNA ke aplikasi Anda. Dokumentasi komprehensif, SDK, dan alat.",
+      "quickStart": {
+        "title": "Mulai Cepat",
+        "installation": {
+          "title": "Instalasi",
+          "code": "segera hadir"
+        },
+        "usage": {
+          "title": "Penggunaan Dasar",
+          "code": "segera hadir"
+        }
+      },
+      "integrationOptions": {
+        "title": "Opsi Integrasi",
+        "items": [
+          {
+            "icon": "code",
+            "title": "Integrasi Langsung",
+            "description": "Gunakan SDK JavaScript/TypeScript kami untuk integrasi API penuh dengan aplikasi Anda.",
+            "linkText": "Lihat Dokumentasi"
+          },
+          {
+            "icon": "zap",
+            "title": "Integrasi Dompet",
+            "description": "Hubungkan ke dompet Provena untuk pengalaman pengguna yang mulus dan dukungan multi-mata uang.",
+            "linkText": "Lihat Dokumentasi"
+          },
+          {
+            "icon": "book",
+            "title": "Gateway Pembayaran",
+            "description": "Tambahkan tombol pembayaran $PNA ke situs web Anda dengan widget yang sudah dibuat.",
+            "linkText": "Lihat Dokumentasi"
+          },
+          {
+            "icon": "git",
+            "title": "Webhooks",
+            "description": "Notifikasi acara waktu nyata untuk pembaruan transaksi dan perubahan status.",
+            "linkText": "Lihat Dokumentasi"
+          }
+        ]
+      },
+      "useCases": {
+        "title": "Kasus Penggunaan untuk Pembangun",
+        "items": [
+          {
+            "title": "E-commerce",
+            "features": [
+              "Terima pembayaran $PNA",
+              "Biaya transaksi rendah",
+              "Penyelesaian instan"
+            ]
+          },
+          {
+            "title": "Platform DeFi",
+            "features": [
+              "Tambahkan $PNA sebagai jaminan",
+              "Buat pool likuiditas",
+              "Bangun strategi hasil"
+            ]
+          },
+          {
+            "title": "Dompet",
+            "features": [
+              "Integrasikan dukungan $PNA",
+              "Dompet multi-mata uang",
+              "Pelacakan portofolio"
+            ]
+          },
+          {
+            "title": "Gaming",
+            "features": [
+              "Mata uang dalam game",
+              "Distribusi hadiah",
+              "Pembayaran pasar NFT"
+            ]
+          }
+        ]
+      }
+    },
+    "about": {
+      "title": "Tentang Provena Labs",
+      "subtitle": "Kami membangun masa depan keuangan digital yang stabil di Pi Network. Misi kami adalah menyediakan solusi stablecoin yang aman, transparan, dan inovatif yang menjembatani keuangan tradisional dengan teknologi blockchain.",
+      "mission": {
+        "title": "Misi Kami",
+        "description1": "Untuk menciptakan stablecoin yang dipatok ke USD tingkat produksi yang memungkinkan transaksi yang aman, cepat, dan berbiaya rendah untuk lebih dari 55 juta pengguna di Pi Network.",
+        "description2": "Kami percaya pada kekuatan teknologi blockchain untuk mendemokratisasi keuangan dan menyediakan layanan keuangan untuk semua orang, di mana saja."
+      },
+      "vision": {
+        "title": "Visi Kami",
+        "description1": "Dunia di mana aset digital yang stabil dapat diakses oleh semua orang, memungkinkan transaksi global yang mulus dan inklusi keuangan.",
+        "description2": "Kami membayangkan $USDP menjadi stablecoin standar untuk Pi Network, menggerakkan DeFi, e-commerce, dan pembayaran lintas batas."
+      },
+      "coreValues": {
+        "title": "Nilai Inti Kami",
+        "items": [
+          {
+            "icon": "innovation",
+            "title": "Inovasi",
+            "description": "Kami terus berinovasi untuk menyediakan solusi canggih yang memajukan ekosistem blockchain."
+          },
+          {
+            "icon": "transparency",
+            "title": "Transparansi",
+            "description": "Kami percaya pada transparansi lengkap dengan pelacakan cadangan waktu nyata dan verifikasi publik."
+          },
+          {
+            "icon": "community",
+            "title": "Komunitas",
+            "description": "Kami berkomitmen untuk membangun bersama dan untuk komunitas kami, mendengarkan umpan balik dan berkembang bersama."
+          }
+        ]
+      },
+      "whyChoose": {
+        "title": "Mengapa Memilih Provena Labs?",
+        "items": [
+          {
+            "number": "1",
+            "title": "Keuntungan Pionir",
+            "description": "Kami adalah stablecoin tingkat produksi pertama di Pi Network, diposisikan untuk menangkap pangsa pasar awal."
+          },
+          {
+            "number": "2",
+            "title": "Basis Pengguna Besar",
+            "description": "Akses ke lebih dari 55 juta pengguna Pi Network yang terlibat siap mengadopsi solusi blockchain."
+          },
+          {
+            "number": "3",
+            "title": "Siap Produksi",
+            "description": "Platform kami sepenuhnya dikembangkan dan diuji, siap untuk penyebaran dan penskalaan segera."
+          },
+          {
+            "number": "4",
+            "title": "Model Berkelanjutan",
+            "description": "Beberapa aliran pendapatan dan manajemen treasury memastikan kelayakan jangka panjang dan pertumbuhan."
+          }
+        ]
+      }
+    },
+    "contact": {
+      "title": "Hubungi Kami",
+      "subtitle": "Ada pertanyaan? Kami ingin mendengar dari Anda. Kirimkan pesan kepada kami dan kami akan merespons sesegera mungkin.",
+      "contactInfo": [
+        {
+          "type": "email",
+          "label": "Email",
+          "value": "zyrachain@provenalabs.com",
+          "note": "Kami akan membalas dalam 24 jam"
+        },
+        {
+          "type": "phone",
+          "label": "Telepon",
+          "value": "+234-701-067-6567",
+          "note": "Senin - Jumat, 9 pagi - 5 sore EST"
+        },
+        {
+          "type": "office",
+          "label": "Kantor",
+          "value": "Remote First",
+          "note": "Melayani pelanggan di seluruh dunia"
+        }
+      ],
+      "faq": {
+        "title": "Pertanyaan yang Sering Diajukan",
+        "items": [
+          {
+            "question": "Apa cara terbaik untuk menghubungi dukungan?",
+            "answer": "Anda dapat menghubungi tim dukungan kami melalui email di provenalabs@gmail.com."
+          },
+          {
+            "question": "Berapa lama waktu yang dibutuhkan untuk mendapatkan respons?",
+            "answer": "Kami bertujuan untuk merespons semua pertanyaan dalam 24 jam selama hari kerja."
+          },
+          {
+            "question": "Apakah Anda memiliki forum komunitas?",
+            "answer": "Ya! Bergabunglah dengan komunitas Discord kami untuk terhubung dengan pengguna lain dan mendapatkan dukungan dari komunitas."
+          }
+        ]
+      }
+    },
+    "security": {
+      "title": "Keamanan & Kepatuhan",
+      "subtitle": "Tindakan keamanan tingkat perusahaan dan standar kepatuhan untuk melindungi aset Anda dan memastikan kepatuhan regulasi.",
+      "measures": {
+        "title": "Tindakan Keamanan",
+        "items": [
+          {
+            "icon": "authentication",
+            "title": "Autentikasi",
+            "description": "Passkey WebAuthn/FIDO2 menyediakan autentikasi biometrik dan berbasis PIN tanpa kata sandi.",
+            "features": [
+              "Autentikasi biometrik",
+              "Keamanan berbasis PIN",
+              "Tidak ada penyimpanan kata sandi"
+            ]
+          },
+          {
+            "icon": "encryption",
+            "title": "Enkripsi",
+            "description": "Enkripsi tingkat militer melindungi data Anda saat istirahat dan dalam transit.",
+            "features": [
+              "AES-256 saat istirahat",
+              "TLS 1.3 dalam transit",
+              "Enkripsi sisi klien"
+            ]
+          },
+          {
+            "icon": "keyManagement",
+            "title": "Manajemen Kunci",
+            "description": "Modul keamanan perangkat keras dan transaksi multi-tanda tangan melindungi kunci kritis.",
+            "features": [
+              "Modul keamanan perangkat keras",
+              "Transaksi multi-tanda tangan",
+              "Kebijakan rotasi kunci"
+            ]
+          },
+          {
+            "icon": "monitoring",
+            "title": "Pemantauan",
+            "description": "Deteksi ancaman 24/7 dan audit keamanan rutin memastikan perlindungan berkelanjutan.",
+            "features": [
+              "Deteksi ancaman 24/7",
+              "Audit keamanan rutin",
+              "Tim respons insiden"
+            ]
+          }
+        ]
+      },
+      "compliance": {
+        "title": "Standar Kepatuhan",
+        "items": [
+          {
+            "title": "KYC/AML",
+            "description": "Prosedur verifikasi pengguna komprehensif untuk mematuhi peraturan anti-pencucian uang."
+          },
+          {
+            "title": "Lisensi",
+            "description": "Kepatuhan pengirim uang dan lisensi regulasi di yurisdiksi utama."
+          },
+          {
+            "title": "Audit",
+            "description": "Audit keuangan dan keamanan rutin oleh firma pihak ketiga independen."
+          },
+          {
+            "title": "Asuransi",
+            "description": "Asuransi dompet dingin dan cakupan komprehensif untuk aset digital."
+          },
+          {
+            "title": "Cadangan",
+            "description": "Laporan cadangan publik dan verifikasi waktu nyata dari dukungan jaminan."
+          },
+          {
+            "title": "Privasi",
+            "description": "Penanganan data yang sesuai GDPR dan kebijakan perlindungan privasi pengguna."
+          }
+        ]
+      },
+      "bestPractices": {
+        "title": "Praktik Keamanan Terbaik Pengguna",
+        "dos": {
+          "title": "Lakukan",
+          "items": [
+            "Simpan frasa sandi Anda dengan aman secara offline",
+            "Aktifkan autentikasi biometrik",
+            "Verifikasi jumlah transaksi sebelum mengonfirmasi",
+            "Periksa harga Pi sebelum minting",
+            "Gunakan jaringan aman untuk transaksi"
+          ]
+        },
+        "donts": {
+          "title": "Jangan",
+          "items": [
+            "Bagikan frasa sandi Anda dengan siapa pun",
+            "Screenshot data sensitif",
+            "Gunakan di jaringan publik yang tidak aman",
+            "Kirim ke alamat yang tidak diverifikasi",
+            "Klik tautan atau email yang mencurigakan"
+          ]
+        }
+      }
+    },
+    "support": {
+      "title": "Dukung Provena Labs",
+      "subtitle": "Bantu kami membangun masa depan nilai stabil di Pi Network",
+      "whySupport": {
+        "title": "Mengapa Dukungan Anda Penting",
+        "intro": "Provena Labs membangun infrastruktur kritis untuk ekosistem Pi Network. Donasi Anda secara langsung mendukung:",
+        "items": [
+          {
+            "title": "Pengembangan & Inovasi",
+            "description": "Mendanai pengembangan berkelanjutan dari stablecoin $USDP, audit keamanan, dan fitur baru yang meningkatkan ekosistem."
+          },
+          {
+            "title": "Keamanan & Kepatuhan",
+            "description": "Memastikan standar keamanan, kepatuhan regulasi, dan manajemen risiko tertinggi untuk melindungi pengguna."
+          },
+          {
+            "title": "Pertumbuhan Komunitas",
+            "description": "Mendukung pendidikan, kemitraan, dan inisiatif komunitas yang mendorong adopsi dan kesadaran."
+          },
+          {
+            "title": "Infrastruktur & Operasi",
+            "description": "Mempertahankan sistem yang andal, pemantauan, dan keunggulan operasional untuk memastikan ketersediaan 24/7."
+          }
+        ],
+        "conclusion": "Setiap kontribusi, tidak peduli seberapa besar, membantu kami mempercepat pengembangan dan membawa nilai stabil kepada jutaan pengguna di Pi Network. Dukungan Anda adalah suara kepercayaan dalam misi kami."
+      },
+      "walletAddress": "GCAO7I2ZBIEFXNYD3KZFA3UXLMDVCYUG6CTCYG56746LZB5MIUFIIBJ5",
+      "donation": {
+        "title": "Donasi dengan Pi",
+        "label": "Kirim Pi ke alamat dompet kami",
+        "walletLabel": "Alamat Dompet Pi",
+        "copy": "Salin alamat dompet",
+        "warning": {
+          "title": "Penting:",
+          "text": "Pastikan Anda mengirim Pi dari Dompet Pi Anda. Periksa kembali alamat dompet untuk memastikan donasi Anda sampai kepada kami dengan aman."
+        },
+        "howTo": {
+          "title": "Cara mengirim:",
+          "steps": [
+            "Buka aplikasi Dompet Pi Anda",
+            "Pilih \"Kirim\" atau \"Transfer\"",
+            "Tempel alamat dompet Pi di atas",
+            "Masukkan jumlah Pi yang ingin Anda donasikan",
+            "Konfirmasi transaksi",
+            "Donasi Anda akan diterima dalam hitungan menit"
+          ]
+        },
+        "thankYou": {
+          "title": "Terima Kasih!",
+          "message": "Kami sangat berterima kasih atas dukungan Anda. Setiap kontribusi membantu kami membangun masa depan yang lebih stabil dan makmur untuk ekosistem Pi Network.",
+          "contactLink": "Ada Pertanyaan? Hubungi Kami"
+        }
+      }
+    },
+    "blog": {
+      "title": "Blog Provena Labs",
+      "subtitle": "Tetap update dengan berita, wawasan, dan pembaruan terbaru dari tim Provena Labs.",
+      "featured": "Unggulan",
+      "readMore": "Baca Selengkapnya",
+      "posts": [
+        {
+          "title": "Memperkenalkan $USDP: Masa Depan Nilai Stabil",
+          "excerpt": "Kami dengan senang hati mengumumkan peluncuran $USDP, stablecoin yang sepenuhnya dijaminkan yang dibangun di Pi Network.",
+          "date": "15 Januari 2025",
+          "author": "Tim Provena Labs",
+          "category": "Pengumuman"
+        },
+        {
+          "title": "Memahami Kolateralisasi Stablecoin",
+          "excerpt": "Pelajari bagaimana $USDP mempertahankan patokan 1:1 USD melalui overcollateralisasi 150% dan mekanisme stabilitas lanjutan.",
+          "date": "10 Januari 2025",
+          "author": "Tim Teknis",
+          "category": "Pendidikan"
+        },
+        {
+          "title": "Panduan Integrasi DeFi: Menggunakan $USDP dalam Protokol Anda",
+          "excerpt": "Panduan komprehensif untuk pengembang yang ingin mengintegrasikan $USDP ke aplikasi dan protokol DeFi mereka.",
+          "date": "5 Januari 2025",
+          "author": "Hubungan Pengembang",
+          "category": "Pengembang"
+        },
+        {
+          "title": "Hasil Audit Keamanan: $USDP Lulus Tinjauan Komprehensif",
+          "excerpt": "Kami bangga membagikan hasil audit keamanan terbaru kami, mengonfirmasi ketangguhan platform kami.",
+          "date": "28 Desember 2024",
+          "author": "Tim Keamanan",
+          "category": "Keamanan"
+        },
+        {
+          "title": "Pembaruan Peta Jalan Q4 2024: Apa yang Akan Datang Selanjutnya",
+          "excerpt": "Ikhtisar pencapaian kami di Q4 dan fitur menarik apa yang telah kami rencanakan untuk 2025.",
+          "date": "20 Desember 2024",
+          "author": "Tim Produk",
+          "category": "Peta Jalan"
+        },
+        {
+          "title": "Sorotan Komunitas: Bagaimana Pengguna Menggunakan $USDP",
+          "excerpt": "Menampilkan cerita dari anggota komunitas kami dan bagaimana mereka memanfaatkan $USDP dalam kehidupan sehari-hari mereka.",
+          "date": "15 Desember 2024",
+          "author": "Tim Komunitas",
+          "category": "Komunitas"
+        }
+      ]
+    },
+    "careers": {
+      "title": "Bergabung dengan Tim Kami",
+      "subtitle": "Bantu kami membangun masa depan mata uang digital yang stabil. Kami mencari individu berbakat yang bersemangat tentang blockchain dan keuangan.",
+      "whyJoin": [
+        {
+          "icon": "meaningful",
+          "title": "Pekerjaan Bermakna",
+          "description": "Bekerja pada proyek yang berdampak pada jutaan orang secara global."
+        },
+        {
+          "icon": "remote",
+          "title": "Remote First",
+          "description": "Bekerja dari mana saja di dunia dengan jadwal yang fleksibel."
+        },
+        {
+          "icon": "pay",
+          "title": "Gaji Kompetitif",
+          "description": "Gaji dan paket ekuitas terdepan di industri."
+        },
+        {
+          "icon": "growth",
+          "title": "Pertumbuhan",
+          "description": "Pembelajaran berkelanjutan dan pengembangan profesional."
+        }
+      ],
+      "openPositions": {
+        "title": "Posisi Terbuka"
+      },
+      "jobs": [
+        {
+          "title": "Insinyur Blockchain Senior",
+          "department": "Teknik",
+          "location": "Remote",
+          "type": "Penuh waktu",
+          "salary": "$150K - $200K"
+        },
+        {
+          "title": "Manajer Produk",
+          "department": "Produk",
+          "location": "Remote",
+          "type": "Penuh waktu",
+          "salary": "$130K - $170K"
+        },
+        {
+          "title": "Auditor Keamanan",
+          "department": "Keamanan",
+          "location": "Remote",
+          "type": "Penuh waktu",
+          "salary": "$140K - $190K"
+        },
+        {
+          "title": "Insinyur Hubungan Pengembang",
+          "department": "Hubungan Pengembang",
+          "location": "Remote",
+          "type": "Penuh waktu",
+          "salary": "$120K - $160K"
+        },
+        {
+          "title": "Manajer Pemasaran",
+          "department": "Pemasaran",
+          "location": "Remote",
+          "type": "Penuh waktu",
+          "salary": "$100K - $140K"
+        },
+        {
+          "title": "Manajer Komunitas",
+          "department": "Komunitas",
+          "location": "Remote",
+          "type": "Penuh waktu",
+          "salary": "$80K - $120K"
+        }
+      ],
+      "benefits": {
+        "title": "Manfaat",
+        "health": {
+          "title": "Kesehatan & Kesejahteraan",
+          "items": [
+            "Asuransi kesehatan komprehensif",
+            "Dukungan kesehatan mental",
+            "Tunjangan kebugaran",
+            "PTO tidak terbatas"
+          ]
+        },
+        "professional": {
+          "title": "Pengembangan Profesional",
+          "items": [
+            "Anggaran pembelajaran",
+            "Kehadiran konferensi",
+            "Program mentor",
+            "Pelatihan karier"
+          ]
+        },
+        "compensation": {
+          "title": "Kompensasi",
+          "items": [
+            "Gaji kompetitif",
+            "Paket ekuitas",
+            "Bonus kinerja",
+            "Manfaat kripto"
+          ]
+        },
+        "workLife": {
+          "title": "Keseimbangan Kerja-Hidup",
+          "items": [
+            "Jam fleksibel",
+            "Kerja remote",
+            "Cuti orang tua",
+            "Acara tim"
+          ]
+        }
+      },
+      "cta": {
+        "message": "Tidak melihat posisi yang cocok?",
+        "button": "Kirim Resume Anda"
+      }
+    },
+    "company": {
+      "title": "Tentang Provena Labs",
+      "subtitle": "Membangun masa depan mata uang digital yang stabil di Pi Network",
+      "missionVision": [
+        {
+          "type": "mission",
+          "title": "Misi Kami",
+          "description": "Untuk menciptakan stablecoin yang stabil, aman, dan dapat diakses yang memberdayakan individu dan bisnis untuk berpartisipasi dalam ekonomi digital dengan percaya diri dan mudah."
+        },
+        {
+          "type": "vision",
+          "title": "Visi Kami",
+          "description": "Dunia di mana mata uang digital yang stabil adalah fondasi untuk perdagangan global, memungkinkan transaksi yang mulus dan inklusi keuangan untuk semua orang."
+        }
+      ],
+      "coreValues": {
+        "title": "Nilai Inti",
+        "items": [
+          {
+            "icon": "excellence",
+            "title": "Keunggulan",
+            "description": "Kami berusaha untuk standar tertinggi dalam segala hal yang kami lakukan."
+          },
+          {
+            "icon": "community",
+            "title": "Komunitas",
+            "description": "Kami membangun bersama dan untuk komunitas kami."
+          },
+          {
+            "icon": "innovation",
+            "title": "Inovasi",
+            "description": "Kami merangkul ide dan teknologi baru."
+          },
+          {
+            "icon": "transparency",
+            "title": "Transparansi",
+            "description": "Kami beroperasi dengan keterbukaan dan kejujuran lengkap."
+          }
+        ]
+      },
+      "stats": {
+        "title": "Dengan Angka",
+        "items": [
+          {
+            "value": "$00M+",
+            "label": "Total Nilai Terkunci"
+          },
+          {
+            "value": "00K+",
+            "label": "Pengguna Aktif"
+          },
+          {
+            "value": "0+",
+            "label": "Integrasi"
+          },
+          {
+            "value": "24/7",
+            "label": "Dukungan Tersedia"
+          }
+        ]
+      },
+      "team": {
+        "title": "Tim Kepemimpinan",
+        "description": "Tim kami menghadirkan keahlian dalam blockchain, keuangan, dan teknologi untuk membangun masa depan mata uang digital yang stabil."
+      }
+    },
+    "comingSoon": {
+      "title": "Segera Hadir",
+      "subtitle": "Kami bekerja keras untuk membawa sesuatu yang luar biasa untuk Anda. Nantikan!",
+      "whatsNext": {
+        "title": "Apa Selanjutnya?",
+        "description": "Kami membangun masa depan nilai stabil di Pi Network. Bergabunglah dengan komunitas kami untuk tetap update tentang kemajuan kami.",
+        "telegramButton": "Bergabung dengan Telegram",
+        "homeButton": "Kembali ke Beranda"
+      },
+      "footer": "Untuk pembaruan dan pengumuman, ikuti kami di saluran sosial kami."
+    },
+    "legal": {
+      "privacy": {
+        "title": "Kebijakan Privasi",
+        "lastUpdated": "Terakhir diperbarui: Januari 2025",
+        "sections": [
+          {
+            "title": "1. Pengenalan",
+            "content": "Provena Labs (\"kami,\" \"kita,\" \"milik kami,\" atau \"Perusahaan\") berkomitmen untuk melindungi privasi Anda. Kebijakan Privasi ini menjelaskan bagaimana kami mengumpulkan, menggunakan, mengungkapkan, dan melindungi informasi Anda ketika Anda mengunjungi situs web kami dan menggunakan layanan kami."
+          },
+          {
+            "title": "2. Informasi yang Kami Kumpulkan",
+            "content": "Kami dapat mengumpulkan informasi tentang Anda dalam berbagai cara:",
+            "items": [
+              "Informasi yang Anda berikan langsung (nama, email, alamat dompet)",
+              "Informasi yang dikumpulkan secara otomatis (alamat IP, jenis browser, halaman yang dikunjungi)",
+              "Informasi dari sumber pihak ketiga (penyedia analitik, prosesor pembayaran)"
+            ]
+          },
+          {
+            "title": "3. Bagaimana Kami Menggunakan Informasi Anda",
+            "content": "Kami menggunakan informasi yang kami kumpulkan untuk:",
+            "items": [
+              "Menyediakan, memelihara, dan meningkatkan layanan kami",
+              "Memproses transaksi dan mengirim informasi terkait",
+              "Mengirim komunikasi promosi (dengan persetujuan Anda)",
+              "Mematuhi kewajiban hukum",
+              "Mencegah penipuan dan meningkatkan keamanan"
+            ]
+          },
+          {
+            "title": "4. Keamanan Data",
+            "content": "Kami menerapkan langkah-langkah teknis dan organisasi yang sesuai untuk melindungi informasi pribadi Anda terhadap akses tidak sah, perubahan, pengungkapan, atau penghancuran. Namun, tidak ada metode transmisi melalui Internet yang 100% aman."
+          },
+          {
+            "title": "5. Hak Anda",
+            "content": "Bergantung pada lokasi Anda, Anda mungkin memiliki hak untuk:",
+            "items": [
+              "Mengakses informasi pribadi Anda",
+              "Memperbaiki data yang tidak akurat",
+              "Meminta penghapusan data Anda",
+              "Berhenti berlangganan komunikasi pemasaran"
+            ]
+          },
+          {
+            "title": "6. Hubungi Kami",
+            "content": "Jika Anda memiliki pertanyaan tentang Kebijakan Privasi ini, silakan hubungi kami di privacy@provenalabs.com"
+          }
+        ]
+      },
+      "terms": {
+        "title": "Ketentuan Layanan",
+        "lastUpdated": "Terakhir diperbarui: Januari 2025",
+        "sections": [
+          {
+            "title": "1. Persetujuan terhadap Ketentuan",
+            "content": "Dengan mengakses dan menggunakan situs web dan layanan ini, Anda menerima dan menyetujui untuk terikat oleh ketentuan dan ketentuan perjanjian ini. Jika Anda tidak setuju untuk mematuhi hal di atas, harap jangan gunakan layanan ini."
+          },
+          {
+            "title": "2. Lisensi Penggunaan",
+            "content": "Izin diberikan untuk mengunduh sementara satu salinan materi (informasi atau perangkat lunak) di situs web Provena Labs untuk melihat sementara pribadi, non-komersial saja. Ini adalah pemberian lisensi, bukan transfer kepemilikan, dan di bawah lisensi ini Anda tidak boleh:",
+            "items": [
+              "Memodifikasi atau menyalin materi",
+              "Menggunakan materi untuk tujuan komersial apa pun atau untuk tampilan publik apa pun",
+              "Mencoba melakukan dekompilasi atau reverse engineering perangkat lunak apa pun yang terkandung di situs web",
+              "Menghapus hak cipta atau notasi kepemilikan lainnya dari materi",
+              "Mentransfer materi ke orang lain atau \"mencerminkan\" materi di server lain"
+            ]
+          },
+          {
+            "title": "3. Penolakan",
+            "content": "Materi di situs web Provena Labs disediakan berdasarkan 'sebagaimana adanya'. Provena Labs tidak memberikan jaminan, tersurat atau tersirat, dan dengan ini menyangkal dan meniadakan semua jaminan lain termasuk, tanpa batasan, jaminan tersirat atau kondisi dapat diperjualbelikan, kesesuaian untuk tujuan tertentu, atau tidak melanggar kekayaan intelektual atau pelanggaran hak lainnya."
+          },
+          {
+            "title": "4. Keterbatasan",
+            "content": "Dalam keadaan apa pun Provena Labs atau pemasoknya tidak akan bertanggung jawab atas kerusakan apa pun (termasuk, tanpa batasan, kerusakan untuk kehilangan data atau keuntungan, atau karena gangguan bisnis) yang timbul dari penggunaan atau ketidakmampuan untuk menggunakan materi di situs web Provena Labs."
+          },
+          {
+            "title": "5. Akurasi Materi",
+            "content": "Materi yang muncul di situs web Provena Labs dapat mencakup kesalahan teknis, tipografi, atau fotografi. Provena Labs tidak menjamin bahwa materi apa pun di situs webnya akurat, lengkap, atau terkini."
+          },
+          {
+            "title": "6. Tautan",
+            "content": "Provena Labs belum meninjau semua situs yang tertaut ke situs webnya dan tidak bertanggung jawab atas isi situs tertaut tersebut. Penyertaan tautan apa pun tidak menyiratkan dukungan oleh Provena Labs terhadap situs tersebut. Penggunaan situs web tertaut tersebut adalah risiko pengguna sendiri."
+          },
+          {
+            "title": "7. Modifikasi",
+            "content": "Provena Labs dapat merevisi ketentuan layanan ini untuk situs webnya kapan saja tanpa pemberitahuan. Dengan menggunakan situs web ini, Anda setuju untuk terikat oleh versi ketentuan layanan yang berlaku saat ini."
+          },
+          {
+            "title": "8. Hukum yang Berlaku",
+            "content": "Ketentuan dan kondisi ini diatur oleh dan ditafsirkan sesuai dengan hukum yurisdiksi di mana Provena Labs beroperasi, dan Anda secara tidak dapat dibatalkan tunduk pada yurisdiksi eksklusif pengadilan di lokasi tersebut."
+          }
+        ]
+      },
+      "compliance": {
+        "title": "Kepatuhan & Regulasi",
+        "subtitle": "Komitmen kami terhadap kepatuhan regulasi dan transparansi",
+        "sections": [
+          {
+            "title": "Kepatuhan Regulasi",
+            "description": "Provena Labs berkomitmen untuk mempertahankan standar kepatuhan regulasi tertinggi. Kami bekerja sama dengan badan regulasi untuk memastikan operasi kami memenuhi semua hukum dan peraturan yang berlaku.",
+            "items": [
+              {
+                "title": "Kepatuhan AML/KYC",
+                "description": "Kami menerapkan prosedur Anti-Pencucian Uang dan Kenali Pelanggan Anda yang komprehensif untuk mencegah kejahatan keuangan."
+              },
+              {
+                "title": "Perlindungan Data",
+                "description": "Kami mematuhi GDPR, CCPA, dan peraturan perlindungan data lainnya untuk melindungi privasi pengguna."
+              },
+              {
+                "title": "Regulasi Keuangan",
+                "description": "Kami mematuhi semua regulasi keuangan yang berlaku dan mempertahankan lisensi yang tepat di mana diperlukan."
+              },
+              {
+                "title": "Audit & Transparansi",
+                "description": "Kami menjalani audit pihak ketiga rutin dan mempertahankan transparansi penuh dalam operasi kami."
+              }
+            ]
+          },
+          {
+            "title": "Audit Keamanan",
+            "description": "Platform kami menjalani audit keamanan rutin oleh firma keamanan independen terkemuka untuk memastikan keamanan dana dan data pengguna.",
+            "content": {
+              "title": "Hasil Audit Terbaru",
+              "items": [
+                "Audit Keamanan: Q4 2024 - Lulus tanpa masalah kritis",
+                "Audit Smart Contract: Q4 2024 - Lulus tanpa masalah kritis",
+                "Tinjauan Kepatuhan: Q4 2024 - Sepenuhnya patuh"
+              ]
+            }
+          },
+          {
+            "title": "Lisensi Regulasi",
+            "description": "Provena Labs mempertahankan semua lisensi dan registrasi yang diperlukan untuk beroperasi di yurisdiksi kami.",
+            "grid": [
+              {
+                "title": "Lisensi Layanan Uang",
+                "description": "Terdaftar dengan FinCEN dan regulator negara bagian"
+              },
+              {
+                "title": "Perlindungan Data",
+                "description": "Sesuai GDPR dan CCPA"
+              }
+            ]
+          },
+          {
+            "title": "Pelaporan & Transparansi",
+            "description": "Kami percaya pada transparansi dan secara rutin menerbitkan laporan tentang upaya kepatuhan dan metrik operasional kami.",
+            "links": [
+              {
+                "text": "Laporan Kepatuhan Q4 2024",
+                "url": "#"
+              },
+              {
+                "text": "Laporan Audit Keamanan",
+                "url": "#"
+              },
+              {
+                "text": "Laporan Transparansi",
+                "url": "#"
+              }
+            ]
+          }
+        ]
+      },
+      "disclosures": {
+        "title": "Pengungkapan Risiko",
+        "subtitle": "Informasi penting tentang risiko yang terkait dengan $USDP",
+        "warning": {
+          "title": "Penolakan Penting",
+          "text": "Investasi cryptocurrency dan stablecoin membawa risiko signifikan. Harap baca semua pengungkapan dengan hati-hati sebelum menggunakan $USDP atau layanan kami."
+        },
+        "sections": [
+          {
+            "title": "Risiko Pasar",
+            "items": [
+              {
+                "title": "Risiko Volatilitas",
+                "description": "Meskipun $USDP dirancang untuk mempertahankan patokan 1:1 USD, kondisi pasar dapat menyebabkan penyimpangan sementara. Nilai $USDP dapat berfluktuasi."
+              },
+              {
+                "title": "Risiko Likuiditas",
+                "description": "Tidak ada jaminan likuiditas yang cukup untuk membeli atau menjual $USDP pada waktu tertentu. Kondisi pasar dapat mempengaruhi kemampuan Anda untuk berdagang."
+              },
+              {
+                "title": "Risiko Pihak Lawan",
+                "description": "$USDP bergantung pada stabilitas keuangan penyedia jaminan dan mitra kami. Kegagalan entitas ini dapat mempengaruhi nilai $USDP."
+              }
+            ]
+          },
+          {
+            "title": "Risiko Teknologi",
+            "items": [
+              {
+                "title": "Risiko Smart Contract",
+                "description": "Meskipun smart contract kami telah diaudit, selalu ada risiko kerentanan atau eksploitasi yang belum ditemukan."
+              },
+              {
+                "title": "Risiko Blockchain",
+                "description": "Blockchain Pi Network dapat mengalami masalah teknis, kemacetan jaringan, atau masalah lain yang dapat mempengaruhi transaksi $USDP."
+              },
+              {
+                "title": "Risiko Dompet",
+                "description": "Kehilangan kunci pribadi atau akses dompet dapat mengakibatkan kehilangan permanen $USDP Anda. Kami tidak dapat memulihkan dana yang hilang."
+              }
+            ]
+          },
+          {
+            "title": "Risiko Regulasi",
+            "items": [
+              {
+                "title": "Perubahan Regulasi",
+                "description": "Perubahan dalam regulasi cryptocurrency dapat mempengaruhi ketersediaan atau penggunaan $USDP di yurisdiksi tertentu."
+              },
+              {
+                "title": "Ketidakpastian Hukum",
+                "description": "Status hukum stablecoin dan cryptocurrency tetap tidak pasti di banyak yurisdiksi dan dapat berubah."
+              }
+            ]
+          },
+          {
+            "title": "Tidak Ada Saran Investasi",
+            "content": "Situs web ini dan layanan kami tidak merupakan saran investasi, saran keuangan, atau rekomendasi untuk membeli atau menjual $USDP. Kami sangat merekomendasikan berkonsultasi dengan penasihat keuangan yang berkualifikasi sebelum membuat keputusan investasi apa pun."
+          },
+          {
+            "title": "Keterbatasan Tanggung Jawab",
+            "content": "Sejauh diizinkan oleh hukum, Provena Labs tidak akan bertanggung jawab atas kerusakan tidak langsung, insidental, khusus, konsekuensial, atau hukuman, termasuk kehilangan keuntungan, data, atau penggunaan, yang timbul dari penggunaan $USDP atau layanan kami."
+          }
+        ]
+      }
+    },
+    "pitch": {
+        "cover": {
+          "tagline": "Stabil. Aman. Sederhana.",
+          "subtitle": "Masa Depan Nilai Stabil di Pi Network",
+          "description": "Stablecoin yang dipatok ke USD yang dirancang untuk keuangan digital generasi berikutnya."
+        },
+        "problem": {
+          "title": "Mengapa Stablecoin Penting",
+          "challenges": {
+            "title": "Tantangan Pasar Saat Ini",
+            "items": [
+              "Stablecoin yang ada beroperasi di jaringan dengan biaya tinggi (Ethereum, Tron)",
+              "Biaya transaksi mencapai $1-50+ per transaksi",
+              "Akses terbatas untuk 55+ juta pengguna Pi Network",
+              "Kurangnya keamanan tingkat perusahaan dalam solusi yang ada",
+              "Kebutuhan akan dukungan jaminan yang transparan dan diaudit"
+            ]
+          },
+          "opportunity": {
+            "title": "Peluang",
+            "description": "Miliaran pengguna di seluruh dunia tidak memiliki akses ke mata uang digital yang stabil dengan biaya rendah dan keamanan tinggi."
+          }
+        },
+        "introducing": {
+          "title": "Apa itu $USDP?",
+          "description": "$USDP adalah stablecoin yang dipatok ke USD dengan jaminan penuh yang dibangun secara native di blockchain Pi Network.",
+          "valueProps": [
+            {
+              "title": "1:1 USD Peg",
+              "description": "Selalu bernilai tepat satu dolar"
+            },
+            {
+              "title": "150% Overcollateralized",
+              "description": "Didukung oleh lebih dari 115% jaminan untuk stabilitas maksimum"
+            },
+            {
+              "title": "Keamanan Perusahaan",
+              "description": "Dompet multi-tanda tangan, autentikasi passkey, dan audit yang ketat"
+            },
+            {
+              "title": "Pi Network Native",
+              "description": "Memanfaatkan infrastruktur blockchain tercepat dan termurah"
+            },
+            {
+              "title": "Transparan & Diaudit",
+              "description": "Transparansi on-chain penuh dengan laporan kepatuhan reguler"
+            }
+          ]
+        },
+        "competitiveAdvantages": {
+          "title": "Mengapa $USDP Menonjol",
+          "subtitle": "Keunggulan Kompetitif",
+          "table": {
+            "feature": "Fitur",
+            "usdp": "$USDP",
+            "competitors": "Pesaing",
+            "rows": [
+              {
+                "feature": "Jaringan",
+                "usdp": "Pi Network",
+                "competitors": "Ethereum, Tron"
+              },
+              {
+                "feature": "Biaya Transaksi",
+                "usdp": "<$0.01",
+                "competitors": "$1-50+"
+              },
+              {
+                "feature": "Rasio Jaminan",
+                "usdp": "150%",
+                "competitors": "100-110%"
+              },
+              {
+                "feature": "Autentikasi",
+                "usdp": "Passkeys",
+                "competitors": "Kata Sandi/2FA"
+              },
+              {
+                "feature": "Biaya Mint/Redeem",
+                "usdp": "0.3%",
+                "competitors": "0.5-1%"
+              },
+              {
+                "feature": "Kecepatan",
+                "usdp": "Detik",
+                "competitors": "Menit"
+              },
+              {
+                "feature": "Audit Keamanan",
+                "usdp": "Reguler",
+                "competitors": "Bervariasi"
+              }
+            ]
+          },
+          "conclusion": "$USDP menang dalam hal biaya, keamanan, dan aksesibilitas."
+        },
+        "keyFeatures": {
+          "title": "Fitur Utama",
+          "sections": [
+            {
+              "title": "Keamanan Pertama",
+              "subtitle": "Perlindungan Tingkat Perusahaan",
+              "items": [
+                "Arsitektur dompet multi-tanda tangan mencegah akses tidak sah",
+                "Autentikasi passkey untuk keamanan maksimum",
+                "Pelacakan cadangan real-time on-chain",
+                "Enkripsi sisi klien untuk data pengguna",
+                "Dukungan autentikasi biometrik",
+                "Audit keamanan pihak ketiga reguler"
+              ]
+            },
+            {
+              "title": "Transaksi Super Cepat",
+              "subtitle": "Kecepatan & Efisiensi",
+              "items": [
+                "Transaksi diselesaikan dalam hitungan detik di Pi Network",
+                "Biaya transaksi hampir nol (<$0.01)",
+                "Penyelesaian instan untuk pedagang",
+                "Tidak ada perantara atau penundaan"
+              ]
+            },
+            {
+              "title": "Global & Tanpa Batas",
+              "subtitle": "Akses Seluruh Dunia",
+              "items": [
+                "Kirim dan terima $USDP di mana saja di dunia",
+                "Tidak ada batasan geografis",
+                "Tidak ada perantara perbankan",
+                "Tersedia 24/7/365"
+              ]
+            },
+            {
+              "title": "Sepenuhnya Transparan",
+              "subtitle": "Verifikasi On-Chain",
+              "items": [
+                "Transparansi on-chain 100%",
+                "Cadangan jaminan yang dapat diaudit",
+                "Laporan kepatuhan diterbitkan secara reguler",
+                "Kode kontrak pintar diaudit oleh firma independen"
+              ]
+            }
+          ]
+        },
+        "technicalSpecs": {
+          "title": "Spesifikasi Teknis",
+          "subtitle": "Detail Infrastruktur",
+          "items": [
+            {
+              "label": "Blockchain",
+              "value": "Pi Network"
+            },
+            {
+              "label": "Standar Token",
+              "value": "Pi Network Native Token"
+            },
+            {
+              "label": "Desimal",
+              "value": "18"
+            },
+            {
+              "label": "Rasio Jaminan",
+              "value": "150%"
+            },
+            {
+              "label": "Biaya Minting",
+              "value": "0.3%"
+            },
+            {
+              "label": "Biaya Penebusan",
+              "value": "0.3%"
+            },
+            {
+              "label": "Biaya Transfer",
+              "value": "0% (benar-benar gratis)"
+            },
+            {
+              "label": "Status Audit",
+              "value": "Diaudit secara reguler"
+            }
+          ]
+        },
+        "marketOpportunity": {
+          "title": "Peluang Pasar",
+          "subtitle": "Total Addressable Market (TAM) yang Besar",
+          "sections": [
+            {
+              "title": "Ekosistem Pi Network",
+              "items": [
+                "55+ juta pengguna aktif siap mengadopsi solusi blockchain",
+                "Komunitas aktif dengan minat terbukti pada produk crypto",
+                "Keuntungan first-mover di ruang stablecoin Pi Network"
+              ]
+            },
+            {
+              "title": "Pasar Stablecoin Global",
+              "items": [
+                "Ukuran pasar stablecoin $180+ miliar (dan terus bertumbuh)",
+                "Tingkat pertumbuhan tahunan melebihi 30%",
+                "Adopsi institusional yang meningkat",
+                "Kejelasan regulasi di pasar utama"
+              ]
+            },
+            {
+              "title": "Kategori Kasus Penggunaan",
+              "items": [
+                "E-commerce & Pembayaran: Pedagang yang mencari opsi pembayaran berbiaya rendah",
+                "DeFi Trading: Trader yang membutuhkan jaminan dan penyediaan likuiditas",
+                "Pengiriman Uang Lintas Batas: Pekerja yang mengirim uang pulang dengan harga terjangkau",
+                "Penyimpanan Nilai: Pengguna yang mencari paparan cryptocurrency tanpa volatilitas"
+              ]
+            }
+          ]
+        },
+        "useCases": {
+          "title": "Kasus Penggunaan",
+          "subtitle": "Di Mana $USDP Memecahkan Masalah Nyata",
+          "categories": [
+            {
+              "title": "E-commerce & Pembayaran",
+              "items": [
+                "Terima pembayaran dengan penyelesaian instan dan nol penipuan pedagang",
+                "Biaya minimal memungkinkan margin yang lebih baik untuk pengecer",
+                "Jaringan pembayaran global tanpa prosesor pembayaran tradisional"
+              ]
+            },
+            {
+              "title": "Pembayaran & Pengiriman Uang Lintas Batas",
+              "items": [
+                "Kirim uang secara internasional dengan sebagian kecil dari biaya tradisional",
+                "Hilangkan perantara (bank, layanan transfer uang)",
+                "Penyelesaian instan vs. penundaan perbankan 3-5 hari",
+                "Sempurna untuk pekerja migran yang mendukung keluarga di luar negeri"
+              ]
+            },
+            {
+              "title": "DeFi & Trading",
+              "items": [
+                "Gunakan $USDP sebagai jaminan dalam protokol pinjaman",
+                "Berikan likuiditas ke pertukaran terdesentralisasi dan dapatkan hasil",
+                "Perdagangkan aset volatil dengan pasangan nilai stabil",
+                "Berpartisipasi dalam strategi yield farming"
+              ]
+            },
+            {
+              "title": "Penyimpanan Nilai",
+              "items": [
+                "Pertahankan daya beli yang stabil tanpa paparan volatilitas crypto",
+                "Lindungi nilai terhadap devaluasi mata uang lokal",
+                "Pertahankan likuiditas dalam bentuk digital",
+                "Lestarikan kekayaan lintas batas"
+              ]
+            }
+          ]
+        },
+        "businessModel": {
+          "title": "Model Bisnis & Aliran Pendapatan",
+          "subtitle": "Ekonomi Berkelanjutan",
+          "sections": [
+            {
+              "title": "Generasi Pendapatan",
+              "items": [
+                "Biaya Minting: 0.3% pada semua $USDP baru yang dibuat",
+                "Biaya Penebusan: 0.3% pada semua $USDP yang ditebus ke jaminan USD",
+                "Biaya Kemitraan: Kemitraan integrasi dengan pedagang, pertukaran, dan protokol",
+                "Layanan Perusahaan: Solusi perawatan dan manajemen institusional"
+              ]
+            },
+            {
+              "title": "Struktur Biaya",
+              "items": [
+                "Biaya infrastruktur minimal (Pi Network mengurangi overhead operasional)",
+                "Biaya keamanan dan kepatuhan diimbangi oleh skala",
+                "Akuisisi pelanggan melalui kemitraan ekosistem"
+              ]
+            }
+          ],
+          "profitability": "Pendapatan dari biaya meningkat secara linear dengan volume transaksi sementara biaya infrastruktur tetap tetap, menciptakan ekspansi margin yang signifikan pada skala."
+        },
+        "tokenEconomics": {
+          "title": "Ekonomi Token & Model Pasokan",
+          "subtitle": "Dirancang untuk Stabilitas",
+          "supplyMechanism": {
+            "title": "Mekanisme Pasokan",
+            "items": [
+              "Didukung oleh jaminan Pi - setiap $USDP memiliki cadangan jaminan",
+              "Pasokan dinamis menyesuaikan berdasarkan permintaan sambil mempertahankan peg 1:1",
+              "Overcollateralization 150% memastikan stabilitas di bawah semua kondisi pasar",
+              "Verifikasi cadangan transparan on-chain"
+            ]
+          },
+          "functions": {
+            "title": "Tiga Fungsi $USDP",
+            "items": [
+              "Media Pertukaran - Gunakan untuk transaksi global yang cepat dan berbiaya rendah",
+              "Penyimpan Nilai - Pegang sebagai aset stabil tanpa paparan volatilitas",
+              "Jaminan DeFi - Gunakan dalam protokol keuangan terdesentralisasi dan strategi hasil"
+            ]
+          },
+          "pegMaintenance": {
+            "title": "Pemeliharaan Peg",
+            "items": [
+              "Pengguna selalu dapat mint pada $1.00 dan menebus pada $1.00",
+              "Insentif arbitrase menjaga harga pasar pada peg",
+              "Kelebihan jaminan memastikan kemampuan penebusan"
+            ]
+          }
+        },
+        "goToMarket": {
+          "title": "Strategi Go-to-Market",
+          "phases": [
+            {
+              "title": "Fase 1: Peluncuran & Fondasi",
+              "period": "Q4 2025 - Q1 2026",
+              "items": [
+                "Peluncuran beta di Pi Network testnet dengan fitur inti",
+                "Penyelesaian dan publikasi audit keamanan",
+                "Kemitraan strategis dengan proyek ekosistem Pi",
+                "Pendidikan dan onboarding komunitas",
+                "Peluncuran aplikasi seluler untuk aksesibilitas konsumen"
+              ]
+            },
+            {
+              "title": "Fase 2: Pertumbuhan & Integrasi",
+              "period": "Q2 2026",
+              "items": [
+                "Peluncuran mainnet dan ketersediaan publik",
+                "Kemitraan pedagang untuk adopsi dunia nyata",
+                "Integrasi protokol DeFi (pinjaman, perdagangan, likuiditas)",
+                "Pengembangan jembatan lintas rantai",
+                "Pengenalan token tata kelola untuk tata kelola terdesentralisasi"
+              ]
+            },
+            {
+              "title": "Fase 3: Skala & Ekspansi",
+              "period": "Q3 2026+",
+              "items": [
+                "Peluncuran layanan institusional (perawatan, penyelesaian)",
+                "Ekspansi global ke pasar geografis baru",
+                "Fitur lanjutan (produk hasil, derivatif)",
+                "Aliran pendapatan tambahan",
+                "Posisi kepemimpinan pasar"
+              ]
+            }
+          ]
+        },
+        "teamPartnerships": {
+          "title": "Tim & Kemitraan",
+          "subtitle": "Didukung oleh Provena Labs",
+          "partners": {
+            "title": "Mitra Ekosistem Kami",
+            "items": [
+              {
+                "name": "ZyraChain",
+                "description": "Infrastruktur dan solusi blockchain"
+              },
+              {
+                "name": "Zyra",
+                "description": "Layanan platform inti"
+              },
+              {
+                "name": "ZyraPay",
+                "description": "Integrasi pemrosesan pembayaran"
+              },
+              {
+                "name": "ZyraWallet",
+                "description": "Solusi dompet dan perawatan"
+              },
+              {
+                "name": "ZyraDEX",
+                "description": "Pertukaran terdesentralisasi"
+              },
+              {
+                "name": "Orbit",
+                "description": "Solusi lintas rantai"
+              },
+              {
+                "name": "Dappify",
+                "description": "Platform pengembang"
+              }
+            ]
+          },
+          "whyMatters": {
+            "title": "Mengapa Ini Penting",
+            "description": "Provena Labs telah membangun ekosistem lengkap di sekitar infrastruktur blockchain. $USDP diposisikan sebagai stablecoin native di seluruh jaringan produk dan layanan ini."
+          }
+        },
+        "riskMitigation": {
+          "title": "Mitigasi Risiko",
+          "subtitle": "Cara Kami Mengelola Risiko",
+          "risks": [
+            {
+              "title": "Risiko Jaminan",
+              "items": [
+                "Overcollateralization 150% secara signifikan melebihi persyaratan minimum",
+                "Audit reguler cadangan jaminan",
+                "Verifikasi on-chain transparan",
+                "Pemilihan jaminan konservatif"
+              ]
+            },
+            {
+              "title": "Risiko Regulasi",
+              "items": [
+                "Pendekatan kepatuhan-pertama sejak awal",
+                "Audit dan pelaporan kepatuhan reguler",
+                "Ekspansi geografis berdasarkan kejelasan regulasi",
+                "Keterlibatan aktif dengan regulator"
+              ]
+            },
+            {
+              "title": "Risiko Teknologi",
+              "items": [
+                "Audit keamanan reguler oleh firma terkemuka",
+                "Arsitektur keamanan multi-tanda tangan",
+                "Peluncuran bertahap (testnet → mainnet)",
+                "Program bug bounty untuk penelitian keamanan komunitas"
+              ]
+            },
+            {
+              "title": "Risiko Pasar",
+              "items": [
+                "Mekanisme arbitrase peg 1:1",
+                "Ekosistem kemitraan yang kuat menciptakan adopsi",
+                "Keuntungan first-mover di Pi Network",
+                "Posisi yang berbeda dari pesaing"
+              ]
+            }
+          ]
+        },
+        "financialProjections": {
+          "title": "Proyeksi Keuangan",
+          "subtitle": "Visi 5 Tahun",
+          "years": [
+            {
+              "period": "Tahun 1 (2025-2026)",
+              "items": [
+                "10-50 juta $USDP dalam sirkulasi",
+                "5,000-20,000 pengguna aktif harian",
+                "Puluhan kemitraan pedagang",
+                "Fokus pada product-market fit"
+              ]
+            },
+            {
+              "period": "Tahun 2 (2026-2027)",
+              "items": [
+                "100-500 juta $USDP dalam sirkulasi",
+                "50,000-200,000 pengguna aktif harian",
+                "Kemitraan perusahaan utama",
+                "Tonggak profitabilitas"
+              ]
+            },
+            {
+              "period": "Tahun 3+ (2027+)",
+              "items": [
+                "$1+ miliar $USDP dalam sirkulasi",
+                "Jutaan pengguna aktif harian",
+                "Adopsi institusional",
+                "Kepemimpinan pasar di Pi Network"
+              ]
+            }
+          ]
+        },
+        "theAsk": {
+          "title": "Permintaan",
+          "amount": "Mencari $5M dalam Pendanaan Seri A",
+          "equity": "Sebagai Imbalan 10% Ekuitas",
+          "valuation": "Ini menilai Provena Labs / $USDP pada valuasi pasca-uang $50 juta, mencerminkan posisi pasar kami, kekuatan ekosistem, dan lintasan pertumbuhan.",
+          "useOfFunds": {
+            "title": "Alokasi Penggunaan Dana",
+            "items": [
+              {
+                "category": "Pengembangan Produk & Keamanan",
+                "percentage": "35%",
+                "amount": "$1.75M",
+                "details": [
+                  "Infrastruktur keamanan yang ditingkatkan dan audit",
+                  "Peluncuran mainnet dan optimasi",
+                  "Fitur lanjutan (produk hasil, jembatan lintas rantai)"
+                ]
+              },
+              {
+                "category": "Go-to-Market & Akuisisi Pengguna",
+                "percentage": "30%",
+                "amount": "$1.5M",
+                "details": [
+                  "Pemasaran dan pembangunan komunitas",
+                  "Pengembangan pedagang dan kemitraan",
+                  "Optimasi aplikasi seluler dan antarmuka pengguna"
+                ]
+              },
+              {
+                "category": "Regulasi & Kepatuhan",
+                "percentage": "20%",
+                "amount": "$1M",
+                "details": [
+                  "Infrastruktur hukum dan kepatuhan",
+                  "Hubungan perbankan untuk manajemen jaminan",
+                  "Persetujuan regulasi global"
+                ]
+              },
+              {
+                "category": "Tim & Operasi",
+                "percentage": "15%",
+                "amount": "$750K",
+                "details": [
+                  "Perekrutan kunci (Kepala Kemitraan, VP Teknik, Petugas Kepatuhan)",
+                  "Penskalaan infrastruktur operasional"
+                ]
+              }
+            ]
+          },
+          "terms": {
+            "title": "Ikhtisar Syarat Investasi",
+            "sections": [
+              {
+                "title": "Struktur Ekuitas",
+                "items": [
+                  "Kepemilikan ekuitas terencerai penuh 10%",
+                  "Saham Seri A preferen dengan perlindungan standar",
+                  "Ketentuan anti-penceraian (rata-rata tertimbang)"
+                ]
+              },
+              {
+                "title": "Tata Kelola & Kursi Dewan",
+                "items": [
+                  "Hak pengamat untuk rapat dewan",
+                  "Hak informasi dan inspeksi",
+                  "Partisipasi dalam keputusan utama (penggalangan dana, M&A, pivot)"
+                ]
+              },
+              {
+                "title": "Hak Keuangan",
+                "items": [
+                  "Hak partisipasi pro-rata dalam putaran pendanaan masa depan",
+                  "Persentase pendapatan terkait ekuitas (10% dari laba pasca-profitabilitas)",
+                  "Preferensi likuidasi (1x non-participating preferred)"
+                ]
+              }
+            ]
+          },
+          "milestones": {
+            "title": "Tonggak & Kinerja",
+            "items": [
+              "Peluncuran mainnet dalam 6 bulan",
+              "$100M+ $USDP dalam sirkulasi dalam 18 bulan",
+              "500K+ pengguna aktif harian dalam 24 bulan",
+              "Jalur menuju profitabilitas dalam 36 bulan"
+            ]
+          }
+        },
+        "closing": {
+          "title": "Masa Depan Nilai Stabil Ada Di Sini",
+          "intro": "$USDP mewakili pergeseran paradigma dalam desain stablecoin:",
+          "points": [
+            {
+              "title": "Biaya Lebih Rendah",
+              "description": "Biaya transaksi sub-penny vs. dolar di jaringan pesaing."
+            },
+            {
+              "title": "Keamanan Lebih Tinggi",
+              "description": "Jaminan 150% dengan perlindungan tingkat perusahaan vs. pesaing 100-110%."
+            },
+            {
+              "title": "Aksesibilitas Besar",
+              "description": "Native di Pi Network melayani 55+ juta pengguna vs. pasar niche."
+            },
+            {
+              "title": "Ekonomi Lebih Baik",
+              "description": "Pendapatan meningkat dengan volume sementara biaya tetap tetap."
+            }
+          ],
+          "conclusion": "Masa depan nilai stabil bukan hanya tentang mematok ke USD—ini tentang memberikan stabilitas, keamanan, dan aksesibilitas kepada miliaran orang di seluruh dunia.",
+          "tagline": "$USDP. Stabil. Aman. Sederhana.",
+          "footer": "Untuk informasi lebih lanjut, kunjungi www.provenalabs.com"
+        }
+      }
+    }
+  }

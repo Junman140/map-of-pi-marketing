@@ -1,0 +1,1875 @@
+{
+  "nav": {
+    "home": "홈",
+    "product": "제품",
+    "features": "기능",
+    "pricing": "가격",
+    "roadmap": "로드맵",
+    "developers": "개발자",
+    "blog": "블로그",
+    "security": "보안",
+    "launchApp": "앱 시작",
+    "getStarted": "시작하기"
+  },
+  "header": {
+    "company": "회사",
+    "aboutUs": "회사 소개",
+    "companyPage": "회사",
+    "careers": "채용",
+    "contact": "연락처",
+    "support": "지원하기",
+    "resources": "리소스",
+    "legal": "법적",
+    "privacy": "개인정보 보호정책",
+    "terms": "서비스 약관",
+    "compliance": "규정 준수",
+    "disclosures": "공개"
+  },
+  "hero": {
+    "title": "안정적 가치의 미래",
+    "description": "$USDP는 Pi Network에 구축된 USD 페그 스테이블코인입니다. 안전하고 투명하며 차세대 디지털 금융을 위해 설계되었습니다.",
+    "launchApp": "앱 시작",
+    "visitTelegram": "Telegram 방문",
+    "usdEquivalence": "1 USD = 1 $USDP",
+    "overcollateralized": "과담보",
+    "mintRedeemFees": "민팅/상환 수수료",
+    "transactionCost": "거래 비용"
+  },
+  "features": {
+    "title": "왜 $USDP를 선택해야 할까요?",
+    "subtitle": "최첨단 기술로 구축되었으며 현대 금융 생태계를 위해 설계되었습니다.",
+    "secure": {
+      "title": "안전하고 투명",
+      "description": "패스키 인증 및 실시간 준비금 추적을 갖춘 엔터프라이즈급 보안."
+    },
+    "fast": {
+      "title": "번개처럼 빠름",
+      "description": "Pi Network 블록체인에서 최소 수수료로 몇 초 만에 거래가 완료됩니다."
+    },
+    "backed": {
+      "title": "완전히 담보",
+      "description": "150% 과담보로 안정성을 보장하고 자산을 보호합니다."
+    },
+    "privacy": {
+      "title": "프라이버시 우선",
+      "description": "클라이언트 측 암호화 및 생체 인증으로 최대 보안을 제공합니다."
+    }
+  },
+  "useCases": {
+    "title": "사용 사례",
+    "subtitle": "$USDP는 개인 사용자부터 기업까지 모든 사람에게 작동합니다.",
+    "ecommerce": {
+      "title": "전자상거래",
+      "description": "즉시 결제 및 최소 수수료로 $USDP 결제를 받습니다."
+    },
+    "crossBorder": {
+      "title": "국경 간 결제",
+      "description": "낮은 비용과 빠른 거래 시간으로 전 세계에 돈을 보냅니다."
+    },
+    "defi": {
+      "title": "DeFi 거래",
+      "description": "$USDP를 담보로 사용하거나 유동성을 제공하여 수익을 얻습니다."
+    },
+    "storage": {
+      "title": "가치 저장",
+      "description": "암호화폐 변동성에 노출되지 않고 안정적인 가치를 보유합니다."
+    }
+  },
+  "roadmap": {
+    "title": "로드맵",
+    "subtitle": "마일스톤마다 스테이블코인의 미래를 구축하고 있습니다.",
+    "q4_2025": "2025년 4분기",
+    "q1_2026": "2026년 1분기",
+    "q2_2026": "2026년 2분기",
+    "q3_2026": "2026년 3분기",
+    "betaLaunch": "베타 출시",
+    "coreFeatures": "핵심 기능",
+    "securityAudit": "보안 감사",
+    "mainnetLaunch": "메인넷 출시",
+    "merchantPartnerships": "상인 파트너십",
+    "mobileApps": "모바일 앱",
+    "defiIntegrations": "DeFi 통합",
+    "crossChainBridge": "크로스체인 브리지",
+    "governanceToken": "거버넌스 토큰",
+    "institutionalServices": "기관 서비스",
+    "globalExpansion": "글로벌 확장",
+    "advancedFeatures": "고급 기능",
+    "pageTitle": "제품 로드맵",
+    "pageSubtitle": "$USDP와 Provena Labs 생태계의 미래에 대한 우리의 비전.",
+    "betaLaunchTitle": "베타 출시 및 핵심 기능",
+    "betaLaunchDesc": "Pi Network 테스트넷에서 베타 출시",
+    "coreMintingDesc": "핵심 민팅 및 상환 기능",
+    "securityAuditDesc": "보안 감사 완료",
+    "mainnetTitle": "메인넷 출시 및 파트너십",
+    "mainnetDesc": "Pi Network에서 메인넷 출시",
+    "merchantDesc": "상인 파트너십",
+    "mobileAppDesc": "모바일 앱 출시",
+    "defiTitle": "DeFi 통합 및 확장",
+    "defiProtocolDesc": "DeFi 프로토콜 통합",
+    "bridgeDesc": "크로스체인 브리지 출시",
+    "governanceDesc": "거버넌스 토큰 도입",
+    "institutionalTitle": "기관 서비스 및 글로벌 확장",
+    "institutionalDesc": "기관 서비스 출시",
+    "globalDesc": "신규 시장으로의 글로벌 확장",
+    "advancedDesc": "고급 기능 및 도구"
+  },
+  "security": {
+    "title": "신뢰할 수 있는 보안",
+    "subtitle": "귀하의 자산은 엔터프라이즈급 보안 조치 및 정기 감사로 보호됩니다. 우리는 보안을 진지하게 받아들이므로 걱정할 필요가 없습니다.",
+    "viewReport": "보안 보고서 보기",
+    "webauthn": "WebAuthn 패스키 인증",
+    "encryption": "휴지 상태의 AES-256 암호화",
+    "tls": "전송 중 데이터의 TLS 1.3",
+    "hsm": "하드웨어 보안 모듈",
+    "audits": "정기 보안 감사",
+    "detection": "24/7 위협 탐지",
+    "multisig": "다중 서명 거래",
+    "insurance": "콜드 지갑 보험"
+  },
+  "cta": {
+    "title": "시작할 준비가 되셨나요?",
+    "subtitle": "안전하고 안정적인 가치 저장 및 거래를 위해 이미 $USDP를 사용하고 있는 수천 명의 사용자에 합류하세요.",
+    "launchApp": "앱 시작",
+    "contactSales": "영업팀에 문의"
+  },
+  "logoCloud": {
+    "title": "Provena로 구축",
+    "subtitle": "생태계의 선도 플랫폼에서 신뢰받고 있습니다"
+  },
+  "tokenEconomics": {
+    "title": "토큰 경제학",
+    "subtitle": "안정성을 위해 설계되었으며, Pi 준비금으로 뒷받침되고 1:1 USD 페그를 유지합니다.",
+    "utilities": {
+      "mediumOfExchange": {
+        "title": "교환 수단",
+        "description": "전 세계에서 빠르고 저렴한 거래를 위해 $USDP를 사용하세요."
+      },
+      "storeOfValue": {
+        "title": "가치 저장",
+        "description": "변동성 없는 안정적인 자산으로 $USDP를 보유하세요."
+      },
+      "defiCollateral": {
+        "title": "DeFi 담보",
+        "description": "탈중앙화 금융 프로토콜에서 $USDP를 담보로 사용하세요."
+      }
+    },
+    "supplyModel": {
+      "title": "공급 모델",
+      "backedByPi": {
+        "title": "Pi 준비금으로 뒷받침",
+        "description": "모든 $USDP는 Pi 담보로 뒷받침됩니다"
+      },
+      "dynamicSupply": {
+        "title": "동적 공급",
+        "description": "페그를 유지하면서 수요에 따라 공급이 조정됩니다"
+      },
+      "overcollateralization": {
+        "title": "150% 초과 담보",
+        "description": "추가 담보가 안정성을 보장하고 사용자를 보호합니다"
+      }
+    }
+  },
+  "targetMarket": {
+    "title": "타겟 시장",
+    "subtitle": "다양한 사용자 세그먼트에 맞춘 솔루션을 제공합니다.",
+    "markets": {
+      "defiUsers": {
+        "title": "DeFi 사용자",
+        "description": "다양화와 수익 기회를 찾는 스테이블코인 보유자."
+      },
+      "piNetwork": {
+        "title": "Pi 네트워크 커뮤니티",
+        "description": "블록체인 솔루션을 채택할 준비가 된 5,500만 명 이상의 적극적인 사용자."
+      },
+      "ecommerce": {
+        "title": "전자상거래",
+        "description": "낮은 수수료의 안정적인 결제 옵션이 필요한 상인."
+      },
+      "crossBorder": {
+        "title": "국경 간 결제",
+        "description": "글로벌 거래를 위한 저비용 송금 솔루션."
+      }
+    }
+  },
+  "competitiveAdvantages": {
+    "title": "$USDP가 돋보이는 이유",
+    "subtitle": "다른 스테이블코인과 차별화되는 경쟁 우위.",
+    "table": {
+      "feature": "기능",
+      "usdp": "$USDP",
+      "competitors": "경쟁사",
+      "network": "네트워크",
+      "fees": "수수료",
+      "collateralRatio": "담보 비율",
+      "authentication": "인증",
+      "blockchainFees": "블록체인 수수료"
+    },
+    "values": {
+      "piNetwork": "Pi 네트워크",
+      "ethereumTron": "이더리움, 트론",
+      "fees03": "0.3%",
+      "fees05to1": "0.5-1%",
+      "collateral150": "150%",
+      "collateral100to110": "100-110%",
+      "passkeys": "패스키",
+      "passwords2fa": "비밀번호/2FA",
+      "feesLess001": "<$0.01",
+      "fees1to50": "$1-50"
+    }
+  },
+  "businessModel": {
+    "title": "지속 가능한 비즈니스 모델",
+    "subtitle": "장기적 성장과 안정성을 위해 설계된 다양한 수익원.",
+    "revenueStreams": {
+      "mintingFees": {
+        "title": "민팅 수수료",
+        "description": "모든 민팅의 0.3%"
+      },
+      "redeemingFees": {
+        "title": "상환 수수료",
+        "description": "모든 상환의 0.3%"
+      },
+      "transferFees": {
+        "title": "전송 수수료",
+        "description": "전송당 0.0%"
+      },
+      "partnershipFees": {
+        "title": "파트너십 수수료",
+        "description": "통합 파트너십"
+      }
+    }
+  },
+  "footer": {
+    "tagline": "Pi Network에서 안정적 가치의 미래를 구축하고 있습니다.",
+    "product": "제품",
+    "company": "회사",
+    "about": "소개",
+    "legal": "법적",
+    "privacy": "개인정보 보호",
+    "terms": "약관",
+    "disclosures": "공개",
+    "copyright": "© {year} Provena Labs. 모든 권리 보유.",
+    "year": "year"
+  },
+  "common": {
+    "loading": "로딩 중...",
+    "error": "오류",
+    "retry": "다시 시도"
+  },
+  "pages": {
+    "roadmap": {
+      "pageTitle": "제품 로드맵",
+      "pageSubtitle": "$USDP와 Provena Labs 생태계의 미래에 대한 우리의 비전.",
+      "q4_2025": "Q4 2025",
+      "q1_2026": "Q1 2026",
+      "q2_2026": "Q2 2026",
+      "q3_2026": "Q3 2026",
+      "betaLaunchTitle": "베타 출시 및 핵심 기능",
+      "betaLaunchDesc": "Pi Network 테스트넷에서 베타 출시",
+      "coreMintingDesc": "핵심 발행 및 상환 기능",
+      "securityAuditDesc": "보안 감사 완료",
+      "mainnetTitle": "메인넷 출시 및 파트너십",
+      "mainnetDesc": "Pi Network에서 메인넷 출시",
+      "merchantDesc": "상인 파트너십",
+      "mobileAppDesc": "모바일 앱 출시",
+      "defiTitle": "DeFi 통합 및 확장",
+      "defiProtocolDesc": "DeFi 프로토콜 통합",
+      "bridgeDesc": "크로스체인 브리지 출시",
+      "governanceDesc": "거버넌스 토큰 도입",
+      "institutionalTitle": "기관 서비스 및 글로벌 확장",
+      "institutionalDesc": "기관 서비스 출시",
+      "globalDesc": "신규 시장으로의 글로벌 확장",
+      "advancedDesc": "고급 기능 및 도구"
+    },
+    "features": {
+      "title": "현대 금융을 위한 강력한 기능",
+      "subtitle": "$PNA는 최첨단 기술과 사용자 친화적인 디자인을 결합하여 여러분이 원하는 스테이블코인 경험을 제공합니다.",
+      "features": {
+        "secure": {
+          "title": "안전하고 투명",
+          "description": "다중 서명 지갑, 정기 감사, 완전한 온체인 투명성으로 자산이 항상 보호되고 검증 가능합니다."
+        },
+        "fast": {
+          "title": "번개처럼 빠름",
+          "description": "최소 수수료로 몇 초 만에 거래가 완료됩니다. 대기 없음, 지연 없음, 즉각적인 가치 전송."
+        },
+        "stable": {
+          "title": "안정적인 가치",
+          "description": "115% 초과 담보 및 알고리즘 안정성 메커니즘을 통해 미국 달러와 1:1 페그를 유지합니다."
+        },
+        "community": {
+          "title": "커뮤니티 주도",
+          "description": "거버넌스 참여 및 커뮤니티 중심 개발로 Pi Network 커뮤니티를 위해 구축되었습니다."
+        },
+        "defi": {
+          "title": "DeFi 준비 완료",
+          "description": "DeFi 프로토콜, 대출 플랫폼, 탈중앙화 거래소와 원활하게 통합할 수 있습니다."
+        },
+        "compliance": {
+          "title": "규정 준수 우선",
+          "description": "규제 준수를 염두에 두고 설계되어 기관 채택 및 주류 사용을 지원합니다."
+        }
+      },
+      "advancedSecurity": {
+        "title": "고급 보안",
+        "description": "보안이 우리의 최우선 과제입니다. $PNA는 다중 서명 지갑, 정기적인 제3자 감사, 지속적인 모니터링을 포함한 업계 최고의 보안 관행을 구현합니다.",
+        "features": [
+          "다중 서명 지갑 보호",
+          "주요 기업의 정기 보안 감사",
+          "24/7 모니터링 및 위협 탐지",
+          "사용자 자금에 대한 보험 적용"
+        ]
+      },
+      "lightningFast": {
+        "title": "번개처럼 빠른 거래",
+        "description": "대기 없이 블록체인의 속도를 경험하세요. $PNA 거래는 몇 시간이나 며칠이 아닌 몇 초 만에 완료됩니다.",
+        "features": [
+          "1초 미만 거래 확인",
+          "최소 거래 수수료",
+          "높은 처리량 용량",
+          "확장 가능한 인프라"
+        ]
+      }
+    },
+    "product": {
+      "title": "$USDP 스테이블코인",
+      "subtitle": "안정성, 보안, 원활한 거래를 위해 설계된 Pi Network에 구축된 USD 페그 스테이블코인.",
+      "tagline": "안정적. 안전. 간단.",
+      "whatIs": {
+        "title": "$USDP란 무엇인가요?",
+        "description1": "$USDP는 미국 달러와 1:1 페그를 유지하는 완전 담보 스테이블코인입니다. 각 $USDP 토큰은 115% 이상의 담보로 뒷받침되어 모든 사용자의 안정성과 보안을 보장합니다.",
+        "description2": "Pi Network 블록체인에 구축된 $USDP는 사용자가 스테이블코인에서 기대하는 신뢰성과 신뢰성을 유지하면서 빠르고 저렴한 거래를 가능하게 합니다.",
+        "features": [
+          "150% 초과 담보",
+          "1:1 USD 페그",
+          "투명하고 감사됨",
+          "Pi Network 네이티브"
+        ]
+      },
+      "coreFeatures": {
+        "title": "핵심 기능",
+        "items": [
+          {
+            "icon": "shield",
+            "title": "안전",
+            "description": "다중 서명 지갑과 엄격한 보안 감사로 자금이 보호됩니다."
+          },
+          {
+            "icon": "zap",
+            "title": "빠름",
+            "description": "Pi Network에서 최소 수수료로 몇 초 만에 거래가 완료됩니다."
+          },
+          {
+            "icon": "globe",
+            "title": "글로벌",
+            "description": "국경 없이 전 세계 어디서나 $USDP를 보내고 받을 수 있습니다."
+          },
+          {
+            "icon": "check",
+            "title": "투명",
+            "description": "정기적인 감사 및 규정 준수 보고서를 통한 완전한 온체인 투명성."
+          }
+        ]
+      },
+      "technicalSpecs": {
+        "title": "기술 사양",
+        "blockchain": {
+          "label": "블록체인",
+          "value": "Pi Network"
+        },
+        "tokenStandard": {
+          "label": "토큰 표준",
+          "value": "Pi Network 네이티브 토큰"
+        },
+        "decimals": {
+          "label": "소수점",
+          "value": "18"
+        },
+        "collateralization": {
+          "label": "담보화",
+          "value": "150% 초과 담보"
+        },
+        "mintRedeemFee": {
+          "label": "발행/상환 수수료",
+          "value": "0.3%"
+        },
+        "auditStatus": {
+          "label": "감사 상태",
+          "value": "정기적으로 감사됨"
+        }
+      }
+    },
+    "pricing": {
+      "title": "간단하고 투명한 가격",
+      "subtitle": "숨겨진 수수료 없음. 놀라움 없음. 모든 스테이블코인 요구사항에 대한 직접적인 가격.",
+      "plans": [
+        {
+          "title": "발행 및 상환",
+          "description": "$USDP 토큰 생성 또는 소각",
+          "price": "0.3%",
+          "priceNote": "거래당",
+          "features": [
+            "즉시 처리",
+            "최소 금액 없음",
+            "완전한 투명성"
+          ]
+        },
+        {
+          "popular": true,
+          "badge": "가장 인기",
+          "title": "전송",
+          "description": "지갑 간 $USDP 전송",
+          "price": "<$0.01",
+          "priceNote": "거래당",
+          "features": [
+            "번개처럼 빠름",
+            "몇 초 만에 완료",
+            "글로벌 도달"
+          ]
+        },
+        {
+          "title": "API 액세스",
+          "description": "개발자 및 기업용",
+          "price": "맞춤형",
+          "priceNote": "볼륨 기반 가격",
+          "features": [
+            "전담 지원",
+            "맞춤형 통합",
+            "SLA 보장"
+          ]
+        }
+      ],
+      "feeBreakdown": {
+        "title": "수수료 내역",
+        "transactionType": "거래 유형",
+        "fee": "수수료",
+        "speed": "속도",
+        "rows": [
+          {
+            "type": "$USDP 발행",
+            "fee": "0.3%",
+            "speed": "즉시"
+          },
+          {
+            "type": "$USDP 상환",
+            "fee": "0.3%",
+            "speed": "즉시"
+          },
+          {
+            "type": "$USDP 전송",
+            "fee": "<$0.01",
+            "speed": "몇 초"
+          },
+          {
+            "type": "API 호출",
+            "fee": "맞춤형",
+            "speed": "실시간"
+          }
+        ]
+      },
+      "faq": {
+        "title": "자주 묻는 질문",
+        "items": [
+          {
+            "question": "숨겨진 수수료가 있나요?",
+            "answer": "아니요. 모든 수수료는 투명하며 사전에 표시됩니다. 보시는 대로 지불하시면 됩니다."
+          },
+          {
+            "question": "볼륨 할인을 제공하나요?",
+            "answer": "예. 대량 사용자 및 기업을 위해 맞춤형 가격을 제공합니다. 자세한 내용은 영업팀에 문의하세요."
+          },
+          {
+            "question": "어떤 결제 방법을 받나요?",
+            "answer": "$USDP 발행 및 상환을 위해 USD, 기타 스테이블코인 및 주요 암호화폐를 받습니다."
+          }
+        ]
+      }
+    },
+    "developers": {
+      "title": "개발자 리소스",
+      "subtitle": "애플리케이션에 $PNA를 통합하는 데 필요한 모든 것. 포괄적인 문서, SDK 및 도구.",
+      "quickStart": {
+        "title": "빠른 시작",
+        "installation": {
+          "title": "설치",
+          "code": "coming soon"
+        },
+        "usage": {
+          "title": "기본 사용법",
+          "code": "coming soon"
+        }
+      },
+      "integrationOptions": {
+        "title": "통합 옵션",
+        "items": [
+          {
+            "icon": "code",
+            "title": "직접 통합",
+            "description": "애플리케이션과의 완전한 API 통합을 위해 JavaScript/TypeScript SDK를 사용하세요.",
+            "linkText": "문서 보기"
+          },
+          {
+            "icon": "zap",
+            "title": "지갑 통합",
+            "description": "원활한 사용자 경험과 다중 통화 지원을 위해 Provena 지갑에 연결하세요.",
+            "linkText": "문서 보기"
+          },
+          {
+            "icon": "book",
+            "title": "결제 게이트웨이",
+            "description": "사전 구축된 위젯을 사용하여 웹사이트에 $PNA 결제 버튼을 추가하세요.",
+            "linkText": "문서 보기"
+          },
+          {
+            "icon": "git",
+            "title": "Webhooks",
+            "description": "거래 업데이트 및 상태 변경에 대한 실시간 이벤트 알림.",
+            "linkText": "문서 보기"
+          }
+        ]
+      },
+      "useCases": {
+        "title": "빌더를 위한 사용 사례",
+        "items": [
+          {
+            "title": "전자상거래",
+            "features": [
+              "$PNA 결제 수락",
+              "낮은 거래 수수료",
+              "즉시 정산"
+            ]
+          },
+          {
+            "title": "DeFi 플랫폼",
+            "features": [
+              "$PNA를 담보로 추가",
+              "유동성 풀 생성",
+              "수익률 전략 구축"
+            ]
+          },
+          {
+            "title": "지갑",
+            "features": [
+              "$PNA 지원 통합",
+              "다중 통화 지갑",
+              "포트폴리오 추적"
+            ]
+          },
+          {
+            "title": "게임",
+            "features": [
+              "게임 내 통화",
+              "보상 배포",
+              "NFT 마켓플레이스 결제"
+            ]
+          }
+        ]
+      }
+    },
+    "about": {
+      "title": "Provena Labs 소개",
+      "subtitle": "우리는 Pi Network에서 안정적인 디지털 금융의 미래를 구축하고 있습니다. 우리의 사명은 전통적인 금융과 블록체인 기술을 연결하는 안전하고 투명하며 혁신적인 스테이블코인 솔루션을 제공하는 것입니다.",
+      "mission": {
+        "title": "우리의 사명",
+        "description1": "Pi Network의 5,500만 명 이상의 사용자를 위해 안전하고 빠르며 저렴한 거래를 가능하게 하는 프로덕션 급 USD 페그 스테이블코인을 만드는 것.",
+        "description2": "우리는 블록체인 기술의 힘이 금융을 민주화하고 모든 사람, 모든 곳에 금융 서비스를 제공한다고 믿습니다."
+      },
+      "vision": {
+        "title": "우리의 비전",
+        "description1": "안정적인 디지털 자산이 모든 사람에게 접근 가능한 세계로, 원활한 글로벌 거래와 금융 포용을 가능하게 합니다.",
+        "description2": "우리는 $USDP가 Pi Network의 표준 스테이블코인이 되어 DeFi, 전자상거래 및 국경 간 결제를 강화하는 것을 상상합니다."
+      },
+      "coreValues": {
+        "title": "우리의 핵심 가치",
+        "items": [
+          {
+            "icon": "innovation",
+            "title": "혁신",
+            "description": "우리는 블록체인 생태계를 발전시키는 최첨단 솔루션을 제공하기 위해 지속적으로 혁신합니다."
+          },
+          {
+            "icon": "transparency",
+            "title": "투명성",
+            "description": "실시간 리저브 추적 및 공개 검증을 통한 완전한 투명성을 믿습니다."
+          },
+          {
+            "icon": "community",
+            "title": "커뮤니티",
+            "description": "우리는 커뮤니티와 함께, 커뮤니티를 위해 구축하고, 피드백을 듣고 함께 진화하는 데 전념합니다."
+          }
+        ]
+      },
+      "whyChoose": {
+        "title": "왜 Provena Labs를 선택해야 하나요?",
+        "items": [
+          {
+            "number": "1",
+            "title": "선발 주자 이점",
+            "description": "우리는 Pi Network에서 최초의 프로덕션 급 스테이블코인으로, 초기 시장 점유율을 확보할 위치에 있습니다."
+          },
+          {
+            "number": "2",
+            "title": "대규모 사용자 기반",
+            "description": "블록체인 솔루션을 채택할 준비가 된 5,500만 명 이상의 참여 Pi Network 사용자에 대한 액세스."
+          },
+          {
+            "number": "3",
+            "title": "프로덕션 준비 완료",
+            "description": "우리 플랫폼은 완전히 개발되고 테스트되어 즉시 배포 및 확장할 준비가 되어 있습니다."
+          },
+          {
+            "number": "4",
+            "title": "지속 가능한 모델",
+            "description": "다양한 수익원과 재무 관리는 장기적인 생존 가능성과 성장을 보장합니다."
+          }
+        ]
+      }
+    },
+    "contact": {
+      "title": "문의하기",
+      "subtitle": "질문이 있으신가요? 여러분의 의견을 듣고 싶습니다. 메시지를 보내주시면 가능한 한 빨리 답변드리겠습니다.",
+      "contactInfo": [
+        {
+          "type": "email",
+          "label": "이메일",
+          "value": "zyrachain@provenalabs.com",
+          "note": "24시간 이내에 답변드리겠습니다"
+        },
+        {
+          "type": "phone",
+          "label": "전화",
+          "value": "+234-701-067-6567",
+          "note": "월요일 - 금요일, 오전 9시 - 오후 5시 (EST)"
+        },
+        {
+          "type": "office",
+          "label": "사무실",
+          "value": "리모트 우선",
+          "note": "전 세계 고객 서비스"
+        }
+      ],
+      "faq": {
+        "title": "자주 묻는 질문",
+        "items": [
+          {
+            "question": "지원팀에 연락하는 가장 좋은 방법은 무엇인가요?",
+            "answer": "provenalabs@gmail.com으로 이메일을 통해 지원팀에 연락할 수 있습니다."
+          },
+          {
+            "question": "응답을 받는 데 얼마나 걸리나요?",
+            "answer": "영업일 기준 24시간 이내에 모든 문의에 응답하는 것을 목표로 합니다."
+          },
+          {
+            "question": "커뮤니티 포럼이 있나요?",
+            "answer": "예! Discord 커뮤니티에 가입하여 다른 사용자와 연결하고 커뮤니티로부터 지원을 받으세요."
+          }
+        ]
+      }
+    },
+    "security": {
+      "title": "보안 및 규정 준수",
+      "subtitle": "자산을 보호하고 규제 준수를 보장하기 위한 엔터프라이즈급 보안 조치 및 규정 준수 표준.",
+      "measures": {
+        "title": "보안 조치",
+        "items": [
+          {
+            "icon": "authentication",
+            "title": "인증",
+            "description": "WebAuthn/FIDO2 패스키는 비밀번호 없이 생체 인증 및 PIN 기반 인증을 제공합니다.",
+            "features": [
+              "생체 인증",
+              "PIN 기반 보안",
+              "비밀번호 저장 없음"
+            ]
+          },
+          {
+            "icon": "encryption",
+            "title": "암호화",
+            "description": "군용급 암호화로 저장 및 전송 중인 데이터를 보호합니다.",
+            "features": [
+              "저장 시 AES-256",
+              "전송 시 TLS 1.3",
+              "클라이언트 측 암호화"
+            ]
+          },
+          {
+            "icon": "keyManagement",
+            "title": "키 관리",
+            "description": "하드웨어 보안 모듈 및 다중 서명 거래로 중요한 키를 보호합니다.",
+            "features": [
+              "하드웨어 보안 모듈",
+              "다중 서명 거래",
+              "키 순환 정책"
+            ]
+          },
+          {
+            "icon": "monitoring",
+            "title": "모니터링",
+            "description": "24/7 위협 탐지 및 정기적인 보안 감사로 지속적인 보호를 보장합니다.",
+            "features": [
+              "24/7 위협 탐지",
+              "정기적인 보안 감사",
+              "사고 대응 팀"
+            ]
+          }
+        ]
+      },
+      "compliance": {
+        "title": "규정 준수 표준",
+        "items": [
+          {
+            "title": "KYC/AML",
+            "description": "자금 세탁 방지 규정을 준수하기 위한 포괄적인 사용자 확인 절차."
+          },
+          {
+            "title": "라이선싱",
+            "description": "주요 관할권에서의 자금 송금 규정 준수 및 규제 라이선스."
+          },
+          {
+            "title": "감사",
+            "description": "독립적인 제3자 기업의 정기적인 재무 및 보안 감사."
+          },
+          {
+            "title": "보험",
+            "description": "콜드 지갑 보험 및 디지털 자산에 대한 포괄적인 보장."
+          },
+          {
+            "title": "리저브",
+            "description": "공개 리저브 보고서 및 담보 지원의 실시간 검증."
+          },
+          {
+            "title": "개인정보 보호",
+            "description": "GDPR 준수 데이터 처리 및 사용자 개인정보 보호 정책."
+          }
+        ]
+      },
+      "bestPractices": {
+        "title": "사용자 보안 모범 사례",
+        "dos": {
+          "title": "해야 할 일",
+          "items": [
+            "패스프레이즈를 안전하게 오프라인에 저장",
+            "생체 인증 활성화",
+            "확인 전 거래 금액 확인",
+            "발행 전 Pi 가격 확인",
+            "안전한 네트워크에서 거래 사용"
+          ]
+        },
+        "donts": {
+          "title": "하지 말아야 할 일",
+          "items": [
+            "패스프레이즈를 누구와도 공유하지 않기",
+            "민감한 데이터 스크린샷 찍지 않기",
+            "보안되지 않은 공용 네트워크에서 사용하지 않기",
+            "확인되지 않은 주소로 전송하지 않기",
+            "의심스러운 링크나 이메일 클릭하지 않기"
+          ]
+        }
+      }
+    },
+    "support": {
+      "title": "Provena Labs 지원",
+      "subtitle": "Pi Network에서 안정적인 가치의 미래를 구축하는 데 도움을 주세요",
+      "whySupport": {
+        "title": "여러분의 지원이 중요한 이유",
+        "intro": "Provena Labs는 Pi Network 생태계를 위한 중요한 인프라를 구축하고 있습니다. 여러분의 기부는 직접적으로 다음을 지원합니다:",
+        "items": [
+          {
+            "title": "개발 및 혁신",
+            "description": "$USDP 스테이블코인의 지속적인 개발, 보안 감사, 생태계를 향상시키는 새로운 기능에 대한 자금 지원."
+          },
+          {
+            "title": "보안 및 규정 준수",
+            "description": "사용자를 보호하기 위한 최고 수준의 보안, 규제 준수 및 위험 관리 보장."
+          },
+          {
+            "title": "커뮤니티 성장",
+            "description": "채택과 인식을 촉진하는 교육, 파트너십 및 커뮤니티 이니셔티브 지원."
+          },
+          {
+            "title": "인프라 및 운영",
+            "description": "24/7 가용성을 보장하기 위해 신뢰할 수 있는 시스템, 모니터링 및 운영 우수성 유지."
+          }
+        ],
+        "conclusion": "규모에 관계없이 모든 기여는 개발을 가속화하고 Pi Network의 수백만 사용자에게 안정적인 가치를 가져오는 데 도움이 됩니다. 여러분의 지원은 우리의 사명에 대한 신뢰의 투표입니다."
+      },
+      "walletAddress": "GCAO7I2ZBIEFXNYD3KZFA3UXLMDVCYUG6CTCYG56746LZB5MIUFIIBJ5",
+      "donation": {
+        "title": "Pi로 기부하기",
+        "label": "Pi를 우리 지갑 주소로 보내기",
+        "walletLabel": "Pi 지갑 주소",
+        "copy": "지갑 주소 복사",
+        "warning": {
+          "title": "중요:",
+          "text": "Pi 지갑에서 Pi를 보내고 있는지 확인하세요. 기부가 안전하게 도착하도록 지갑 주소를 다시 확인하세요."
+        },
+        "howTo": {
+          "title": "보내는 방법:",
+          "steps": [
+            "Pi 지갑 애플리케이션 열기",
+            "\"보내기\" 또는 \"전송\" 선택",
+            "위의 Pi 지갑 주소 붙여넣기",
+            "기부하려는 Pi 금액 입력",
+            "거래 확인",
+            "기부는 몇 분 내에 수신됩니다"
+          ]
+        },
+        "thankYou": {
+          "title": "감사합니다!",
+          "message": "여러분의 지원에 깊이 감사드립니다. 모든 기여는 Pi Network 생태계를 위한 더 안정적이고 번영하는 미래를 구축하는 데 도움이 됩니다.",
+          "contactLink": "질문이 있으신가요? 문의하기"
+        }
+      }
+    },
+    "blog": {
+      "title": "Provena Labs 블로그",
+      "subtitle": "Provena Labs 팀의 최신 뉴스, 인사이트 및 업데이트를 계속 확인하세요.",
+      "featured": "추천",
+      "readMore": "더 읽기",
+      "posts": [
+        {
+          "title": "$USDP 소개: 안정적인 가치의 미래",
+          "excerpt": "$USDP의 출시를 발표하게 되어 기쁩니다. 이는 Pi Network에 구축된 완전 담보 스테이블코인입니다.",
+          "date": "2025년 1월 15일",
+          "author": "Provena Labs 팀",
+          "category": "공지"
+        },
+        {
+          "title": "스테이블코인 담보화 이해하기",
+          "excerpt": "150% 초과 담보 및 고급 안정성 메커니즘을 통해 $USDP가 1:1 USD 페그를 유지하는 방법을 알아보세요.",
+          "date": "2025년 1월 10일",
+          "author": "기술 팀",
+          "category": "교육"
+        },
+        {
+          "title": "DeFi 통합 가이드: 프로토콜에서 $USDP 사용하기",
+          "excerpt": "DeFi 애플리케이션 및 프로토콜에 $USDP를 통합하려는 개발자를 위한 포괄적인 가이드.",
+          "date": "2025년 1월 5일",
+          "author": "개발자 관계",
+          "category": "개발자"
+        },
+        {
+          "title": "보안 감사 결과: $USDP 포괄적 검토 통과",
+          "excerpt": "최신 보안 감사 결과를 공유하게 되어 자랑스럽습니다. 이는 우리 플랫폼의 견고성을 확인하는 것입니다.",
+          "date": "2024년 12월 28일",
+          "author": "보안 팀",
+          "category": "보안"
+        },
+        {
+          "title": "2024년 Q4 로드맵 업데이트: 다음에 올 것",
+          "excerpt": "Q4에서의 성과와 2025년에 계획한 흥미진진한 기능에 대한 개요.",
+          "date": "2024년 12월 20일",
+          "author": "제품 팀",
+          "category": "로드맵"
+        },
+        {
+          "title": "커뮤니티 스포트라이트: 사용자가 $USDP를 사용하는 방법",
+          "excerpt": "커뮤니티 멤버들의 이야기와 일상생활에서 $USDP를 활용하는 방법을 소개합니다.",
+          "date": "2024년 12월 15일",
+          "author": "커뮤니티 팀",
+          "category": "커뮤니티"
+        }
+      ]
+    },
+    "careers": {
+      "title": "팀에 합류하기",
+      "subtitle": "안정적인 디지털 통화의 미래를 구축하는 데 도움을 주세요. 블록체인과 금융에 열정적인 재능 있는 인재를 찾고 있습니다.",
+      "whyJoin": [
+        {
+          "icon": "meaningful",
+          "title": "의미 있는 작업",
+          "description": "전 세계 수백만 명의 사람들에게 영향을 미치는 프로젝트에 참여하세요."
+        },
+        {
+          "icon": "remote",
+          "title": "리모트 우선",
+          "description": "유연한 일정으로 전 세계 어디서나 일하세요."
+        },
+        {
+          "icon": "pay",
+          "title": "경쟁력 있는 급여",
+          "description": "업계 최고 수준의 급여 및 주식 패키지."
+        },
+        {
+          "icon": "growth",
+          "title": "성장",
+          "description": "지속적인 학습 및 전문적 발전."
+        }
+      ],
+      "openPositions": {
+        "title": "채용 공고"
+      },
+      "jobs": [
+        {
+          "title": "시니어 블록체인 엔지니어",
+          "department": "엔지니어링",
+          "location": "리모트",
+          "type": "정규직",
+          "salary": "$150K - $200K"
+        },
+        {
+          "title": "제품 관리자",
+          "department": "제품",
+          "location": "리모트",
+          "type": "정규직",
+          "salary": "$130K - $170K"
+        },
+        {
+          "title": "보안 감사원",
+          "department": "보안",
+          "location": "리모트",
+          "type": "정규직",
+          "salary": "$140K - $190K"
+        },
+        {
+          "title": "개발자 관계 엔지니어",
+          "department": "개발자 관계",
+          "location": "리모트",
+          "type": "정규직",
+          "salary": "$120K - $160K"
+        },
+        {
+          "title": "마케팅 관리자",
+          "department": "마케팅",
+          "location": "리모트",
+          "type": "정규직",
+          "salary": "$100K - $140K"
+        },
+        {
+          "title": "커뮤니티 관리자",
+          "department": "커뮤니티",
+          "location": "리모트",
+          "type": "정규직",
+          "salary": "$80K - $120K"
+        }
+      ],
+      "benefits": {
+        "title": "혜택",
+        "health": {
+          "title": "건강 및 웰니스",
+          "items": [
+            "포괄적인 건강 보험",
+            "정신 건강 지원",
+            "피트니스 수당",
+            "무제한 유급 휴가"
+          ]
+        },
+        "professional": {
+          "title": "전문적 발전",
+          "items": [
+            "학습 예산",
+            "컨퍼런스 참석",
+            "멘토십 프로그램",
+            "커리어 코칭"
+          ]
+        },
+        "compensation": {
+          "title": "보상",
+          "items": [
+            "경쟁력 있는 급여",
+            "주식 패키지",
+            "성과 보너스",
+            "암호화폐 혜택"
+          ]
+        },
+        "workLife": {
+          "title": "워라밸",
+          "items": [
+            "유연한 근무 시간",
+            "리모트 근무",
+            "육아 휴직",
+            "팀 이벤트"
+          ]
+        }
+      },
+      "cta": {
+        "message": "적합한 포지션이 보이지 않나요?",
+        "button": "이력서 보내기"
+      }
+    },
+    "company": {
+      "title": "Provena Labs 소개",
+      "subtitle": "Pi Network에서 안정적인 디지털 통화의 미래를 구축",
+      "missionVision": [
+        {
+          "type": "mission",
+          "title": "우리의 사명",
+          "description": "개인과 기업이 자신감과 편리함으로 디지털 경제에 참여할 수 있도록 하는 안정적이고 안전하며 접근 가능한 스테이블코인을 만드는 것."
+        },
+        {
+          "type": "vision",
+          "title": "우리의 비전",
+          "description": "안정적인 디지털 통화가 글로벌 상거래의 기초가 되어 모든 사람에게 원활한 거래와 금융 포용을 가능하게 하는 세계."
+        }
+      ],
+      "coreValues": {
+        "title": "핵심 가치",
+        "items": [
+          {
+            "icon": "excellence",
+            "title": "우수성",
+            "description": "우리는 하는 모든 일에서 최고의 기준을 추구합니다."
+          },
+          {
+            "icon": "community",
+            "title": "커뮤니티",
+            "description": "우리는 커뮤니티와 함께, 커뮤니티를 위해 구축합니다."
+          },
+          {
+            "icon": "innovation",
+            "title": "혁신",
+            "description": "우리는 새로운 아이디어와 기술을 받아들입니다."
+          },
+          {
+            "icon": "transparency",
+            "title": "투명성",
+            "description": "우리는 완전한 개방성과 정직함으로 운영합니다."
+          }
+        ]
+      },
+      "stats": {
+        "title": "숫자로 보기",
+        "items": [
+          {
+            "value": "$00M+",
+            "label": "총 잠금 가치"
+          },
+          {
+            "value": "00K+",
+            "label": "활성 사용자"
+          },
+          {
+            "value": "0+",
+            "label": "통합"
+          },
+          {
+            "value": "24/7",
+            "label": "지원 가능"
+          }
+        ]
+      },
+      "team": {
+        "title": "리더십 팀",
+        "description": "우리 팀은 블록체인, 금융 및 기술의 전문성을 결합하여 안정적인 디지털 통화의 미래를 구축합니다."
+      }
+    },
+    "comingSoon": {
+      "title": "곧 출시",
+      "subtitle": "놀라운 것을 제공하기 위해 열심히 노력하고 있습니다. 계속 지켜봐 주세요!",
+      "whatsNext": {
+        "title": "다음은 무엇인가요?",
+        "description": "우리는 Pi Network에서 안정적인 가치의 미래를 구축하고 있습니다. 진행 상황을 계속 확인하려면 커뮤니티에 가입하세요.",
+        "telegramButton": "Telegram 가입",
+        "homeButton": "홈으로 돌아가기"
+      },
+      "footer": "업데이트 및 공지사항은 소셜 채널에서 팔로우하세요."
+    },
+    "legal": {
+      "privacy": {
+        "title": "개인정보 보호정책",
+        "lastUpdated": "최종 업데이트: 2025년 1월",
+        "sections": [
+          {
+            "title": "1. 소개",
+            "content": "Provena Labs(\"당사\", \"우리\", \"우리의\" 또는 \"회사\")는 귀하의 개인정보를 보호하는 데 전념하고 있습니다. 이 개인정보 보호정책은 귀하가 당사 웹사이트를 방문하고 당사 서비스를 사용할 때 귀하의 정보를 수집, 사용, 공개 및 보호하는 방법을 설명합니다."
+          },
+          {
+            "title": "2. 수집하는 정보",
+            "content": "당사는 다양한 방법으로 귀하에 대한 정보를 수집할 수 있습니다:",
+            "items": [
+              "귀하가 직접 제공하는 정보(이름, 이메일, 지갑 주소)",
+              "자동으로 수집되는 정보(IP 주소, 브라우저 유형, 방문한 페이지)",
+              "제3자 소스의 정보(분석 제공업체, 결제 처리업체)"
+            ]
+          },
+          {
+            "title": "3. 정보 사용 방법",
+            "content": "당사는 수집한 정보를 다음에 사용합니다:",
+            "items": [
+              "서비스 제공, 유지 및 개선",
+              "거래 처리 및 관련 정보 전송",
+              "프로모션 통신 전송(귀하의 동의가 있는 경우)",
+              "법적 의무 준수",
+              "사기 방지 및 보안 강화"
+            ]
+          },
+          {
+            "title": "4. 데이터 보안",
+            "content": "당사는 귀하의 개인정보를 무단 액세스, 변경, 공개 또는 파괴로부터 보호하기 위해 적절한 기술적 및 조직적 조치를 구현합니다. 그러나 인터넷을 통한 전송 방법은 100% 안전하지 않습니다."
+          },
+          {
+            "title": "5. 귀하의 권리",
+            "content": "귀하의 위치에 따라 다음 권리가 있을 수 있습니다:",
+            "items": [
+              "개인정보에 대한 액세스",
+              "부정확한 데이터 수정",
+              "데이터 삭제 요청",
+              "마케팅 통신 거부"
+            ]
+          },
+          {
+            "title": "6. 문의하기",
+            "content": "이 개인정보 보호정책에 대한 질문이 있으시면 privacy@provenalabs.com으로 문의하세요"
+          }
+        ]
+      },
+      "terms": {
+        "title": "서비스 약관",
+        "lastUpdated": "최종 업데이트: 2025년 1월",
+        "sections": [
+          {
+            "title": "1. 약관 동의",
+            "content": "이 웹사이트 및 서비스에 액세스하고 사용함으로써 귀하는 이 약관의 조항 및 규정에 구속되는 것에 동의합니다. 위 사항을 준수하는 것에 동의하지 않는 경우 이 서비스를 사용하지 마세요."
+          },
+          {
+            "title": "2. 사용 라이선스",
+            "content": "Provena Labs 웹사이트의 자료(정보 또는 소프트웨어) 사본 1부를 개인적이고 비상업적인 일시적 보기 목적으로만 임시로 다운로드할 수 있는 권한이 부여됩니다. 이것은 라이선스의 부여이며 소유권의 양도가 아니며, 이 라이선스 하에서 귀하는 다음을 수행할 수 없습니다:",
+            "items": [
+              "자료 수정 또는 복사",
+              "상업적 목적 또는 공개 표시를 위해 자료 사용",
+              "웹사이트에 포함된 소프트웨어의 역컴파일 또는 리버스 엔지니어링 시도",
+              "자료에서 저작권 또는 기타 소유권 표기 제거",
+              "자료를 다른 사람에게 전송하거나 다른 서버에서 자료 \"미러링\""
+            ]
+          },
+          {
+            "title": "3. 면책 조항",
+            "content": "Provena Labs 웹사이트의 자료는 '있는 그대로' 제공됩니다. Provena Labs는 명시적 또는 묵시적인 보증을 하지 않으며, 여기에는 상품성, 특정 목적에의 적합성 또는 지적 재산권의 비침해 또는 기타 권리 침해에 대한 묵시적 보증 또는 조건을 포함하되 이에 국한되지 않는 모든 기타 보증을 부인하고 부정합니다."
+          },
+          {
+            "title": "4. 제한",
+            "content": "어떤 경우에도 Provena Labs 또는 그 공급자는 Provena Labs 웹사이트의 자료 사용 또는 사용 불가능으로 인해 발생하는 손해(데이터 또는 이익 손실 또는 사업 중단으로 인한 손해를 포함하되 이에 국한되지 않음)에 대해 책임을 지지 않습니다."
+          },
+          {
+            "title": "5. 자료의 정확성",
+            "content": "Provena Labs 웹사이트에 나타나는 자료에는 기술적, 인쇄상 또는 사진상의 오류가 포함될 수 있습니다. Provena Labs는 웹사이트의 자료가 정확하고 완전하며 최신이라고 보장하지 않습니다."
+          },
+          {
+            "title": "6. 링크",
+            "content": "Provena Labs는 웹사이트에 링크된 모든 사이트를 검토하지 않았으며 그러한 링크된 사이트의 내용에 대해 책임을 지지 않습니다. 링크의 포함은 Provena Labs가 사이트를 승인한다는 것을 의미하지 않습니다. 그러한 링크된 웹사이트의 사용은 사용자 자신의 위험입니다."
+          },
+          {
+            "title": "7. 수정",
+            "content": "Provena Labs는 통지 없이 언제든지 웹사이트의 서비스 약관을 수정할 수 있습니다. 이 웹사이트를 사용함으로써 귀하는 이러한 서비스 약관의 당시 현재 버전에 구속되는 것에 동의합니다."
+          },
+          {
+            "title": "8. 준거법",
+            "content": "이 약관 및 조건은 Provena Labs가 운영하는 관할권의 법률에 따라 관리되고 해석되며, 귀하는 해당 위치의 법원의 전속 관할권에 불가역적으로 복종합니다."
+          }
+        ]
+      },
+      "compliance": {
+        "title": "규정 준수 및 규제",
+        "subtitle": "규제 준수 및 투명성에 대한 우리의 약속",
+        "sections": [
+          {
+            "title": "규제 준수",
+            "description": "Provena Labs는 최고 수준의 규제 준수를 유지하는 데 전념하고 있습니다. 당사는 규제 기관과 긴밀히 협력하여 운영이 모든 적용 가능한 법률 및 규정을 준수하도록 보장합니다.",
+            "items": [
+              {
+                "title": "AML/KYC 준수",
+                "description": "금융 범죄를 방지하기 위해 포괄적인 자금 세탁 방지 및 고객 확인 절차를 구현합니다."
+              },
+              {
+                "title": "데이터 보호",
+                "description": "사용자 개인정보를 보호하기 위해 GDPR, CCPA 및 기타 데이터 보호 규정을 준수합니다."
+              },
+              {
+                "title": "금융 규정",
+                "description": "모든 적용 가능한 금융 규정을 준수하고 필요한 경우 적절한 라이선스를 유지합니다."
+              },
+              {
+                "title": "감사 및 투명성",
+                "description": "정기적인 제3자 감사를 받고 운영에서 완전한 투명성을 유지합니다."
+              }
+            ]
+          },
+          {
+            "title": "보안 감사",
+            "description": "당사 플랫폼은 사용자 자금 및 데이터의 안전을 보장하기 위해 주요 독립 보안 기업의 정기적인 보안 감사를 받습니다.",
+            "content": {
+              "title": "최신 감사 결과",
+              "items": [
+                "보안 감사: 2024년 Q4 - 중요한 문제 없이 통과",
+                "스마트 컨트랙트 감사: 2024년 Q4 - 중요한 문제 없이 통과",
+                "규정 준수 검토: 2024년 Q4 - 완전히 준수"
+              ]
+            }
+          },
+          {
+            "title": "규제 라이선스",
+            "description": "Provena Labs는 당사 관할권에서 운영하는 데 필요한 모든 필요한 라이선스 및 등록을 유지합니다.",
+            "grid": [
+              {
+                "title": "자금 서비스 라이선스",
+                "description": "FinCEN 및 주 규제 기관에 등록"
+              },
+              {
+                "title": "데이터 보호",
+                "description": "GDPR 및 CCPA 준수"
+              }
+            ]
+          },
+          {
+            "title": "보고 및 투명성",
+            "description": "당사는 투명성을 믿으며 규정 준수 노력 및 운영 지표에 대한 보고서를 정기적으로 게시합니다.",
+            "links": [
+              {
+                "text": "2024년 Q4 규정 준수 보고서",
+                "url": "#"
+              },
+              {
+                "text": "보안 감사 보고서",
+                "url": "#"
+              },
+              {
+                "text": "투명성 보고서",
+                "url": "#"
+              }
+            ]
+          }
+        ]
+      },
+      "disclosures": {
+        "title": "위험 공시",
+        "subtitle": "$USDP와 관련된 위험에 대한 중요한 정보",
+        "warning": {
+          "title": "중요한 면책 조항",
+          "text": "암호화폐 및 스테이블코인 투자에는 상당한 위험이 따릅니다. $USDP 또는 당사 서비스를 사용하기 전에 모든 공시 사항을 주의 깊게 읽으세요."
+        },
+        "sections": [
+          {
+            "title": "시장 위험",
+            "items": [
+              {
+                "title": "변동성 위험",
+                "description": "$USDP는 1:1 USD 페그를 유지하도록 설계되었지만, 시장 상황으로 인해 일시적인 편차가 발생할 수 있습니다. $USDP의 가치는 변동할 수 있습니다."
+              },
+              {
+                "title": "유동성 위험",
+                "description": "언제든지 $USDP를 구매하거나 판매할 수 있는 충분한 유동성이 보장되지 않습니다. 시장 상황이 거래 능력에 영향을 줄 수 있습니다."
+              },
+              {
+                "title": "상대방 위험",
+                "description": "$USDP는 당사의 담보 제공업체 및 파트너의 재정적 안정성에 의존합니다. 이러한 기관의 실패는 $USDP의 가치에 영향을 줄 수 있습니다."
+              }
+            ]
+          },
+          {
+            "title": "기술 위험",
+            "items": [
+              {
+                "title": "스마트 컨트랙트 위험",
+                "description": "당사의 스마트 컨트랙트는 감사되었지만, 발견되지 않은 취약점이나 악용의 위험이 항상 존재합니다."
+              },
+              {
+                "title": "블록체인 위험",
+                "description": "Pi Network 블록체인은 기술적 문제, 네트워크 혼잡 또는 $USDP 거래에 영향을 줄 수 있는 기타 문제를 경험할 수 있습니다."
+              },
+              {
+                "title": "지갑 위험",
+                "description": "개인 키 또는 지갑 액세스 손실로 인해 $USDP의 영구적 손실이 발생할 수 있습니다. 당사는 손실된 자금을 복구할 수 없습니다."
+              }
+            ]
+          },
+          {
+            "title": "규제 위험",
+            "items": [
+              {
+                "title": "규제 변경",
+                "description": "암호화폐 규정의 변경은 특정 관할권에서 $USDP의 가용성 또는 사용에 영향을 줄 수 있습니다."
+              },
+              {
+                "title": "법적 불확실성",
+                "description": "스테이블코인 및 암호화폐의 법적 지위는 많은 관할권에서 불확실한 상태로 남아 있으며 변경될 수 있습니다."
+              }
+            ]
+          },
+          {
+            "title": "투자 조언 없음",
+            "content": "이 웹사이트 및 당사 서비스는 투자 조언, 재무 조언 또는 $USDP의 매수 또는 매도를 권장하는 것을 구성하지 않습니다. 투자 결정을 내리기 전에 자격을 갖춘 재무 고문과 상담하는 것을 강력히 권장합니다."
+          },
+          {
+            "title": "책임 제한",
+            "content": "법률이 허용하는 최대 범위 내에서 Provena Labs는 $USDP 또는 당사 서비스 사용으로 인해 발생하는 이익, 데이터 또는 사용의 손실을 포함한 간접적, 부수적, 특별, 결과적 또는 징벌적 손해에 대해 책임을 지지 않습니다."
+          }
+        ]
+      }
+    },
+    "pitch": {
+        "cover": {
+          "tagline": "안정적. 안전. 간단.",
+          "subtitle": "Pi Network에서 안정적 가치의 미래",
+          "description": "차세대 디지털 금융을 위해 설계된 USD 페그 스테이블코인."
+        },
+        "problem": {
+          "title": "스테이블코인이 중요한 이유",
+          "challenges": {
+            "title": "현재 시장 과제",
+            "items": [
+              "기존 스테이블코인이 높은 수수료 네트워크(이더리움, 트론)에서 운영",
+              "거래 비용이 거래당 $1-50+에 도달",
+              "5,500만 명 이상의 Pi Network 사용자에 대한 접근성 제한",
+              "기존 솔루션에 엔터프라이즈급 보안 부족",
+              "투명하고 감사된 담보 지원 필요"
+            ]
+          },
+          "opportunity": {
+            "title": "기회",
+            "description": "전 세계 수십억 명의 사용자가 낮은 비용과 높은 보안을 가진 안정적인 디지털 통화에 대한 접근이 부족합니다."
+          }
+        },
+        "introducing": {
+          "title": "$USDP란?",
+          "description": "$USDP는 Pi Network 블록체인에 네이티브로 구축된 완전 담보 USD 페그 스테이블코인입니다.",
+          "valueProps": [
+            {
+              "title": "1:1 USD 페그",
+              "description": "항상 정확히 1달러의 가치"
+            },
+            {
+              "title": "150% 초과 담보",
+              "description": "최대 안정성을 위해 115% 이상의 담보로 뒷받침"
+            },
+            {
+              "title": "엔터프라이즈 보안",
+              "description": "다중 서명 지갑, 패스키 인증 및 엄격한 감사"
+            },
+            {
+              "title": "Pi Network 네이티브",
+              "description": "가장 빠르고 저렴한 블록체인 인프라 활용"
+            },
+            {
+              "title": "투명하고 감사됨",
+              "description": "정기적인 규정 준수 보고서와 함께 완전한 온체인 투명성"
+            }
+          ]
+        },
+        "competitiveAdvantages": {
+          "title": "$USDP가 돋보이는 이유",
+          "subtitle": "경쟁 우위",
+          "table": {
+            "feature": "기능",
+            "usdp": "$USDP",
+            "competitors": "경쟁사",
+            "rows": [
+              {
+                "feature": "네트워크",
+                "usdp": "Pi 네트워크",
+                "competitors": "이더리움, 트론"
+              },
+              {
+                "feature": "거래 수수료",
+                "usdp": "<$0.01",
+                "competitors": "$1-50+"
+              },
+              {
+                "feature": "담보 비율",
+                "usdp": "150%",
+                "competitors": "100-110%"
+              },
+              {
+                "feature": "인증",
+                "usdp": "패스키",
+                "competitors": "비밀번호/2FA"
+              },
+              {
+                "feature": "민팅/상환 수수료",
+                "usdp": "0.3%",
+                "competitors": "0.5-1%"
+              },
+              {
+                "feature": "속도",
+                "usdp": "초",
+                "competitors": "분"
+              },
+              {
+                "feature": "보안 감사",
+                "usdp": "정기적",
+                "competitors": "다양함"
+              }
+            ]
+          },
+          "conclusion": "$USDP는 비용, 보안 및 접근성에서 승리합니다."
+        },
+        "keyFeatures": {
+          "title": "주요 기능",
+          "sections": [
+            {
+              "title": "보안 우선",
+              "subtitle": "엔터프라이즈급 보호",
+              "items": [
+                "다중 서명 지갑 아키텍처로 무단 액세스 방지",
+                "최대 보안을 위한 패스키 인증",
+                "온체인 실시간 준비금 추적",
+                "사용자 데이터의 클라이언트 측 암호화",
+                "생체 인증 지원",
+                "정기적인 제3자 보안 감사"
+              ]
+            },
+            {
+              "title": "번개처럼 빠른 거래",
+              "subtitle": "속도와 효율성",
+              "items": [
+                "Pi Network에서 몇 초 만에 거래 완료",
+                "거의 제로 거래 수수료 (<$0.01)",
+                "상인을 위한 즉시 결제",
+                "중개자나 지연 없음"
+              ]
+            },
+            {
+              "title": "글로벌 및 국경 없는",
+              "subtitle": "전 세계 접근",
+              "items": [
+                "전 세계 어디서나 $USDP 송수신",
+                "지리적 제한 없음",
+                "은행 중개자 없음",
+                "24/7/365 이용 가능"
+              ]
+            },
+            {
+              "title": "완전히 투명",
+              "subtitle": "온체인 검증",
+              "items": [
+                "100% 온체인 투명성",
+                "감사 가능한 담보 준비금",
+                "정기적으로 게시되는 규정 준수 보고서",
+                "독립 기업의 스마트 계약 코드 감사"
+              ]
+            }
+          ]
+        },
+        "technicalSpecs": {
+          "title": "기술 사양",
+          "subtitle": "인프라 세부 사항",
+          "items": [
+            {
+              "label": "블록체인",
+              "value": "Pi 네트워크"
+            },
+            {
+              "label": "토큰 표준",
+              "value": "Pi 네트워크 네이티브 토큰"
+            },
+            {
+              "label": "소수점",
+              "value": "18"
+            },
+            {
+              "label": "담보화 비율",
+              "value": "150%"
+            },
+            {
+              "label": "민팅 수수료",
+              "value": "0.3%"
+            },
+            {
+              "label": "상환 수수료",
+              "value": "0.3%"
+            },
+            {
+              "label": "전송 수수료",
+              "value": "0% (완전 무료)"
+            },
+            {
+              "label": "감사 상태",
+              "value": "정기적으로 감사"
+            }
+          ]
+        },
+        "marketOpportunity": {
+          "title": "시장 기회",
+          "subtitle": "거대한 총 시장 규모 (TAM)",
+          "sections": [
+            {
+              "title": "Pi Network 생태계",
+              "items": [
+                "블록체인 솔루션을 채택할 준비가 된 5,500만 명 이상의 적극적인 사용자",
+                "암호화폐 제품에 대한 입증된 관심을 가진 활발한 커뮤니티",
+                "Pi Network 스테이블코인 공간에서의 선발 주자 이점"
+              ]
+            },
+            {
+              "title": "글로벌 스테이블코인 시장",
+              "items": [
+                "$1,800억 이상의 스테이블코인 시장 규모 (성장 중)",
+                "연간 30% 이상의 성장률",
+                "기관 채택 증가",
+                "주요 시장의 규제 명확성"
+              ]
+            },
+            {
+              "title": "사용 사례 카테고리",
+              "items": [
+                "전자상거래 및 결제: 저비용 결제 옵션을 찾는 상인",
+                "DeFi 거래: 담보 및 유동성 제공이 필요한 거래자",
+                "국경 간 송금: 저렴하게 집으로 돈을 보내는 노동자",
+                "가치 저장: 변동성 없이 암호화폐 노출을 원하는 사용자"
+              ]
+            }
+          ]
+        },
+        "useCases": {
+          "title": "사용 사례",
+          "subtitle": "$USDP가 실제 문제를 해결하는 곳",
+          "categories": [
+            {
+              "title": "전자상거래 및 결제",
+              "items": [
+                "즉시 결제 및 제로 상인 사기로 결제 수락",
+                "최소 수수료로 소매업체에 더 나은 마진 제공",
+                "기존 결제 프로세서 없이 글로벌 결제 네트워크"
+              ]
+            },
+            {
+              "title": "국경 간 결제 및 송금",
+              "items": [
+                "기존 비용의 일부로 국제적으로 송금",
+                "중개자 제거 (은행, 송금 서비스)",
+                "즉시 결제 vs. 3-5일 은행 지연",
+                "해외 가족을 지원하는 이민 노동자에게 완벽"
+              ]
+            },
+            {
+              "title": "DeFi 및 거래",
+              "items": [
+                "대출 프로토콜에서 $USDP를 담보로 사용",
+                "분산 거래소에 유동성 제공 및 수익 창출",
+                "안정 가치 페어로 변동성 자산 거래",
+                "수익 농사 전략 참여"
+              ]
+            },
+            {
+              "title": "가치 저장",
+              "items": [
+                "암호화폐 변동성에 노출되지 않고 안정적인 구매력 유지",
+                "현지 통화 평가절하에 대한 헤지",
+                "디지털 형태로 유동성 유지",
+                "국경을 넘어 부를 보존"
+              ]
+            }
+          ]
+        },
+        "businessModel": {
+          "title": "비즈니스 모델 및 수익원",
+          "subtitle": "지속 가능한 경제",
+          "sections": [
+            {
+              "title": "수익 창출",
+              "items": [
+                "민팅 수수료: 생성된 모든 새로운 $USDP의 0.3%",
+                "상환 수수료: USD 담보로 상환된 모든 $USDP의 0.3%",
+                "파트너십 수수료: 상인, 거래소 및 프로토콜과의 통합 파트너십",
+                "엔터프라이즈 서비스: 기관 수탁 및 관리 솔루션"
+              ]
+            },
+            {
+              "title": "비용 구조",
+              "items": [
+                "최소 인프라 비용 (Pi Network가 운영 오버헤드 감소)",
+                "보안 및 규정 준수 비용은 규모에 의해 상쇄",
+                "생태계 파트너십을 통한 고객 획득"
+              ]
+            }
+          ],
+          "profitability": "수수료에서 나오는 수익은 거래량에 비례하여 선형적으로 확장되는 반면 인프라 비용은 고정되어 있어 규모에서 상당한 마진 확장을 만듭니다."
+        },
+        "tokenEconomics": {
+          "title": "토큰 경제학 및 공급 모델",
+          "subtitle": "안정성을 위해 설계",
+          "supplyMechanism": {
+            "title": "공급 메커니즘",
+            "items": [
+              "Pi 담보로 뒷받침 - 모든 $USDP에 담보 준비금이 있음",
+              "동적 공급은 1:1 페그를 유지하면서 수요에 따라 조정",
+              "150% 초과 담보는 모든 시장 조건에서 안정성 보장",
+              "온체인에서 투명한 준비금 검증"
+            ]
+          },
+          "functions": {
+            "title": "$USDP의 세 가지 기능",
+            "items": [
+              "교환 매체 - 빠르고 저렴한 글로벌 거래에 사용",
+              "가치 저장 - 변동성 노출 없이 안정적인 자산으로 보유",
+              "DeFi 담보 - 분산 금융 프로토콜 및 수익 전략에서 사용"
+            ]
+          },
+          "pegMaintenance": {
+            "title": "페그 유지",
+            "items": [
+              "사용자는 항상 $1.00에 민팅하고 $1.00에 상환할 수 있음",
+              "차익거래 인센티브가 시장 가격을 페그에 유지",
+              "담보 초과가 상환 능력 보장"
+            ]
+          }
+        },
+        "goToMarket": {
+          "title": "시장 진입 전략",
+          "phases": [
+            {
+              "title": "1단계: 출시 및 기반",
+              "period": "2025년 4분기 - 2026년 1분기",
+              "items": [
+                "핵심 기능을 갖춘 Pi Network 테스트넷에서 베타 출시",
+                "보안 감사 완료 및 게시",
+                "Pi 생태계 프로젝트와의 전략적 파트너십",
+                "커뮤니티 교육 및 온보딩",
+                "소비자 접근성을 위한 모바일 앱 출시"
+              ]
+            },
+            {
+              "title": "2단계: 성장 및 통합",
+              "period": "2026년 2분기",
+              "items": [
+                "메인넷 출시 및 공개 가용성",
+                "실제 채택을 위한 상인 파트너십",
+                "DeFi 프로토콜 통합 (대출, 거래, 유동성)",
+                "크로스체인 브리지 개발",
+                "분산 거버넌스를 위한 거버넌스 토큰 도입"
+              ]
+            },
+            {
+              "title": "3단계: 규모 및 확장",
+              "period": "2026년 3분기+",
+              "items": [
+                "기관 서비스 출시 (수탁, 결제)",
+                "새로운 지리적 시장으로의 글로벌 확장",
+                "고급 기능 (수익 제품, 파생상품)",
+                "추가 수익원",
+                "시장 리더십 포지셔닝"
+              ]
+            }
+          ]
+        },
+        "teamPartnerships": {
+          "title": "팀 및 파트너십",
+          "subtitle": "Provena Labs가 지원",
+          "partners": {
+            "title": "우리의 생태계 파트너",
+            "items": [
+              {
+                "name": "ZyraChain",
+                "description": "인프라 및 블록체인 솔루션"
+              },
+              {
+                "name": "Zyra",
+                "description": "핵심 플랫폼 서비스"
+              },
+              {
+                "name": "ZyraPay",
+                "description": "결제 처리 통합"
+              },
+              {
+                "name": "ZyraWallet",
+                "description": "지갑 및 수탁 솔루션"
+              },
+              {
+                "name": "ZyraDEX",
+                "description": "분산 거래소"
+              },
+              {
+                "name": "Orbit",
+                "description": "크로스체인 솔루션"
+              },
+              {
+                "name": "Dappify",
+                "description": "개발자 플랫폼"
+              }
+            ]
+          },
+          "whyMatters": {
+            "title": "이것이 중요한 이유",
+            "description": "Provena Labs는 블록체인 인프라를 중심으로 완전한 생태계를 구축했습니다. $USDP는 이 전체 제품 및 서비스 네트워크에서 네이티브 스테이블코인으로 위치하고 있습니다."
+          }
+        },
+        "riskMitigation": {
+          "title": "위험 완화",
+          "subtitle": "위험 관리 방법",
+          "risks": [
+            {
+              "title": "담보 위험",
+              "items": [
+                "150% 초과 담보가 최소 요구 사항을 크게 초과",
+                "담보 준비금의 정기 감사",
+                "투명한 온체인 검증",
+                "보수적인 담보 선택"
+              ]
+            },
+            {
+              "title": "규제 위험",
+              "items": [
+                "처음부터 규정 준수 우선 접근",
+                "정기적인 규정 준수 감사 및 보고",
+                "규제 명확성에 기반한 지리적 확장",
+                "규제 기관과의 적극적인 협력"
+              ]
+            },
+            {
+              "title": "기술 위험",
+              "items": [
+                "신뢰할 수 있는 회사의 정기 보안 감사",
+                "다중 서명 보안 아키텍처",
+                "단계적 출시 (테스트넷 → 메인넷)",
+                "커뮤니티 보안 연구를 위한 버그 바운티 프로그램"
+              ]
+            },
+            {
+              "title": "시장 위험",
+              "items": [
+                "1:1 페그 차익거래 메커니즘",
+                "강력한 파트너십 생태계가 채택 창출",
+                "Pi Network에서의 선발 주자 이점",
+                "경쟁사와의 차별화된 포지셔닝"
+              ]
+            }
+          ]
+        },
+        "financialProjections": {
+          "title": "재무 예측",
+          "subtitle": "5년 비전",
+          "years": [
+            {
+              "period": "1년차 (2025-2026)",
+              "items": [
+                "유통 중인 1,000-5,000만 $USDP",
+                "5,000-20,000명의 일일 활성 사용자",
+                "수십 개의 상인 파트너십",
+                "제품-시장 적합성에 집중"
+              ]
+            },
+            {
+              "period": "2년차 (2026-2027)",
+              "items": [
+                "유통 중인 1-5억 $USDP",
+                "50,000-200,000명의 일일 활성 사용자",
+                "주요 기업 파트너십",
+                "수익성 마일스톤"
+              ]
+            },
+            {
+              "period": "3년차+ (2027+)",
+              "items": [
+                "유통 중인 $10억 이상의 $USDP",
+                "수백만 명의 일일 활성 사용자",
+                "기관 채택",
+                "Pi Network에서의 시장 리더십"
+              ]
+            }
+          ]
+        },
+        "theAsk": {
+          "title": "요청",
+          "amount": "시리즈 A 자금 조달에서 500만 달러 모집",
+          "equity": "10% 지분과 교환",
+          "valuation": "이것은 Provena Labs / $USDP를 투자 후 평가액 5,000만 달러로 평가하며, 우리의 시장 지위, 생태계 강점 및 성장 궤적을 반영합니다.",
+          "useOfFunds": {
+            "title": "자금 사용 배분",
+            "items": [
+              {
+                "category": "제품 개발 및 보안",
+                "percentage": "35%",
+                "amount": "$175만",
+                "details": [
+                  "강화된 보안 인프라 및 감사",
+                  "메인넷 출시 및 최적화",
+                  "고급 기능 (수익 제품, 크로스체인 브리지)"
+                ]
+              },
+              {
+                "category": "시장 진입 및 사용자 획득",
+                "percentage": "30%",
+                "amount": "$150만",
+                "details": [
+                  "마케팅 및 커뮤니티 구축",
+                  "상인 및 파트너십 개발",
+                  "모바일 앱 및 사용자 인터페이스 최적화"
+                ]
+              },
+              {
+                "category": "규제 및 규정 준수",
+                "percentage": "20%",
+                "amount": "$100만",
+                "details": [
+                  "법률 및 규정 준수 인프라",
+                  "담보 관리를 위한 은행 관계",
+                  "글로벌 규제 승인"
+                ]
+              },
+              {
+                "category": "팀 및 운영",
+                "percentage": "15%",
+                "amount": "$75만",
+                "details": [
+                  "주요 채용 (파트너십 책임자, 엔지니어링 VP, 규정 준수 책임자)",
+                  "운영 인프라 확장"
+                ]
+              }
+            ]
+          },
+          "terms": {
+            "title": "투자 조건 개요",
+            "sections": [
+              {
+                "title": "지분 구조",
+                "items": [
+                  "10% 완전 희석 지분 소유권",
+                  "표준 보호를 갖춘 우선 시리즈 A 주식",
+                  "희석 방지 조항 (가중 평균)"
+                ]
+              },
+              {
+                "title": "거버넌스 및 이사회 의석",
+                "items": [
+                  "이사회 회의에 대한 옵저버 권리",
+                  "정보 및 검사 권리",
+                  "주요 결정 참여 (자금 조달, M&A, 피벗)"
+                ]
+              },
+              {
+                "title": "재무 권리",
+                "items": [
+                  "향후 자금 조달 라운드에 대한 비례 참여 권리",
+                  "지분에 연결된 수익 비율 (수익성 후 이익의 10%)",
+                  "청산 우선권 (1x 비참여 우선)"
+                ]
+              }
+            ]
+          },
+          "milestones": {
+            "title": "마일스톤 및 성과",
+            "items": [
+              "6개월 이내 메인넷 출시",
+              "18개월 이내 유통 중인 $1억 이상의 $USDP",
+              "24개월 이내 50만 명 이상의 일일 활성 사용자",
+              "36개월 이내 수익성 경로"
+            ]
+          }
+        },
+        "closing": {
+          "title": "안정적 가치의 미래가 여기에",
+          "intro": "$USDP는 스테이블코인 설계의 패러다임 전환을 나타냅니다:",
+          "points": [
+            {
+              "title": "더 낮은 비용",
+              "description": "경쟁 네트워크의 달러 대비 서브 페니 거래 수수료."
+            },
+            {
+              "title": "더 높은 보안",
+              "description": "엔터프라이즈급 보호를 갖춘 150% 담보화 vs. 100-110% 경쟁사."
+            },
+            {
+              "title": "대규모 접근성",
+              "description": "5,500만 명 이상의 사용자에게 서비스를 제공하는 Pi Network 네이티브 vs. 틈새 시장."
+            },
+            {
+              "title": "더 나은 경제성",
+              "description": "수익은 거래량에 비례하여 확장되는 반면 비용은 고정된 상태로 유지됩니다."
+            }
+          ],
+          "conclusion": "안정적 가치의 미래는 단순히 USD에 페그하는 것이 아닙니다—전 세계 수십억 명의 사람들에게 안정성, 보안 및 접근성을 제공하는 것입니다.",
+          "tagline": "$USDP. 안정적. 안전. 간단.",
+          "footer": "자세한 내용은 www.provenalabs.com을 방문하세요"
+        }
+      }
+    }
+  }

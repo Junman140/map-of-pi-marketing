@@ -1,0 +1,1875 @@
+{
+  "nav": {
+    "home": "Trang chủ",
+    "product": "Sản phẩm",
+    "features": "Tính năng",
+    "pricing": "Giá",
+    "roadmap": "Lộ trình",
+    "developers": "Nhà phát triển",
+    "blog": "Blog",
+    "security": "Bảo mật",
+    "launchApp": "Khởi chạy ứng dụng",
+    "getStarted": "Bắt đầu"
+  },
+  "header": {
+    "company": "Công ty",
+    "aboutUs": "Về chúng tôi",
+    "companyPage": "Công ty",
+    "careers": "Tuyển dụng",
+    "contact": "Liên hệ",
+    "support": "Hỗ trợ chúng tôi",
+    "resources": "Tài nguyên",
+    "legal": "Pháp lý",
+    "privacy": "Chính sách bảo mật",
+    "terms": "Điều khoản dịch vụ",
+    "compliance": "Tuân thủ",
+    "disclosures": "Tiết lộ"
+  },
+  "hero": {
+    "title": "Tương lai của Giá trị Ổn định",
+    "description": "$USDP là một stablecoin gắn với USD được xây dựng trên Pi Network. An toàn, minh bạch và được thiết kế cho thế hệ tài chính kỹ thuật số tiếp theo.",
+    "launchApp": "Khởi chạy ứng dụng",
+    "visitTelegram": "Truy cập Telegram",
+    "usdEquivalence": "1 USD = 1 $USDP",
+    "overcollateralized": "Thế chấp vượt mức",
+    "mintRedeemFees": "Phí Đúc/Đổi",
+    "transactionCost": "Chi phí giao dịch"
+  },
+  "features": {
+    "title": "Tại sao chọn $USDP?",
+    "subtitle": "Được xây dựng với công nghệ tiên tiến và thiết kế cho hệ sinh thái tài chính hiện đại.",
+    "secure": {
+      "title": "An toàn & Minh bạch",
+      "description": "Bảo mật cấp doanh nghiệp với xác thực passkey và theo dõi dự trữ thời gian thực."
+    },
+    "fast": {
+      "title": "Cực kỳ nhanh",
+      "description": "Giao dịch được giải quyết trong vài giây với phí tối thiểu trên blockchain Pi Network."
+    },
+    "backed": {
+      "title": "Được hỗ trợ đầy đủ",
+      "description": "Thế chấp vượt mức 150% đảm bảo tính ổn định và bảo vệ tài sản của bạn."
+    },
+    "privacy": {
+      "title": "Ưu tiên quyền riêng tư",
+      "description": "Mã hóa phía máy khách và xác thực sinh trắc học để bảo mật tối đa."
+    }
+  },
+  "useCases": {
+    "title": "Trường hợp sử dụng",
+    "subtitle": "$USDP hoạt động cho mọi người—từ người dùng cá nhân đến doanh nghiệp.",
+    "ecommerce": {
+      "title": "Thương mại điện tử",
+      "description": "Chấp nhận thanh toán $USDP với giải quyết tức thì và phí tối thiểu."
+    },
+    "crossBorder": {
+      "title": "Thanh toán xuyên biên giới",
+      "description": "Gửi tiền toàn cầu với chi phí thấp và thời gian giao dịch nhanh."
+    },
+    "defi": {
+      "title": "Giao dịch DeFi",
+      "description": "Sử dụng $USDP làm tài sản thế chấp hoặc cung cấp thanh khoản để kiếm lợi nhuận."
+    },
+    "storage": {
+      "title": "Lưu trữ giá trị",
+      "description": "Nắm giữ giá trị ổn định mà không bị ảnh hưởng bởi biến động tiền điện tử."
+    }
+  },
+  "roadmap": {
+    "title": "Lộ trình của chúng tôi",
+    "subtitle": "Xây dựng tương lai của stablecoin, từng cột mốc một.",
+    "q4_2025": "Q4 2025",
+    "q1_2026": "Q1 2026",
+    "q2_2026": "Q2 2026",
+    "q3_2026": "Q3 2026",
+    "betaLaunch": "Ra mắt Beta",
+    "coreFeatures": "Tính năng cốt lõi",
+    "securityAudit": "Kiểm toán bảo mật",
+    "mainnetLaunch": "Ra mắt Mainnet",
+    "merchantPartnerships": "Đối tác thương gia",
+    "mobileApps": "Ứng dụng di động",
+    "defiIntegrations": "Tích hợp DeFi",
+    "crossChainBridge": "Cầu chuỗi chéo",
+    "governanceToken": "Token quản trị",
+    "institutionalServices": "Dịch vụ thể chế",
+    "globalExpansion": "Mở rộng toàn cầu",
+    "advancedFeatures": "Tính năng nâng cao",
+    "pageTitle": "Lộ trình sản phẩm",
+    "pageSubtitle": "Tầm nhìn của chúng tôi về tương lai của $USDP và hệ sinh thái Provena Labs.",
+    "betaLaunchTitle": "Ra mắt Beta & Tính năng cốt lõi",
+    "betaLaunchDesc": "Ra mắt beta trên Pi Network testnet",
+    "coreMintingDesc": "Tính năng đúc và đổi cốt lõi",
+    "securityAuditDesc": "Hoàn thành kiểm toán bảo mật",
+    "mainnetTitle": "Ra mắt Mainnet & Đối tác",
+    "mainnetDesc": "Ra mắt mainnet trên Pi Network",
+    "merchantDesc": "Đối tác thương gia",
+    "mobileAppDesc": "Ra mắt ứng dụng di động",
+    "defiTitle": "Tích hợp & Mở rộng DeFi",
+    "defiProtocolDesc": "Tích hợp giao thức DeFi",
+    "bridgeDesc": "Ra mắt cầu chuỗi chéo",
+    "governanceDesc": "Giới thiệu token quản trị",
+    "institutionalTitle": "Dịch vụ thể chế & Mở rộng toàn cầu",
+    "institutionalDesc": "Ra mắt dịch vụ thể chế",
+    "globalDesc": "Mở rộng toàn cầu sang thị trường mới",
+    "advancedDesc": "Tính năng và công cụ nâng cao"
+  },
+  "security": {
+    "title": "Bảo mật bạn có thể tin tưởng",
+    "subtitle": "Tài sản của bạn được bảo vệ bởi các biện pháp bảo mật cấp doanh nghiệp và kiểm toán thường xuyên. Chúng tôi coi trọng bảo mật để bạn không phải lo lắng.",
+    "viewReport": "Xem báo cáo bảo mật",
+    "webauthn": "Xác thực Passkey WebAuthn",
+    "encryption": "Mã hóa AES-256 khi nghỉ",
+    "tls": "TLS 1.3 cho dữ liệu đang truyền",
+    "hsm": "Mô-đun bảo mật phần cứng",
+    "audits": "Kiểm toán bảo mật thường xuyên",
+    "detection": "Phát hiện mối đe dọa 24/7",
+    "multisig": "Giao dịch đa chữ ký",
+    "insurance": "Bảo hiểm ví lạnh"
+  },
+  "cta": {
+    "title": "Sẵn sàng bắt đầu?",
+    "subtitle": "Tham gia cùng hàng nghìn người dùng đã sử dụng $USDP để lưu trữ và giao dịch giá trị ổn định, an toàn.",
+    "launchApp": "Khởi chạy ứng dụng",
+    "contactSales": "Liên hệ bán hàng"
+  },
+  "logoCloud": {
+    "title": "Được xây dựng với Provena",
+    "subtitle": "Được tin cậy bởi các nền tảng hàng đầu trong hệ sinh thái"
+  },
+  "tokenEconomics": {
+    "title": "Kinh tế Token",
+    "subtitle": "Được thiết kế cho sự ổn định, được hỗ trợ bởi dự trữ Pi và duy trì ở mức 1:1 USD peg.",
+    "utilities": {
+      "mediumOfExchange": {
+        "title": "Phương tiện Trao đổi",
+        "description": "Sử dụng $USDP cho các giao dịch toàn cầu nhanh chóng và chi phí thấp."
+      },
+      "storeOfValue": {
+        "title": "Lưu trữ Giá trị",
+        "description": "Giữ $USDP như một tài sản ổn định không có biến động."
+      },
+      "defiCollateral": {
+        "title": "Tài sản Thế chấp DeFi",
+        "description": "Sử dụng $USDP làm tài sản thế chấp trong các giao thức tài chính phi tập trung."
+      }
+    },
+    "supplyModel": {
+      "title": "Mô hình Cung cấp",
+      "backedByPi": {
+        "title": "Được hỗ trợ bởi Dự trữ Pi",
+        "description": "Mỗi $USDP được hỗ trợ bởi tài sản thế chấp Pi"
+      },
+      "dynamicSupply": {
+        "title": "Cung cấp Động",
+        "description": "Cung cấp điều chỉnh dựa trên nhu cầu trong khi duy trì peg"
+      },
+      "overcollateralization": {
+        "title": "Tài sản Thế chấp Vượt mức 150%",
+        "description": "Tài sản thế chấp bổ sung đảm bảo sự ổn định và bảo vệ người dùng"
+      }
+    }
+  },
+  "targetMarket": {
+    "title": "Thị trường Mục tiêu",
+    "subtitle": "Phục vụ các phân khúc người dùng đa dạng với các giải pháp được tùy chỉnh.",
+    "markets": {
+      "defiUsers": {
+        "title": "Người dùng DeFi",
+        "description": "Người nắm giữ stablecoin tìm kiếm đa dạng hóa và cơ hội sinh lời."
+      },
+      "piNetwork": {
+        "title": "Cộng đồng Pi Network",
+        "description": "55+ triệu người dùng tích cực sẵn sàng áp dụng các giải pháp blockchain."
+      },
+      "ecommerce": {
+        "title": "Thương mại Điện tử",
+        "description": "Thương nhân cần các tùy chọn thanh toán ổn định với phí thấp."
+      },
+      "crossBorder": {
+        "title": "Thanh toán Xuyên biên giới",
+        "description": "Giải pháp chuyển tiền chi phí thấp cho các giao dịch toàn cầu."
+      }
+    }
+  },
+  "competitiveAdvantages": {
+    "title": "Tại sao $USDP Nổi bật",
+    "subtitle": "Lợi thế cạnh tranh khiến chúng tôi khác biệt so với các stablecoin khác.",
+    "table": {
+      "feature": "Tính năng",
+      "usdp": "$USDP",
+      "competitors": "Đối thủ",
+      "network": "Mạng",
+      "fees": "Phí",
+      "collateralRatio": "Tỷ lệ Tài sản Thế chấp",
+      "authentication": "Xác thực",
+      "blockchainFees": "Phí Blockchain"
+    },
+    "values": {
+      "piNetwork": "Pi Network",
+      "ethereumTron": "Ethereum, Tron",
+      "fees03": "0.3%",
+      "fees05to1": "0.5-1%",
+      "collateral150": "150%",
+      "collateral100to110": "100-110%",
+      "passkeys": "Passkeys",
+      "passwords2fa": "Mật khẩu/2FA",
+      "feesLess001": "<$0.01",
+      "fees1to50": "$1-50"
+    }
+  },
+  "businessModel": {
+    "title": "Mô hình Kinh doanh Bền vững",
+    "subtitle": "Nhiều nguồn doanh thu được thiết kế cho tăng trưởng và ổn định lâu dài.",
+    "revenueStreams": {
+      "mintingFees": {
+        "title": "Phí Đúc",
+        "description": "0.3% trên tất cả các lần đúc"
+      },
+      "redeemingFees": {
+        "title": "Phí Đổi",
+        "description": "0.3% trên tất cả các lần đổi"
+      },
+      "transferFees": {
+        "title": "Phí Chuyển",
+        "description": "0.0% mỗi lần chuyển"
+      },
+      "partnershipFees": {
+        "title": "Phí Đối tác",
+        "description": "Quan hệ đối tác tích hợp"
+      }
+    }
+  },
+  "footer": {
+    "tagline": "Xây dựng tương lai của giá trị ổn định trên Pi Network.",
+    "product": "Sản phẩm",
+    "company": "Công ty",
+    "about": "Về",
+    "legal": "Pháp lý",
+    "privacy": "Quyền riêng tư",
+    "terms": "Điều khoản",
+    "disclosures": "Tiết lộ",
+    "copyright": "© {year} Provena Labs. Bảo lưu mọi quyền.",
+    "year": "year"
+  },
+  "common": {
+    "loading": "Đang tải...",
+    "error": "Lỗi",
+    "retry": "Thử lại"
+  },
+  "pages": {
+    "roadmap": {
+      "pageTitle": "Lộ trình Sản phẩm",
+      "pageSubtitle": "Tầm nhìn của chúng tôi về tương lai của $USDP và hệ sinh thái Provena Labs.",
+      "q4_2025": "Q4 2025",
+      "q1_2026": "Q1 2026",
+      "q2_2026": "Q2 2026",
+      "q3_2026": "Q3 2026",
+      "betaLaunchTitle": "Ra mắt Beta & Tính năng Cốt lõi",
+      "betaLaunchDesc": "Ra mắt beta trên Pi Network testnet",
+      "coreMintingDesc": "Tính năng đúc và đổi cốt lõi",
+      "securityAuditDesc": "Hoàn thành kiểm tra bảo mật",
+      "mainnetTitle": "Ra mắt Mainnet & Đối tác",
+      "mainnetDesc": "Ra mắt mainnet trên Pi Network",
+      "merchantDesc": "Đối tác thương gia",
+      "mobileAppDesc": "Ra mắt ứng dụng di động",
+      "defiTitle": "Tích hợp & Mở rộng DeFi",
+      "defiProtocolDesc": "Tích hợp giao thức DeFi",
+      "bridgeDesc": "Ra mắt cầu nối chuỗi chéo",
+      "governanceDesc": "Giới thiệu token quản trị",
+      "institutionalTitle": "Dịch vụ Tổ chức & Mở rộng Toàn cầu",
+      "institutionalDesc": "Ra mắt dịch vụ tổ chức",
+      "globalDesc": "Mở rộng toàn cầu sang thị trường mới",
+      "advancedDesc": "Tính năng và công cụ nâng cao"
+    },
+    "features": {
+      "title": "Tính năng Mạnh mẽ cho Tài chính Hiện đại",
+      "subtitle": "$PNA kết hợp công nghệ tiên tiến với thiết kế thân thiện người dùng để mang lại trải nghiệm stablecoin mà bạn xứng đáng.",
+      "features": {
+        "secure": {
+          "title": "Bảo mật & Minh bạch",
+          "description": "Ví đa chữ ký, kiểm tra thường xuyên và minh bạch hoàn toàn trên chuỗi đảm bảo tài sản của bạn luôn được bảo vệ và có thể xác minh."
+        },
+        "fast": {
+          "title": "Cực kỳ Nhanh",
+          "description": "Giao dịch được giải quyết trong vài giây với phí tối thiểu. Không chờ đợi, không trì hoãn, chỉ chuyển giá trị tức thì."
+        },
+        "stable": {
+          "title": "Giá trị Ổn định",
+          "description": "Duy trì tỷ lệ 1:1 với Đô la Mỹ thông qua thế chấp vượt mức 115% và cơ chế ổn định thuật toán."
+        },
+        "community": {
+          "title": "Được Cộng đồng Thúc đẩy",
+          "description": "Được xây dựng cho cộng đồng Pi Network với sự tham gia quản trị và phát triển tập trung vào cộng đồng."
+        },
+        "defi": {
+          "title": "Sẵn sàng DeFi",
+          "description": "Tích hợp liền mạch với các giao thức DeFi, nền tảng cho vay và sàn giao dịch phi tập trung."
+        },
+        "compliance": {
+          "title": "Tuân thủ Trước tiên",
+          "description": "Được thiết kế với tâm trí tuân thủ quy định, hỗ trợ áp dụng thể chế và sử dụng chính thống."
+        }
+      },
+      "advancedSecurity": {
+        "title": "Bảo mật Nâng cao",
+        "description": "Bảo mật của bạn là ưu tiên của chúng tôi. $PNA triển khai các thực hành bảo mật hàng đầu ngành bao gồm ví đa chữ ký, kiểm tra bên thứ ba thường xuyên và giám sát liên tục.",
+        "features": [
+          "Bảo vệ ví đa chữ ký",
+          "Kiểm tra bảo mật thường xuyên bởi các công ty hàng đầu",
+          "Giám sát và phát hiện mối đe dọa 24/7",
+          "Bảo hiểm cho quỹ người dùng"
+        ]
+      },
+      "lightningFast": {
+        "title": "Giao dịch Cực kỳ Nhanh",
+        "description": "Trải nghiệm tốc độ của blockchain mà không cần chờ đợi. Giao dịch $PNA được giải quyết trong vài giây, không phải vài giờ hay vài ngày.",
+        "features": [
+          "Xác nhận giao dịch dưới một giây",
+          "Phí giao dịch tối thiểu",
+          "Khả năng thông lượng cao",
+          "Hạ tầng có thể mở rộng"
+        ]
+      }
+    },
+    "product": {
+      "title": "Stablecoin $USDP",
+      "subtitle": "Một stablecoin được gắn với USD được xây dựng trên Pi Network, được thiết kế cho sự ổn định, bảo mật và giao dịch liền mạch.",
+      "tagline": "Ổn định. Bảo mật. Đơn giản.",
+      "whatIs": {
+        "title": "$USDP là gì?",
+        "description1": "$USDP là một stablecoin được thế chấp đầy đủ duy trì tỷ lệ 1:1 với Đô la Mỹ. Mỗi token $USDP được hỗ trợ bởi hơn 115% thế chấp, đảm bảo sự ổn định và bảo mật cho tất cả người dùng.",
+        "description2": "Được xây dựng trên blockchain Pi Network, $USDP cho phép giao dịch nhanh, chi phí thấp trong khi duy trì sự tin cậy và độ tin cậy mà người dùng mong đợi từ một stablecoin.",
+        "features": [
+          "Thế chấp vượt mức 150%",
+          "Tỷ lệ 1:1 USD",
+          "Minh bạch & Được kiểm tra",
+          "Gốc Pi Network"
+        ]
+      },
+      "coreFeatures": {
+        "title": "Tính năng Cốt lõi",
+        "items": [
+          {
+            "icon": "shield",
+            "title": "Bảo mật",
+            "description": "Ví đa chữ ký và kiểm tra bảo mật nghiêm ngặt đảm bảo quỹ của bạn được bảo vệ."
+          },
+          {
+            "icon": "zap",
+            "title": "Nhanh",
+            "description": "Giao dịch được giải quyết trong vài giây với phí tối thiểu trên Pi Network."
+          },
+          {
+            "icon": "globe",
+            "title": "Toàn cầu",
+            "description": "Gửi và nhận $USDP ở bất kỳ đâu trên thế giới không có biên giới."
+          },
+          {
+            "icon": "check",
+            "title": "Minh bạch",
+            "description": "Minh bạch hoàn toàn trên chuỗi với kiểm tra thường xuyên và báo cáo tuân thủ."
+          }
+        ]
+      },
+      "technicalSpecs": {
+        "title": "Thông số Kỹ thuật",
+        "blockchain": {
+          "label": "Blockchain",
+          "value": "Pi Network"
+        },
+        "tokenStandard": {
+          "label": "Tiêu chuẩn Token",
+          "value": "Token Gốc Pi Network"
+        },
+        "decimals": {
+          "label": "Số thập phân",
+          "value": "18"
+        },
+        "collateralization": {
+          "label": "Thế chấp",
+          "value": "Thế chấp vượt mức 150%"
+        },
+        "mintRedeemFee": {
+          "label": "Phí Đúc/Đổi",
+          "value": "0.3%"
+        },
+        "auditStatus": {
+          "label": "Trạng thái Kiểm tra",
+          "value": "Được kiểm tra thường xuyên"
+        }
+      }
+    },
+    "pricing": {
+      "title": "Giá cả Đơn giản, Minh bạch",
+      "subtitle": "Không có phí ẩn. Không có bất ngờ. Chỉ là giá cả trực tiếp cho tất cả nhu cầu stablecoin của bạn.",
+      "plans": [
+        {
+          "title": "Đúc & Đổi",
+          "description": "Tạo hoặc đốt token $USDP",
+          "price": "0.3%",
+          "priceNote": "Mỗi giao dịch",
+          "features": [
+            "Xử lý tức thì",
+            "Không có số tiền tối thiểu",
+            "Minh bạch hoàn toàn"
+          ]
+        },
+        {
+          "popular": true,
+          "badge": "Phổ biến Nhất",
+          "title": "Chuyển khoản",
+          "description": "Gửi $USDP giữa các ví",
+          "price": "<$0.01",
+          "priceNote": "Mỗi giao dịch",
+          "features": [
+            "Cực kỳ nhanh",
+            "Vài giây để giải quyết",
+            "Phạm vi toàn cầu"
+          ]
+        },
+        {
+          "title": "Truy cập API",
+          "description": "Dành cho nhà phát triển & doanh nghiệp",
+          "price": "Tùy chỉnh",
+          "priceNote": "Giá dựa trên khối lượng",
+          "features": [
+            "Hỗ trợ chuyên dụng",
+            "Tích hợp tùy chỉnh",
+            "Đảm bảo SLA"
+          ]
+        }
+      ],
+      "feeBreakdown": {
+        "title": "Phân tích Phí",
+        "transactionType": "Loại Giao dịch",
+        "fee": "Phí",
+        "speed": "Tốc độ",
+        "rows": [
+          {
+            "type": "Đúc $USDP",
+            "fee": "0.3%",
+            "speed": "Tức thì"
+          },
+          {
+            "type": "Đổi $USDP",
+            "fee": "0.3%",
+            "speed": "Tức thì"
+          },
+          {
+            "type": "Chuyển $USDP",
+            "fee": "<$0.01",
+            "speed": "Vài giây"
+          },
+          {
+            "type": "Gọi API",
+            "fee": "Tùy chỉnh",
+            "speed": "Thời gian thực"
+          }
+        ]
+      },
+      "faq": {
+        "title": "Câu hỏi Thường gặp",
+        "items": [
+          {
+            "question": "Có phí ẩn nào không?",
+            "answer": "Không. Tất cả phí đều minh bạch và được hiển thị trước. Những gì bạn thấy là những gì bạn trả."
+          },
+          {
+            "question": "Bạn có cung cấp giảm giá theo khối lượng không?",
+            "answer": "Có. Đối với người dùng và doanh nghiệp có khối lượng lớn, chúng tôi cung cấp giá tùy chỉnh. Liên hệ với đội ngũ bán hàng của chúng tôi để biết chi tiết."
+          },
+          {
+            "question": "Bạn chấp nhận phương thức thanh toán nào?",
+            "answer": "Chúng tôi chấp nhận USD, các stablecoin khác và các loại tiền điện tử chính để đúc và đổi $USDP."
+          }
+        ]
+      }
+    },
+    "developers": {
+      "title": "Tài nguyên Nhà phát triển",
+      "subtitle": "Mọi thứ bạn cần để tích hợp $PNA vào ứng dụng của mình. Tài liệu toàn diện, SDK và công cụ.",
+      "quickStart": {
+        "title": "Bắt đầu Nhanh",
+        "installation": {
+          "title": "Cài đặt",
+          "code": "coming soon"
+        },
+        "usage": {
+          "title": "Sử dụng Cơ bản",
+          "code": "coming soon"
+        }
+      },
+      "integrationOptions": {
+        "title": "Tùy chọn Tích hợp",
+        "items": [
+          {
+            "icon": "code",
+            "title": "Tích hợp Trực tiếp",
+            "description": "Sử dụng SDK JavaScript/TypeScript của chúng tôi để tích hợp API đầy đủ với ứng dụng của bạn.",
+            "linkText": "Xem Tài liệu"
+          },
+          {
+            "icon": "zap",
+            "title": "Tích hợp Ví",
+            "description": "Kết nối với ví Provena để có trải nghiệm người dùng liền mạch và hỗ trợ đa tiền tệ.",
+            "linkText": "Xem Tài liệu"
+          },
+          {
+            "icon": "book",
+            "title": "Cổng Thanh toán",
+            "description": "Thêm nút thanh toán $PNA vào trang web của bạn với widget được xây dựng sẵn của chúng tôi.",
+            "linkText": "Xem Tài liệu"
+          },
+          {
+            "icon": "git",
+            "title": "Webhooks",
+            "description": "Thông báo sự kiện thời gian thực cho cập nhật giao dịch và thay đổi trạng thái.",
+            "linkText": "Xem Tài liệu"
+          }
+        ]
+      },
+      "useCases": {
+        "title": "Trường hợp Sử dụng cho Người xây dựng",
+        "items": [
+          {
+            "title": "Thương mại điện tử",
+            "features": [
+              "Chấp nhận thanh toán $PNA",
+              "Phí giao dịch thấp",
+              "Giải quyết tức thì"
+            ]
+          },
+          {
+            "title": "Nền tảng DeFi",
+            "features": [
+              "Thêm $PNA làm tài sản thế chấp",
+              "Tạo nhóm thanh khoản",
+              "Xây dựng chiến lược lợi nhuận"
+            ]
+          },
+          {
+            "title": "Ví",
+            "features": [
+              "Tích hợp hỗ trợ $PNA",
+              "Ví đa tiền tệ",
+              "Theo dõi danh mục đầu tư"
+            ]
+          },
+          {
+            "title": "Trò chơi",
+            "features": [
+              "Tiền tệ trong trò chơi",
+              "Phân phối phần thưởng",
+              "Thanh toán thị trường NFT"
+            ]
+          }
+        ]
+      }
+    },
+    "about": {
+      "title": "Về Provena Labs",
+      "subtitle": "Chúng tôi đang xây dựng tương lai của tài chính kỹ thuật số ổn định trên Pi Network. Sứ mệnh của chúng tôi là cung cấp một giải pháp stablecoin an toàn, minh bạch và đổi mới kết nối tài chính truyền thống với công nghệ blockchain.",
+      "mission": {
+        "title": "Sứ mệnh của Chúng tôi",
+        "description1": "Tạo ra một stablecoin được gắn với USD cấp sản xuất cho phép giao dịch an toàn, nhanh chóng và chi phí thấp cho hơn 55 triệu người dùng trên Pi Network.",
+        "description2": "Chúng tôi tin vào sức mạnh của công nghệ blockchain để dân chủ hóa tài chính và cung cấp dịch vụ tài chính cho mọi người, mọi nơi."
+      },
+      "vision": {
+        "title": "Tầm nhìn của Chúng tôi",
+        "description1": "Một thế giới nơi tài sản kỹ thuật số ổn định có thể tiếp cận được với mọi người, cho phép giao dịch toàn cầu liền mạch và bao gồm tài chính.",
+        "description2": "Chúng tôi hình dung $USDP trở thành stablecoin tiêu chuẩn cho Pi Network, cung cấp năng lượng cho DeFi, thương mại điện tử và thanh toán xuyên biên giới."
+      },
+      "coreValues": {
+        "title": "Giá trị Cốt lõi của Chúng tôi",
+        "items": [
+          {
+            "icon": "innovation",
+            "title": "Đổi mới",
+            "description": "Chúng tôi liên tục đổi mới để cung cấp các giải pháp tiên tiến thúc đẩy hệ sinh thái blockchain."
+          },
+          {
+            "icon": "transparency",
+            "title": "Minh bạch",
+            "description": "Chúng tôi tin vào sự minh bạch hoàn toàn với theo dõi dự trữ thời gian thực và xác minh công khai."
+          },
+          {
+            "icon": "community",
+            "title": "Cộng đồng",
+            "description": "Chúng tôi cam kết xây dựng cùng và cho cộng đồng của chúng tôi, lắng nghe phản hồi và cùng nhau phát triển."
+          }
+        ]
+      },
+      "whyChoose": {
+        "title": "Tại sao Chọn Provena Labs?",
+        "items": [
+          {
+            "number": "1",
+            "title": "Lợi thế Người đi đầu",
+            "description": "Chúng tôi là stablecoin cấp sản xuất đầu tiên trên Pi Network, được định vị để chiếm lấy thị phần sớm."
+          },
+          {
+            "number": "2",
+            "title": "Cơ sở Người dùng Lớn",
+            "description": "Tiếp cận với hơn 55 triệu người dùng Pi Network tham gia sẵn sàng áp dụng các giải pháp blockchain."
+          },
+          {
+            "number": "3",
+            "title": "Sẵn sàng Sản xuất",
+            "description": "Nền tảng của chúng tôi được phát triển và kiểm tra đầy đủ, sẵn sàng để triển khai và mở rộng ngay lập tức."
+          },
+          {
+            "number": "4",
+            "title": "Mô hình Bền vững",
+            "description": "Nhiều nguồn doanh thu và quản lý kho bạc đảm bảo khả năng tồn tại và tăng trưởng lâu dài."
+          }
+        ]
+      }
+    },
+    "contact": {
+      "title": "Liên hệ",
+      "subtitle": "Có câu hỏi? Chúng tôi rất muốn nghe từ bạn. Gửi cho chúng tôi một tin nhắn và chúng tôi sẽ phản hồi càng sớm càng tốt.",
+      "contactInfo": [
+        {
+          "type": "email",
+          "label": "Email",
+          "value": "zyrachain@provenalabs.com",
+          "note": "Chúng tôi sẽ trả lời bạn trong vòng 24 giờ"
+        },
+        {
+          "type": "phone",
+          "label": "Điện thoại",
+          "value": "+234-701-067-6567",
+          "note": "Thứ Hai - Thứ Sáu, 9 giờ sáng - 5 giờ chiều EST"
+        },
+        {
+          "type": "office",
+          "label": "Văn phòng",
+          "value": "Ưu tiên Từ xa",
+          "note": "Phục vụ khách hàng trên toàn thế giới"
+        }
+      ],
+      "faq": {
+        "title": "Câu hỏi Thường gặp",
+        "items": [
+          {
+            "question": "Cách tốt nhất để liên hệ hỗ trợ là gì?",
+            "answer": "Bạn có thể liên hệ với đội ngũ hỗ trợ của chúng tôi qua email tại provenalabs@gmail.com."
+          },
+          {
+            "question": "Mất bao lâu để nhận được phản hồi?",
+            "answer": "Chúng tôi đặt mục tiêu trả lời tất cả các câu hỏi trong vòng 24 giờ trong ngày làm việc."
+          },
+          {
+            "question": "Bạn có diễn đàn cộng đồng không?",
+            "answer": "Có! Tham gia cộng đồng Discord của chúng tôi để kết nối với người dùng khác và nhận hỗ trợ từ cộng đồng."
+          }
+        ]
+      }
+    },
+    "security": {
+      "title": "Bảo mật & Tuân thủ",
+      "subtitle": "Các biện pháp bảo mật cấp doanh nghiệp và tiêu chuẩn tuân thủ để bảo vệ tài sản của bạn và đảm bảo tuân thủ quy định.",
+      "measures": {
+        "title": "Biện pháp Bảo mật",
+        "items": [
+          {
+            "icon": "authentication",
+            "title": "Xác thực",
+            "description": "Khóa WebAuthn/FIDO2 cung cấp xác thực sinh trắc học và dựa trên PIN mà không cần mật khẩu.",
+            "features": [
+              "Xác thực sinh trắc học",
+              "Bảo mật dựa trên PIN",
+              "Không lưu trữ mật khẩu"
+            ]
+          },
+          {
+            "icon": "encryption",
+            "title": "Mã hóa",
+            "description": "Mã hóa cấp quân sự bảo vệ dữ liệu của bạn khi nghỉ và trong quá trình truyền.",
+            "features": [
+              "AES-256 khi nghỉ",
+              "TLS 1.3 trong quá trình truyền",
+              "Mã hóa phía máy khách"
+            ]
+          },
+          {
+            "icon": "keyManagement",
+            "title": "Quản lý Khóa",
+            "description": "Mô-đun bảo mật phần cứng và giao dịch đa chữ ký bảo vệ các khóa quan trọng.",
+            "features": [
+              "Mô-đun bảo mật phần cứng",
+              "Giao dịch đa chữ ký",
+              "Chính sách xoay khóa"
+            ]
+          },
+          {
+            "icon": "monitoring",
+            "title": "Giám sát",
+            "description": "Phát hiện mối đe dọa 24/7 và kiểm tra bảo mật thường xuyên đảm bảo bảo vệ liên tục.",
+            "features": [
+              "Phát hiện mối đe dọa 24/7",
+              "Kiểm tra bảo mật thường xuyên",
+              "Đội phản ứng sự cố"
+            ]
+          }
+        ]
+      },
+      "compliance": {
+        "title": "Tiêu chuẩn Tuân thủ",
+        "items": [
+          {
+            "title": "KYC/AML",
+            "description": "Quy trình xác minh người dùng toàn diện để tuân thủ các quy định chống rửa tiền."
+          },
+          {
+            "title": "Cấp phép",
+            "description": "Tuân thủ truyền tiền và giấy phép quy định ở các khu vực pháp lý quan trọng."
+          },
+          {
+            "title": "Kiểm tra",
+            "description": "Kiểm tra tài chính và bảo mật thường xuyên bởi các công ty bên thứ ba độc lập."
+          },
+          {
+            "title": "Bảo hiểm",
+            "description": "Bảo hiểm ví lạnh và bảo hiểm toàn diện cho tài sản kỹ thuật số."
+          },
+          {
+            "title": "Dự trữ",
+            "description": "Báo cáo dự trữ công khai và xác minh thời gian thực của hỗ trợ thế chấp."
+          },
+          {
+            "title": "Quyền riêng tư",
+            "description": "Xử lý dữ liệu tuân thủ GDPR và chính sách bảo vệ quyền riêng tư người dùng."
+          }
+        ]
+      },
+      "bestPractices": {
+        "title": "Thực hành Bảo mật Người dùng Tốt nhất",
+        "dos": {
+          "title": "Nên làm",
+          "items": [
+            "Lưu trữ cụm mật khẩu của bạn an toàn ngoại tuyến",
+            "Bật xác thực sinh trắc học",
+            "Xác minh số tiền giao dịch trước khi xác nhận",
+            "Kiểm tra giá Pi trước khi đúc",
+            "Sử dụng mạng an toàn cho giao dịch"
+          ]
+        },
+        "donts": {
+          "title": "Không nên làm",
+          "items": [
+            "Chia sẻ cụm mật khẩu của bạn với bất kỳ ai",
+            "Chụp màn hình dữ liệu nhạy cảm",
+            "Sử dụng trên mạng công cộng không an toàn",
+            "Gửi đến địa chỉ chưa được xác minh",
+            "Nhấp vào liên kết hoặc email đáng ngờ"
+          ]
+        }
+      }
+    },
+    "support": {
+      "title": "Hỗ trợ Provena Labs",
+      "subtitle": "Giúp chúng tôi xây dựng tương lai của giá trị ổn định trên Pi Network",
+      "whySupport": {
+        "title": "Tại sao Sự hỗ trợ của Bạn Quan trọng",
+        "intro": "Provena Labs đang xây dựng cơ sở hạ tầng quan trọng cho hệ sinh thái Pi Network. Đóng góp của bạn trực tiếp hỗ trợ:",
+        "items": [
+          {
+            "title": "Phát triển & Đổi mới",
+            "description": "Tài trợ cho việc phát triển liên tục của stablecoin $USDP, kiểm tra bảo mật và các tính năng mới nâng cao hệ sinh thái."
+          },
+          {
+            "title": "Bảo mật & Tuân thủ",
+            "description": "Đảm bảo các tiêu chuẩn bảo mật, tuân thủ quy định và quản lý rủi ro cao nhất để bảo vệ người dùng."
+          },
+          {
+            "title": "Tăng trưởng Cộng đồng",
+            "description": "Hỗ trợ giáo dục, quan hệ đối tác và các sáng kiến cộng đồng thúc đẩy việc áp dụng và nhận thức."
+          },
+          {
+            "title": "Hạ tầng & Vận hành",
+            "description": "Duy trì hệ thống đáng tin cậy, giám sát và xuất sắc vận hành để đảm bảo khả năng sử dụng 24/7."
+          }
+        ],
+        "conclusion": "Mọi đóng góp, bất kể quy mô, đều giúp chúng tôi tăng tốc phát triển và mang lại giá trị ổn định cho hàng triệu người dùng trên Pi Network. Sự hỗ trợ của bạn là một phiếu bầu tin tưởng vào sứ mệnh của chúng tôi."
+      },
+      "walletAddress": "GCAO7I2ZBIEFXNYD3KZFA3UXLMDVCYUG6CTCYG56746LZB5MIUFIIBJ5",
+      "donation": {
+        "title": "Quyên góp bằng Pi",
+        "label": "Gửi Pi đến địa chỉ ví của chúng tôi",
+        "walletLabel": "Địa chỉ Ví Pi",
+        "copy": "Sao chép địa chỉ ví",
+        "warning": {
+          "title": "Quan trọng:",
+          "text": "Đảm bảo bạn đang gửi Pi từ Ví Pi của bạn. Kiểm tra kỹ địa chỉ ví để đảm bảo đóng góp của bạn đến với chúng tôi an toàn."
+        },
+        "howTo": {
+          "title": "Cách gửi:",
+          "steps": [
+            "Mở ứng dụng Ví Pi của bạn",
+            "Chọn \"Gửi\" hoặc \"Chuyển\"",
+            "Dán địa chỉ ví Pi ở trên",
+            "Nhập số lượng Pi bạn muốn quyên góp",
+            "Xác nhận giao dịch",
+            "Đóng góp của bạn sẽ được nhận trong vòng vài phút"
+          ]
+        },
+        "thankYou": {
+          "title": "Cảm ơn bạn!",
+          "message": "Chúng tôi vô cùng biết ơn sự hỗ trợ của bạn. Mọi đóng góp đều giúp chúng tôi xây dựng một tương lai ổn định và thịnh vượng hơn cho hệ sinh thái Pi Network.",
+          "contactLink": "Có Câu hỏi? Liên hệ Chúng tôi"
+        }
+      }
+    },
+    "blog": {
+      "title": "Blog Provena Labs",
+      "subtitle": "Cập nhật với tin tức, thông tin chi tiết và cập nhật mới nhất từ đội ngũ Provena Labs.",
+      "featured": "Nổi bật",
+      "readMore": "Đọc thêm",
+      "posts": [
+        {
+          "title": "Giới thiệu $USDP: Tương lai của Giá trị Ổn định",
+          "excerpt": "Chúng tôi vui mừng thông báo ra mắt $USDP, một stablecoin được thế chấp đầy đủ được xây dựng trên Pi Network.",
+          "date": "15 tháng 1, 2025",
+          "author": "Đội ngũ Provena Labs",
+          "category": "Thông báo"
+        },
+        {
+          "title": "Hiểu về Thế chấp Stablecoin",
+          "excerpt": "Tìm hiểu cách $USDP duy trì tỷ lệ 1:1 USD thông qua thế chấp vượt mức 150% và cơ chế ổn định tiên tiến.",
+          "date": "10 tháng 1, 2025",
+          "author": "Đội ngũ Kỹ thuật",
+          "category": "Giáo dục"
+        },
+        {
+          "title": "Hướng dẫn Tích hợp DeFi: Sử dụng $USDP trong Giao thức của Bạn",
+          "excerpt": "Hướng dẫn toàn diện cho các nhà phát triển muốn tích hợp $USDP vào ứng dụng và giao thức DeFi của họ.",
+          "date": "5 tháng 1, 2025",
+          "author": "Quan hệ Nhà phát triển",
+          "category": "Nhà phát triển"
+        },
+        {
+          "title": "Kết quả Kiểm tra Bảo mật: $USDP Vượt qua Đánh giá Toàn diện",
+          "excerpt": "Chúng tôi tự hào chia sẻ kết quả kiểm tra bảo mật mới nhất của chúng tôi, xác nhận tính mạnh mẽ của nền tảng của chúng tôi.",
+          "date": "28 tháng 12, 2024",
+          "author": "Đội ngũ Bảo mật",
+          "category": "Bảo mật"
+        },
+        {
+          "title": "Cập nhật Lộ trình Q4 2024: Điều gì Sắp tới",
+          "excerpt": "Tổng quan về thành tựu của chúng tôi trong Q4 và các tính năng thú vị mà chúng tôi đã lên kế hoạch cho năm 2025.",
+          "date": "20 tháng 12, 2024",
+          "author": "Đội ngũ Sản phẩm",
+          "category": "Lộ trình"
+        },
+        {
+          "title": "Điểm nổi bật Cộng đồng: Người dùng Đang sử dụng $USDP như thế nào",
+          "excerpt": "Giới thiệu các câu chuyện từ các thành viên cộng đồng của chúng tôi và cách họ tận dụng $USDP trong cuộc sống hàng ngày của họ.",
+          "date": "15 tháng 12, 2024",
+          "author": "Đội ngũ Cộng đồng",
+          "category": "Cộng đồng"
+        }
+      ]
+    },
+    "careers": {
+      "title": "Tham gia Đội ngũ của Chúng tôi",
+      "subtitle": "Giúp chúng tôi xây dựng tương lai của tiền tệ kỹ thuật số ổn định. Chúng tôi đang tìm kiếm những cá nhân tài năng đam mê blockchain và tài chính.",
+      "whyJoin": [
+        {
+          "icon": "meaningful",
+          "title": "Công việc Có ý nghĩa",
+          "description": "Làm việc trên các dự án ảnh hưởng đến hàng triệu người trên toàn cầu."
+        },
+        {
+          "icon": "remote",
+          "title": "Ưu tiên Từ xa",
+          "description": "Làm việc từ bất kỳ đâu trên thế giới với lịch trình linh hoạt."
+        },
+        {
+          "icon": "pay",
+          "title": "Lương Cạnh tranh",
+          "description": "Mức lương hàng đầu ngành và gói cổ phần."
+        },
+        {
+          "icon": "growth",
+          "title": "Phát triển",
+          "description": "Học tập liên tục và phát triển chuyên nghiệp."
+        }
+      ],
+      "openPositions": {
+        "title": "Vị trí Mở"
+      },
+      "jobs": [
+        {
+          "title": "Kỹ sư Blockchain Cấp cao",
+          "department": "Kỹ thuật",
+          "location": "Từ xa",
+          "type": "Toàn thời gian",
+          "salary": "$150K - $200K"
+        },
+        {
+          "title": "Quản lý Sản phẩm",
+          "department": "Sản phẩm",
+          "location": "Từ xa",
+          "type": "Toàn thời gian",
+          "salary": "$130K - $170K"
+        },
+        {
+          "title": "Kiểm toán viên Bảo mật",
+          "department": "Bảo mật",
+          "location": "Từ xa",
+          "type": "Toàn thời gian",
+          "salary": "$140K - $190K"
+        },
+        {
+          "title": "Kỹ sư Quan hệ Nhà phát triển",
+          "department": "Quan hệ Nhà phát triển",
+          "location": "Từ xa",
+          "type": "Toàn thời gian",
+          "salary": "$120K - $160K"
+        },
+        {
+          "title": "Quản lý Tiếp thị",
+          "department": "Tiếp thị",
+          "location": "Từ xa",
+          "type": "Toàn thời gian",
+          "salary": "$100K - $140K"
+        },
+        {
+          "title": "Quản lý Cộng đồng",
+          "department": "Cộng đồng",
+          "location": "Từ xa",
+          "type": "Toàn thời gian",
+          "salary": "$80K - $120K"
+        }
+      ],
+      "benefits": {
+        "title": "Phúc lợi",
+        "health": {
+          "title": "Sức khỏe & Sức khỏe",
+          "items": [
+            "Bảo hiểm sức khỏe toàn diện",
+            "Hỗ trợ sức khỏe tinh thần",
+            "Trợ cấp thể dục",
+            "Nghỉ phép không giới hạn"
+          ]
+        },
+        "professional": {
+          "title": "Phát triển Chuyên nghiệp",
+          "items": [
+            "Ngân sách học tập",
+            "Tham dự hội nghị",
+            "Chương trình cố vấn",
+            "Huấn luyện nghề nghiệp"
+          ]
+        },
+        "compensation": {
+          "title": "Bồi thường",
+          "items": [
+            "Mức lương cạnh tranh",
+            "Gói cổ phần",
+            "Tiền thưởng hiệu suất",
+            "Lợi ích tiền điện tử"
+          ]
+        },
+        "workLife": {
+          "title": "Cân bằng Công việc-Cuộc sống",
+          "items": [
+            "Giờ làm việc linh hoạt",
+            "Làm việc từ xa",
+            "Nghỉ phép làm cha mẹ",
+            "Sự kiện nhóm"
+          ]
+        }
+      },
+      "cta": {
+        "message": "Không thấy vị trí phù hợp?",
+        "button": "Gửi CV của Bạn"
+      }
+    },
+    "company": {
+      "title": "Về Provena Labs",
+      "subtitle": "Xây dựng tương lai của tiền tệ kỹ thuật số ổn định trên Pi Network",
+      "missionVision": [
+        {
+          "type": "mission",
+          "title": "Sứ mệnh của Chúng tôi",
+          "description": "Tạo ra một stablecoin ổn định, an toàn và có thể tiếp cận trao quyền cho các cá nhân và doanh nghiệp tham gia vào nền kinh tế kỹ thuật số với sự tự tin và dễ dàng."
+        },
+        {
+          "type": "vision",
+          "title": "Tầm nhìn của Chúng tôi",
+          "description": "Một thế giới nơi tiền tệ kỹ thuật số ổn định là nền tảng cho thương mại toàn cầu, cho phép giao dịch liền mạch và bao gồm tài chính cho mọi người."
+        }
+      ],
+      "coreValues": {
+        "title": "Giá trị Cốt lõi",
+        "items": [
+          {
+            "icon": "excellence",
+            "title": "Xuất sắc",
+            "description": "Chúng tôi phấn đấu cho các tiêu chuẩn cao nhất trong mọi việc chúng tôi làm."
+          },
+          {
+            "icon": "community",
+            "title": "Cộng đồng",
+            "description": "Chúng tôi xây dựng cùng và cho cộng đồng của chúng tôi."
+          },
+          {
+            "icon": "innovation",
+            "title": "Đổi mới",
+            "description": "Chúng tôi chấp nhận các ý tưởng và công nghệ mới."
+          },
+          {
+            "icon": "transparency",
+            "title": "Minh bạch",
+            "description": "Chúng tôi hoạt động với sự cởi mở và trung thực hoàn toàn."
+          }
+        ]
+      },
+      "stats": {
+        "title": "Theo Số liệu",
+        "items": [
+          {
+            "value": "$00M+",
+            "label": "Tổng Giá trị Bị khóa"
+          },
+          {
+            "value": "00K+",
+            "label": "Người dùng Hoạt động"
+          },
+          {
+            "value": "0+",
+            "label": "Tích hợp"
+          },
+          {
+            "value": "24/7",
+            "label": "Hỗ trợ Có sẵn"
+          }
+        ]
+      },
+      "team": {
+        "title": "Đội ngũ Lãnh đạo",
+        "description": "Đội ngũ của chúng tôi tập hợp chuyên môn về blockchain, tài chính và công nghệ để xây dựng tương lai của tiền tệ kỹ thuật số ổn định."
+      }
+    },
+    "comingSoon": {
+      "title": "Sắp ra mắt",
+      "subtitle": "Chúng tôi đang làm việc chăm chỉ để mang đến cho bạn điều gì đó tuyệt vời. Hãy theo dõi!",
+      "whatsNext": {
+        "title": "Điều gì Tiếp theo?",
+        "description": "Chúng tôi đang xây dựng tương lai của giá trị ổn định trên Pi Network. Tham gia cộng đồng của chúng tôi để cập nhật về tiến trình của chúng tôi.",
+        "telegramButton": "Tham gia Telegram",
+        "homeButton": "Về Trang chủ"
+      },
+      "footer": "Để cập nhật và thông báo, hãy theo dõi chúng tôi trên các kênh xã hội của chúng tôi."
+    },
+    "legal": {
+      "privacy": {
+        "title": "Chính sách Quyền riêng tư",
+        "lastUpdated": "Cập nhật lần cuối: Tháng 1 năm 2025",
+        "sections": [
+          {
+            "title": "1. Giới thiệu",
+            "content": "Provena Labs (\"chúng tôi\", \"của chúng tôi\", \"của chúng tôi\" hoặc \"Công ty\") cam kết bảo vệ quyền riêng tư của bạn. Chính sách Quyền riêng tư này giải thích cách chúng tôi thu thập, sử dụng, tiết lộ và bảo vệ thông tin của bạn khi bạn truy cập trang web của chúng tôi và sử dụng dịch vụ của chúng tôi."
+          },
+          {
+            "title": "2. Thông tin Chúng tôi Thu thập",
+            "content": "Chúng tôi có thể thu thập thông tin về bạn theo nhiều cách:",
+            "items": [
+              "Thông tin bạn cung cấp trực tiếp (tên, email, địa chỉ ví)",
+              "Thông tin được thu thập tự động (địa chỉ IP, loại trình duyệt, trang đã truy cập)",
+              "Thông tin từ nguồn bên thứ ba (nhà cung cấp phân tích, bộ xử lý thanh toán)"
+            ]
+          },
+          {
+            "title": "3. Cách Chúng tôi Sử dụng Thông tin của Bạn",
+            "content": "Chúng tôi sử dụng thông tin chúng tôi thu thập để:",
+            "items": [
+              "Cung cấp, duy trì và cải thiện dịch vụ của chúng tôi",
+              "Xử lý giao dịch và gửi thông tin liên quan",
+              "Gửi thông tin quảng cáo (với sự đồng ý của bạn)",
+              "Tuân thủ nghĩa vụ pháp lý",
+              "Ngăn chặn gian lận và tăng cường bảo mật"
+            ]
+          },
+          {
+            "title": "4. Bảo mật Dữ liệu",
+            "content": "Chúng tôi triển khai các biện pháp kỹ thuật và tổ chức phù hợp để bảo vệ thông tin cá nhân của bạn khỏi truy cập trái phép, thay đổi, tiết lộ hoặc phá hủy. Tuy nhiên, không có phương pháp truyền qua Internet nào là 100% an toàn."
+          },
+          {
+            "title": "5. Quyền của Bạn",
+            "content": "Tùy thuộc vào vị trí của bạn, bạn có thể có quyền:",
+            "items": [
+              "Truy cập thông tin cá nhân của bạn",
+              "Sửa dữ liệu không chính xác",
+              "Yêu cầu xóa dữ liệu của bạn",
+              "Từ chối thông tin tiếp thị"
+            ]
+          },
+          {
+            "title": "6. Liên hệ Chúng tôi",
+            "content": "Nếu bạn có câu hỏi về Chính sách Quyền riêng tư này, vui lòng liên hệ với chúng tôi tại privacy@provenalabs.com"
+          }
+        ]
+      },
+      "terms": {
+        "title": "Điều khoản Dịch vụ",
+        "lastUpdated": "Cập nhật lần cuối: Tháng 1 năm 2025",
+        "sections": [
+          {
+            "title": "1. Đồng ý với Điều khoản",
+            "content": "Bằng cách truy cập và sử dụng trang web và dịch vụ này, bạn chấp nhận và đồng ý bị ràng buộc bởi các điều khoản và quy định của thỏa thuận này. Nếu bạn không đồng ý tuân thủ các điều trên, vui lòng không sử dụng dịch vụ này."
+          },
+          {
+            "title": "2. Giấy phép Sử dụng",
+            "content": "Được cấp quyền tạm thời tải xuống một bản sao của tài liệu (thông tin hoặc phần mềm) trên trang web của Provena Labs chỉ để xem tạm thời cá nhân, phi thương mại. Đây là việc cấp giấy phép, không phải chuyển nhượng quyền sở hữu, và theo giấy phép này bạn không được:",
+            "items": [
+              "Sửa đổi hoặc sao chép tài liệu",
+              "Sử dụng tài liệu cho bất kỳ mục đích thương mại nào hoặc để hiển thị công khai",
+              "Cố gắng giải mã nguồn hoặc đảo ngược kỹ thuật bất kỳ phần mềm nào chứa trên trang web",
+              "Xóa bất kỳ bản quyền hoặc ký hiệu sở hữu khác từ tài liệu",
+              "Chuyển tài liệu cho người khác hoặc \"phản chiếu\" tài liệu trên bất kỳ máy chủ nào khác"
+            ]
+          },
+          {
+            "title": "3. Từ chối trách nhiệm",
+            "content": "Tài liệu trên trang web của Provena Labs được cung cấp trên cơ sở 'như hiện có'. Provena Labs không đưa ra bất kỳ bảo đảm nào, rõ ràng hay ngụ ý, và do đó từ chối và phủ nhận tất cả các bảo đảm khác bao gồm, không giới hạn, bảo đảm ngụ ý hoặc điều kiện về khả năng bán được, phù hợp cho mục đích cụ thể, hoặc không vi phạm quyền sở hữu trí tuệ hoặc vi phạm quyền khác."
+          },
+          {
+            "title": "4. Giới hạn",
+            "content": "Trong mọi trường hợp, Provena Labs hoặc các nhà cung cấp của nó không chịu trách nhiệm về bất kỳ thiệt hại nào (bao gồm, không giới hạn, thiệt hại do mất dữ liệu hoặc lợi nhuận, hoặc do gián đoạn kinh doanh) phát sinh từ việc sử dụng hoặc không thể sử dụng tài liệu trên trang web của Provena Labs."
+          },
+          {
+            "title": "5. Độ chính xác của Tài liệu",
+            "content": "Tài liệu xuất hiện trên trang web của Provena Labs có thể bao gồm lỗi kỹ thuật, in ấn hoặc ảnh. Provena Labs không đảm bảo rằng bất kỳ tài liệu nào trên trang web của nó là chính xác, đầy đủ hoặc hiện tại."
+          },
+          {
+            "title": "6. Liên kết",
+            "content": "Provena Labs chưa xem xét tất cả các trang web được liên kết với trang web của nó và không chịu trách nhiệm về nội dung của bất kỳ trang web được liên kết nào như vậy. Việc bao gồm bất kỳ liên kết nào không có nghĩa là Provena Labs chứng thực trang web đó. Việc sử dụng bất kỳ trang web được liên kết nào như vậy là rủi ro của người dùng."
+          },
+          {
+            "title": "7. Sửa đổi",
+            "content": "Provena Labs có thể sửa đổi các điều khoản dịch vụ này cho trang web của nó bất cứ lúc nào mà không cần thông báo. Bằng cách sử dụng trang web này, bạn đồng ý bị ràng buộc bởi phiên bản hiện tại của các điều khoản dịch vụ này."
+          },
+          {
+            "title": "8. Luật Điều chỉnh",
+            "content": "Các điều khoản và điều kiện này được điều chỉnh và giải thích theo luật của khu vực pháp lý mà Provena Labs hoạt động, và bạn không thể hủy bỏ phải tuân theo thẩm quyền độc quyền của tòa án tại địa điểm đó."
+          }
+        ]
+      },
+      "compliance": {
+        "title": "Tuân thủ & Quy định",
+        "subtitle": "Cam kết của chúng tôi về tuân thủ quy định và minh bạch",
+        "sections": [
+          {
+            "title": "Tuân thủ Quy định",
+            "description": "Provena Labs cam kết duy trì các tiêu chuẩn tuân thủ quy định cao nhất. Chúng tôi làm việc chặt chẽ với các cơ quan quản lý để đảm bảo hoạt động của chúng tôi đáp ứng tất cả các luật và quy định hiện hành.",
+            "items": [
+              {
+                "title": "Tuân thủ AML/KYC",
+                "description": "Chúng tôi triển khai các quy trình chống rửa tiền và biết khách hàng của bạn toàn diện để ngăn chặn tội phạm tài chính."
+              },
+              {
+                "title": "Bảo vệ Dữ liệu",
+                "description": "Chúng tôi tuân thủ GDPR, CCPA và các quy định bảo vệ dữ liệu khác để bảo vệ quyền riêng tư của người dùng."
+              },
+              {
+                "title": "Quy định Tài chính",
+                "description": "Chúng tôi tuân thủ tất cả các quy định tài chính hiện hành và duy trì giấy phép phù hợp khi cần thiết."
+              },
+              {
+                "title": "Kiểm tra & Minh bạch",
+                "description": "Chúng tôi trải qua các cuộc kiểm tra bên thứ ba thường xuyên và duy trì minh bạch hoàn toàn trong hoạt động của chúng tôi."
+              }
+            ]
+          },
+          {
+            "title": "Kiểm tra Bảo mật",
+            "description": "Nền tảng của chúng tôi trải qua các cuộc kiểm tra bảo mật thường xuyên bởi các công ty bảo mật độc lập hàng đầu để đảm bảo an toàn cho quỹ và dữ liệu người dùng.",
+            "content": {
+              "title": "Kết quả Kiểm tra Mới nhất",
+              "items": [
+                "Kiểm tra Bảo mật: Q4 2024 - Vượt qua không có vấn đề quan trọng",
+                "Kiểm tra Hợp đồng Thông minh: Q4 2024 - Vượt qua không có vấn đề quan trọng",
+                "Xem xét Tuân thủ: Q4 2024 - Tuân thủ đầy đủ"
+              ]
+            }
+          },
+          {
+            "title": "Giấy phép Quy định",
+            "description": "Provena Labs duy trì tất cả các giấy phép và đăng ký cần thiết để hoạt động trong các khu vực pháp lý của chúng tôi.",
+            "grid": [
+              {
+                "title": "Giấy phép Dịch vụ Tiền tệ",
+                "description": "Đã đăng ký với FinCEN và các cơ quan quản lý nhà nước"
+              },
+              {
+                "title": "Bảo vệ Dữ liệu",
+                "description": "Tuân thủ GDPR và CCPA"
+              }
+            ]
+          },
+          {
+            "title": "Báo cáo & Minh bạch",
+            "description": "Chúng tôi tin vào sự minh bạch và thường xuyên xuất bản báo cáo về nỗ lực tuân thủ và chỉ số hoạt động của chúng tôi.",
+            "links": [
+              {
+                "text": "Báo cáo Tuân thủ Q4 2024",
+                "url": "#"
+              },
+              {
+                "text": "Báo cáo Kiểm tra Bảo mật",
+                "url": "#"
+              },
+              {
+                "text": "Báo cáo Minh bạch",
+                "url": "#"
+              }
+            ]
+          }
+        ]
+      },
+      "disclosures": {
+        "title": "Công bố Rủi ro",
+        "subtitle": "Thông tin quan trọng về rủi ro liên quan đến $USDP",
+        "warning": {
+          "title": "Từ chối trách nhiệm Quan trọng",
+          "text": "Đầu tư tiền điện tử và stablecoin có rủi ro đáng kể. Vui lòng đọc kỹ tất cả các công bố trước khi sử dụng $USDP hoặc dịch vụ của chúng tôi."
+        },
+        "sections": [
+          {
+            "title": "Rủi ro Thị trường",
+            "items": [
+              {
+                "title": "Rủi ro Biến động",
+                "description": "Mặc dù $USDP được thiết kế để duy trì tỷ lệ 1:1 USD, điều kiện thị trường có thể gây ra sai lệch tạm thời. Giá trị của $USDP có thể dao động."
+              },
+              {
+                "title": "Rủi ro Thanh khoản",
+                "description": "Không có đảm bảo về thanh khoản đủ để mua hoặc bán $USDP tại bất kỳ thời điểm nào. Điều kiện thị trường có thể ảnh hưởng đến khả năng giao dịch của bạn."
+              },
+              {
+                "title": "Rủi ro Đối tác",
+                "description": "$USDP phụ thuộc vào sự ổn định tài chính của các nhà cung cấp thế chấp và đối tác của chúng tôi. Sự thất bại của các thực thể này có thể ảnh hưởng đến giá trị của $USDP."
+              }
+            ]
+          },
+          {
+            "title": "Rủi ro Công nghệ",
+            "items": [
+              {
+                "title": "Rủi ro Hợp đồng Thông minh",
+                "description": "Mặc dù các hợp đồng thông minh của chúng tôi đã được kiểm tra, luôn có rủi ro về lỗ hổng hoặc khai thác chưa được phát hiện."
+              },
+              {
+                "title": "Rủi ro Blockchain",
+                "description": "Blockchain Pi Network có thể gặp sự cố kỹ thuật, tắc nghẽn mạng hoặc các vấn đề khác có thể ảnh hưởng đến giao dịch $USDP."
+              },
+              {
+                "title": "Rủi ro Ví",
+                "description": "Mất khóa riêng tư hoặc quyền truy cập ví có thể dẫn đến mất vĩnh viễn $USDP của bạn. Chúng tôi không thể khôi phục quỹ đã mất."
+              }
+            ]
+          },
+          {
+            "title": "Rủi ro Quy định",
+            "items": [
+              {
+                "title": "Thay đổi Quy định",
+                "description": "Thay đổi trong quy định tiền điện tử có thể ảnh hưởng đến khả năng sử dụng hoặc sử dụng $USDP ở một số khu vực pháp lý nhất định."
+              },
+              {
+                "title": "Không chắc chắn Pháp lý",
+                "description": "Tình trạng pháp lý của stablecoin và tiền điện tử vẫn không chắc chắn ở nhiều khu vực pháp lý và có thể thay đổi."
+              }
+            ]
+          },
+          {
+            "title": "Không có Tư vấn Đầu tư",
+            "content": "Trang web này và dịch vụ của chúng tôi không cấu thành tư vấn đầu tư, tư vấn tài chính hoặc khuyến nghị mua hoặc bán $USDP. Chúng tôi khuyến nghị mạnh mẽ tham khảo ý kiến với cố vấn tài chính có trình độ trước khi đưa ra bất kỳ quyết định đầu tư nào."
+          },
+          {
+            "title": "Giới hạn Trách nhiệm",
+            "content": "Ở mức tối đa được pháp luật cho phép, Provena Labs sẽ không chịu trách nhiệm về bất kỳ thiệt hại gián tiếp, ngẫu nhiên, đặc biệt, hậu quả hoặc trừng phạt nào, bao gồm mất lợi nhuận, dữ liệu hoặc sử dụng, phát sinh từ việc sử dụng $USDP hoặc dịch vụ của chúng tôi."
+          }
+        ]
+      }
+    },
+    "pitch": {
+        "cover": {
+          "tagline": "Ổn định. An toàn. Đơn giản.",
+          "subtitle": "Tương lai của Giá trị Ổn định trên Pi Network",
+          "description": "Stablecoin được gắn với USD được thiết kế cho thế hệ tài chính kỹ thuật số tiếp theo."
+        },
+        "problem": {
+          "title": "Tại sao Stablecoin Quan trọng",
+          "challenges": {
+            "title": "Thách thức Thị trường Hiện tại",
+            "items": [
+              "Các stablecoin hiện có hoạt động trên mạng phí cao (Ethereum, Tron)",
+              "Chi phí giao dịch đạt $1-50+ mỗi giao dịch",
+              "Khả năng tiếp cận hạn chế cho 55+ triệu người dùng Pi Network",
+              "Thiếu bảo mật cấp doanh nghiệp trong các giải pháp hiện có",
+              "Nhu cầu hỗ trợ tài sản thế chấp minh bạch, được kiểm toán"
+            ]
+          },
+          "opportunity": {
+            "title": "Cơ hội",
+            "description": "Hàng tỷ người dùng trên toàn thế giới thiếu quyền truy cập vào tiền tệ kỹ thuật số ổn định với chi phí thấp và bảo mật cao."
+          }
+        },
+        "introducing": {
+          "title": "$USDP là gì?",
+          "description": "$USDP là stablecoin được gắn với USD có đầy đủ tài sản thế chấp được xây dựng gốc trên blockchain Pi Network.",
+          "valueProps": [
+            {
+              "title": "1:1 USD Peg",
+              "description": "Luôn có giá trị chính xác một đô la"
+            },
+            {
+              "title": "150% Tài sản Thế chấp Vượt mức",
+              "description": "Được hỗ trợ bởi hơn 115% tài sản thế chấp để đảm bảo tính ổn định tối đa"
+            },
+            {
+              "title": "Bảo mật Doanh nghiệp",
+              "description": "Ví đa chữ ký, xác thực passkey, và kiểm toán nghiêm ngặt"
+            },
+            {
+              "title": "Pi Network Gốc",
+              "description": "Tận dụng cơ sở hạ tầng blockchain nhanh nhất, chi phí thấp nhất"
+            },
+            {
+              "title": "Minh bạch & Được Kiểm toán",
+              "description": "Minh bạch on-chain đầy đủ với báo cáo tuân thủ thường xuyên"
+            }
+          ]
+        },
+        "competitiveAdvantages": {
+          "title": "Tại sao $USDP Nổi bật",
+          "subtitle": "Lợi thế Cạnh tranh",
+          "table": {
+            "feature": "Tính năng",
+            "usdp": "$USDP",
+            "competitors": "Đối thủ",
+            "rows": [
+              {
+                "feature": "Mạng",
+                "usdp": "Pi Network",
+                "competitors": "Ethereum, Tron"
+              },
+              {
+                "feature": "Phí Giao dịch",
+                "usdp": "<$0.01",
+                "competitors": "$1-50+"
+              },
+              {
+                "feature": "Tỷ lệ Tài sản Thế chấp",
+                "usdp": "150%",
+                "competitors": "100-110%"
+              },
+              {
+                "feature": "Xác thực",
+                "usdp": "Passkeys",
+                "competitors": "Mật khẩu/2FA"
+              },
+              {
+                "feature": "Phí Mint/Redeem",
+                "usdp": "0.3%",
+                "competitors": "0.5-1%"
+              },
+              {
+                "feature": "Tốc độ",
+                "usdp": "Giây",
+                "competitors": "Phút"
+              },
+              {
+                "feature": "Kiểm toán Bảo mật",
+                "usdp": "Thường xuyên",
+                "competitors": "Khác nhau"
+              }
+            ]
+          },
+          "conclusion": "$USDP thắng về chi phí, bảo mật và khả năng tiếp cận."
+        },
+        "keyFeatures": {
+          "title": "Tính năng Chính",
+          "sections": [
+            {
+              "title": "Bảo mật Trước tiên",
+              "subtitle": "Bảo vệ Cấp Doanh nghiệp",
+              "items": [
+                "Kiến trúc ví đa chữ ký ngăn chặn truy cập trái phép",
+                "Xác thực passkey để bảo mật tối đa",
+                "Theo dõi dự trữ real-time on-chain",
+                "Mã hóa phía máy khách cho dữ liệu người dùng",
+                "Hỗ trợ xác thực sinh trắc học",
+                "Kiểm toán bảo mật bên thứ ba thường xuyên"
+              ]
+            },
+            {
+              "title": "Giao dịch Cực nhanh",
+              "subtitle": "Tốc độ & Hiệu quả",
+              "items": [
+                "Giao dịch được giải quyết trong vài giây trên Pi Network",
+                "Phí giao dịch gần như bằng không (<$0.01)",
+                "Giải quyết tức thì cho thương nhân",
+                "Không có trung gian hoặc trì hoãn"
+              ]
+            },
+            {
+              "title": "Toàn cầu & Không biên giới",
+              "subtitle": "Truy cập Toàn cầu",
+              "items": [
+                "Gửi và nhận $USDP ở bất kỳ đâu trên thế giới",
+                "Không có hạn chế địa lý",
+                "Không có trung gian ngân hàng",
+                "Có sẵn 24/7/365"
+              ]
+            },
+            {
+              "title": "Hoàn toàn Minh bạch",
+              "subtitle": "Xác minh On-Chain",
+              "items": [
+                "Minh bạch on-chain 100%",
+                "Dự trữ tài sản thế chấp có thể kiểm toán",
+                "Báo cáo tuân thủ được xuất bản thường xuyên",
+                "Mã hợp đồng thông minh được kiểm toán bởi các công ty độc lập"
+              ]
+            }
+          ]
+        },
+        "technicalSpecs": {
+          "title": "Thông số Kỹ thuật",
+          "subtitle": "Chi tiết Cơ sở Hạ tầng",
+          "items": [
+            {
+              "label": "Blockchain",
+              "value": "Pi Network"
+            },
+            {
+              "label": "Tiêu chuẩn Token",
+              "value": "Pi Network Native Token"
+            },
+            {
+              "label": "Số thập phân",
+              "value": "18"
+            },
+            {
+              "label": "Tỷ lệ Tài sản Thế chấp",
+              "value": "150%"
+            },
+            {
+              "label": "Phí Minting",
+              "value": "0.3%"
+            },
+            {
+              "label": "Phí Đổi",
+              "value": "0.3%"
+            },
+            {
+              "label": "Phí Chuyển",
+              "value": "0% (hoàn toàn miễn phí)"
+            },
+            {
+              "label": "Trạng thái Kiểm toán",
+              "value": "Được kiểm toán thường xuyên"
+            }
+          ]
+        },
+        "marketOpportunity": {
+          "title": "Cơ hội Thị trường",
+          "subtitle": "Tổng Thị trường Có thể Tiếp cận (TAM) Khổng lồ",
+          "sections": [
+            {
+              "title": "Hệ sinh thái Pi Network",
+              "items": [
+                "55+ triệu người dùng tích cực sẵn sàng áp dụng giải pháp blockchain",
+                "Cộng đồng tích cực với sự quan tâm đã được chứng minh về sản phẩm crypto",
+                "Lợi thế người đi đầu trong không gian stablecoin Pi Network"
+              ]
+            },
+            {
+              "title": "Thị trường Stablecoin Toàn cầu",
+              "items": [
+                "Quy mô thị trường stablecoin $180+ tỷ (và đang tăng trưởng)",
+                "Tỷ lệ tăng trưởng hàng năm vượt quá 30%",
+                "Áp dụng thể chế ngày càng tăng",
+                "Rõ ràng về quy định ở các thị trường chính"
+              ]
+            },
+            {
+              "title": "Danh mục Trường hợp Sử dụng",
+              "items": [
+                "Thương mại Điện tử & Thanh toán: Thương nhân tìm kiếm tùy chọn thanh toán chi phí thấp",
+                "DeFi Trading: Trader cần tài sản thế chấp và cung cấp thanh khoản",
+                "Chuyển tiền Xuyên biên giới: Người lao động gửi tiền về nhà với giá cả phải chăng",
+                "Lưu trữ Giá trị: Người dùng tìm kiếm tiếp xúc với cryptocurrency mà không có biến động"
+              ]
+            }
+          ]
+        },
+        "useCases": {
+          "title": "Trường hợp Sử dụng",
+          "subtitle": "Nơi $USDP Giải quyết Vấn đề Thực tế",
+          "categories": [
+            {
+              "title": "Thương mại Điện tử & Thanh toán",
+              "items": [
+                "Chấp nhận thanh toán với giải quyết tức thì và không có gian lận thương nhân",
+                "Phí tối thiểu cho phép biên lợi nhuận tốt hơn cho nhà bán lẻ",
+                "Mạng thanh toán toàn cầu không có bộ xử lý thanh toán truyền thống"
+              ]
+            },
+            {
+              "title": "Thanh toán & Chuyển tiền Xuyên biên giới",
+              "items": [
+                "Gửi tiền quốc tế với một phần nhỏ của chi phí truyền thống",
+                "Loại bỏ trung gian (ngân hàng, dịch vụ chuyển tiền)",
+                "Giải quyết tức thì vs. trì hoãn ngân hàng 3-5 ngày",
+                "Hoàn hảo cho lao động di cư hỗ trợ gia đình ở nước ngoài"
+              ]
+            },
+            {
+              "title": "DeFi & Trading",
+              "items": [
+                "Sử dụng $USDP làm tài sản thế chấp trong giao thức cho vay",
+                "Cung cấp thanh khoản cho các sàn giao dịch phi tập trung và kiếm lợi nhuận",
+                "Giao dịch tài sản biến động với các cặp giá trị ổn định",
+                "Tham gia vào các chiến lược yield farming"
+              ]
+            },
+            {
+              "title": "Lưu trữ Giá trị",
+              "items": [
+                "Giữ sức mua ổn định mà không phải tiếp xúc với biến động crypto",
+                "Phòng ngừa rủi ro chống lại sự mất giá tiền tệ địa phương",
+                "Duy trì thanh khoản ở dạng kỹ thuật số",
+                "Bảo tồn tài sản xuyên biên giới"
+              ]
+            }
+          ]
+        },
+        "businessModel": {
+          "title": "Mô hình Kinh doanh & Dòng Doanh thu",
+          "subtitle": "Kinh tế Bền vững",
+          "sections": [
+            {
+              "title": "Tạo Doanh thu",
+              "items": [
+                "Phí Minting: 0.3% trên tất cả $USDP mới được tạo",
+                "Phí Đổi: 0.3% trên tất cả $USDP được đổi thành tài sản thế chấp USD",
+                "Phí Đối tác: Quan hệ đối tác tích hợp với thương nhân, sàn giao dịch và giao thức",
+                "Dịch vụ Doanh nghiệp: Giải pháp quản lý và giám sát thể chế"
+              ]
+            },
+            {
+              "title": "Cấu trúc Chi phí",
+              "items": [
+                "Chi phí cơ sở hạ tầng tối thiểu (Pi Network giảm chi phí hoạt động)",
+                "Chi phí bảo mật và tuân thủ được bù đắp bởi quy mô",
+                "Thu hút khách hàng thông qua quan hệ đối tác hệ sinh thái"
+              ]
+            }
+          ],
+          "profitability": "Doanh thu từ phí tăng theo tuyến tính với khối lượng giao dịch trong khi chi phí cơ sở hạ tầng vẫn cố định, tạo ra sự mở rộng biên lợi nhuận đáng kể ở quy mô."
+        },
+        "tokenEconomics": {
+          "title": "Kinh tế Token & Mô hình Cung cấp",
+          "subtitle": "Được thiết kế cho Tính ổn định",
+          "supplyMechanism": {
+            "title": "Cơ chế Cung cấp",
+            "items": [
+              "Được hỗ trợ bởi tài sản thế chấp Pi - mỗi $USDP có dự trữ tài sản thế chấp",
+              "Cung cấp động điều chỉnh dựa trên nhu cầu trong khi duy trì peg 1:1",
+              "Tài sản thế chấp vượt mức 150% đảm bảo tính ổn định dưới mọi điều kiện thị trường",
+              "Xác minh dự trữ minh bạch on-chain"
+            ]
+          },
+          "functions": {
+            "title": "Ba Chức năng của $USDP",
+            "items": [
+              "Phương tiện Trao đổi - Sử dụng cho giao dịch toàn cầu nhanh chóng, chi phí thấp",
+              "Lưu trữ Giá trị - Giữ như tài sản ổn định không có tiếp xúc biến động",
+              "Tài sản Thế chấp DeFi - Sử dụng trong giao thức tài chính phi tập trung và chiến lược lợi nhuận"
+            ]
+          },
+          "pegMaintenance": {
+            "title": "Bảo trì Peg",
+            "items": [
+              "Người dùng luôn có thể mint ở $1.00 và đổi ở $1.00",
+              "Khuyến khích arbitrage giữ giá thị trường ở peg",
+              "Tài sản thế chấp dư thừa đảm bảo khả năng đổi"
+            ]
+          }
+        },
+        "goToMarket": {
+          "title": "Chiến lược Go-to-Market",
+          "phases": [
+            {
+              "title": "Giai đoạn 1: Ra mắt & Nền tảng",
+              "period": "Q4 2025 - Q1 2026",
+              "items": [
+                "Ra mắt beta trên Pi Network testnet với các tính năng cốt lõi",
+                "Hoàn thành và xuất bản kiểm toán bảo mật",
+                "Quan hệ đối tác chiến lược với các dự án hệ sinh thái Pi",
+                "Giáo dục và onboarding cộng đồng",
+                "Ra mắt ứng dụng di động để người tiêu dùng dễ tiếp cận"
+              ]
+            },
+            {
+              "title": "Giai đoạn 2: Tăng trưởng & Tích hợp",
+              "period": "Q2 2026",
+              "items": [
+                "Ra mắt mainnet và khả dụng công khai",
+                "Quan hệ đối tác thương nhân để áp dụng thế giới thực",
+                "Tích hợp giao thức DeFi (cho vay, giao dịch, thanh khoản)",
+                "Phát triển cầu nối chuỗi chéo",
+                "Giới thiệu token quản trị cho quản trị phi tập trung"
+              ]
+            },
+            {
+              "title": "Giai đoạn 3: Quy mô & Mở rộng",
+              "period": "Q3 2026+",
+              "items": [
+                "Ra mắt dịch vụ thể chế (giám sát, giải quyết)",
+                "Mở rộng toàn cầu sang các thị trường địa lý mới",
+                "Tính năng nâng cao (sản phẩm lợi nhuận, phái sinh)",
+                "Dòng doanh thu bổ sung",
+                "Định vị lãnh đạo thị trường"
+              ]
+            }
+          ]
+        },
+        "teamPartnerships": {
+          "title": "Đội ngũ & Quan hệ Đối tác",
+          "subtitle": "Được hỗ trợ bởi Provena Labs",
+          "partners": {
+            "title": "Đối tác Hệ sinh thái của chúng tôi",
+            "items": [
+              {
+                "name": "ZyraChain",
+                "description": "Cơ sở hạ tầng và giải pháp blockchain"
+              },
+              {
+                "name": "Zyra",
+                "description": "Dịch vụ nền tảng cốt lõi"
+              },
+              {
+                "name": "ZyraPay",
+                "description": "Tích hợp xử lý thanh toán"
+              },
+              {
+                "name": "ZyraWallet",
+                "description": "Giải pháp ví và giám sát"
+              },
+              {
+                "name": "ZyraDEX",
+                "description": "Sàn giao dịch phi tập trung"
+              },
+              {
+                "name": "Orbit",
+                "description": "Giải pháp chuỗi chéo"
+              },
+              {
+                "name": "Dappify",
+                "description": "Nền tảng nhà phát triển"
+              }
+            ]
+          },
+          "whyMatters": {
+            "title": "Tại sao Điều này Quan trọng",
+            "description": "Provena Labs đã xây dựng một hệ sinh thái hoàn chỉnh xung quanh cơ sở hạ tầng blockchain. $USDP được định vị như stablecoin gốc trên toàn bộ mạng lưới sản phẩm và dịch vụ này."
+          }
+        },
+        "riskMitigation": {
+          "title": "Giảm thiểu Rủi ro",
+          "subtitle": "Cách chúng tôi Quản lý Rủi ro",
+          "risks": [
+            {
+              "title": "Rủi ro Tài sản Thế chấp",
+              "items": [
+                "Tài sản thế chấp vượt mức 150% vượt quá đáng kể yêu cầu tối thiểu",
+                "Kiểm toán dự trữ tài sản thế chấp thường xuyên",
+                "Xác minh on-chain minh bạch",
+                "Lựa chọn tài sản thế chấp bảo thủ"
+              ]
+            },
+            {
+              "title": "Rủi ro Quy định",
+              "items": [
+                "Phương pháp tuân thủ-ưu tiên từ đầu",
+                "Kiểm toán và báo cáo tuân thủ thường xuyên",
+                "Mở rộng địa lý dựa trên sự rõ ràng về quy định",
+                "Tham gia tích cực với các cơ quan quản lý"
+              ]
+            },
+            {
+              "title": "Rủi ro Công nghệ",
+              "items": [
+                "Kiểm toán bảo mật thường xuyên bởi các công ty uy tín",
+                "Kiến trúc bảo mật đa chữ ký",
+                "Triển khai theo giai đoạn (testnet → mainnet)",
+                "Chương trình bug bounty cho nghiên cứu bảo mật cộng đồng"
+              ]
+            },
+            {
+              "title": "Rủi ro Thị trường",
+              "items": [
+                "Cơ chế arbitrage peg 1:1",
+                "Hệ sinh thái đối tác mạnh mẽ tạo ra sự áp dụng",
+                "Lợi thế người đi đầu trong Pi Network",
+                "Định vị khác biệt từ đối thủ"
+              ]
+            }
+          ]
+        },
+        "financialProjections": {
+          "title": "Dự báo Tài chính",
+          "subtitle": "Tầm nhìn 5 Năm",
+          "years": [
+            {
+              "period": "Năm 1 (2025-2026)",
+              "items": [
+                "10-50 triệu $USDP đang lưu hành",
+                "5,000-20,000 người dùng hoạt động hàng ngày",
+                "Hàng chục quan hệ đối tác thương nhân",
+                "Tập trung vào product-market fit"
+              ]
+            },
+            {
+              "period": "Năm 2 (2026-2027)",
+              "items": [
+                "100-500 triệu $USDP đang lưu hành",
+                "50,000-200,000 người dùng hoạt động hàng ngày",
+                "Quan hệ đối tác doanh nghiệp lớn",
+                "Cột mốc khả năng sinh lời"
+              ]
+            },
+            {
+              "period": "Năm 3+ (2027+)",
+              "items": [
+                "$1+ tỷ $USDP đang lưu hành",
+                "Hàng triệu người dùng hoạt động hàng ngày",
+                "Áp dụng thể chế",
+                "Lãnh đạo thị trường trong Pi Network"
+              ]
+            }
+          ]
+        },
+        "theAsk": {
+          "title": "Yêu cầu",
+          "amount": "Tìm kiếm $5M trong Vòng Tài trợ Series A",
+          "equity": "Đổi lấy 10% Vốn chủ sở hữu",
+          "valuation": "Điều này định giá Provena Labs / $USDP ở mức định giá sau tiền $50 triệu, phản ánh vị trí thị trường, sức mạnh hệ sinh thái và quỹ đạo tăng trưởng của chúng tôi.",
+          "useOfFunds": {
+            "title": "Phân bổ Sử dụng Quỹ",
+            "items": [
+              {
+                "category": "Phát triển Sản phẩm & Bảo mật",
+                "percentage": "35%",
+                "amount": "$1.75M",
+                "details": [
+                  "Cơ sở hạ tầng bảo mật nâng cao và kiểm toán",
+                  "Ra mắt mainnet và tối ưu hóa",
+                  "Tính năng nâng cao (sản phẩm lợi nhuận, cầu nối chuỗi chéo)"
+                ]
+              },
+              {
+                "category": "Go-to-Market & Thu hút Người dùng",
+                "percentage": "30%",
+                "amount": "$1.5M",
+                "details": [
+                  "Tiếp thị và xây dựng cộng đồng",
+                  "Phát triển thương nhân và quan hệ đối tác",
+                  "Tối ưu hóa ứng dụng di động và giao diện người dùng"
+                ]
+              },
+              {
+                "category": "Quy định & Tuân thủ",
+                "percentage": "20%",
+                "amount": "$1M",
+                "details": [
+                  "Cơ sở hạ tầng pháp lý và tuân thủ",
+                  "Quan hệ ngân hàng để quản lý tài sản thế chấp",
+                  "Phê duyệt quy định toàn cầu"
+                ]
+              },
+              {
+                "category": "Đội ngũ & Hoạt động",
+                "percentage": "15%",
+                "amount": "$750K",
+                "details": [
+                  "Tuyển dụng chính (Trưởng Đối tác, VP Kỹ thuật, Cán bộ Tuân thủ)",
+                  "Mở rộng cơ sở hạ tầng hoạt động"
+                ]
+              }
+            ]
+          },
+          "terms": {
+            "title": "Tổng quan Điều khoản Đầu tư",
+            "sections": [
+              {
+                "title": "Cấu trúc Vốn chủ sở hữu",
+                "items": [
+                  "Quyền sở hữu vốn chủ sở hữu pha loãng đầy đủ 10%",
+                  "Cổ phiếu Series A ưu đãi với bảo vệ tiêu chuẩn",
+                  "Điều khoản chống pha loãng (trung bình có trọng số)"
+                ]
+              },
+              {
+                "title": "Quản trị & Ghế Hội đồng",
+                "items": [
+                  "Quyền quan sát viên cho các cuộc họp hội đồng",
+                  "Quyền thông tin và kiểm tra",
+                  "Tham gia vào các quyết định chính (gây quỹ, M&A, pivot)"
+                ]
+              },
+              {
+                "title": "Quyền Tài chính",
+                "items": [
+                  "Quyền tham gia pro-rata trong các vòng tài trợ tương lai",
+                  "Phần trăm doanh thu gắn liền với vốn chủ sở hữu (10% lợi nhuận sau khả năng sinh lời)",
+                  "Ưu tiên thanh lý (1x non-participating preferred)"
+                ]
+              }
+            ]
+          },
+          "milestones": {
+            "title": "Cột mốc & Hiệu suất",
+            "items": [
+              "Ra mắt mainnet trong vòng 6 tháng",
+              "$100M+ $USDP đang lưu hành trong vòng 18 tháng",
+              "500K+ người dùng hoạt động hàng ngày trong vòng 24 tháng",
+              "Con đường đến khả năng sinh lời trong vòng 36 tháng"
+            ]
+          }
+        },
+        "closing": {
+          "title": "Tương lai của Giá trị Ổn định ở đây",
+          "intro": "$USDP đại diện cho sự thay đổi mô hình trong thiết kế stablecoin:",
+          "points": [
+            {
+              "title": "Chi phí Thấp hơn",
+              "description": "Phí giao dịch sub-penny vs. đô la trên mạng đối thủ."
+            },
+            {
+              "title": "Bảo mật Cao hơn",
+              "description": "Tài sản thế chấp 150% với bảo vệ cấp doanh nghiệp vs. đối thủ 100-110%."
+            },
+            {
+              "title": "Khả năng Tiếp cận Lớn",
+              "description": "Gốc trên Pi Network phục vụ 55+ triệu người dùng vs. thị trường ngách."
+            },
+            {
+              "title": "Kinh tế Tốt hơn",
+              "description": "Doanh thu tăng theo khối lượng trong khi chi phí vẫn cố định."
+            }
+          ],
+          "conclusion": "Tương lai của giá trị ổn định không chỉ là về việc gắn với USD—mà là về việc cung cấp tính ổn định, bảo mật và khả năng tiếp cận cho hàng tỷ người trên toàn thế giới.",
+          "tagline": "$USDP. Ổn định. An toàn. Đơn giản.",
+          "footer": "Để biết thêm thông tin, truy cập www.provenalabs.com"
+        }
+      }
+    }
+  }

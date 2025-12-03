@@ -1,0 +1,1875 @@
+{
+  "nav": {
+    "home": "Home",
+    "product": "Produkto",
+    "features": "Mga Tampok",
+    "pricing": "Presyo",
+    "roadmap": "Roadmap",
+    "developers": "Mga Developer",
+    "blog": "Blog",
+    "security": "Seguridad",
+    "launchApp": "Ilunsad ang App",
+    "getStarted": "Magsimula"
+  },
+  "header": {
+    "company": "Kumpanya",
+    "aboutUs": "Tungkol sa Amin",
+    "companyPage": "Kumpanya",
+    "careers": "Karera",
+    "contact": "Makipag-ugnayan",
+    "support": "Suportahan Kami",
+    "resources": "Mga Mapagkukunan",
+    "legal": "Legal",
+    "privacy": "Patakaran sa Privacy",
+    "terms": "Mga Tuntunin ng Serbisyo",
+    "compliance": "Pagsunod",
+    "disclosures": "Mga Pagbubunyag"
+  },
+  "hero": {
+    "title": "Ang Hinaharap ng Matatag na Halaga",
+    "description": "Ang $USDP ay isang USD-pegged stablecoin na itinayo sa Pi Network. Secure, transparent, at idinisenyo para sa susunod na henerasyon ng digital finance.",
+    "launchApp": "Ilunsad ang App",
+    "visitTelegram": "Bisitahin ang Telegram",
+    "usdEquivalence": "1 USD = 1 $USDP",
+    "overcollateralized": "Overcollateralized",
+    "mintRedeemFees": "Mint/Redeem Fees",
+    "transactionCost": "Gastos sa Transaksyon"
+  },
+  "features": {
+    "title": "Bakit Piliin ang $USDP?",
+    "subtitle": "Itinayo gamit ang cutting-edge na teknolohiya at idinisenyo para sa modernong financial ecosystem.",
+    "secure": {
+      "title": "Secure at Transparent",
+      "description": "Enterprise-grade security na may passkey authentication at real-time reserve tracking."
+    },
+    "fast": {
+      "title": "Napakabilis",
+      "description": "Ang mga transaksyon ay na-settle sa loob ng ilang segundo na may minimal fees sa Pi Network blockchain."
+    },
+    "backed": {
+      "title": "Lubos na Sinusuportahan",
+      "description": "Ang 150% overcollateralization ay nagsisiguro ng katatagan at pinoprotektahan ang iyong mga asset."
+    },
+    "privacy": {
+      "title": "Privacy Una",
+      "description": "Client-side encryption at biometric authentication para sa maximum security."
+    }
+  },
+  "useCases": {
+    "title": "Mga Use Case",
+    "subtitle": "Ang $USDP ay gumagana para sa lahat—mula sa indibidwal na user hanggang sa mga enterprise.",
+    "ecommerce": {
+      "title": "E-commerce",
+      "description": "Tanggapin ang $USDP payments na may instant settlement at minimal fees."
+    },
+    "crossBorder": {
+      "title": "Cross-Border Payments",
+      "description": "Magpadala ng pera sa buong mundo na may mababang gastos at mabilis na oras ng transaksyon."
+    },
+    "defi": {
+      "title": "DeFi Trading",
+      "description": "Gamitin ang $USDP bilang collateral o magbigay ng liquidity para kumita ng yield."
+    },
+    "storage": {
+      "title": "Value Storage",
+      "description": "Mag-hold ng stable value nang walang exposure sa cryptocurrency volatility."
+    }
+  },
+  "roadmap": {
+    "title": "Ang Aming Roadmap",
+    "subtitle": "Pagbuo ng hinaharap ng stablecoins, isang milestone sa isang pagkakataon.",
+    "q4_2025": "Q4 2025",
+    "q1_2026": "Q1 2026",
+    "q2_2026": "Q2 2026",
+    "q3_2026": "Q3 2026",
+    "betaLaunch": "Beta Launch",
+    "coreFeatures": "Mga Pangunahing Tampok",
+    "securityAudit": "Security Audit",
+    "mainnetLaunch": "Mainnet Launch",
+    "merchantPartnerships": "Mga Merchant Partnerships",
+    "mobileApps": "Mobile Apps",
+    "defiIntegrations": "Mga DeFi Integrations",
+    "crossChainBridge": "Cross-Chain Bridge",
+    "governanceToken": "Governance Token",
+    "institutionalServices": "Mga Institutional Services",
+    "globalExpansion": "Global Expansion",
+    "advancedFeatures": "Mga Advanced Features",
+    "pageTitle": "Product Roadmap",
+    "pageSubtitle": "Ang aming pananaw para sa hinaharap ng $USDP at Provena Labs ecosystem.",
+    "betaLaunchTitle": "Beta Launch at Core Features",
+    "betaLaunchDesc": "Beta launch sa Pi Network testnet",
+    "coreMintingDesc": "Core minting at redemption features",
+    "securityAuditDesc": "Pagkumpleto ng security audit",
+    "mainnetTitle": "Mainnet Launch at Partnerships",
+    "mainnetDesc": "Mainnet launch sa Pi Network",
+    "merchantDesc": "Mga merchant partnerships",
+    "mobileAppDesc": "Paglulunsad ng mobile app",
+    "defiTitle": "DeFi Integration at Expansion",
+    "defiProtocolDesc": "Mga DeFi protocol integrations",
+    "bridgeDesc": "Paglulunsad ng cross-chain bridge",
+    "governanceDesc": "Pagpapakilala ng governance token",
+    "institutionalTitle": "Institutional Services at Global Expansion",
+    "institutionalDesc": "Paglulunsad ng institutional services",
+    "globalDesc": "Global expansion sa mga bagong merkado",
+    "advancedDesc": "Mga advanced features at tools"
+  },
+  "security": {
+    "title": "Seguridad na Maaasahan",
+    "subtitle": "Ang iyong mga asset ay protektado ng enterprise-grade security measures at regular audits. Seryoso kami sa seguridad upang hindi mo na kailangang mag-alala.",
+    "viewReport": "Tingnan ang Security Report",
+    "webauthn": "WebAuthn Passkey Authentication",
+    "encryption": "AES-256 Encryption at Rest",
+    "tls": "TLS 1.3 para sa Data sa Transit",
+    "hsm": "Hardware Security Modules",
+    "audits": "Regular Security Audits",
+    "detection": "24/7 Threat Detection",
+    "multisig": "Multi-Signature Transactions",
+    "insurance": "Cold Wallet Insurance"
+  },
+  "cta": {
+    "title": "Handa na Bang Magsimula?",
+    "subtitle": "Sumali sa libu-libong user na gumagamit na ng $USDP para sa secure, stable value storage at transactions.",
+    "launchApp": "Ilunsad ang App",
+    "contactSales": "Makipag-ugnayan sa Sales"
+  },
+  "logoCloud": {
+    "title": "Binuo gamit ang Provena",
+    "subtitle": "Pinagkakatiwalaan ng mga nangungunang platform sa ecosystem"
+  },
+  "tokenEconomics": {
+    "title": "Token Economics",
+    "subtitle": "Dinisenyo para sa katatagan, suportado ng Pi reserves, at pinapanatili sa 1:1 USD peg.",
+    "utilities": {
+      "mediumOfExchange": {
+        "title": "Medium of Exchange",
+        "description": "Gamitin ang $USDP para sa mabilis, mababang halagang transaksyon sa buong mundo."
+      },
+      "storeOfValue": {
+        "title": "Store of Value",
+        "description": "Hawakan ang $USDP bilang isang matatag na asset nang walang volatility."
+      },
+      "defiCollateral": {
+        "title": "DeFi Collateral",
+        "description": "Gamitin ang $USDP bilang collateral sa desentralisadong finance protocols."
+      }
+    },
+    "supplyModel": {
+      "title": "Supply Model",
+      "backedByPi": {
+        "title": "Suportado ng Pi Reserves",
+        "description": "Bawat $USDP ay suportado ng Pi collateral"
+      },
+      "dynamicSupply": {
+        "title": "Dynamic Supply",
+        "description": "Ang supply ay umaayon batay sa demand habang pinapanatili ang peg"
+      },
+      "overcollateralization": {
+        "title": "150% Overcollateralization",
+        "description": "Ang dagdag na collateral ay tinitiyak ang katatagan at pinoprotektahan ang mga user"
+      }
+    }
+  },
+  "targetMarket": {
+    "title": "Target Markets",
+    "subtitle": "Pagsisilbi sa iba't ibang user segment na may tailor-made na solusyon.",
+    "markets": {
+      "defiUsers": {
+        "title": "DeFi Users",
+        "description": "Ang mga stablecoin holder na naghahanap ng diversification at yield opportunities."
+      },
+      "piNetwork": {
+        "title": "Pi Network Community",
+        "description": "55+ milyong aktibong user na handang mag-adopt ng blockchain solutions."
+      },
+      "ecommerce": {
+        "title": "E-commerce",
+        "description": "Mga merchant na nangangailangan ng matatag na payment options na may mababang bayad."
+      },
+      "crossBorder": {
+        "title": "Cross-Border Payments",
+        "description": "Mababang halagang remittance solutions para sa global transactions."
+      }
+    }
+  },
+  "competitiveAdvantages": {
+    "title": "Bakit Nakatatangi ang $USDP",
+    "subtitle": "Ang competitive advantages na nagpapakilala sa amin mula sa iba pang stablecoins.",
+    "table": {
+      "feature": "Feature",
+      "usdp": "$USDP",
+      "competitors": "Competitors",
+      "network": "Network",
+      "fees": "Fees",
+      "collateralRatio": "Collateral Ratio",
+      "authentication": "Authentication",
+      "blockchainFees": "Blockchain Fees"
+    },
+    "values": {
+      "piNetwork": "Pi Network",
+      "ethereumTron": "Ethereum, Tron",
+      "fees03": "0.3%",
+      "fees05to1": "0.5-1%",
+      "collateral150": "150%",
+      "collateral100to110": "100-110%",
+      "passkeys": "Passkeys",
+      "passwords2fa": "Passwords/2FA",
+      "feesLess001": "<$0.01",
+      "fees1to50": "$1-50"
+    }
+  },
+  "businessModel": {
+    "title": "Sustainable Business Model",
+    "subtitle": "Maraming revenue streams na dinisenyo para sa long-term growth at stability.",
+    "revenueStreams": {
+      "mintingFees": {
+        "title": "Minting Fees",
+        "description": "0.3% sa lahat ng mints"
+      },
+      "redeemingFees": {
+        "title": "Redeeming Fees",
+        "description": "0.3% sa lahat ng redeems"
+      },
+      "transferFees": {
+        "title": "Transfer Fees",
+        "description": "0.0% per transfer"
+      },
+      "partnershipFees": {
+        "title": "Partnership Fees",
+        "description": "Integration partnerships"
+      }
+    }
+  },
+  "footer": {
+    "tagline": "Pagbuo ng hinaharap ng matatag na halaga sa Pi Network.",
+    "product": "Produkto",
+    "company": "Kumpanya",
+    "about": "Tungkol",
+    "legal": "Legal",
+    "privacy": "Pribadong Patakaran",
+    "terms": "Mga Tuntunin",
+    "disclosures": "Mga Pagbubunyag",
+    "copyright": "© {year} Provena Labs. Lahat ng karapatan ay nakalaan.",
+    "year": "taon"
+  },
+  "common": {
+    "loading": "Naglo-load...",
+    "error": "May Mali",
+    "retry": "Subukan Muli"
+  },
+  "pages": {
+    "roadmap": {
+      "pageTitle": "Product Roadmap",
+      "pageSubtitle": "Ang aming pananaw para sa hinaharap ng $USDP at Provena Labs ecosystem.",
+      "q4_2025": "Q4 2025",
+      "q1_2026": "Q1 2026",
+      "q2_2026": "Q2 2026",
+      "q3_2026": "Q3 2026",
+      "betaLaunchTitle": "Beta Launch & Core Features",
+      "betaLaunchDesc": "Beta launch sa Pi Network testnet",
+      "coreMintingDesc": "Core minting at redemption features",
+      "securityAuditDesc": "Pagkumpleto ng security audit",
+      "mainnetTitle": "Mainnet Launch & Partnerships",
+      "mainnetDesc": "Mainnet launch sa Pi Network",
+      "merchantDesc": "Mga merchant partnerships",
+      "mobileAppDesc": "Paglulunsad ng mobile app",
+      "defiTitle": "DeFi Integration & Expansion",
+      "defiProtocolDesc": "Mga DeFi protocol integrations",
+      "bridgeDesc": "Paglulunsad ng cross-chain bridge",
+      "governanceDesc": "Pagpapakilala ng governance token",
+      "institutionalTitle": "Institutional Services & Global Expansion",
+      "institutionalDesc": "Paglulunsad ng institutional services",
+      "globalDesc": "Global expansion sa mga bagong merkado",
+      "advancedDesc": "Advanced features at tools"
+    },
+    "features": {
+      "title": "Makapangyarihang Mga Tampok para sa Modernong Finance",
+      "subtitle": "Ang $PNA ay pinagsasama ang cutting-edge na teknolohiya na may user-friendly na disenyo upang maihatid ang stablecoin experience na nararapat mo.",
+      "features": {
+        "secure": {
+          "title": "Secure & Transparent",
+          "description": "Ang multi-signature wallets, regular audits, at full on-chain transparency ay nagsisiguro na ang iyong mga asset ay laging protektado at maaaring mapatunayan."
+        },
+        "fast": {
+          "title": "Napakabilis",
+          "description": "Ang mga transaksyon ay na-settle sa loob ng ilang segundo na may minimal fees. Walang paghihintay, walang pagkaantala, instant value transfer lamang."
+        },
+        "stable": {
+          "title": "Matatag na Halaga",
+          "description": "Napananatili ang 1:1 peg sa US Dollar sa pamamagitan ng 115% overcollateralization at algorithmic stability mechanisms."
+        },
+        "community": {
+          "title": "Pinamumunuan ng Komunidad",
+          "description": "Itinayo para sa Pi Network community na may governance participation at community-focused development."
+        },
+        "defi": {
+          "title": "Handa para sa DeFi",
+          "description": "Walang problema na isama sa DeFi protocols, lending platforms, at decentralized exchanges."
+        },
+        "compliance": {
+          "title": "Compliance Una",
+          "description": "Idinisenyo na may regulatory compliance sa isip, sumusuporta sa institutional adoption at mainstream use."
+        }
+      },
+      "advancedSecurity": {
+        "title": "Advanced Security",
+        "description": "Ang iyong seguridad ay aming priyoridad. Ang $PNA ay nagpapatupad ng industry-leading security practices kabilang ang multi-signature wallets, regular third-party audits, at continuous monitoring.",
+        "features": [
+          "Multi-signature wallet protection",
+          "Regular security audits ng mga nangungunang kumpanya",
+          "24/7 monitoring at threat detection",
+          "Insurance coverage para sa user funds"
+        ]
+      },
+      "lightningFast": {
+        "title": "Napakabilis na Transaksyon",
+        "description": "Maranasan ang bilis ng blockchain nang walang paghihintay. Ang mga transaksyon ng $PNA ay na-settle sa loob ng ilang segundo, hindi oras o araw.",
+        "features": [
+          "Sub-second transaction confirmation",
+          "Minimal na bayad sa transaksyon",
+          "Mataas na throughput capacity",
+          "Scalable infrastructure"
+        ]
+      }
+    },
+    "product": {
+      "title": "Ang $USDP Stablecoin",
+      "subtitle": "Isang USD-pegged stablecoin na itinayo sa Pi Network, idinisenyo para sa katatagan, seguridad, at seamless transactions.",
+      "tagline": "Stable. Secure. Simple.",
+      "whatIs": {
+        "title": "Ano ang $USDP?",
+        "description1": "Ang $USDP ay isang fully collateralized stablecoin na napananatili ang 1:1 peg sa US Dollar. Ang bawat $USDP token ay sinusuportahan ng higit sa 115% sa collateral, nagsisiguro ng katatagan at seguridad para sa lahat ng user.",
+        "description2": "Itinayo sa Pi Network blockchain, ang $USDP ay nagbibigay-daan sa mabilis, mababang-gastos na transaksyon habang pinapanatili ang tiwala at pagiging maaasahan na inaasahan ng user mula sa isang stablecoin.",
+        "features": [
+          "150% Overcollateralized",
+          "1:1 USD Peg",
+          "Transparent & Audited",
+          "Pi Network Native"
+        ]
+      },
+      "coreFeatures": {
+        "title": "Mga Pangunahing Tampok",
+        "items": [
+          {
+            "icon": "shield",
+            "title": "Secure",
+            "description": "Ang multi-signature wallets at rigorous security audits ay nagsisiguro na ang iyong mga pondo ay protektado."
+          },
+          {
+            "icon": "zap",
+            "title": "Mabilis",
+            "description": "Ang mga transaksyon ay na-settle sa loob ng ilang segundo na may minimal fees sa Pi Network."
+          },
+          {
+            "icon": "globe",
+            "title": "Pandaigdigan",
+            "description": "Magpadala at tumanggap ng $USDP kahit saan sa mundo nang walang hangganan."
+          },
+          {
+            "icon": "check",
+            "title": "Transparent",
+            "description": "Kumpletong on-chain transparency na may regular audits at compliance reports."
+          }
+        ]
+      },
+      "technicalSpecs": {
+        "title": "Mga Teknikal na Specipikasyon",
+        "blockchain": {
+          "label": "Blockchain",
+          "value": "Pi Network"
+        },
+        "tokenStandard": {
+          "label": "Token Standard",
+          "value": "Pi Network Native Token"
+        },
+        "decimals": {
+          "label": "Decimals",
+          "value": "18"
+        },
+        "collateralization": {
+          "label": "Collateralization",
+          "value": "150% Overcollateralized"
+        },
+        "mintRedeemFee": {
+          "label": "Mint/Redeem Fee",
+          "value": "0.3%"
+        },
+        "auditStatus": {
+          "label": "Audit Status",
+          "value": "Regularly Audited"
+        }
+      }
+    },
+    "pricing": {
+      "title": "Payak, Transparent na Presyo",
+      "subtitle": "Walang nakatagong bayad. Walang sorpresa. Direktang pricing lamang para sa lahat ng iyong stablecoin needs.",
+      "plans": [
+        {
+          "title": "Mint & Redeem",
+          "description": "Lumikha o sunugin ang $USDP tokens",
+          "price": "0.3%",
+          "priceNote": "Bawat transaksyon",
+          "features": [
+            "Instant processing",
+            "Walang minimum amount",
+            "Kumpletong transparency"
+          ]
+        },
+        {
+          "popular": true,
+          "badge": "Pinakasikat",
+          "title": "Mga Transfer",
+          "description": "Magpadala ng $USDP sa pagitan ng mga wallet",
+          "price": "<$0.01",
+          "priceNote": "Bawat transaksyon",
+          "features": [
+            "Napakabilis",
+            "Ilang segundo upang ma-settle",
+            "Saklaw sa buong mundo"
+          ]
+        },
+        {
+          "title": "API Access",
+          "description": "Para sa developers & businesses",
+          "price": "Custom",
+          "priceNote": "Volume-based pricing",
+          "features": [
+            "Dedicated support",
+            "Custom integration",
+            "SLA guarantee"
+          ]
+        }
+      ],
+      "feeBreakdown": {
+        "title": "Detalye ng Bayad",
+        "transactionType": "Uri ng Transaksyon",
+        "fee": "Bayad",
+        "speed": "Bilis",
+        "rows": [
+          {
+            "type": "Mint $USDP",
+            "fee": "0.3%",
+            "speed": "Instant"
+          },
+          {
+            "type": "Redeem $USDP",
+            "fee": "0.3%",
+            "speed": "Instant"
+          },
+          {
+            "type": "Transfer $USDP",
+            "fee": "<$0.01",
+            "speed": "Seconds"
+          },
+          {
+            "type": "API Call",
+            "fee": "Custom",
+            "speed": "Real-time"
+          }
+        ]
+      },
+      "faq": {
+        "title": "Mga Madalas Itanong",
+        "items": [
+          {
+            "question": "Mayroon bang nakatagong bayad?",
+            "answer": "Hindi. Ang lahat ng bayad ay transparent at ipinapakita nang maaga. Ang nakikita mo ay ang iyong babayaran."
+          },
+          {
+            "question": "Nag-aalok ba kayo ng volume discounts?",
+            "answer": "Oo. Para sa high-volume users at businesses, nag-aalok kami ng custom pricing. Makipag-ugnayan sa aming sales team para sa detalye."
+          },
+          {
+            "question": "Anong mga paraan ng pagbabayad ang tinatanggap ninyo?",
+            "answer": "Tinatanggap namin ang USD, iba pang stablecoins, at major cryptocurrencies para sa minting at redeeming ng $USDP."
+          }
+        ]
+      }
+    },
+    "developers": {
+      "title": "Developer Resources",
+      "subtitle": "Lahat ng kailangan mo upang isama ang $PNA sa iyong application. Kumpletong dokumentasyon, SDKs, at tools.",
+      "quickStart": {
+        "title": "Mabilis na Simula",
+        "installation": {
+          "title": "Pag-install",
+          "code": "malapit na"
+        },
+        "usage": {
+          "title": "Pangunahing Paggamit",
+          "code": "malapit na"
+        }
+      },
+      "integrationOptions": {
+        "title": "Mga Opsyon sa Integrasyon",
+        "items": [
+          {
+            "icon": "code",
+            "title": "Direktang Integrasyon",
+            "description": "Gamitin ang aming JavaScript/TypeScript SDK para sa kumpletong API integration sa iyong application.",
+            "linkText": "Tingnan ang Dokumentasyon"
+          },
+          {
+            "icon": "zap",
+            "title": "Integrasyon ng Wallet",
+            "description": "Kumonekta sa Provena wallet para sa walang kahirap-hirap na user experience at multi-currency support.",
+            "linkText": "Tingnan ang Dokumentasyon"
+          },
+          {
+            "icon": "book",
+            "title": "Payment Gateway",
+            "description": "Magdagdag ng $PNA payment button sa iyong website gamit ang aming pre-built widget.",
+            "linkText": "Tingnan ang Dokumentasyon"
+          },
+          {
+            "icon": "git",
+            "title": "Webhooks",
+            "description": "Real-time event notifications para sa transaction updates at status changes.",
+            "linkText": "Tingnan ang Dokumentasyon"
+          }
+        ]
+      },
+      "useCases": {
+        "title": "Mga Use Case para sa Builders",
+        "items": [
+          {
+            "title": "E-commerce",
+            "features": [
+              "Tanggapin ang $PNA payments",
+              "Mababang bayad sa transaksyon",
+              "Instant settlement"
+            ]
+          },
+          {
+            "title": "DeFi Platforms",
+            "features": [
+              "Magdagdag ng $PNA bilang collateral",
+              "Lumikha ng liquidity pools",
+              "Bumuo ng yield strategies"
+            ]
+          },
+          {
+            "title": "Wallets",
+            "features": [
+              "Isama ang $PNA support",
+              "Multi-currency wallets",
+              "Pagsubaybay sa portfolio"
+            ]
+          },
+          {
+            "title": "Gaming",
+            "features": [
+              "In-game currency",
+              "Pamamahagi ng reward",
+              "NFT marketplace payments"
+            ]
+          }
+        ]
+      }
+    },
+    "about": {
+      "title": "Tungkol sa Provena Labs",
+      "subtitle": "Bumubuo kami ng hinaharap ng stable digital finance sa Pi Network. Ang aming misyon ay magbigay ng secure, transparent, at innovative stablecoin solution na nag-uugnay sa tradisyonal na finance sa blockchain technology.",
+      "mission": {
+        "title": "Ang Aming Misyon",
+        "description1": "Lumikha ng production-grade USD-pegged stablecoin na nagbibigay-daan sa secure, mabilis, at mababang-gastos na transaksyon para sa 55+ million users sa Pi Network.",
+        "description2": "Naniniwala kami sa kapangyarihan ng blockchain technology upang demokratisahin ang finance at magbigay ng financial services sa lahat, kahit saan."
+      },
+      "vision": {
+        "title": "Ang Aming Pananaw",
+        "description1": "Isang mundo kung saan ang stable digital assets ay naa-access ng lahat, na nagbibigay-daan sa seamless global transactions at financial inclusion.",
+        "description2": "Naisip namin na ang $USDP ay maging standard stablecoin para sa Pi Network, na nagpapagana sa DeFi, e-commerce, at cross-border payments."
+      },
+      "coreValues": {
+        "title": "Ang Aming Core Values",
+        "items": [
+          {
+            "icon": "innovation",
+            "title": "Innovation",
+            "description": "Patuloy naming ino-innovate upang magbigay ng cutting-edge solutions na nagpapabuti sa blockchain ecosystem."
+          },
+          {
+            "icon": "transparency",
+            "title": "Transparency",
+            "description": "Naniniwala kami sa kumpletong transparency na may real-time reserve tracking at public verification."
+          },
+          {
+            "icon": "community",
+            "title": "Community",
+            "description": "Nakatuon kami sa pagbuo kasama at para sa aming komunidad, nakikinig sa feedback at umuunlad nang magkasama."
+          }
+        ]
+      },
+      "whyChoose": {
+        "title": "Bakit Piliin ang Provena Labs?",
+        "items": [
+          {
+            "number": "1",
+            "title": "First Mover Advantage",
+            "description": "Kami ang unang production-grade stablecoin sa Pi Network, nakaposisyon upang makuha ang early market share."
+          },
+          {
+            "number": "2",
+            "title": "Massive User Base",
+            "description": "Access sa 55+ million engaged Pi Network users na handa na mag-adopt ng blockchain solutions."
+          },
+          {
+            "number": "3",
+            "title": "Production Ready",
+            "description": "Ang aming platform ay ganap na binuo at nasubukan, handa na para sa agarang deployment at scaling."
+          },
+          {
+            "number": "4",
+            "title": "Sustainable Model",
+            "description": "Maraming revenue streams at treasury management ay nagsisiguro ng long-term viability at growth."
+          }
+        ]
+      }
+    },
+    "contact": {
+      "title": "Makipag-ugnayan",
+      "subtitle": "May mga tanong? Gusto naming makinig sa iyo. Magpadala ng mensahe at tutugon kami sa lalong madaling panahon.",
+      "contactInfo": [
+        {
+          "type": "email",
+          "label": "Email",
+          "value": "zyrachain@provenalabs.com",
+          "note": "Tutugon kami sa loob ng 24 na oras"
+        },
+        {
+          "type": "phone",
+          "label": "Phone",
+          "value": "+234-701-067-6567",
+          "note": "Lunes - Biyernes, 9am - 5pm EST"
+        },
+        {
+          "type": "office",
+          "label": "Office",
+          "value": "Remote First",
+          "note": "Nagsisilbi sa mga customer sa buong mundo"
+        }
+      ],
+      "faq": {
+        "title": "Mga Madalas Itanong",
+        "items": [
+          {
+            "question": "Ano ang pinakamahusay na paraan upang makipag-ugnayan sa support?",
+            "answer": "Maaari mong maabot ang aming support team sa pamamagitan ng email sa provenalabs@gmail.com."
+          },
+          {
+            "question": "Gaano katagal bago makakuha ng tugon?",
+            "answer": "Layunin naming tumugon sa lahat ng mga tanong sa loob ng 24 na oras sa mga araw ng trabaho."
+          },
+          {
+            "question": "Mayroon ba kayong community forum?",
+            "answer": "Oo! Sumali sa aming Discord community upang makakonekta sa iba pang user at makakuha ng suporta mula sa komunidad."
+          }
+        ]
+      }
+    },
+    "security": {
+      "title": "Security & Compliance",
+      "subtitle": "Enterprise-grade security measures at compliance standards upang protektahan ang iyong mga asset at tiyakin ang regulatory compliance.",
+      "measures": {
+        "title": "Mga Security Measures",
+        "items": [
+          {
+            "icon": "authentication",
+            "title": "Authentication",
+            "description": "Ang WebAuthn/FIDO2 passkeys ay nagbibigay ng biometric at PIN-based authentication nang walang password.",
+            "features": [
+              "Biometric authentication",
+              "PIN-based security",
+              "Walang password storage"
+            ]
+          },
+          {
+            "icon": "encryption",
+            "title": "Encryption",
+            "description": "Ang military-grade encryption ay pumoprotekta sa iyong data sa rest at sa transit.",
+            "features": [
+              "AES-256 sa rest",
+              "TLS 1.3 sa transit",
+              "Client-side encryption"
+            ]
+          },
+          {
+            "icon": "keyManagement",
+            "title": "Key Management",
+            "description": "Ang hardware security modules at multi-signature transactions ay pumoprotekta sa mga kritikal na key.",
+            "features": [
+              "Hardware security modules",
+              "Multi-signature transactions",
+              "Key rotation policies"
+            ]
+          },
+          {
+            "icon": "monitoring",
+            "title": "Monitoring",
+            "description": "Ang 24/7 threat detection at regular security audits ay nagsisiguro ng tuloy-tuloy na proteksyon.",
+            "features": [
+              "24/7 threat detection",
+              "Regular security audits",
+              "Incident response team"
+            ]
+          }
+        ]
+      },
+      "compliance": {
+        "title": "Mga Compliance Standards",
+        "items": [
+          {
+            "title": "KYC/AML",
+            "description": "Comprehensive user verification procedures upang sumunod sa anti-money laundering regulations."
+          },
+          {
+            "title": "Licensing",
+            "description": "Money transmitter compliance at regulatory licenses sa key jurisdictions."
+          },
+          {
+            "title": "Audits",
+            "description": "Regular financial at security audits ng independent third-party firms."
+          },
+          {
+            "title": "Insurance",
+            "description": "Cold wallet insurance at comprehensive coverage para sa digital assets."
+          },
+          {
+            "title": "Reserves",
+            "description": "Public reserve reports at real-time verification ng collateral backing."
+          },
+          {
+            "title": "Privacy",
+            "description": "GDPR compliant data handling at user privacy protection policies."
+          }
+        ]
+      },
+      "bestPractices": {
+        "title": "Mga Best Practices sa User Security",
+        "dos": {
+          "title": "Mga Dapat Gawin",
+          "items": [
+            "Itago ang iyong passphrase nang secure offline",
+            "Paganahin ang biometric authentication",
+            "I-verify ang transaction amounts bago kumpirmahin",
+            "Suriin ang Pi price bago mag-mint",
+            "Gamitin ang secure networks para sa transaksyon"
+          ]
+        },
+        "donts": {
+          "title": "Mga Dapat Iwasan",
+          "items": [
+            "Ibahagi ang iyong passphrase sa sinuman",
+            "Screenshot ng sensitive data",
+            "Gamitin sa unsecured public networks",
+            "Magpadala sa unverified addresses",
+            "I-click ang suspicious links o emails"
+          ]
+        }
+      }
+    },
+    "support": {
+      "title": "Suportahan ang Provena Labs",
+      "subtitle": "Tulungan kaming bumuo ng hinaharap ng stable value sa Pi Network",
+      "whySupport": {
+        "title": "Bakit Mahalaga ang Iyong Suporta",
+        "intro": "Ang Provena Labs ay bumubuo ng kritikal na imprastraktura para sa Pi Network ecosystem. Ang iyong mga donasyon ay direktang sumusuporta sa:",
+        "items": [
+          {
+            "title": "Development & Innovation",
+            "description": "Pagpopondo ng tuloy-tuloy na pag-unlad ng $USDP stablecoin, security audits, at mga bagong feature na nagpapabuti sa ecosystem."
+          },
+          {
+            "title": "Security & Compliance",
+            "description": "Tinitiyak ang pinakamataas na pamantayan ng seguridad, regulatory compliance, at risk management upang protektahan ang mga user."
+          },
+          {
+            "title": "Community Growth",
+            "description": "Sinusuportahan ang edukasyon, partnerships, at mga community initiative na nagpapalakas sa adoption at awareness."
+          },
+          {
+            "title": "Infrastructure & Operations",
+            "description": "Pinapanatili ang maaasahang mga sistema, monitoring, at operational excellence upang matiyak ang 24/7 availability."
+          }
+        ],
+        "conclusion": "Ang bawat kontribusyon, anuman ang laki, ay tumutulong sa amin na mapabilis ang pag-unlad at magdala ng stable value sa milyun-milyong user sa Pi Network. Ang iyong suporta ay isang boto ng kumpiyansa sa aming misyon."
+      },
+      "walletAddress": "GCAO7I2ZBIEFXNYD3KZFA3UXLMDVCYUG6CTCYG56746LZB5MIUFIIBJ5",
+      "donation": {
+        "title": "Mag-donate gamit ang Pi",
+        "label": "Magpadala ng Pi sa aming wallet address",
+        "walletLabel": "Pi Wallet Address",
+        "copy": "Kopyahin ang wallet address",
+        "warning": {
+          "title": "Mahalaga:",
+          "text": "Tiyakin na nagpapadala ka ng Pi mula sa iyong Pi Wallet. I-double check ang wallet address upang matiyak na ang iyong donasyon ay ligtas na nakarating sa amin."
+        },
+        "howTo": {
+          "title": "Paano magpadala:",
+          "steps": [
+            "Buksan ang iyong Pi Wallet application",
+            "Pumili ng \"Send\" o \"Transfer\"",
+            "I-paste ang Pi wallet address sa itaas",
+            "Ilagay ang halaga ng Pi na nais mong i-donate",
+            "Kumpirmahin ang transaksyon",
+            "Ang iyong donasyon ay matatanggap sa loob ng ilang minuto"
+          ]
+        },
+        "thankYou": {
+          "title": "Salamat!",
+          "message": "Lubos kaming nagpapasalamat sa iyong suporta. Ang bawat kontribusyon ay tumutulong sa amin na bumuo ng mas matatag at masagana na hinaharap para sa Pi Network ecosystem.",
+          "contactLink": "May mga Tanong? Makipag-ugnayan sa Amin"
+        }
+      }
+    },
+    "blog": {
+      "title": "Provena Labs Blog",
+      "subtitle": "Manatiling updated sa pinakabagong balita, insights, at mga update mula sa Provena Labs team.",
+      "featured": "Itinatampok",
+      "readMore": "Magbasa Pa",
+      "posts": [
+        {
+          "title": "Pagpapakilala sa $USDP: Ang Hinaharap ng Stable Value",
+          "excerpt": "Masaya kaming ipinapahayag ang paglulunsad ng $USDP, isang fully collateralized stablecoin na itinayo sa Pi Network.",
+          "date": "January 15, 2025",
+          "author": "Provena Labs Team",
+          "category": "Announcement"
+        },
+        {
+          "title": "Pag-unawa sa Stablecoin Collateralization",
+          "excerpt": "Alamin kung paano pinapanatili ng $USDP ang 1:1 USD peg nito sa pamamagitan ng 150% overcollateralization at advanced stability mechanisms.",
+          "date": "January 10, 2025",
+          "author": "Technical Team",
+          "category": "Education"
+        },
+        {
+          "title": "DeFi Integration Guide: Paggamit ng $USDP sa Iyong Protocol",
+          "excerpt": "Isang comprehensive guide para sa developers na naghahanap na isama ang $USDP sa kanilang DeFi applications at protocols.",
+          "date": "January 5, 2025",
+          "author": "Developer Relations",
+          "category": "Developer"
+        },
+        {
+          "title": "Security Audit Results: Nasaad ang $USDP sa Comprehensive Review",
+          "excerpt": "Ipinagmamalaki naming ibahagi ang mga resulta ng aming pinakabagong security audit, na kinukumpirma ang katatagan ng aming platform.",
+          "date": "December 28, 2024",
+          "author": "Security Team",
+          "category": "Security"
+        },
+        {
+          "title": "Q4 2024 Roadmap Update: Ano ang Susunod",
+          "excerpt": "Isang overview ng aming mga nakamit sa Q4 at kung ano ang mga kapana-panabik na feature na aming nakaplano para sa 2025.",
+          "date": "December 20, 2024",
+          "author": "Product Team",
+          "category": "Roadmap"
+        },
+        {
+          "title": "Community Spotlight: Paano Ginagamit ng mga User ang $USDP",
+          "excerpt": "Nagtatampok ng mga kuwento mula sa aming mga miyembro ng komunidad at kung paano nila ginagamit ang $USDP sa kanilang pang-araw-araw na buhay.",
+          "date": "December 15, 2024",
+          "author": "Community Team",
+          "category": "Community"
+        }
+      ]
+    },
+    "careers": {
+      "title": "Sumali sa Aming Team",
+      "subtitle": "Tulungan kaming bumuo ng hinaharap ng stable digital currency. Naghahanap kami ng mga talented na indibidwal na masigasig sa blockchain at finance.",
+      "whyJoin": [
+        {
+          "icon": "meaningful",
+          "title": "Makabuluhang Trabaho",
+          "description": "Magtrabaho sa mga proyekto na may epekto sa milyun-milyong tao sa buong mundo."
+        },
+        {
+          "icon": "remote",
+          "title": "Remote First",
+          "description": "Magtrabaho mula saanman sa mundo na may flexible schedules."
+        },
+        {
+          "icon": "pay",
+          "title": "Competitive Pay",
+          "description": "Industry-leading na suweldo at equity packages."
+        },
+        {
+          "icon": "growth",
+          "title": "Pag-unlad",
+          "description": "Tuloy-tuloy na pag-aaral at professional development."
+        }
+      ],
+      "openPositions": {
+        "title": "Mga Bukas na Posisyon"
+      },
+      "jobs": [
+        {
+          "title": "Senior Blockchain Engineer",
+          "department": "Engineering",
+          "location": "Remote",
+          "type": "Full-time",
+          "salary": "$150K - $200K"
+        },
+        {
+          "title": "Product Manager",
+          "department": "Product",
+          "location": "Remote",
+          "type": "Full-time",
+          "salary": "$130K - $170K"
+        },
+        {
+          "title": "Security Auditor",
+          "department": "Security",
+          "location": "Remote",
+          "type": "Full-time",
+          "salary": "$140K - $190K"
+        },
+        {
+          "title": "Developer Relations Engineer",
+          "department": "Developer Relations",
+          "location": "Remote",
+          "type": "Full-time",
+          "salary": "$120K - $160K"
+        },
+        {
+          "title": "Marketing Manager",
+          "department": "Marketing",
+          "location": "Remote",
+          "type": "Full-time",
+          "salary": "$100K - $140K"
+        },
+        {
+          "title": "Community Manager",
+          "department": "Community",
+          "location": "Remote",
+          "type": "Full-time",
+          "salary": "$80K - $120K"
+        }
+      ],
+      "benefits": {
+        "title": "Mga Benepisyo",
+        "health": {
+          "title": "Kalusugan at Wellness",
+          "items": [
+            "Kumpletong health insurance",
+            "Suporta sa mental health",
+            "Fitness stipend",
+            "Walang limitasyong PTO"
+          ]
+        },
+        "professional": {
+          "title": "Professional Development",
+          "items": [
+            "Learning budget",
+            "Pagdalo sa conference",
+            "Mentorship programs",
+            "Career coaching"
+          ]
+        },
+        "compensation": {
+          "title": "Compensation",
+          "items": [
+            "Competitive salary",
+            "Equity packages",
+            "Performance bonuses",
+            "Crypto benefits"
+          ]
+        },
+        "workLife": {
+          "title": "Work-Life Balance",
+          "items": [
+            "Flexible hours",
+            "Remote work",
+            "Parental leave",
+            "Team events"
+          ]
+        }
+      },
+      "cta": {
+        "message": "Hindi nakakita ng posisyon na akma?",
+        "button": "Ipadala sa Amin ang Iyong Resume"
+      }
+    },
+    "company": {
+      "title": "Tungkol sa Provena Labs",
+      "subtitle": "Pagbuo ng hinaharap ng stable digital currency sa Pi Network",
+      "missionVision": [
+        {
+          "type": "mission",
+          "title": "Ang Aming Misyon",
+          "description": "Lumikha ng isang stable, secure, at accessible stablecoin na nagbibigay-kapangyarihan sa mga indibidwal at negosyo na lumahok sa digital economy nang may kumpiyansa at kadalian."
+        },
+        {
+          "type": "vision",
+          "title": "Ang Aming Pananaw",
+          "description": "Isang mundo kung saan ang stable digital currency ay ang pundasyon para sa global commerce, na nagbibigay-daan sa seamless transactions at financial inclusion para sa lahat."
+        }
+      ],
+      "coreValues": {
+        "title": "Mga Core Values",
+        "items": [
+          {
+            "icon": "excellence",
+            "title": "Excellence",
+            "description": "Nagsusumikap kami para sa pinakamataas na pamantayan sa lahat ng aming ginagawa."
+          },
+          {
+            "icon": "community",
+            "title": "Community",
+            "description": "Bumubuo kami kasama at para sa aming komunidad."
+          },
+          {
+            "icon": "innovation",
+            "title": "Innovation",
+            "description": "Tinatanggap namin ang mga bagong ideya at teknolohiya."
+          },
+          {
+            "icon": "transparency",
+            "title": "Transparency",
+            "description": "Nagpapatakbo kami nang may kumpletong pagiging bukas at katapatan."
+          }
+        ]
+      },
+      "stats": {
+        "title": "Sa Mga Numero",
+        "items": [
+          {
+            "value": "$00M+",
+            "label": "Kabuuang Value Locked"
+          },
+          {
+            "value": "00K+",
+            "label": "Mga Aktibong User"
+          },
+          {
+            "value": "0+",
+            "label": "Mga Integrations"
+          },
+          {
+            "value": "24/7",
+            "label": "Available na Support"
+          }
+        ]
+      },
+      "team": {
+        "title": "Leadership Team",
+        "description": "Ang aming team ay nagdadala ng kadalubhasaan sa blockchain, finance, at teknolohiya upang bumuo ng hinaharap ng stable digital currency."
+      }
+    },
+    "comingSoon": {
+      "title": "Magkakaroon Na",
+      "subtitle": "Nagsusumikap kami na magdala ng isang bagay na kahanga-hanga. Manatiling naka-connect!",
+      "whatsNext": {
+        "title": "Ano ang Susunod?",
+        "description": "Bumubuo kami ng hinaharap ng stable value sa Pi Network. Sumali sa aming komunidad upang manatiling updated sa aming pag-unlad.",
+        "telegramButton": "Sumali sa Telegram",
+        "homeButton": "Bumalik sa Home"
+      },
+      "footer": "Para sa updates at announcements, sundan kami sa aming social channels."
+    },
+    "legal": {
+      "privacy": {
+        "title": "Patakaran sa Privacy",
+        "lastUpdated": "Huling na-update: Enero 2025",
+        "sections": [
+          {
+            "title": "1. Panimula",
+            "content": "Ang Provena Labs (\"kami,\" \"amin,\" \"aming,\" o \"Kumpanya\") ay nakatuon sa pagprotekta sa iyong privacy. Ang Privacy Policy na ito ay nagpapaliwanag kung paano namin kinokolekta, ginagamit, ipinapahayag, at pinoprotektahan ang iyong impormasyon kapag bumisita ka sa aming website at gumagamit ng aming mga serbisyo."
+          },
+          {
+            "title": "2. Impormasyon na Aming Kinokolekta",
+            "content": "Maaari naming kolektahin ang impormasyon tungkol sa iyo sa iba't ibang paraan:",
+            "items": [
+              "Impormasyon na direktang ibinigay mo (pangalan, email, wallet address)",
+              "Impormasyon na awtomatikong kinokolekta (IP address, browser type, mga pahinang binisita)",
+              "Impormasyon mula sa third-party sources (analytics providers, payment processors)"
+            ]
+          },
+          {
+            "title": "3. Paano Namin Ginagamit ang Iyong Impormasyon",
+            "content": "Ginagamit namin ang impormasyon na aming kinokolekta upang:",
+            "items": [
+              "Magbigay, mapanatili, at pagbutihin ang aming mga serbisyo",
+              "Magproseso ng transaksyon at magpadala ng kaugnay na impormasyon",
+              "Magpadala ng promotional communications (sa iyong pahintulot)",
+              "Sumunod sa legal obligations",
+              "Pigilan ang fraud at mapabuti ang seguridad"
+            ]
+          },
+          {
+            "title": "4. Data Security",
+            "content": "Nagpapatupad kami ng naaangkop na teknikal at organisasyonal na hakbang upang protektahan ang iyong personal na impormasyon laban sa hindi awtorisadong access, pagbabago, pagbubunyag, o pagwasak. Gayunpaman, walang paraan ng pagpapadala sa Internet ang 100% secure."
+          },
+          {
+            "title": "5. Ang Iyong Mga Karapatan",
+            "content": "Depende sa iyong lokasyon, maaari kang magkaroon ng karapatan na:",
+            "items": [
+              "Ma-access ang iyong personal na impormasyon",
+              "Itama ang hindi tumpak na data",
+              "Humiling ng pagtanggal ng iyong data",
+              "Mag-opt-out sa marketing communications"
+            ]
+          },
+          {
+            "title": "6. Makipag-ugnayan sa Amin",
+            "content": "Kung mayroon kang mga tanong tungkol sa Privacy Policy na ito, mangyaring makipag-ugnayan sa amin sa privacy@provenalabs.com"
+          }
+        ]
+      },
+      "terms": {
+        "title": "Mga Tuntunin ng Serbisyo",
+        "lastUpdated": "Huling na-update: Enero 2025",
+        "sections": [
+          {
+            "title": "1. Kasunduan sa Mga Tuntunin",
+            "content": "Sa pamamagitan ng pag-access at paggamit ng website at serbisyo na ito, tinatanggap mo at sumasang-ayon na maging nakatali sa mga tuntunin at probisyon ng kasunduang ito. Kung hindi ka sumasang-ayon na sumunod sa nasa itaas, mangyaring huwag gamitin ang serbisyong ito."
+          },
+          {
+            "title": "2. Use License",
+            "content": "Ang pahintulot ay ipinagkakaloob upang pansamantalang mag-download ng isang kopya ng mga materyales (impormasyon o software) sa website ng Provena Labs para sa personal, non-commercial transitory viewing lamang. Ito ay isang grant ng lisensya, hindi transfer ng title, at sa ilalim ng lisensyang ito hindi mo maaaring:",
+            "items": [
+              "Baguhin o kopyahin ang mga materyales",
+              "Gamitin ang mga materyales para sa anumang commercial purpose o para sa anumang public display",
+              "Subukan na i-decompile o i-reverse engineer ang anumang software na nakapaloob sa website",
+              "Alisin ang anumang copyright o iba pang proprietary notations mula sa mga materyales",
+              "Ilipat ang mga materyales sa ibang tao o \"mirror\" ang mga materyales sa anumang iba pang server"
+            ]
+          },
+          {
+            "title": "3. Disclaimer",
+            "content": "Ang mga materyales sa website ng Provena Labs ay ibinibigay sa 'as is' na batayan. Ang Provena Labs ay hindi gumagawa ng anumang warranties, ipinahayag o ipinahiwatig, at sa pamamagitan nito ay tinatanggihan at tinatanggihan ang lahat ng iba pang warranties kabilang, nang walang limitasyon, implied warranties o kondisyon ng merchantability, fitness para sa isang partikular na layunin, o non-infringement ng intellectual property o iba pang paglabag sa mga karapatan."
+          },
+          {
+            "title": "4. Mga Limitasyon",
+            "content": "Sa anumang kaganapan, ang Provena Labs o ang mga supplier nito ay hindi mananagot para sa anumang pinsala (kabilang, nang walang limitasyon, pinsala para sa pagkawala ng data o kita, o dahil sa pagkagambala ng negosyo) na nagmumula sa paggamit o kawalan ng kakayahang gamitin ang mga materyales sa website ng Provena Labs."
+          },
+          {
+            "title": "5. Katumpakan ng Mga Materyales",
+            "content": "Ang mga materyales na lumilitaw sa website ng Provena Labs ay maaaring magsama ng teknikal, typographical, o photographic errors. Ang Provena Labs ay hindi nagtatakda na ang anumang mga materyales sa website nito ay tumpak, kumpleto, o kasalukuyan."
+          },
+          {
+            "title": "6. Mga Link",
+            "content": "Ang Provena Labs ay hindi narepaso ang lahat ng mga site na naka-link sa website nito at hindi responsable para sa mga nilalaman ng anumang ganitong naka-link na site. Ang pagsasama ng anumang link ay hindi nagpapahiwatig ng pagsang-ayon ng Provena Labs sa site. Ang paggamit ng anumang ganitong naka-link na website ay nasa sariling panganib ng user."
+          },
+          {
+            "title": "7. Mga Pagbabago",
+            "content": "Ang Provena Labs ay maaaring baguhin ang mga tuntunin ng serbisyo na ito para sa website nito anumang oras nang walang abiso. Sa pamamagitan ng paggamit ng website na ito, sumasang-ayon ka na maging nakatali sa kasalukuyang bersyon ng mga tuntunin ng serbisyo na ito."
+          },
+          {
+            "title": "8. Governing Law",
+            "content": "Ang mga tuntunin at kondisyon na ito ay pinamumunuan at binibigyang-kahulugan alinsunod sa mga batas ng hurisdiksyon kung saan nagpapatakbo ang Provena Labs, at hindi mo na maaaring bawiin na sumusuko sa eksklusibong hurisdiksyon ng mga korte sa lokasyong iyon."
+          }
+        ]
+      },
+      "compliance": {
+        "title": "Compliance & Regulatory",
+        "subtitle": "Ang aming commitment sa regulatory compliance at transparency",
+        "sections": [
+          {
+            "title": "Regulatory Compliance",
+            "description": "Ang Provena Labs ay nakatuon sa pagpapanatili ng pinakamataas na pamantayan ng regulatory compliance. Nakikipagtulungan kami nang malapit sa mga regulatory bodies upang matiyak na ang aming mga operasyon ay tumutugon sa lahat ng naaangkop na batas at regulasyon.",
+            "items": [
+              {
+                "title": "AML/KYC Compliance",
+                "description": "Nagpapatupad kami ng comprehensive Anti-Money Laundering at Know Your Customer procedures upang maiwasan ang financial crimes."
+              },
+              {
+                "title": "Data Protection",
+                "description": "Sumusunod kami sa GDPR, CCPA, at iba pang data protection regulations upang protektahan ang user privacy."
+              },
+              {
+                "title": "Financial Regulations",
+                "description": "Sumusunod kami sa lahat ng naaangkop na financial regulations at pinapanatili ang tamang licensing kung saan kinakailangan."
+              },
+              {
+                "title": "Audit & Transparency",
+                "description": "Sumasailalim kami sa regular third-party audits at pinapanatili ang buong transparency sa aming operasyon."
+              }
+            ]
+          },
+          {
+            "title": "Mga Security Audits",
+            "description": "Ang aming platform ay sumasailalim sa regular security audits ng mga nangungunang independent security firms upang matiyak ang kaligtasan ng user funds at data.",
+            "content": {
+              "title": "Pinakabagong Audit Results",
+              "items": [
+                "Security Audit: Q4 2024 - Nasaad nang walang kritikal na mga isyu",
+                "Smart Contract Audit: Q4 2024 - Nasaad nang walang kritikal na mga isyu",
+                "Compliance Review: Q4 2024 - Ganap na compliant"
+              ]
+            }
+          },
+          {
+            "title": "Mga Regulatory Licenses",
+            "description": "Ang Provena Labs ay pinapanatili ang lahat ng kinakailangang lisensya at rehistro na kinakailangan upang magpatakbo sa aming mga hurisdiksyon.",
+            "grid": [
+              {
+                "title": "Money Services License",
+                "description": "Nakarehistro sa FinCEN at state regulators"
+              },
+              {
+                "title": "Data Protection",
+                "description": "GDPR at CCPA compliant"
+              }
+            ]
+          },
+          {
+            "title": "Reporting & Transparency",
+            "description": "Naniniwala kami sa transparency at regular na naglalathala ng mga ulat sa aming compliance efforts at operational metrics.",
+            "links": [
+              {
+                "text": "Q4 2024 Compliance Report",
+                "url": "#"
+              },
+              {
+                "text": "Security Audit Report",
+                "url": "#"
+              },
+              {
+                "text": "Transparency Report",
+                "url": "#"
+              }
+            ]
+          }
+        ]
+      },
+      "disclosures": {
+        "title": "Mga Pagbubunyag ng Panganib",
+        "subtitle": "Mahalagang impormasyon tungkol sa mga panganib na nauugnay sa $USDP",
+        "warning": {
+          "title": "Mahalagang Disclaimer",
+          "text": "Ang cryptocurrency at stablecoin investments ay may malaking panganib. Mangyaring basahin nang mabuti ang lahat ng pagbubunyag bago gamitin ang $USDP o aming mga serbisyo."
+        },
+        "sections": [
+          {
+            "title": "Mga Market Risks",
+            "items": [
+              {
+                "title": "Volatility Risk",
+                "description": "Habang ang $USDP ay idinisenyo upang mapanatili ang 1:1 USD peg, ang mga kondisyon ng merkado ay maaaring magdulot ng pansamantalang paglihis. Ang halaga ng $USDP ay maaaring mag-iba-iba."
+              },
+              {
+                "title": "Liquidity Risk",
+                "description": "Walang garantiya ng sapat na liquidity upang bumili o magbenta ng $USDP sa anumang naibigay na oras. Ang mga kondisyon ng merkado ay maaaring makaapekto sa iyong kakayahang mag-trade."
+              },
+              {
+                "title": "Counterparty Risk",
+                "description": "Ang $USDP ay nakasalalay sa financial stability ng aming collateral providers at partners. Ang pagkabigo ng mga entity na ito ay maaaring makaapekto sa halaga ng $USDP."
+              }
+            ]
+          },
+          {
+            "title": "Mga Technology Risks",
+            "items": [
+              {
+                "title": "Smart Contract Risk",
+                "description": "Habang ang aming mga smart contract ay na-audit, palaging may panganib ng hindi natuklasang vulnerabilities o exploits."
+              },
+              {
+                "title": "Blockchain Risk",
+                "description": "Ang Pi Network blockchain ay maaaring makaranas ng teknikal na mga isyu, network congestion, o iba pang mga problema na maaaring makaapekto sa mga transaksyon ng $USDP."
+              },
+              {
+                "title": "Wallet Risk",
+                "description": "Ang pagkawala ng private keys o wallet access ay maaaring magresulta sa permanenteng pagkawala ng iyong $USDP. Hindi namin maaaring mabawi ang nawalang pondo."
+              }
+            ]
+          },
+          {
+            "title": "Mga Regulatory Risks",
+            "items": [
+              {
+                "title": "Regulatory Changes",
+                "description": "Ang mga pagbabago sa cryptocurrency regulations ay maaaring makaapekto sa availability o paggamit ng $USDP sa ilang mga hurisdiksyon."
+              },
+              {
+                "title": "Legal Uncertainty",
+                "description": "Ang legal status ng stablecoins at cryptocurrencies ay nananatiling hindi tiyak sa maraming hurisdiksyon at maaaring magbago."
+              }
+            ]
+          },
+          {
+            "title": "Walang Investment Advice",
+            "content": "Ang website na ito at aming mga serbisyo ay hindi bumubuo ng investment advice, financial advice, o rekomendasyon na bumili o magbenta ng $USDP. Masidhi naming inirerekomenda na kumunsulta sa isang kwalipikadong financial advisor bago gumawa ng anumang investment decisions."
+          },
+          {
+            "title": "Limitasyon ng Pananagutan",
+            "content": "Sa pinakamataas na lawak na pinahihintulutan ng batas, ang Provena Labs ay hindi mananagot para sa anumang hindi direktang, incidental, espesyal, consequential, o punitive damages, kabilang ang pagkawala ng kita, data, o paggamit, na nagmumula sa iyong paggamit ng $USDP o aming mga serbisyo."
+          }
+        ]
+      }
+    },
+    "pitch": {
+        "cover": {
+          "tagline": "Matatag. Secure. Simple.",
+          "subtitle": "Ang Hinaharap ng Matatag na Halaga sa Pi Network",
+          "description": "Isang USD-pegged stablecoin na dinisenyo para sa susunod na henerasyon ng digital finance."
+        },
+        "problem": {
+          "title": "Bakit Mahalaga ang Stablecoins",
+          "challenges": {
+            "title": "Mga Hamon sa Kasalukuyang Market",
+            "items": [
+              "Ang mga umiiral na stablecoin ay nagpapatakbo sa mga high-fee network (Ethereum, Tron)",
+              "Ang mga gastos sa transaksyon ay umaabot sa $1-50+ bawat transaksyon",
+              "Limitadong accessibility para sa 55+ milyong Pi Network users",
+              "Kakulangan ng enterprise-grade security sa mga umiiral na solusyon",
+              "Pangangailangan para sa transparent, audited collateral backing"
+            ]
+          },
+          "opportunity": {
+            "title": "Ang Oportunidad",
+            "description": "Bilyun-bilyong user sa buong mundo ang walang access sa matatag na digital currencies na may mababang gastos at mataas na seguridad."
+          }
+        },
+        "introducing": {
+          "title": "Ano ang $USDP?",
+          "description": "Ang $USDP ay isang fully collateralized USD-pegged stablecoin na binuo natively sa Pi Network blockchain.",
+          "valueProps": [
+            {
+              "title": "1:1 USD Peg",
+              "description": "Laging nagkakahalaga ng eksaktong isang dolyar"
+            },
+            {
+              "title": "150% Overcollateralized",
+              "description": "Suportado ng higit sa 115% sa collateral para sa maximum stability"
+            },
+            {
+              "title": "Enterprise Security",
+              "description": "Multi-signature wallets, passkey authentication, at rigorous audits"
+            },
+            {
+              "title": "Pi Network Native",
+              "description": "Leverages ang pinakamabilis, pinakamababang-gastos na blockchain infrastructure"
+            },
+            {
+              "title": "Transparent & Audited",
+              "description": "Buong on-chain transparency na may regular compliance reports"
+            }
+          ]
+        },
+        "competitiveAdvantages": {
+          "title": "Bakit Nakatatangi ang $USDP",
+          "subtitle": "Competitive Advantages",
+          "table": {
+            "feature": "Feature",
+            "usdp": "$USDP",
+            "competitors": "Competitors",
+            "rows": [
+              {
+                "feature": "Network",
+                "usdp": "Pi Network",
+                "competitors": "Ethereum, Tron"
+              },
+              {
+                "feature": "Transaction Fees",
+                "usdp": "<$0.01",
+                "competitors": "$1-50+"
+              },
+              {
+                "feature": "Collateral Ratio",
+                "usdp": "150%",
+                "competitors": "100-110%"
+              },
+              {
+                "feature": "Authentication",
+                "usdp": "Passkeys",
+                "competitors": "Passwords/2FA"
+              },
+              {
+                "feature": "Mint/Redeem Fee",
+                "usdp": "0.3%",
+                "competitors": "0.5-1%"
+              },
+              {
+                "feature": "Speed",
+                "usdp": "Seconds",
+                "competitors": "Minutes"
+              },
+              {
+                "feature": "Security Audits",
+                "usdp": "Regular",
+                "competitors": "Varies"
+              }
+            ]
+          },
+          "conclusion": "Ang $USDP ay nananalo sa gastos, seguridad, at accessibility."
+        },
+        "keyFeatures": {
+          "title": "Key Features",
+          "sections": [
+            {
+              "title": "Security First",
+              "subtitle": "Enterprise-Grade Protection",
+              "items": [
+                "Ang multi-signature wallet architecture ay pumipigil sa unauthorized access",
+                "Passkey authentication para sa maximum security",
+                "Real-time reserve tracking on-chain",
+                "Client-side encryption para sa user data",
+                "Biometric authentication support",
+                "Regular third-party security audits"
+              ]
+            },
+            {
+              "title": "Lightning-Fast Transactions",
+              "subtitle": "Speed & Efficiency",
+              "items": [
+                "Ang mga transaksyon ay nagse-settle sa loob ng ilang segundo sa Pi Network",
+                "Near-zero transaction fees (<$0.01)",
+                "Instant settlement para sa merchants",
+                "Walang intermediaries o delays"
+              ]
+            },
+            {
+              "title": "Global & Borderless",
+              "subtitle": "Worldwide Access",
+              "items": [
+                "Magpadala at tumanggap ng $USDP kahit saan sa mundo",
+                "Walang geographic restrictions",
+                "Walang banking intermediaries",
+                "Available 24/7/365"
+              ]
+            },
+            {
+              "title": "Fully Transparent",
+              "subtitle": "On-Chain Verification",
+              "items": [
+                "100% on-chain transparency",
+                "Auditable collateral reserves",
+                "Compliance reports na inilalathala nang regular",
+                "Smart contract code na na-audit ng independent firms"
+              ]
+            }
+          ]
+        },
+        "technicalSpecs": {
+          "title": "Technical Specifications",
+          "subtitle": "Infrastructure Details",
+          "items": [
+            {
+              "label": "Blockchain",
+              "value": "Pi Network"
+            },
+            {
+              "label": "Token Standard",
+              "value": "Pi Network Native Token"
+            },
+            {
+              "label": "Decimals",
+              "value": "18"
+            },
+            {
+              "label": "Collateralization Ratio",
+              "value": "150%"
+            },
+            {
+              "label": "Minting Fee",
+              "value": "0.3%"
+            },
+            {
+              "label": "Redemption Fee",
+              "value": "0.3%"
+            },
+            {
+              "label": "Transfer Fee",
+              "value": "0% (completely free)"
+            },
+            {
+              "label": "Audit Status",
+              "value": "Regularly audited"
+            }
+          ]
+        },
+        "marketOpportunity": {
+          "title": "Market Opportunity",
+          "subtitle": "Massive Total Addressable Market (TAM)",
+          "sections": [
+            {
+              "title": "Pi Network Ecosystem",
+              "items": [
+                "55+ milyong engaged users na handang mag-adopt ng blockchain solutions",
+                "Active community na may proven interest sa crypto products",
+                "First-mover advantage sa Pi Network stablecoin space"
+              ]
+            },
+            {
+              "title": "Global Stablecoin Market",
+              "items": [
+                "$180+ bilyon na stablecoin market size (at lumalaki)",
+                "Taunang growth rate na lumalampas sa 30%",
+                "Tumataas na institutional adoption",
+                "Regulatory clarity sa major markets"
+              ]
+            },
+            {
+              "title": "Use Case Categories",
+              "items": [
+                "E-commerce & Payments: Mga merchant na naghahanap ng low-cost payment options",
+                "DeFi Trading: Mga trader na nangangailangan ng collateral at liquidity provision",
+                "Cross-Border Remittances: Mga manggagawa na nagpapadala ng pera sa bahay nang affordably",
+                "Value Storage: Mga user na naghahanap ng cryptocurrency exposure nang walang volatility"
+              ]
+            }
+          ]
+        },
+        "useCases": {
+          "title": "Use Cases",
+          "subtitle": "Kung saan Nilulutas ng $USDP ang Tunay na Problema",
+          "categories": [
+            {
+              "title": "E-Commerce & Payments",
+              "items": [
+                "Tumanggap ng mga payment na may instant settlement at zero merchant fraud",
+                "Minimal fees ay nagbibigay-daan sa mas mahusay na margins para sa retailers",
+                "Global payment network nang walang traditional payment processors"
+              ]
+            },
+            {
+              "title": "Cross-Border Payments & Remittances",
+              "items": [
+                "Magpadala ng pera internationally sa isang fraction ng traditional costs",
+                "Eliminate intermediaries (banks, money transfer services)",
+                "Instant settlement vs. 3-5 araw na banking delays",
+                "Perpekto para sa migrant workers na sumusuporta sa pamilya sa ibang bansa"
+              ]
+            },
+            {
+              "title": "DeFi & Trading",
+              "items": [
+                "Gamitin ang $USDP bilang collateral sa lending protocols",
+                "Magbigay ng liquidity sa decentralized exchanges at kumita ng yield",
+                "Mag-trade ng volatile assets na may stable-value pairs",
+                "Makilahok sa yield farming strategies"
+              ]
+            },
+            {
+              "title": "Value Storage",
+              "items": [
+                "Mag-hold ng stable purchasing power nang walang exposure sa crypto volatility",
+                "Hedge laban sa local currency devaluation",
+                "Panatilihin ang liquidity sa digital form",
+                "Preserve wealth across borders"
+              ]
+            }
+          ]
+        },
+        "businessModel": {
+          "title": "Business Model & Revenue Streams",
+          "subtitle": "Sustainable Economics",
+          "sections": [
+            {
+              "title": "Revenue Generation",
+              "items": [
+                "Minting Fees: 0.3% sa lahat ng bagong $USDP na nilikha",
+                "Redemption Fees: 0.3% sa lahat ng $USDP na na-redeem sa USD collateral",
+                "Partnership Fees: Integration partnerships sa merchants, exchanges, at protocols",
+                "Enterprise Services: Institutional custody at management solutions"
+              ]
+            },
+            {
+              "title": "Cost Structure",
+              "items": [
+                "Minimal infrastructure costs (Binabawasan ng Pi Network ang operational overhead)",
+                "Security at compliance costs ay na-offset ng scale",
+                "Customer acquisition sa pamamagitan ng ecosystem partnerships"
+              ]
+            }
+          ],
+          "profitability": "Ang revenue mula sa fees ay nag-s-scale nang linearly sa transaction volume habang ang infrastructure costs ay nananatiling fixed, na lumilikha ng significant margin expansion sa scale."
+        },
+        "tokenEconomics": {
+          "title": "Token Economics & Supply Model",
+          "subtitle": "Dinisenyo para sa Stability",
+          "supplyMechanism": {
+            "title": "Supply Mechanism",
+            "items": [
+              "Suportado ng Pi collateral - bawat $USDP ay may collateral reserves",
+              "Dynamic supply ay umaayon batay sa demand habang pinapanatili ang 1:1 peg",
+              "150% overcollateralization ay tinitiyak ang stability sa ilalim ng lahat ng market conditions",
+              "Transparent reserve verification on-chain"
+            ]
+          },
+          "functions": {
+            "title": "Tatlong Function ng $USDP",
+            "items": [
+              "Medium of Exchange - Gamitin para sa mabilis, mababang-gastos na global transactions",
+              "Store of Value - Hawakan bilang stable asset nang walang volatility exposure",
+              "DeFi Collateral - Gamitin sa decentralized finance protocols at yield strategies"
+            ]
+          },
+          "pegMaintenance": {
+            "title": "Peg Maintenance",
+            "items": [
+              "Ang mga user ay maaaring laging mag-mint sa $1.00 at mag-redeem sa $1.00",
+              "Ang arbitrage incentives ay nagpapanatili ng market price sa peg",
+              "Ang collateral excess ay tinitiyak ang redemption capability"
+            ]
+          }
+        },
+        "goToMarket": {
+          "title": "Go-to-Market Strategy",
+          "phases": [
+            {
+              "title": "Phase 1: Launch & Foundation",
+              "period": "Q4 2025 - Q1 2026",
+              "items": [
+                "Beta launch sa Pi Network testnet na may core features",
+                "Security audit completion at publication",
+                "Strategic partnerships sa Pi ecosystem projects",
+                "Community education at onboarding",
+                "Mobile app launch para sa consumer accessibility"
+              ]
+            },
+            {
+              "title": "Phase 2: Growth & Integration",
+              "period": "Q2 2026",
+              "items": [
+                "Mainnet launch at public availability",
+                "Merchant partnerships para sa real-world adoption",
+                "DeFi protocol integrations (lending, trading, liquidity)",
+                "Cross-chain bridge development",
+                "Governance token introduction para sa decentralized governance"
+              ]
+            },
+            {
+              "title": "Phase 3: Scale & Expansion",
+              "period": "Q3 2026+",
+              "items": [
+                "Institutional services launch (custody, settlement)",
+                "Global expansion sa bagong geographic markets",
+                "Advanced features (yield products, derivatives)",
+                "Additional revenue streams",
+                "Market leadership positioning"
+              ]
+            }
+          ]
+        },
+        "teamPartnerships": {
+          "title": "Team & Partnerships",
+          "subtitle": "Suportado ng Provena Labs",
+          "partners": {
+            "title": "Ang aming Ecosystem Partners",
+            "items": [
+              {
+                "name": "ZyraChain",
+                "description": "Infrastructure at blockchain solutions"
+              },
+              {
+                "name": "Zyra",
+                "description": "Core platform services"
+              },
+              {
+                "name": "ZyraPay",
+                "description": "Payment processing integration"
+              },
+              {
+                "name": "ZyraWallet",
+                "description": "Wallet at custody solutions"
+              },
+              {
+                "name": "ZyraDEX",
+                "description": "Decentralized exchange"
+              },
+              {
+                "name": "Orbit",
+                "description": "Cross-chain solutions"
+              },
+              {
+                "name": "Dappify",
+                "description": "Developer platform"
+              }
+            ]
+          },
+          "whyMatters": {
+            "title": "Bakit Mahalaga Ito",
+            "description": "Ang Provena Labs ay nagtayo ng kumpletong ecosystem sa paligid ng blockchain infrastructure. Ang $USDP ay naka-position bilang native stablecoin sa buong network na ito ng mga produkto at serbisyo."
+          }
+        },
+        "riskMitigation": {
+          "title": "Risk Mitigation",
+          "subtitle": "Paano Namin Pinamamahalaan ang Risk",
+          "risks": [
+            {
+              "title": "Collateral Risk",
+              "items": [
+                "Ang 150% overcollateralization ay makabuluhang lumalampas sa minimum requirements",
+                "Regular audits ng collateral reserves",
+                "Transparent on-chain verification",
+                "Conservative collateral selection"
+              ]
+            },
+            {
+              "title": "Regulatory Risk",
+              "items": [
+                "Compliance-first approach mula sa simula",
+                "Regular compliance audits at reporting",
+                "Geographic expansion batay sa regulatory clarity",
+                "Active engagement sa regulators"
+              ]
+            },
+            {
+              "title": "Technology Risk",
+              "items": [
+                "Regular security audits ng reputable firms",
+                "Multi-signature security architecture",
+                "Staged rollout (testnet → mainnet)",
+                "Bug bounty program para sa community security research"
+              ]
+            },
+            {
+              "title": "Market Risk",
+              "items": [
+                "1:1 peg arbitrage mechanisms",
+                "Malakas na partnership ecosystem ay lumilikha ng adoption",
+                "First-mover advantage sa Pi Network",
+                "Differentiated positioning mula sa competitors"
+              ]
+            }
+          ]
+        },
+        "financialProjections": {
+          "title": "Financial Projections",
+          "subtitle": "5-Year Vision",
+          "years": [
+            {
+              "period": "Year 1 (2025-2026)",
+              "items": [
+                "10-50 milyong $USDP sa sirkulasyon",
+                "5,000-20,000 daily active users",
+                "Dozens ng merchant partnerships",
+                "Focus sa product-market fit"
+              ]
+            },
+            {
+              "period": "Year 2 (2026-2027)",
+              "items": [
+                "100-500 milyong $USDP sa sirkulasyon",
+                "50,000-200,000 daily active users",
+                "Major enterprise partnerships",
+                "Profitability milestone"
+              ]
+            },
+            {
+              "period": "Year 3+ (2027+)",
+              "items": [
+                "$1+ bilyon na $USDP sa sirkulasyon",
+                "Milyun-milyong daily active users",
+                "Institutional adoption",
+                "Market leadership sa Pi Network"
+              ]
+            }
+          ]
+        },
+        "theAsk": {
+          "title": "Ang Hiling",
+          "amount": "Naghahanap ng $5M sa Series A Funding",
+          "equity": "Kapalit ng 10% Equity",
+          "valuation": "Ito ay nagva-value sa Provena Labs / $USDP sa post-money valuation na $50 milyon, na sumasalamin sa aming market position, ecosystem strength, at growth trajectory.",
+          "useOfFunds": {
+            "title": "Use of Funds Allocation",
+            "items": [
+              {
+                "category": "Product Development & Security",
+                "percentage": "35%",
+                "amount": "$1.75M",
+                "details": [
+                  "Enhanced security infrastructure at audits",
+                  "Mainnet launch at optimization",
+                  "Advanced features (yield products, cross-chain bridges)"
+                ]
+              },
+              {
+                "category": "Go-to-Market & User Acquisition",
+                "percentage": "30%",
+                "amount": "$1.5M",
+                "details": [
+                  "Marketing at community building",
+                  "Merchant at partnership development",
+                  "Mobile app at user interface optimization"
+                ]
+              },
+              {
+                "category": "Regulatory & Compliance",
+                "percentage": "20%",
+                "amount": "$1M",
+                "details": [
+                  "Legal at compliance infrastructure",
+                  "Banking relationships para sa collateral management",
+                  "Global regulatory approvals"
+                ]
+              },
+              {
+                "category": "Team & Operations",
+                "percentage": "15%",
+                "amount": "$750K",
+                "details": [
+                  "Key hires (Head of Partnerships, VP Engineering, Compliance Officer)",
+                  "Operational infrastructure scaling"
+                ]
+              }
+            ]
+          },
+          "terms": {
+            "title": "Investment Terms Overview",
+            "sections": [
+              {
+                "title": "Equity Structure",
+                "items": [
+                  "10% fully diluted equity ownership",
+                  "Preferred Series A shares na may standard protections",
+                  "Anti-dilution provisions (weighted average)"
+                ]
+              },
+              {
+                "title": "Governance & Board Seat",
+                "items": [
+                  "Observer rights sa board meetings",
+                  "Information at inspection rights",
+                  "Participation sa major decisions (fundraising, M&A, pivot)"
+                ]
+              },
+              {
+                "title": "Financial Rights",
+                "items": [
+                  "Pro-rata participation rights sa future funding rounds",
+                  "Revenue percentage na naka-link sa equity (10% ng profits post-profitability)",
+                  "Liquidation preference (1x non-participating preferred)"
+                ]
+              }
+            ]
+          },
+          "milestones": {
+            "title": "Milestones & Performance",
+            "items": [
+              "Mainnet launch sa loob ng 6 na buwan",
+              "$100M+ $USDP sa sirkulasyon sa loob ng 18 buwan",
+              "500K+ daily active users sa loob ng 24 buwan",
+              "Path sa profitability sa loob ng 36 buwan"
+            ]
+          }
+        },
+        "closing": {
+          "title": "Ang Hinaharap ng Matatag na Halaga ay Narito",
+          "intro": "Ang $USDP ay kumakatawan sa isang paradigm shift sa stablecoin design:",
+          "points": [
+            {
+              "title": "Mas Mababang Gastos",
+              "description": "Sub-penny transaction fees vs. dolyar sa competing networks."
+            },
+            {
+              "title": "Mas Mataas na Seguridad",
+              "description": "150% collateralization na may enterprise-grade protection vs. 100-110% competitors."
+            },
+            {
+              "title": "Malaking Accessibility",
+              "description": "Native sa Pi Network na naglilingkod sa 55+ milyong users vs. niche markets."
+            },
+            {
+              "title": "Mas Mahusay na Economics",
+              "description": "Ang revenue ay nag-s-scale sa volume habang ang costs ay nananatiling fixed."
+            }
+          ],
+          "conclusion": "Ang hinaharap ng matatag na halaga ay hindi lamang tungkol sa pag-pegging sa USD—ito ay tungkol sa paghahatid ng stability, security, at accessibility sa bilyun-bilyong tao sa buong mundo.",
+          "tagline": "$USDP. Matatag. Secure. Simple.",
+          "footer": "Para sa karagdagang impormasyon, bisitahin ang www.provenalabs.com"
+        }
+      }
+    }
+  }
