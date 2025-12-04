@@ -3,6 +3,7 @@
 import { ArrowRight } from "lucide-react"
 import Image from "next/image"
 import { useTranslations } from "next-intl"
+import { Link } from "@/navigation"
 
 export function Hero() {
   const t = useTranslations()
@@ -19,10 +20,10 @@ export function Hero() {
               {t('hero.description')}
             </p>
             <div className="flex flex-col sm:flex-row gap-4 pt-4">
-              <a href="https://mapofpi.com" target="_blank" rel="noopener noreferrer" className="px-8 py-3 bg-primary text-primary-foreground rounded-lg font-semibold hover:opacity-90 transition-opacity flex items-center justify-center gap-2">
+              <Link href="/roadmap" className="px-8 py-3 bg-primary text-primary-foreground rounded-lg font-semibold hover:opacity-90 transition-opacity flex items-center justify-center gap-2">
                 {t('hero.tryMapOfPi')}
                 <ArrowRight size={20} />
-              </a>
+              </Link>
             </div>
           </div>
 

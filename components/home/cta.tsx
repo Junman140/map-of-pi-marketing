@@ -14,7 +14,7 @@ export function CTA() {
           {t('cta.subtitle')}
         </p>
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
-          <a href="https://mapofpi.com" target="_blank" rel="noopener noreferrer" className="px-8 py-3 bg-white text-primary rounded-lg font-semibold hover:opacity-90 transition-opacity text-center">
+          <a href="https://mapofpi.pinet.com/" target="_blank" rel="noopener noreferrer" className="px-8 py-3 bg-white text-primary rounded-lg font-semibold hover:opacity-90 transition-opacity text-center">
             {t('cta.launchApp')}
           </a>
           <Link href="/contact" className="px-8 py-3 border-2 border-primary-foreground text-primary-foreground rounded-lg font-semibold hover:bg-primary-foreground/10 transition-colors text-center">

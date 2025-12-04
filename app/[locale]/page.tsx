@@ -6,8 +6,9 @@ import { PiFestFeatures } from "@/components/home/pi-fest-features"
 import { EscrowPi } from "@/components/home/escrowpi"
 import { TeamHighlights } from "@/components/home/team-highlights"
 import { MACChatbot } from "@/components/home/mac-chatbot"
-import { UseCases } from "@/components/home/use-cases"
+// import { UseCases } from "@/components/home/use-cases"
 import { TargetMarket } from "@/components/home/target-market"
+// import { Roadmap } from "@/components/home/roadmap"
 import { CTA } from "@/components/home/cta"
 import { Footer } from "@/components/global/footer"
 import { locales } from '@/i18n'
@@ -31,10 +32,11 @@ export default async function Home({
       <Features />
       <PiFestFeatures />
       <EscrowPi />
-      <UseCases />
-      <TargetMarket />
+      {/* <UseCases /> */}
+      {/* <TargetMarket /> */}
       <TeamHighlights />
       <MACChatbot />
+      {/* <Roadmap /> */}
       <CTA />
       <Footer />
     </main>

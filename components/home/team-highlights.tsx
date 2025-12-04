@@ -23,7 +23,7 @@ export function TeamHighlights() {
     {
       name: t('team.ant.name'),
       role: t('team.ant.role'),
-      image: '/assets/photos/philip-jennings.png',
+      image: '/assets/photos/joseph-ciccone.png',
       bio: t('team.ant.bio'),
     },
   ]

@@ -93,7 +93,7 @@ export function Footer() {
               <a href="https://www.instagram.com/mapofpi" target="_blank" rel="noopener noreferrer" className="text-background/70 hover:text-background transition-colors" aria-label="Instagram">
                 <Instagram size={20} />
               </a>
-              <a href="https://www.facebook.com/mapofpi" target="_blank" rel="noopener noreferrer" className="text-background/70 hover:text-background transition-colors" aria-label="Facebook">
+              <a href="https://www.facebook.com/mapofpi/" target="_blank" rel="noopener noreferrer" className="text-background/70 hover:text-background transition-colors" aria-label="Facebook">
                 <Facebook size={20} />
               </a>
               <a href="https://x.com/mapofpi" target="_blank" rel="noopener noreferrer" className="text-background/70 hover:text-background transition-colors" aria-label="Twitter">

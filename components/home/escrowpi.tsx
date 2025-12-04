@@ -38,7 +38,7 @@ export function EscrowPi() {
               {t('escrowPi.description')}
             </p>
             <a
-              href="https://mapofpi.com"
+              href="https://escrowpi-corporate-identity.lovable.app/"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block text-primary hover:underline font-semibold"

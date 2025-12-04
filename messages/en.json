@@ -22,8 +22,8 @@
   },
   "hero": {
     "title": "More than just a map It's the future of Pi eCommerce",
-    "description": "Map of Pi is an active and evolving part of the Pi Network's ecosystem—designed to give real-world utility to Pi by connecting users with merchants who accept it. Through the Pi Browser, it's meant to make Pi more than just a mined token—helping it function as a currency in everyday commerce.",
-    "tryMapOfPi": "Try Map of Pi",
+    "description": "Map of Pi is an active and evolving part of the Pi Network's ecosystem designed to give real-world utility to Pi by connecting users with merchants who accept it. Through the Pi Browser, it's meant to make Pi more than just a mined token, helping it function as a currency in everyday commerce.",
+    "tryMapOfPi": "View RoadMap",
     "users": "Users",
     "sellers": "Sellers",
     "reviews": "Reviews"
@@ -71,6 +71,8 @@
   "roadmap": {
     "title": "Our Roadmap",
     "subtitle": "Building the future of Pi commerce, one milestone at a time.",
+    "viewFullRoadmap": "View Full Roadmap",
+    "v140": "V1.4.0",
     "v155": "V1.5.5",
     "v160": "V1.6.0",
     "v20": "V2.0 Coming Soon",
@@ -152,7 +154,7 @@
     "reviews": "Shop Reviews"
   },
   "escrowPi": {
-    "title": "Not just secure payments—It's trust built into Pi eCommerce",
+    "title": "Not just secure payments It's trust built into Pi eCommerce",
     "subtitle": "EscrowPi is a next-generation utility in the Pi Network ecosystem",
     "description": "Designed to make transactions safer, smoother, and more reliable for both buyers and sellers, it acts as a neutral and automated escrow layer that only releases Pi when both sides confirm the transaction. Integrated through the Pi Browser, EscrowPi strengthens real-world commerce by reducing risk and removing the need for manual oversight—bringing confidence and fairness to every Pi exchange.",
     "learnMore": "See more"
@@ -170,7 +172,7 @@
     },
     "abdul": {
       "name": "Abdulganiyu Balogun (Abdul)",
-      "role": "Voice of the User",
+      "role": "Ambassador",
       "bio": "Abdul joined the Map of Pi volunteer team in January 2024, driven by a lifelong dream to be part of a truly decentralized economy. As a distinguished volunteer, he helps ensure the platform reflects real user needs."
     },
     "adisa": {
@@ -183,11 +185,6 @@
       "role": "Global Marketing Tech Specialist",
       "bio": "Founder of Ant CPU, a technology company focused on AI-driven web development. Ant brings a unique blend of automation, analytics, and creativity to the Map of Pi team, helping transform how Map of Pi connects, collaborates, and grows."
     },
-    "joseph": {
-      "name": "Joseph Ciccone",
-      "role": "Marketing Tech Director",
-      "bio": "Leading marketing technology initiatives and driving growth strategies for Map of Pi."
-    },
     "danny": {
       "name": "Danny Lee",
       "role": "Tech Lead",
@@ -195,7 +192,7 @@
     },
     "darin": {
       "name": "Darin Hajou",
-      "role": "Core Developer",
+      "role": "Core Developer, Co-Founder",
       "bio": "Core developer building the foundation of Map of Pi's marketplace platform."
     },
     "francis": {
@@ -225,8 +222,8 @@
     },
     "godswill": {
       "name": "Godswill Sam",
-      "role": "Team Member",
-      "bio": "Part of the global volunteer team building Map of Pi."
+      "role": "Developer",
+      "bio": "Developer contributing to Map of Pi's features and functionality."
     },
     "mohamed": {
       "name": "Mohamed Elsoshani",
@@ -261,12 +258,12 @@
         "description2": "Today, we continue to grow Map of Pi as a team of pro bono volunteers, united by our passion for the future of the Pi Ecosystem and the role that Pi eCommerce can play in global adoption. Our dedication is not driven by profit, but by the belief that Pi has the power to reshape how people connect, trade, and thrive."
       },
       "ourVision": {
-        "title": "Our vision—",
+        "title": "Our vision",
         "subtitle": "Where we're headed",
         "description": "Looking ahead, we are preparing to evolve into an equity- and contribution-based system that rewards commitment and creativity, ensuring that every team member shares in the future success of the project. With this foundation, our long-term vision is to scale Map of Pi into a global company and brand, supporting millions of Pioneers and merchants worldwide."
       },
       "ourOrganization": {
-        "title": "Our organization—",
+        "title": "Our organization",
         "subtitle": "Meet the Map of Pi team",
         "projectManager": {
           "title": "Project Manager",
@@ -331,16 +328,196 @@
     },
     "about": {
       "title": "About Map of Pi",
-      "subtitle": "We're building the future of Pi eCommerce on Pi Network. Our mission is to provide a secure, transparent, and innovative marketplace that connects Pi Network users with merchants worldwide.",
-      "mission": {
-          "title": "Our Mission",
-        "description1": "To create a production-grade marketplace that enables secure, fast, and low-cost transactions for the 55+ million users on Pi Network.",
-        "description2": "We believe in the power of blockchain technology to democratize commerce and provide financial services to everyone, everywhere."
-        },
-      "vision": {
-          "title": "Our Vision",
-        "description1": "A world where Pi cryptocurrency is used in everyday commerce, enabling seamless global transactions and financial inclusion.",
-        "description2": "We envision Map of Pi becoming the standard marketplace for Pi Network, powering e-commerce, local commerce, and cross-border payments."
+      "subtitle": "Building the bridge between Pi Network and the real economy, one merchant at a time.",
+      "story": {
+        "intro": "Map of Pi was born out of the 2024 Pi Commerce Hackathon, an event designed to spark innovation and unlock real-world utility for the Pi Network. Competing against a wide range of projects, Map of Pi stood out for its intuitive map-based interface and practical approach to solving one of Pi's most important challenges: connecting Pioneers with businesses that accept Pi as payment.",
+        "vision": "From its inception, the vision of Map of Pi has been clear—to make Pi spendable in everyday life. The app allows users to discover merchants across the globe, explore their offerings, and engage in commerce powered by Pi. Merchants, in turn, can easily showcase their businesses, set up shop within the app, and reach a growing global community of Pioneers."
+      },
+      "growth": {
+        "title": "Since launch, Map of Pi has continued to grow and evolve",
+        "items": [
+          {
+            "icon": "merchants",
+            "title": "Global Reach",
+            "description": "Reaching hundreds of thousands of registered merchant locations worldwide, making it one of the largest Pi commerce platforms."
+          },
+          {
+            "icon": "features",
+            "title": "Enhanced Features",
+            "description": "Adding features such as menus, contact options, and merchant ratings, enhancing trust and usability for both buyers and sellers."
+          },
+          {
+            "icon": "accessibility",
+            "title": "Pi Browser Integration",
+            "description": "Expanding accessibility through the Pi Browser, ensuring seamless engagement for Pioneers wherever they are."
+          }
+        ]
+      },
+      "coreMessage": {
+        "title": "More Than Just a Directory",
+        "description": "At its core, Map of Pi is more than just a directory—it's a bridge between the Pi Network and the real economy. By empowering both local businesses and global Pioneers, Map of Pi continues to play a vital role in building the foundation for Pi's utility as a widely used digital currency."
+      }
+    },
+    "roadmap": {
+      "pageTitle": "Product Roadmap",
+      "pageSubtitle": "Our vision for the future of Map of Pi and the Pi Network marketplace ecosystem.",
+      "v140": {
+        "version": "V1.4.0",
+        "description": "The initial release of Map of Pi, establishing the foundation for the Pi Network marketplace.",
+        "features": [
+          "Basic map interface for discovering merchants",
+          "Pi Network authentication integration",
+          "Initial merchant listing functionality",
+          "Core marketplace features"
+        ]
+      },
+      "v155": {
+        "version": "V1.5.5",
+        "description": "Enhanced global map functionality and improved Pi Browser integration for seamless user experience.",
+        "features": [
+          "Global map with merchant locations",
+          "Enhanced Pi Browser integration",
+          "Improved search and discovery",
+          "Better merchant onboarding"
+        ]
+      },
+      "v160": {
+        "version": "V1.6.0",
+        "description": "Introduction of QR codes, menu items, and significant improvements to the seller flow.",
+        "features": [
+          "QR code generation for merchants",
+          "Menu items and product listings",
+          "Enhanced seller flow and dashboard",
+          "Improved user experience"
+        ]
+      },
+      "v20": {
+        "version": "V2.0 Coming Soon",
+        "description": "The next major release with enhanced search, user reviews, advanced filtering, and EscrowPi integration.",
+        "features": [
+          "Enhanced search functionality",
+          "User reviews and ratings system",
+          "Advanced filtering options",
+          "EscrowPi integration",
+          "AI assistant (M.A.C.) improvements",
+          "Global expansion features"
+        ]
+      }
+    },
+    "legal": {
+      "terms": {
+        "title": "Map of Pi Terms of Service",
+        "lastUpdated": "Last Updated: 6/3/2024",
+        "emailAddress": "Email Address: philip@mapofpi.com",
+        "sections": [
+          {
+            "title": "1. Acceptance of Terms",
+            "content": "Welcome to the Map of Pi app, developed by the Map of Pi team in collaboration with the Pi Community. By using this app, you agree to abide by these Terms of Service, as well as our Privacy Policy."
+          },
+          {
+            "title": "2. Use of the App",
+            "items": [
+              "You agree to use the Map of Pi app in compliance with all applicable laws and regulations.",
+              "You shall not use the app for any unlawful or prohibited purpose, or in any way that could damage, disable, overburden, or impair the app.",
+              "To use Map of Pi you must be registered as a pioneer user of the Pi Network."
+            ]
+          },
+          {
+            "title": "3. Intellectual Property",
+            "content": "The Map of Pi app and all content, features, and functionality are owned by Map of Pi and are protected by copyright, trademark, and other intellectual property laws."
+          },
+          {
+            "title": "4. Limitation of Liability",
+            "content": "Map of Pi shall not be liable for any direct, indirect, incidental, special, or consequential damages arising out of or in any way connected with the use of the Map of Pi app."
+          },
+          {
+            "title": "5. Indemnification",
+            "content": "You agree to indemnify and hold harmless Map of Pi and its affiliates, officers, directors, employees, and agents from any and all claims, liabilities, damages, losses, or expenses (including attorneys' fees) arising out of or in any way related to your use of the Map of Pi app."
+          },
+          {
+            "title": "6. Governing Law",
+            "content": "These Terms of Service shall be governed by and construed in accordance with the law of England and Wales without regard to their conflict of law provisions, including any dispute or claim arising out of or in connection with their subject matter or formation (including non-contractual disputes or claims)."
+          },
+          {
+            "title": "7. Changes to These Terms",
+            "content": "We reserve the right to update or modify these Terms of Service at any time without prior notice. The latest version will be posted on our website or within the app."
+          },
+          {
+            "title": "8. Contact Us",
+            "content": "If you have any questions or concerns about this Terms of Service, please contact us by sending an email to philip@mapofpi.com."
+          }
+        ]
+      },
+      "privacy": {
+        "title": "Map of Pi Privacy Policy",
+        "lastUpdated": "Last Updated: 6/3/2024",
+        "emailAddress": "Email Address: philip@mapofpi.com",
+        "sections": [
+          {
+            "title": "1. Introduction",
+            "content": "Welcome to the Map of Pi app, developed by the Map of Pi team in collaboration with the Pi Community. This Privacy Policy outlines how we collect, use, disclose, and protect your personal information when you use our mobile application."
+          },
+          {
+            "title": "2. Information We Collect"
+          },
+          {
+            "title": "2.1 User Information",
+            "items": [
+              "When you register as a user, we may collect your name, email address, username, and other relevant details.",
+              "We may collect information about your device, including device type, operating system, and unique device identifiers."
+            ]
+          },
+          {
+            "title": "2.2 Seller Information",
+            "content": "Sellers registering on the platform may be required to provide Seller information, including Seller name, location, and contact details."
+          },
+          {
+            "title": "3. How We Use Your Information"
+          },
+          {
+            "title": "3.1 Providing Services",
+            "items": [
+              "We use your information to provide and enhance the Map of Pi app services, including user and Seller functionalities."
+            ]
+          },
+          {
+            "title": "3.2 Communications",
+            "content": "We may use your contact information to send you updates, notifications, and promotional messages related to the Map of Pi app."
+          },
+          {
+            "title": "3.3 Analytics",
+            "content": "We collect and analyze data to improve the performance, features, and functionality of the app."
+          },
+          {
+            "title": "4. Sharing Your Information"
+          },
+          {
+            "title": "4.1 With Sellers",
+            "items": [
+              "User information may be shared with Sellers for order fulfillment and communication purposes."
+            ]
+          },
+          {
+            "title": "4.2 With Third Parties",
+            "content": "We may share information with third-party service providers for app functionality, analytics, and payment processing."
+          },
+          {
+            "title": "5. Security Measures",
+            "content": "We employ industry-standard security measures to protect your information. However, no method of transmission over the internet or electronic storage is completely secure."
+          },
+          {
+            "title": "6. Your Choices",
+            "content": "You can update your account information through the app settings. You may delete your Map of Pi account by deleting your Pi Network account and then choosing the option to delete your Map of Pi data when you next access Map of Pi. You may opt-out of promotional communications."
+          },
+          {
+            "title": "7. Changes to This Privacy Policy",
+            "content": "We may update this Privacy Policy as necessary. The latest version will be posted on our website or within the app."
+          },
+          {
+            "title": "8. Contact Us",
+            "content": "If you have any questions or concerns about this Privacy Policy, please contact us by sending an email to philip@mapofpi.com."
+          }
+        ]
       }
     }
     }

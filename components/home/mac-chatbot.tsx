@@ -25,7 +25,7 @@ export function MACChatbot() {
               {t('macChatbot.details')}
             </p>
             <a
-              href="https://mapofpi.com"
+              href="https://mapofpi.zapier.app/"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block px-6 py-3 bg-primary text-primary-foreground rounded-lg font-semibold hover:opacity-90 transition-opacity"

@@ -33,12 +33,6 @@ export function TeamContent() {
       bio: teamT('ant.bio'),
     },
     {
-      name: teamT('joseph.name'),
-      role: teamT('joseph.role'),
-      image: '/assets/photos/joseph-ciccone.png',
-      bio: teamT('joseph.bio'),
-    },
-    {
       name: teamT('danny.name'),
       role: teamT('danny.role'),
       image: '/assets/photos/danny-lee.PNG',
@@ -133,7 +127,7 @@ export function TeamContent() {
             </div>
             <div className="relative h-96 md:h-[500px]">
               <Image
-                src="/assets/main-assets/partial-world-map_edited_edited_no-shopspng.png"
+                src="/assets/main-assets/store-background_2.png"
                 alt="Map of Pi Global Marketplace"
                 fill
                 className="object-contain"

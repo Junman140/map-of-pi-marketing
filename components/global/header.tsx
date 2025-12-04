@@ -37,7 +37,7 @@ export function Header() {
           <Link href="/contact" className="text-foreground hover:text-primary transition-colors">
             {t('nav.contact')}
           </Link>
-          <a href="https://mapofpi.com" target="_blank" rel="noopener noreferrer" className="text-foreground hover:text-primary transition-colors">
+          <a href="https://mapofpi.zapier.app/" target="_blank" rel="noopener noreferrer" className="text-foreground hover:text-primary transition-colors">
             {t('nav.chatWithMAC')}
           </a>
 
@@ -46,7 +46,7 @@ export function Header() {
             <ThemeToggle />
           </div>
 
-          <a href="https://mapofpi.com" target="_blank" rel="noopener noreferrer" className="px-6 py-2 bg-primary text-primary-foreground rounded-lg hover:opacity-90 transition-opacity whitespace-nowrap">
+          <a href="https://mapofpi.pinet.com/" target="_blank" rel="noopener noreferrer" className="px-6 py-2 bg-primary text-primary-foreground rounded-lg hover:opacity-90 transition-opacity whitespace-nowrap">
             {t('nav.tryMapOfPi')}
           </a>
         </div>
@@ -74,7 +74,7 @@ export function Header() {
               <Link href="/contact" className="text-foreground hover:text-primary px-4 py-2 block" onClick={() => setIsOpen(false)}>
                 {t('nav.contact')}
               </Link>
-              <a href="https://mapofpi.com" target="_blank" rel="noopener noreferrer" className="text-foreground hover:text-primary px-4 py-2 block" onClick={() => setIsOpen(false)}>
+              <a href="https://mapofpi.pinet.com/" target="_blank" rel="noopener noreferrer" className="text-foreground hover:text-primary px-4 py-2 block" onClick={() => setIsOpen(false)}>
                 {t('nav.chatWithMAC')}
               </a>
 
@@ -97,7 +97,7 @@ export function Header() {
 
               {/* CTA */}
               <div className="px-4 py-4 mt-4">
-                <a href="https://mapofpi.com" target="_blank" rel="noopener noreferrer" className="w-full block px-6 py-2 bg-primary text-primary-foreground rounded-lg text-center">
+                <a href="https://mapofpi.pinet.com/" target="_blank" rel="noopener noreferrer" className="w-full block px-6 py-2 bg-primary text-primary-foreground rounded-lg text-center">
                   {t('nav.tryMapOfPi')}
                 </a>
               </div>
