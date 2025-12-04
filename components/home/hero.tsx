@@ -4,6 +4,7 @@ import { ArrowRight } from "lucide-react"
 import Image from "next/image"
 import { useTranslations } from "next-intl"
 import { Link } from "@/navigation"
+import { PiPriceTicker } from "@/components/home/pi-price-ticker"
 
 export function Hero() {
   const t = useTranslations()
@@ -11,6 +12,11 @@ export function Hero() {
   return (
     <section className="relative overflow-hidden bg-black text-white py-20 md:py-32">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        {/* Pi Price Ticker */}
+        <div className="mb-8 flex justify-center">
+          <PiPriceTicker />
+        </div>
+        
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div className="space-y-6">
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-white leading-tight">
