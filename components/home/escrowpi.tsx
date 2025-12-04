@@ -12,14 +12,14 @@ export function EscrowPi() {
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div className="relative h-96 md:h-[500px] order-2 md:order-1">
             <Image
-              src="/assets/elements/escrowpi-app-hands-design.png"
+              src="/assets/elements/escrowpi-app-group-design.png"
               alt="EscrowPi Secure Payments"
               fill
               className="object-contain"
             />
           </div>
           <div className="space-y-6 order-1 md:order-2">
-            <div className="inline-block mb-4">
+            <div className="flex justify-center md:justify-start mb-4">
               <Image
                 src="/assets/elements/escrowpi-logo-design.png"
                 alt="EscrowPi"

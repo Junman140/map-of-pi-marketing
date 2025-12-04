@@ -127,6 +127,8 @@
     "product": "Product",
     "company": "Company",
     "about": "About",
+    "roadmap": "Roadmap",
+    "membership": "Membership",
     "legal": "Legal",
     "privacy": "Privacy",
     "terms": "Terms",
@@ -357,6 +359,116 @@
         "title": "More Than Just a Directory",
         "description": "At its core, Map of Pi is more than just a directory—it's a bridge between the Pi Network and the real economy. By empowering both local businesses and global Pioneers, Map of Pi continues to play a vital role in building the foundation for Pi's utility as a widely used digital currency."
       }
+    },
+    "membership": {
+      "title": "Map of Pi Membership",
+      "subtitle": "Choose the membership tier that works best for your business needs and unlock exclusive benefits.",
+      "tiersTitle": "Membership Tiers",
+      "popular": "Popular",
+      "free": "Free",
+      "notApplicable": "N/A",
+      "yes": "Yes",
+      "no": "No",
+      "mappiAllowance": "Mappi Allowance",
+      "duration": "Membership Duration",
+      "onlineShopping": "Online Shopping Included",
+      "mapMarkerPriority": "Map Marker Priority",
+      "infoTitle": "Ready to Get Started?",
+      "infoDescription": "Join thousands of merchants who are already using Map of Pi to reach the global Pi Network community. Choose your membership tier and start connecting with Pioneers today.",
+      "getStarted": "Get Started on Map of Pi",
+      "tiers": [
+        {
+          "name": "Triple Gold",
+          "price": "20",
+          "priceNote": "One-time payment",
+          "mappiAllowance": "2000",
+          "duration": "50 WKS",
+          "onlineShopping": true,
+          "mapMarkerPriority": "1",
+          "popular": true,
+          "features": [
+            "Highest map marker priority",
+            "Maximum Mappi allowance",
+            "Longest membership duration",
+            "Full online shopping access"
+          ]
+        },
+        {
+          "name": "Double Gold",
+          "price": "10",
+          "priceNote": "One-time payment",
+          "mappiAllowance": "400",
+          "duration": "20 WKS",
+          "onlineShopping": true,
+          "mapMarkerPriority": "2",
+          "features": [
+            "High map marker priority",
+            "Generous Mappi allowance",
+            "Extended membership duration",
+            "Full online shopping access"
+          ]
+        },
+        {
+          "name": "Gold",
+          "price": "5",
+          "priceNote": "One-time payment",
+          "mappiAllowance": "100",
+          "duration": "10 WKS",
+          "onlineShopping": true,
+          "mapMarkerPriority": "3",
+          "features": [
+            "Good map marker priority",
+            "Standard Mappi allowance",
+            "Standard membership duration",
+            "Full online shopping access"
+          ]
+        },
+        {
+          "name": "Green",
+          "price": "2",
+          "priceNote": "One-time payment",
+          "mappiAllowance": "20",
+          "duration": "4 WKS",
+          "onlineShopping": true,
+          "mapMarkerPriority": "4",
+          "features": [
+            "Basic map marker priority",
+            "Limited Mappi allowance",
+            "Short membership duration",
+            "Full online shopping access"
+          ]
+        },
+        {
+          "name": "White",
+          "price": "1",
+          "priceNote": "One-time payment",
+          "mappiAllowance": "-",
+          "duration": "50 WKS",
+          "onlineShopping": false,
+          "mapMarkerPriority": "5",
+          "features": [
+            "Low map marker priority",
+            "No Mappi allowance",
+            "Long membership duration",
+            "No online shopping access"
+          ]
+        },
+        {
+          "name": "Casual",
+          "price": "-",
+          "priceNote": "Free tier",
+          "mappiAllowance": "-",
+          "duration": "-",
+          "onlineShopping": false,
+          "mapMarkerPriority": "6",
+          "features": [
+            "Lowest map marker priority",
+            "No Mappi allowance",
+            "No membership duration",
+            "No online shopping access"
+          ]
+        }
+      ]
     },
     "roadmap": {
       "pageTitle": "Product Roadmap",

@@ -36,8 +36,13 @@ export function Footer() {
                 </Link>
               </li>
               <li>
-                <Link href="/team" className="hover:text-background transition-colors">
-                  {t('nav.team')}
+                <Link href="/roadmap" className="hover:text-background transition-colors">
+                  {t('footer.roadmap')}
+                </Link>
+              </li>
+              <li>
+                <Link href="/membership" className="hover:text-background transition-colors">
+                  {t('footer.membership')}
                 </Link>
               </li>
               <li>
@@ -52,8 +57,13 @@ export function Footer() {
             <h4 className="font-semibold mb-4">{t('footer.company')}</h4>
             <ul className="space-y-2 text-sm text-background/70">
               <li>
-                <Link href="/team" className="hover:text-background transition-colors">
+                <Link href="/about" className="hover:text-background transition-colors">
                   {t('footer.about')}
+                </Link>
+              </li>
+              <li>
+                <Link href="/team" className="hover:text-background transition-colors">
+                  {t('nav.team')}
                 </Link>
               </li>
               <li>
@@ -75,11 +85,6 @@ export function Footer() {
               <li>
                 <Link href="/legal/terms" className="hover:text-background transition-colors">
                   {t('footer.terms')}
-                </Link>
-              </li>
-              <li>
-                <Link href="/legal/disclosures" className="hover:text-background transition-colors">
-                  {t('footer.disclosures')}
                 </Link>
               </li>
             </ul>

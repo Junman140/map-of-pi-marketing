@@ -31,7 +31,7 @@ export function Hero() {
           <div className="relative h-96 md:h-[500px] flex items-center justify-center">
             <div className="relative w-full h-full">
               <Image
-                src="/assets/main-assets/partial-world-map_edited_edited_no-shopspng.png"
+                src="/assets/main-assets/map-background-transparent_edited_2.png"
                 alt="Map of Pi Global Marketplace"
                 fill
                 className="object-contain"

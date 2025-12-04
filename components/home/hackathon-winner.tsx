@@ -43,7 +43,7 @@ export function HackathonWinner() {
           </div>
           <div className="relative h-96 md:h-[500px]">
             <Image
-              src="/assets/main-assets/partial-world-map_edited_edited.png"
+              src="/assets/elements/pi-customers-map_transparent.png"
               alt="Map of Pi Global Marketplace"
               fill
               className="object-contain"

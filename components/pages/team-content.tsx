@@ -97,7 +97,7 @@ export function TeamContent() {
   return (
     <main className="min-h-screen bg-background">
       {/* Header */}
-      <section className="py-20">
+      {/* <section className="py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-foreground mb-4">
@@ -108,7 +108,7 @@ export function TeamContent() {
             </p>
           </div>
         </div>
-      </section>
+      </section> */}
 
       {/* Our Beginning */}
       <section className="py-20 bg-muted/30">
@@ -143,7 +143,7 @@ export function TeamContent() {
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div className="relative h-96 md:h-[500px] order-2 md:order-1">
               <Image
-                src="/assets/main-assets/partial-world-map_edited_edited_no-shopspng.png"
+                src="/assets/main-assets/map-background_opacity.jpg"
                 alt="Map of Pi Global Marketplace"
                 fill
                 className="object-contain"
@@ -260,7 +260,7 @@ export function TeamContent() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="relative h-96 md:h-[600px]">
             <Image
-              src="/assets/main-assets/partial-world-map_edited_edited.png"
+              src="/assets/elements/map-of-pi-membership-chart_edited.png"
               alt="Map of Pi Global Marketplace"
               fill
               className="object-contain"

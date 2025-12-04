@@ -87,12 +87,6 @@ export function Header() {
                 <Link href="/legal/terms" className="text-foreground hover:text-primary px-4 py-2 block" onClick={() => setIsOpen(false)}>
                   {t('header.terms')}
                 </Link>
-                <Link href="/legal/compliance" className="text-foreground hover:text-primary px-4 py-2 block" onClick={() => setIsOpen(false)}>
-                  {t('header.compliance')}
-                </Link>
-                <Link href="/legal/disclosures" className="text-foreground hover:text-primary px-4 py-2 block" onClick={() => setIsOpen(false)}>
-                  {t('header.disclosures')}
-                </Link>
               </div>
 
               {/* CTA */}

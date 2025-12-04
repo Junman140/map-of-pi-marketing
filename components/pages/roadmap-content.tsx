@@ -40,7 +40,7 @@ export function RoadmapContent() {
   return (
     <>
       {/* Hero Section */}
-      <section className="py-20 md:py-32 bg-background">
+      {/* <section className="py-20 md:py-32 bg-background">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="max-w-3xl">
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-foreground mb-6 leading-tight">
@@ -51,7 +51,7 @@ export function RoadmapContent() {
             </p>
           </div>
         </div>
-      </section>
+      </section> */}
 
       {/* Versions Timeline */}
       <section className="py-20 md:py-32 bg-muted/30">
