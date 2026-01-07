@@ -44,7 +44,7 @@ export function AboutContent() {
           </h2>
 
           <div className="grid md:grid-cols-3 gap-8">
-            {t.raw('growth.items').map((item: any, idx: number) => {
+            {(Array.isArray(t.raw('growth.items')) ? t.raw('growth.items') : []).map((item: any, idx: number) => {
               const icons: Record<string, any> = {
                 merchants: Globe,
                 features: Store,

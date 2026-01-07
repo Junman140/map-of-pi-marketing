@@ -22,13 +22,26 @@ export const localeNames: Record<Locale, string> = {
 export default getRequestConfig(async ({ locale }) => {
   // Validate locale and fallback to default if invalid
   // The locale comes from the middleware based on the URL path
-  const validLocale = (locale && locales.includes(locale as Locale)) 
-    ? (locale as string) 
+  const validLocale = (locale && locales.includes(locale as Locale))
+    ? (locale as string)
     : defaultLocale
 
   return {
     locale: validLocale,
     messages: (await import(`./messages/${validLocale}.json`)).default,
+    onError(error) {
+      if (error.code === 'MISSING_MESSAGE') {
+        // Missing translations are expected and should be ignored
+        console.warn(error.message)
+      } else {
+        // Other errors indicate a bug in the app and should be reported
+        console.error(error)
+      }
+    },
+    getMessageFallback({ namespace, key, error }) {
+      const path = [namespace, key].filter((part) => part != null).join('.')
+      return path
+    }
   }
 })
 
