@@ -30,13 +30,11 @@ export default getRequestConfig(async ({ locale }) => {
     locale: validLocale,
     messages: (await import(`./messages/${validLocale}.json`)).default,
     onError(error) {
+      // Silence missing message errors during build
       if (error.code === 'MISSING_MESSAGE') {
-        // Missing translations are expected and should be ignored
-        console.warn(error.message)
-      } else {
-        // Other errors indicate a bug in the app and should be reported
-        console.error(error)
+        return
       }
+      console.error(error)
     },
     getMessageFallback({ namespace, key, error }) {
       const path = [namespace, key].filter((part) => part != null).join('.')
