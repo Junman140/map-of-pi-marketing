@@ -630,7 +630,31 @@
             "content": "If you have any questions or concerns about this Privacy Policy, please contact us by sending an email to philip@mapofpi.com."
           }
         ]
+      },
+      "disclosures": {
+        "title": "Disclosures",
+        "subtitle": "Transparency and Regulatory Information",
+        "warning": {
+          "title": "Important Notice",
+          "text": "Map of Pi is a platform connecting users and merchants. We do not facilitate payments directly."
+        },
+        "sections": [
+          {
+            "title": "Platform Nature",
+            "content": "Map of Pi serves as a directory and discovery platform. Transactions are peer-to-peer between users and merchants."
+          }
+        ]
+      },
+      "compliance": {
+        "title": "Compliance",
+        "subtitle": "Adhering to Pi Network ecosystem standards.",
+        "sections": [
+          {
+            "title": "Pi Network Guidelines",
+            "content": "We follow all applicable Pi Network guidelines and policies."
+          }
+        ]
       }
     }
-    }
   }
+}

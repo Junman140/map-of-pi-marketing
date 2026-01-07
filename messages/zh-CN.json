@@ -1,1875 +1,660 @@
 {
   "nav": {
-    "home": "首页",
-    "product": "产品",
-    "features": "功能",
-    "pricing": "定价",
-    "roadmap": "路线图",
-    "developers": "开发者",
-    "blog": "博客",
-    "security": "安全",
-    "launchApp": "启动应用",
-    "getStarted": "开始使用"
+    "home": "Home",
+    "team": "The Team",
+    "contact": "Contact Us",
+    "chatWithMAC": "Chat with M.A.C.",
+    "tryMapOfPi": "Try Map of Pi"
   },
   "header": {
-    "company": "公司",
-    "aboutUs": "关于我们",
-    "companyPage": "公司",
-    "careers": "招聘",
-    "contact": "联系",
-    "support": "支持我们",
-    "resources": "资源",
-    "legal": "法律",
-    "privacy": "隐私政策",
-    "terms": "服务条款",
-    "compliance": "合规",
-    "disclosures": "披露"
+    "company": "Company",
+    "aboutUs": "About Us",
+    "companyPage": "Company",
+    "careers": "Careers",
+    "contact": "Contact",
+    "support": "Support Us",
+    "resources": "Resources",
+    "legal": "Legal",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "compliance": "Compliance",
+    "disclosures": "Disclosures"
   },
   "hero": {
-    "title": "稳定价值的未来",
-    "description": "$USDP 是建立在 Pi Network 上的美元稳定币。安全、透明，专为下一代数字金融而设计。",
-    "launchApp": "启动应用",
-    "visitTelegram": "访问 Telegram",
-    "usdEquivalence": "1 美元 = 1 $USDP",
-    "overcollateralized": "超额抵押",
-    "mintRedeemFees": "铸造/赎回费用",
-    "transactionCost": "交易成本"
+    "title": "More than just a map It's the future of Pi eCommerce",
+    "description": "Map of Pi is an active and evolving part of the Pi Network's ecosystem designed to give real-world utility to Pi by connecting users with merchants who accept it. Through the Pi Browser, it's meant to make Pi more than just a mined token, helping it function as a currency in everyday commerce.",
+    "tryMapOfPi": "View RoadMap",
+    "users": "Users",
+    "sellers": "Sellers",
+    "reviews": "Reviews"
   },
   "features": {
-    "title": "为什么选择 $USDP？",
-    "subtitle": "采用尖端技术构建，专为现代金融生态系统而设计。",
-    "secure": {
-      "title": "安全透明",
-      "description": "企业级安全性，采用密钥认证和实时储备跟踪。"
+    "title": "Why Choose Map of Pi?",
+    "subtitle": "Built with cutting-edge technology and designed for the modern Pi Network marketplace.",
+    "globalMarketplace": {
+      "title": "Global Marketplace",
+      "description": "Find merchants worldwide on an interactive map. Search, discover, and connect with sellers accepting Pi cryptocurrency."
     },
-    "fast": {
-      "title": "闪电般快速",
-      "description": "交易在几秒钟内完成，在 Pi Network 区块链上费用极低。"
+    "piPayments": {
+      "title": "Pi Payments",
+      "description": "Direct Pi Wallet integration enables seamless transactions. Pay directly from your Pi Wallet to merchant Pi Wallets."
     },
-    "backed": {
-      "title": "完全支持",
-      "description": "150% 超额抵押确保稳定性并保护您的资产。"
+    "verifiedMerchants": {
+      "title": "Verified Merchants",
+      "description": "Trusted sellers with verified badges. Shop with confidence knowing merchants are verified and reviewed."
     },
-    "privacy": {
-      "title": "隐私优先",
-      "description": "客户端加密和生物识别认证，提供最大安全性。"
+    "searchDiscover": {
+      "title": "Search & Discover",
+      "description": "Easy product and service discovery. Find exactly what you're looking for with powerful search and filtering."
     }
   },
   "useCases": {
-    "title": "使用案例",
-    "subtitle": "$USDP 适用于所有人——从个人用户到企业。",
-    "ecommerce": {
-      "title": "电子商务",
-      "description": "接受 $USDP 支付，即时结算，费用极低。"
+    "title": "Use Cases",
+    "subtitle": "Map of Pi works for everyone—from individual buyers to merchants and businesses.",
+    "poolTable": {
+      "title": "Pool Table Booking",
+      "description": "Book a pool table in advance or on the spot. Pay with Pi directly from your wallet to the venue owner's wallet."
     },
-    "crossBorder": {
-      "title": "跨境支付",
-      "description": "以低成本快速进行全球汇款。"
+    "localCommerce": {
+      "title": "Local Commerce",
+      "description": "Support local businesses accepting Pi. Buy from cafes, bars, stores, and services in your area."
     },
-    "defi": {
-      "title": "DeFi 交易",
-      "description": "使用 $USDP 作为抵押品或提供流动性以赚取收益。"
+    "globalMarketplace": {
+      "title": "Global Marketplace",
+      "description": "Buy and sell goods and services worldwide. No borders, no intermediaries—just direct Pi-to-Pi transactions."
     },
-    "storage": {
-      "title": "价值存储",
-      "description": "持有稳定价值，不受加密货币波动影响。"
+    "services": {
+      "title": "Services",
+      "description": "Find and book services like repairs, consultations, and professional services—all paid with Pi."
     }
   },
   "roadmap": {
-    "title": "我们的路线图",
-    "subtitle": "一次一个里程碑，构建稳定币的未来。",
-    "q4_2025": "2025年第四季度",
-    "q1_2026": "2026年第一季度",
-    "q2_2026": "2026年第二季度",
-    "q3_2026": "2026年第三季度",
-    "betaLaunch": "测试版发布",
-    "coreFeatures": "核心功能",
-    "securityAudit": "安全审计",
-    "mainnetLaunch": "主网启动",
-    "merchantPartnerships": "商户合作",
-    "mobileApps": "移动应用",
-    "defiIntegrations": "DeFi 集成",
-    "crossChainBridge": "跨链桥",
-    "governanceToken": "治理代币",
-    "institutionalServices": "机构服务",
-    "globalExpansion": "全球扩张",
-    "advancedFeatures": "高级功能",
-    "pageTitle": "产品路线图",
-    "pageSubtitle": "我们对 $USDP 和 Provena Labs 生态系统的未来愿景。",
-    "betaLaunchTitle": "测试版发布和核心功能",
-    "betaLaunchDesc": "在 Pi Network 测试网上发布测试版",
-    "coreMintingDesc": "核心铸造和赎回功能",
-    "securityAuditDesc": "完成安全审计",
-    "mainnetTitle": "主网启动和合作",
-    "mainnetDesc": "在 Pi Network 上启动主网",
-    "merchantDesc": "商户合作",
-    "mobileAppDesc": "移动应用发布",
-    "defiTitle": "DeFi 集成和扩张",
-    "defiProtocolDesc": "DeFi 协议集成",
-    "bridgeDesc": "跨链桥启动",
-    "governanceDesc": "引入治理代币",
-    "institutionalTitle": "机构服务和全球扩张",
-    "institutionalDesc": "启动机构服务",
-    "globalDesc": "向新市场全球扩张",
-    "advancedDesc": "高级功能和工具"
+    "title": "Our Roadmap",
+    "subtitle": "Building the future of Pi commerce, one milestone at a time.",
+    "viewFullRoadmap": "View Full Roadmap",
+    "v140": "V1.4.0",
+    "v155": "V1.5.5",
+    "v160": "V1.6.0",
+    "v20": "V2.0 Coming Soon",
+    "pageTitle": "Product Roadmap",
+    "pageSubtitle": "Our vision for the future of Map of Pi and the Pi Network marketplace ecosystem."
   },
   "security": {
-    "title": "值得信赖的安全",
-    "subtitle": "您的资产受到企业级安全措施和定期审计的保护。我们认真对待安全，让您无需担心。",
-    "viewReport": "查看安全报告",
-    "webauthn": "WebAuthn 密钥认证",
-    "encryption": "静态 AES-256 加密",
-    "tls": "传输中数据 TLS 1.3",
-    "hsm": "硬件安全模块",
-    "audits": "定期安全审计",
-    "detection": "24/7 威胁检测",
-    "multisig": "多重签名交易",
-    "insurance": "冷钱包保险"
+    "title": "Security You Can Trust",
+    "subtitle": "Your transactions are protected by Pi Network's secure infrastructure and Pi Wallet integration. We take security seriously so you don't have to worry.",
+    "viewReport": "View Security Report",
+    "piNetwork": "Pi Network Security",
+    "walletIntegration": "Pi Wallet Integration",
+    "verifiedMerchants": "Verified Merchants",
+    "escrow": "EscrowPi Protection",
+    "transparent": "Transparent Reviews",
+    "securePayments": "Secure Payments"
   },
   "cta": {
-    "title": "准备开始了吗？",
-    "subtitle": "加入数千名已经在使用 $USDP 进行安全、稳定价值存储和交易的用户。",
-    "launchApp": "启动应用",
-    "contactSales": "联系销售"
+    "title": "Ready to Get Started?",
+    "subtitle": "Join millions of users who are already buying and selling on Map of Pi using Pi cryptocurrency.",
+    "launchApp": "Try Map of Pi",
+    "contactSales": "Contact Us"
   },
   "logoCloud": {
-    "title": "由 Provena 构建",
-    "subtitle": "受到生态系统中领先平台的信任"
-  },
-  "tokenEconomics": {
-    "title": "代币经济学",
-    "subtitle": "为稳定性而设计，由 Pi 储备支持，并维持在 1:1 美元挂钩。",
-    "utilities": {
-      "mediumOfExchange": {
-        "title": "交换媒介",
-        "description": "使用 $USDP 在全球范围内进行快速、低成本的交易。"
-      },
-      "storeOfValue": {
-        "title": "价值储存",
-        "description": "持有 $USDP 作为稳定资产，无波动性。"
-      },
-      "defiCollateral": {
-        "title": "DeFi 抵押品",
-        "description": "在去中心化金融协议中使用 $USDP 作为抵押品。"
-      }
-    },
-    "supplyModel": {
-      "title": "供应模型",
-      "backedByPi": {
-        "title": "由 Pi 储备支持",
-        "description": "每个 $USDP 都由 Pi 抵押品支持"
-      },
-      "dynamicSupply": {
-        "title": "动态供应",
-        "description": "供应根据需求调整，同时保持挂钩"
-      },
-      "overcollateralization": {
-        "title": "150% 超额抵押",
-        "description": "额外的抵押品确保稳定性并保护用户"
-      }
-    }
+    "title": "Built for Pi Network",
+    "subtitle": "Trusted by merchants and users in the Pi Network ecosystem"
   },
   "targetMarket": {
-    "title": "目标市场",
-    "subtitle": "为不同的用户群体提供量身定制的解决方案。",
+    "title": "Who Uses Map of Pi?",
+    "subtitle": "Serving diverse user segments with tailored solutions.",
     "markets": {
-      "defiUsers": {
-        "title": "DeFi 用户",
-        "description": "寻求多元化收益率机会的稳定币持有者。"
+      "buyers": {
+        "title": "Buyers",
+        "description": "Pioneers looking to spend Pi on goods and services in their local area and worldwide."
       },
-      "piNetwork": {
-        "title": "Pi 网络社区",
-        "description": "5500 多万活跃用户准备采用区块链解决方案。"
+      "sellers": {
+        "title": "Sellers",
+        "description": "Merchants and service providers accepting Pi payments for their products and services."
       },
-      "ecommerce": {
-        "title": "电子商务",
-        "description": "需要低费用稳定支付选项的商家。"
+      "merchants": {
+        "title": "Merchants",
+        "description": "Businesses wanting to reach the Pi Network community and accept Pi cryptocurrency payments."
       },
-      "crossBorder": {
-        "title": "跨境支付",
-        "description": "为全球交易提供低成本的汇款解决方案。"
-      }
-    }
-  },
-  "competitiveAdvantages": {
-    "title": "为什么 $USDP 脱颖而出",
-    "subtitle": "使我们与其他稳定币区别开来的竞争优势。",
-    "table": {
-      "feature": "功能",
-      "usdp": "$USDP",
-      "competitors": "竞争对手",
-      "network": "网络",
-      "fees": "费用",
-      "collateralRatio": "抵押比率",
-      "authentication": "身份验证",
-      "blockchainFees": "区块链费用"
-    },
-    "values": {
-      "piNetwork": "Pi 网络",
-      "ethereumTron": "以太坊、波场",
-      "fees03": "0.3%",
-      "fees05to1": "0.5-1%",
-      "collateral150": "150%",
-      "collateral100to110": "100-110%",
-      "passkeys": "通行密钥",
-      "passwords2fa": "密码/双因素认证",
-      "feesLess001": "<$0.01",
-      "fees1to50": "$1-50"
-    }
-  },
-  "businessModel": {
-    "title": "可持续商业模式",
-    "subtitle": "为长期增长和稳定性而设计的多种收入来源。",
-    "revenueStreams": {
-      "mintingFees": {
-        "title": "铸造费用",
-        "description": "所有铸造的 0.3%"
-      },
-      "redeemingFees": {
-        "title": "赎回费用",
-        "description": "所有赎回的 0.3%"
-      },
-      "transferFees": {
-        "title": "转账费用",
-        "description": "每次转账 0.0%"
-      },
-      "partnershipFees": {
-        "title": "合作费用",
-        "description": "集成合作伙伴关系"
+      "pioneers": {
+        "title": "Pi Network Pioneers",
+        "description": "55+ million engaged users ready to use Pi in real-world commerce."
       }
     }
   },
   "footer": {
-    "tagline": "在 Pi Network 上构建稳定价值的未来。",
-    "product": "产品",
-    "company": "公司",
-    "about": "关于",
-    "legal": "法律",
-    "privacy": "隐私",
-    "terms": "条款",
-    "disclosures": "披露",
-    "copyright": "© {year} Provena Labs。保留所有权利。",
+    "tagline": "More than just a map—It's the future of Pi eCommerce.",
+    "product": "Product",
+    "company": "Company",
+    "about": "About",
+    "roadmap": "Roadmap",
+    "membership": "Membership",
+    "legal": "Legal",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "disclosures": "Disclosures",
+    "copyright": "© {year} Map of Pi Team. All rights reserved.",
     "year": "year"
   },
   "common": {
-    "loading": "加载中...",
-    "error": "错误",
-    "retry": "重试"
+    "loading": "Loading...",
+    "error": "Error",
+    "retry": "Retry"
+  },
+  "hackathonWinner": {
+    "title": "Map of Pi—2024 Pi Commerce Hackathon Winner!",
+    "description": "Map of Pi stood out for its intuitive user interface (UI), centering around a map where users can find local Pi businesses. Merchants are already able to go through the flow of adding their business to the map, and the Map of Pi team is adding functionality such as QR codes, menu items, and more.",
+    "feature1": "Intuitive user interface with interactive map",
+    "feature2": "Pi Authentication and Pi Payments integrations",
+    "feature3": "Dozens of sample storefronts around the world"
+  },
+  "piFest": {
+    "title": "As featured in Pi Fest!",
+    "subtitle": "Map of Pi has reached incredible milestones in the Pi Network ecosystem.",
+    "users": "Active Users",
+    "sellers": "Verified Sellers",
+    "reviews": "Shop Reviews"
+  },
+  "escrowPi": {
+    "title": "Not just secure payments It's trust built into Pi eCommerce",
+    "subtitle": "EscrowPi is a next-generation utility in the Pi Network ecosystem",
+    "description": "Designed to make transactions safer, smoother, and more reliable for both buyers and sellers, it acts as a neutral and automated escrow layer that only releases Pi when both sides confirm the transaction. Integrated through the Pi Browser, EscrowPi strengthens real-world commerce by reducing risk and removing the need for manual oversight—bringing confidence and fairness to every Pi exchange.",
+    "learnMore": "See more"
+  },
+  "teamHighlights": {
+    "title": "Meet the Team",
+    "subtitle": "Our global volunteer team is building the future of decentralized commerce.",
+    "viewAll": "View All Team Members"
+  },
+  "team": {
+    "philip": {
+      "name": "Philip Jennings",
+      "role": "Founder & Leader",
+      "bio": "Philip is the visionary leader behind Map of Pi, driving the mission to make Pi cryptocurrency usable in everyday commerce."
+    },
+    "abdul": {
+      "name": "Abdulganiyu Balogun (Abdul)",
+      "role": "Ambassador",
+      "bio": "Abdul joined the Map of Pi volunteer team in January 2024, driven by a lifelong dream to be part of a truly decentralized economy. As a distinguished volunteer, he helps ensure the platform reflects real user needs."
+    },
+    "adisa": {
+      "name": "Yusuf Adisa (haycoder)",
+      "role": "Senior Core Developer",
+      "bio": "Passionate about Web3 and decentralized platforms, Adisa joined the team just two months after its foundation. He has actively contributed to building real Pi utilities and helping shape Map of Pi into a platform where people can trade securely."
+    },
+    "ant": {
+      "name": "Ant (Ant CPU)",
+      "role": "Global Marketing Tech Specialist",
+      "bio": "Founder of Ant CPU, a technology company focused on AI-driven web development. Ant brings a unique blend of automation, analytics, and creativity to the Map of Pi team, helping transform how Map of Pi connects, collaborates, and grows."
+    },
+    "danny": {
+      "name": "Danny Lee",
+      "role": "Tech Lead",
+      "bio": "Leading the technical development team and ensuring high-quality code delivery."
+    },
+    "darin": {
+      "name": "Darin Hajou",
+      "role": "Core Developer, Co-Founder",
+      "bio": "Core developer building the foundation of Map of Pi's marketplace platform."
+    },
+    "francis": {
+      "name": "Francis Mwaura",
+      "role": "Developer",
+      "bio": "Developer contributing to Map of Pi's features and functionality."
+    },
+    "fasakin": {
+      "name": "Fasakin Henry",
+      "role": "Developer",
+      "bio": "Developer working on Map of Pi's platform development and improvements."
+    },
+    "oluwabukola": {
+      "name": "Oluwabukola Adesina",
+      "role": "UX Solutions Designer",
+      "bio": "Designing user experiences and solutions to make Map of Pi intuitive and user-friendly."
+    },
+    "andri": {
+      "name": "Andri Nael",
+      "role": "Team Member",
+      "bio": "Contributing to Map of Pi's mission of decentralized commerce."
+    },
+    "franck": {
+      "name": "Franck Baraka",
+      "role": "Team Member",
+      "bio": "Supporting Map of Pi's growth and development."
+    },
+    "godswill": {
+      "name": "Godswill Sam",
+      "role": "Developer",
+      "bio": "Developer contributing to Map of Pi's features and functionality."
+    },
+    "mohamed": {
+      "name": "Mohamed Elsoshani",
+      "role": "Team Member",
+      "bio": "Contributing to Map of Pi's marketplace ecosystem."
+    },
+    "rajasekhar": {
+      "name": "Rajasekhar Reddy",
+      "role": "Team Member",
+      "bio": "Supporting Map of Pi's technical and community initiatives."
+    }
+  },
+  "macChatbot": {
+    "title": "Chat with M.A.C.",
+    "description": "M.A.C., the Map of Pi chatbot, is our intelligent assistant, built to help Pioneers and merchants navigate the Map of Pi experience.",
+    "details": "Whether you're curious about how to list your business, searching for sellers near you, or exploring new app features, M.A.C. is here to provide instant answers and guidance. Available around the clock, M.A.C. ensures that every question—big or small is met with clear, reliable support.",
+    "chatNow": "Chat with M.A.C."
   },
   "pages": {
-    "roadmap": {
-      "pageTitle": "产品路线图",
-      "pageSubtitle": "我们对 $USDP 和 Provena Labs 生态系统的未来愿景。",
-      "q4_2025": "Q4 2025",
-      "q1_2026": "Q1 2026",
-      "q2_2026": "Q2 2026",
-      "q3_2026": "Q3 2026",
-      "betaLaunchTitle": "测试版发布和核心功能",
-      "betaLaunchDesc": "在 Pi Network 测试网上发布测试版",
-      "coreMintingDesc": "核心铸造和赎回功能",
-      "securityAuditDesc": "完成安全审计",
-      "mainnetTitle": "主网启动和合作",
-      "mainnetDesc": "在 Pi Network 上启动主网",
-      "merchantDesc": "商户合作",
-      "mobileAppDesc": "移动应用发布",
-      "defiTitle": "DeFi 集成和扩张",
-      "defiProtocolDesc": "DeFi 协议集成",
-      "bridgeDesc": "跨链桥启动",
-      "governanceDesc": "引入治理代币",
-      "institutionalTitle": "机构服务和全球扩张",
-      "institutionalDesc": "启动机构服务",
-      "globalDesc": "向新市场全球扩张",
-      "advancedDesc": "高级功能和工具"
-    },
-    "features": {
-      "title": "现代金融的强大功能",
-      "subtitle": "$PNA 结合尖端技术和用户友好设计，为您提供应得的稳定币体验。",
-      "features": {
-        "secure": {
-          "title": "安全透明",
-          "description": "多重签名钱包、定期审计和完整的链上透明度确保您的资产始终受到保护和可验证。"
-        },
-        "fast": {
-          "title": "闪电般快速",
-          "description": "交易在几秒钟内完成，费用极低。无需等待，无延迟，即时价值转移。"
-        },
-        "stable": {
-          "title": "稳定价值",
-          "description": "通过 115% 超额抵押和算法稳定性机制，保持与美元的 1:1 挂钩。"
-        },
-        "community": {
-          "title": "社区驱动",
-          "description": "为 Pi Network 社区构建，支持治理参与和以社区为中心的发展。"
-        },
-        "defi": {
-          "title": "DeFi 就绪",
-          "description": "与 DeFi 协议、借贷平台和去中心化交易所无缝集成。"
-        },
-        "compliance": {
-          "title": "合规优先",
-          "description": "设计时考虑监管合规性，支持机构采用和主流使用。"
-        }
+    "team": {
+      "title": "The Team",
+      "subtitle": "Meet the global volunteer team building Map of Pi",
+      "ourBeginning": {
+        "title": "Our beginning",
+        "subtitle": "Where it all started",
+        "description": "The Map of Pi team began its journey during the 2024 Pi Commerce Hackathon, where a group of passionate developers and visionaries came together with a shared mission: to make Pi practical, spendable, and useful in everyday life. Through collaboration, innovation, and a clear focus on utility, Map of Pi quickly stood out among the competition."
       },
-      "advancedSecurity": {
-        "title": "高级安全",
-        "description": "您的安全是我们的首要任务。$PNA 实施行业领先的安全实践，包括多重签名钱包、定期第三方审计和持续监控。",
-        "features": [
-          "多重签名钱包保护",
-          "领先公司的定期安全审计",
-          "24/7 监控和威胁检测",
-          "用户资金保险覆盖"
-        ]
+      "ourDrive": {
+        "title": "Our drive",
+        "subtitle": "What keeps us going",
+        "description": "After winning the Hackathon, our team gained valuable support and resources from the Pi Core Team, which strengthened our foundation and validated the importance of building real-world Pi commerce solutions.",
+        "description2": "Today, we continue to grow Map of Pi as a team of pro bono volunteers, united by our passion for the future of the Pi Ecosystem and the role that Pi eCommerce can play in global adoption. Our dedication is not driven by profit, but by the belief that Pi has the power to reshape how people connect, trade, and thrive."
       },
-      "lightningFast": {
-        "title": "闪电般快速的交易",
-        "description": "体验区块链的速度，无需等待。$PNA 交易在几秒钟内完成，而不是几小时或几天。",
-        "features": [
-          "亚秒级交易确认",
-          "最低交易费用",
-          "高吞吐量能力",
-          "可扩展的基础设施"
-        ]
-      }
-    },
-    "product": {
-      "title": "$USDP 稳定币",
-      "subtitle": "建立在 Pi Network 上的美元稳定币，专为稳定性、安全性和无缝交易而设计。",
-      "tagline": "稳定。安全。简单。",
-      "whatIs": {
-        "title": "什么是 $USDP？",
-        "description1": "$USDP 是一种完全抵押的稳定币，保持与美元的 1:1 挂钩。每个 $USDP 代币由超过 115% 的抵押品支持，确保所有用户的稳定性和安全性。",
-        "description2": "建立在 Pi Network 区块链上，$USDP 实现快速、低成本的交易，同时保持用户对稳定币期望的信任和可靠性。",
-        "features": [
-          "150% 超额抵押",
-          "1:1 美元挂钩",
-          "透明且经过审计",
-          "Pi Network 原生"
-        ]
+      "ourVision": {
+        "title": "Our vision",
+        "subtitle": "Where we're headed",
+        "description": "Looking ahead, we are preparing to evolve into an equity- and contribution-based system that rewards commitment and creativity, ensuring that every team member shares in the future success of the project. With this foundation, our long-term vision is to scale Map of Pi into a global company and brand, supporting millions of Pioneers and merchants worldwide."
       },
-      "coreFeatures": {
-        "title": "核心功能",
-        "items": [
-          {
-            "icon": "shield",
-            "title": "安全",
-            "description": "多重签名钱包和严格的安全审计确保您的资金受到保护。"
-          },
-          {
-            "icon": "zap",
-            "title": "快速",
-            "description": "交易在几秒钟内在 Pi Network 上完成，费用极低。"
-          },
-          {
-            "icon": "globe",
-            "title": "全球",
-            "description": "在世界任何地方无国界地发送和接收 $USDP。"
-          },
-          {
-            "icon": "check",
-            "title": "透明",
-            "description": "完整的链上透明度，定期审计和合规报告。"
-          }
-        ]
-      },
-      "technicalSpecs": {
-        "title": "技术规格",
-        "blockchain": {
-          "label": "区块链",
-          "value": "Pi Network"
+      "ourOrganization": {
+        "title": "Our organization",
+        "subtitle": "Meet the Map of Pi team",
+        "projectManager": {
+          "title": "Project Manager",
+          "description": "The Project Manager plays a key role in keeping the Map of Pi team organized and aligned. They oversee timelines, coordinate team efforts, and ensure that priorities are clearly defined. This role requires strong communication, leadership, and the ability to balance both short-term tasks and long-term goals."
         },
-        "tokenStandard": {
-          "label": "代币标准",
-          "value": "Pi Network 原生代币"
+        "ambassador": {
+          "title": "Ambassador",
+          "description": "Ambassadors represent Map of Pi within the global Pi community. They help spread awareness, onboard new users, and build relationships with merchants and Pioneers. Ambassadors act as the voice of the project on the ground, supporting adoption and trust."
         },
-        "decimals": {
-          "label": "小数位",
-          "value": "18"
+        "marketing": {
+          "title": "Marketing",
+          "description": "The Marketing team helps tell the story of Map of Pi to the world. From social media campaigns to branding and partnerships, marketing ensures that Pioneers and merchants understand the value of joining the ecosystem."
         },
-        "collateralization": {
-          "label": "抵押率",
-          "value": "150% 超额抵押"
+        "uxSolutions": {
+          "title": "UX/ Solutions",
+          "description": "The UX / Solutions role focuses on making Map of Pi intuitive and user-friendly. This team helps design the experience for both merchants and buyers, ensuring the app is accessible, functional, and enjoyable."
         },
-        "mintRedeemFee": {
-          "label": "铸造/赎回费用",
-          "value": "0.3%"
+        "development": {
+          "title": "Development",
+          "description": "The Development team builds and maintains the Map of Pi app and supporting infrastructure. They translate ideas and designs into features that Pioneers and merchants can use. Developers are responsible for scalability, performance, and security."
         },
-        "auditStatus": {
-          "label": "审计状态",
-          "value": "定期审计"
+        "qualityAnalyst": {
+          "title": "Quality Analyst",
+          "description": "Quality Analysts play a key role in maintaining the reliability and trust of Map of Pi. They focus on testing new features, identifying issues, and providing clear feedback so that the app delivers a smooth and consistent experience for all Pioneers."
         }
       }
     },
-    "pricing": {
-      "title": "简单透明的定价",
-      "subtitle": "无隐藏费用。无意外。只是为您的所有稳定币需求提供直接定价。",
-      "plans": [
+    "contact": {
+      "title": "Contact Us",
+      "subtitle": "Have questions? We'd love to hear from you. Send us a message and we'll respond as soon as possible.",
+      "contactInfo": [
         {
-          "title": "铸造和赎回",
-          "description": "创建或销毁 $USDP 代币",
-          "price": "0.3%",
-          "priceNote": "每笔交易",
-          "features": [
-            "即时处理",
-            "无最低金额",
-            "完全透明"
-          ]
+          "type": "email",
+          "label": "Email",
+          "value": "contact@mapofpi.com",
+          "note": "We'll get back to you within 24 hours"
         },
         {
-          "popular": true,
-          "badge": "最受欢迎",
-          "title": "转账",
-          "description": "在钱包之间发送 $USDP",
-          "price": "<$0.01",
-          "priceNote": "每笔交易",
-          "features": [
-            "闪电般快速",
-            "几秒钟完成",
-            "全球覆盖"
-          ]
-        },
-        {
-          "title": "API 访问",
-          "description": "面向开发者和企业",
-          "price": "定制",
-          "priceNote": "基于数量的定价",
-          "features": [
-            "专属支持",
-            "定制集成",
-            "SLA 保证"
-          ]
+          "type": "office",
+          "label": "Office",
+          "value": "Remote First",
+          "note": "Serving customers worldwide"
         }
       ],
-      "feeBreakdown": {
-        "title": "费用明细",
-        "transactionType": "交易类型",
-        "fee": "费用",
-        "speed": "速度",
-        "rows": [
-          {
-            "type": "铸造 $USDP",
-            "fee": "0.3%",
-            "speed": "即时"
-          },
-          {
-            "type": "赎回 $USDP",
-            "fee": "0.3%",
-            "speed": "即时"
-          },
-          {
-            "type": "转账 $USDP",
-            "fee": "<$0.01",
-            "speed": "几秒钟"
-          },
-          {
-            "type": "API 调用",
-            "fee": "定制",
-            "speed": "实时"
-          }
-        ]
-      },
       "faq": {
-        "title": "常见问题",
+        "title": "Frequently Asked Questions",
         "items": [
           {
-            "question": "是否有隐藏费用？",
-            "answer": "没有。所有费用都是透明的，并预先显示。您看到的就是您支付的。"
+            "question": "What is the best way to contact support?",
+            "answer": "You can reach our support team via email at contact@mapofpi.com or use the M.A.C. chatbot on mapofpi.com."
           },
           {
-            "question": "您是否提供批量折扣？",
-            "answer": "是的。对于高交易量的用户和企业，我们提供定制定价。请联系我们的销售团队了解详情。"
+            "question": "How long does it take to get a response?",
+            "answer": "We aim to respond to all inquiries within 24 hours during business days."
           },
           {
-            "question": "您接受哪些支付方式？",
-            "answer": "我们接受美元、其他稳定币和主要加密货币来铸造和赎回 $USDP。"
-          }
-        ]
-      }
-    },
-    "developers": {
-      "title": "开发者资源",
-      "subtitle": "将 $PNA 集成到您的应用程序所需的一切。全面的文档、SDK 和工具。",
-      "quickStart": {
-        "title": "快速开始",
-        "installation": {
-          "title": "安装",
-          "code": "即将推出"
-        },
-        "usage": {
-          "title": "基本用法",
-          "code": "即将推出"
-        }
-      },
-      "integrationOptions": {
-        "title": "集成选项",
-        "items": [
-          {
-            "icon": "code",
-            "title": "直接集成",
-            "description": "使用我们的 JavaScript/TypeScript SDK 与您的应用程序进行完整的 API 集成。",
-            "linkText": "查看文档"
-          },
-          {
-            "icon": "zap",
-            "title": "钱包集成",
-            "description": "连接到 Provena 钱包，获得无缝用户体验和多货币支持。",
-            "linkText": "查看文档"
-          },
-          {
-            "icon": "book",
-            "title": "支付网关",
-            "description": "使用我们预构建的小部件将 $PNA 支付按钮添加到您的网站。",
-            "linkText": "查看文档"
-          },
-          {
-            "icon": "git",
-            "title": "Webhooks",
-            "description": "用于交易更新和状态更改的实时事件通知。",
-            "linkText": "查看文档"
-          }
-        ]
-      },
-      "useCases": {
-        "title": "构建者的使用案例",
-        "items": [
-          {
-            "title": "电子商务",
-            "features": [
-              "接受 $PNA 支付",
-              "低交易费用",
-              "即时结算"
-            ]
-          },
-          {
-            "title": "DeFi 平台",
-            "features": [
-              "添加 $PNA 作为抵押品",
-              "创建流动性池",
-              "构建收益策略"
-            ]
-          },
-          {
-            "title": "钱包",
-            "features": [
-              "集成 $PNA 支持",
-              "多货币钱包",
-              "投资组合跟踪"
-            ]
-          },
-          {
-            "title": "游戏",
-            "features": [
-              "游戏内货币",
-              "奖励分配",
-              "NFT 市场支付"
-            ]
+            "question": "Do you have a community forum?",
+            "answer": "Yes! Join our social media communities on Instagram, Facebook, X, Telegram, Reddit, and YouTube to connect with other users."
           }
         ]
       }
     },
     "about": {
-      "title": "关于 Provena Labs",
-      "subtitle": "我们正在 Pi Network 上构建稳定数字金融的未来。我们的使命是提供安全、透明和创新的稳定币解决方案，将传统金融与区块链技术连接起来。",
-      "mission": {
-        "title": "我们的使命",
-        "description1": "创建一个生产级的美元稳定币，为 Pi Network 上超过 5500 万用户实现安全、快速和低成本的交易。",
-        "description2": "我们相信区块链技术的力量，可以民主化金融并为每个人、每个地方提供金融服务。"
+      "title": "About Map of Pi",
+      "subtitle": "Building the bridge between Pi Network and the real economy, one merchant at a time.",
+      "story": {
+        "intro": "Map of Pi was born out of the 2024 Pi Commerce Hackathon, an event designed to spark innovation and unlock real-world utility for the Pi Network. Competing against a wide range of projects, Map of Pi stood out for its intuitive map-based interface and practical approach to solving one of Pi's most important challenges: connecting Pioneers with businesses that accept Pi as payment.",
+        "vision": "From its inception, the vision of Map of Pi has been clear—to make Pi spendable in everyday life. The app allows users to discover merchants across the globe, explore their offerings, and engage in commerce powered by Pi. Merchants, in turn, can easily showcase their businesses, set up shop within the app, and reach a growing global community of Pioneers."
       },
-      "vision": {
-        "title": "我们的愿景",
-        "description1": "一个稳定数字资产对所有人开放的世界，实现无缝的全球交易和金融包容。",
-        "description2": "我们设想 $USDP 成为 Pi Network 的标准稳定币，为 DeFi、电子商务和跨境支付提供动力。"
-      },
-      "coreValues": {
-        "title": "我们的核心价值观",
+      "growth": {
+        "title": "Since launch, Map of Pi has continued to grow and evolve",
         "items": [
           {
-            "icon": "innovation",
-            "title": "创新",
-            "description": "我们不断创新，提供推进区块链生态系统的尖端解决方案。"
+            "icon": "merchants",
+            "title": "Global Reach",
+            "description": "Reaching hundreds of thousands of registered merchant locations worldwide, making it one of the largest Pi commerce platforms."
           },
           {
-            "icon": "transparency",
-            "title": "透明",
-            "description": "我们相信完全透明，实时储备跟踪和公共验证。"
+            "icon": "features",
+            "title": "Enhanced Features",
+            "description": "Adding features such as menus, contact options, and merchant ratings, enhancing trust and usability for both buyers and sellers."
           },
           {
-            "icon": "community",
-            "title": "社区",
-            "description": "我们致力于与社区一起并为社区建设，倾听反馈并共同发展。"
+            "icon": "accessibility",
+            "title": "Pi Browser Integration",
+            "description": "Expanding accessibility through the Pi Browser, ensuring seamless engagement for Pioneers wherever they are."
           }
         ]
       },
-      "whyChoose": {
-        "title": "为什么选择 Provena Labs？",
-        "items": [
-          {
-            "number": "1",
-            "title": "先发优势",
-            "description": "我们是 Pi Network 上第一个生产级稳定币，定位为抢占早期市场份额。"
-          },
-          {
-            "number": "2",
-            "title": "庞大的用户群",
-            "description": "访问超过 5500 万活跃的 Pi Network 用户，准备采用区块链解决方案。"
-          },
-          {
-            "number": "3",
-            "title": "生产就绪",
-            "description": "我们的平台已完全开发和测试，准备立即部署和扩展。"
-          },
-          {
-            "number": "4",
-            "title": "可持续模式",
-            "description": "多种收入流和资金管理确保长期可行性和增长。"
-          }
-        ]
+      "coreMessage": {
+        "title": "More Than Just a Directory",
+        "description": "At its core, Map of Pi is more than just a directory—it's a bridge between the Pi Network and the real economy. By empowering both local businesses and global Pioneers, Map of Pi continues to play a vital role in building the foundation for Pi's utility as a widely used digital currency."
       }
     },
-    "contact": {
-      "title": "联系我们",
-      "subtitle": "有问题吗？我们很乐意听取您的意见。给我们发送消息，我们会尽快回复。",
-      "contactInfo": [
+    "membership": {
+      "title": "Map of Pi Membership",
+      "subtitle": "Choose the membership tier that works best for your business needs and unlock exclusive benefits.",
+      "tiersTitle": "Membership Tiers",
+      "popular": "Popular",
+      "free": "Free",
+      "notApplicable": "N/A",
+      "yes": "Yes",
+      "no": "No",
+      "mappiAllowance": "Mappi Allowance",
+      "duration": "Membership Duration",
+      "onlineShopping": "Online Shopping Included",
+      "mapMarkerPriority": "Map Marker Priority",
+      "infoTitle": "Ready to Get Started?",
+      "infoDescription": "Join thousands of merchants who are already using Map of Pi to reach the global Pi Network community. Choose your membership tier and start connecting with Pioneers today.",
+      "getStarted": "Get Started on Map of Pi",
+      "tiers": [
         {
-          "type": "email",
-          "label": "电子邮件",
-          "value": "zyrachain@provenalabs.com",
-          "note": "我们会在 24 小时内回复您"
-        },
-        {
-          "type": "phone",
-          "label": "电话",
-          "value": "+234-701-067-6567",
-          "note": "周一至周五，上午 9 点至下午 5 点（美国东部时间）"
-        },
-        {
-          "type": "office",
-          "label": "办公室",
-          "value": "远程优先",
-          "note": "为全球客户提供服务"
-        }
-      ],
-      "faq": {
-        "title": "常见问题",
-        "items": [
-          {
-            "question": "联系支持的最佳方式是什么？",
-            "answer": "您可以通过电子邮件 provenalabs@gmail.com 联系我们的支持团队。"
-          },
-          {
-            "question": "需要多长时间才能收到回复？",
-            "answer": "我们致力于在工作日 24 小时内回复所有询问。"
-          },
-          {
-            "question": "您有社区论坛吗？",
-            "answer": "是的！加入我们的 Discord 社区，与其他用户联系并从社区获得支持。"
-          }
-        ]
-      }
-    },
-    "security": {
-      "title": "安全与合规",
-      "subtitle": "企业级安全措施和合规标准，保护您的资产并确保监管合规。",
-      "measures": {
-        "title": "安全措施",
-        "items": [
-          {
-            "icon": "authentication",
-            "title": "身份验证",
-            "description": "WebAuthn/FIDO2 密钥提供生物识别和基于 PIN 的身份验证，无需密码。",
-            "features": [
-              "生物识别身份验证",
-              "基于 PIN 的安全性",
-              "不存储密码"
-            ]
-          },
-          {
-            "icon": "encryption",
-            "title": "加密",
-            "description": "军用级加密保护您的静态和传输中的数据。",
-            "features": [
-              "静态 AES-256",
-              "传输中 TLS 1.3",
-              "客户端加密"
-            ]
-          },
-          {
-            "icon": "keyManagement",
-            "title": "密钥管理",
-            "description": "硬件安全模块和多重签名交易保护关键密钥。",
-            "features": [
-              "硬件安全模块",
-              "多重签名交易",
-              "密钥轮换策略"
-            ]
-          },
-          {
-            "icon": "monitoring",
-            "title": "监控",
-            "description": "24/7 威胁检测和定期安全审计确保持续保护。",
-            "features": [
-              "24/7 威胁检测",
-              "定期安全审计",
-              "事件响应团队"
-            ]
-          }
-        ]
-      },
-      "compliance": {
-        "title": "合规标准",
-        "items": [
-          {
-            "title": "KYC/AML",
-            "description": "全面的用户验证程序，以遵守反洗钱法规。"
-          },
-          {
-            "title": "许可",
-            "description": "在关键司法管辖区进行货币传输合规和监管许可。"
-          },
-          {
-            "title": "审计",
-            "description": "由独立第三方公司进行定期财务和安全审计。"
-          },
-          {
-            "title": "保险",
-            "description": "冷钱包保险和数字资产的全面覆盖。"
-          },
-          {
-            "title": "储备",
-            "description": "公共储备报告和抵押品支持的实时验证。"
-          },
-          {
-            "title": "隐私",
-            "description": "符合 GDPR 的数据处理和用户隐私保护政策。"
-          }
-        ]
-      },
-      "bestPractices": {
-        "title": "用户安全最佳实践",
-        "dos": {
-          "title": "应该做的",
-          "items": [
-            "安全地离线存储您的密码短语",
-            "启用生物识别身份验证",
-            "在确认前验证交易金额",
-            "在铸造前检查 Pi 价格",
-            "使用安全网络进行交易"
+          "name": "Triple Gold",
+          "price": "20",
+          "priceNote": "One-time payment",
+          "mappiAllowance": "2000",
+          "duration": "50 WKS",
+          "onlineShopping": true,
+          "mapMarkerPriority": "1",
+          "popular": true,
+          "features": [
+            "Highest map marker priority",
+            "Maximum Mappi allowance",
+            "Longest membership duration",
+            "Full online shopping access"
           ]
         },
-        "donts": {
-          "title": "不应该做的",
-          "items": [
-            "与任何人分享您的密码短语",
-            "截屏敏感数据",
-            "在不安全的公共网络上使用",
-            "发送到未验证的地址",
-            "点击可疑链接或电子邮件"
-          ]
-        }
-      }
-    },
-    "support": {
-      "title": "支持 Provena Labs",
-      "subtitle": "帮助我们构建 Pi Network 上稳定价值的未来",
-      "whySupport": {
-        "title": "为什么您的支持很重要",
-        "intro": "Provena Labs 正在为 Pi Network 生态系统构建关键基础设施。您的捐赠直接支持：",
-        "items": [
-          {
-            "title": "开发与创新",
-            "description": "资助 $USDP 稳定币的持续开发、安全审计和增强生态系统的功能。"
-          },
-          {
-            "title": "安全与合规",
-            "description": "确保最高标准的安全性、监管合规性和风险管理，以保护用户。"
-          },
-          {
-            "title": "社区增长",
-            "description": "支持推动采用和意识的教育、合作伙伴关系和社区倡议。"
-          },
-          {
-            "title": "基础设施与运营",
-            "description": "维护可靠的系统、监控和运营卓越，确保 24/7 可用性。"
-          }
-        ],
-        "conclusion": "每笔贡献，无论大小，都帮助我们加速开发并为 Pi Network 上的数百万用户带来稳定价值。您的支持是对我们使命的信心投票。"
-      },
-      "walletAddress": "GCAO7I2ZBIEFXNYD3KZFA3UXLMDVCYUG6CTCYG56746LZB5MIUFIIBJ5",
-      "donation": {
-        "title": "使用 Pi 捐赠",
-        "label": "将 Pi 发送到我们的钱包地址",
-        "walletLabel": "Pi 钱包地址",
-        "copy": "复制钱包地址",
-        "warning": {
-          "title": "重要提示：",
-          "text": "确保您从 Pi 钱包发送 Pi。仔细检查钱包地址，确保您的捐赠安全到达我们。"
-        },
-        "howTo": {
-          "title": "如何发送：",
-          "steps": [
-            "打开您的 Pi 钱包应用程序",
-            "选择“发送”或“转账”",
-            "粘贴上面的 Pi 钱包地址",
-            "输入您希望捐赠的 Pi 数量",
-            "确认交易",
-            "您的捐赠将在几分钟内收到"
+        {
+          "name": "Double Gold",
+          "price": "10",
+          "priceNote": "One-time payment",
+          "mappiAllowance": "400",
+          "duration": "20 WKS",
+          "onlineShopping": true,
+          "mapMarkerPriority": "2",
+          "features": [
+            "High map marker priority",
+            "Generous Mappi allowance",
+            "Extended membership duration",
+            "Full online shopping access"
           ]
         },
-        "thankYou": {
-          "title": "谢谢您！",
-          "message": "我们深深感谢您的支持。每笔贡献都帮助我们为 Pi Network 生态系统构建更稳定和繁荣的未来。",
-          "contactLink": "有问题吗？联系我们"
-        }
-      }
-    },
-    "blog": {
-      "title": "Provena Labs 博客",
-      "subtitle": "随时了解 Provena Labs 团队的最新新闻、见解和更新。",
-      "featured": "精选",
-      "readMore": "阅读更多",
-      "posts": [
         {
-          "title": "介绍 $USDP：稳定价值的未来",
-          "excerpt": "我们很高兴宣布推出 $USDP，这是建立在 Pi Network 上的完全抵押稳定币。",
-          "date": "2025年1月15日",
-          "author": "Provena Labs 团队",
-          "category": "公告"
+          "name": "Gold",
+          "price": "5",
+          "priceNote": "One-time payment",
+          "mappiAllowance": "100",
+          "duration": "10 WKS",
+          "onlineShopping": true,
+          "mapMarkerPriority": "3",
+          "features": [
+            "Good map marker priority",
+            "Standard Mappi allowance",
+            "Standard membership duration",
+            "Full online shopping access"
+          ]
         },
         {
-          "title": "了解稳定币抵押",
-          "excerpt": "了解 $USDP 如何通过 150% 超额抵押和高级稳定性机制保持其 1:1 美元挂钩。",
-          "date": "2025年1月10日",
-          "author": "技术团队",
-          "category": "教育"
+          "name": "Green",
+          "price": "2",
+          "priceNote": "One-time payment",
+          "mappiAllowance": "20",
+          "duration": "4 WKS",
+          "onlineShopping": true,
+          "mapMarkerPriority": "4",
+          "features": [
+            "Basic map marker priority",
+            "Limited Mappi allowance",
+            "Short membership duration",
+            "Full online shopping access"
+          ]
         },
         {
-          "title": "DeFi 集成指南：在您的协议中使用 $USDP",
-          "excerpt": "面向希望将 $USDP 集成到其 DeFi 应用程序和协议的开发者的全面指南。",
-          "date": "2025年1月5日",
-          "author": "开发者关系",
-          "category": "开发者"
+          "name": "White",
+          "price": "1",
+          "priceNote": "One-time payment",
+          "mappiAllowance": "-",
+          "duration": "50 WKS",
+          "onlineShopping": false,
+          "mapMarkerPriority": "5",
+          "features": [
+            "Low map marker priority",
+            "No Mappi allowance",
+            "Long membership duration",
+            "No online shopping access"
+          ]
         },
         {
-          "title": "安全审计结果：$USDP 通过全面审查",
-          "excerpt": "我们很自豪地分享我们最新安全审计的结果，确认了我们平台的稳健性。",
-          "date": "2024年12月28日",
-          "author": "安全团队",
-          "category": "安全"
-        },
-        {
-          "title": "2024年第四季度路线图更新：即将推出的内容",
-          "excerpt": "我们第四季度成就的概述以及我们为 2025 年计划的令人兴奋的功能。",
-          "date": "2024年12月20日",
-          "author": "产品团队",
-          "category": "路线图"
-        },
-        {
-          "title": "社区聚焦：用户如何使用 $USDP",
-          "excerpt": "展示我们社区成员的故事以及他们如何在日常生活中利用 $USDP。",
-          "date": "2024年12月15日",
-          "author": "社区团队",
-          "category": "社区"
+          "name": "Casual",
+          "price": "-",
+          "priceNote": "Free tier",
+          "mappiAllowance": "-",
+          "duration": "-",
+          "onlineShopping": false,
+          "mapMarkerPriority": "6",
+          "features": [
+            "Lowest map marker priority",
+            "No Mappi allowance",
+            "No membership duration",
+            "No online shopping access"
+          ]
         }
       ]
     },
-    "careers": {
-      "title": "加入我们的团队",
-      "subtitle": "帮助我们构建稳定数字货币的未来。我们正在寻找对区块链和金融充满热情的优秀人才。",
-      "whyJoin": [
-        {
-          "icon": "meaningful",
-          "title": "有意义的工作",
-          "description": "从事影响全球数百万人的项目。"
-        },
-        {
-          "icon": "remote",
-          "title": "远程优先",
-          "description": "在世界任何地方工作，时间灵活。"
-        },
-        {
-          "icon": "pay",
-          "title": "有竞争力的薪酬",
-          "description": "行业领先的薪水和股权包。"
-        },
-        {
-          "icon": "growth",
-          "title": "成长",
-          "description": "持续学习和专业发展。"
-        }
-      ],
-      "openPositions": {
-        "title": "开放职位"
-      },
-      "jobs": [
-        {
-          "title": "高级区块链工程师",
-          "department": "工程",
-          "location": "远程",
-          "type": "全职",
-          "salary": "$150K - $200K"
-        },
-        {
-          "title": "产品经理",
-          "department": "产品",
-          "location": "远程",
-          "type": "全职",
-          "salary": "$130K - $170K"
-        },
-        {
-          "title": "安全审计员",
-          "department": "安全",
-          "location": "远程",
-          "type": "全职",
-          "salary": "$140K - $190K"
-        },
-        {
-          "title": "开发者关系工程师",
-          "department": "开发者关系",
-          "location": "远程",
-          "type": "全职",
-          "salary": "$120K - $160K"
-        },
-        {
-          "title": "营销经理",
-          "department": "营销",
-          "location": "远程",
-          "type": "全职",
-          "salary": "$100K - $140K"
-        },
-        {
-          "title": "社区经理",
-          "department": "社区",
-          "location": "远程",
-          "type": "全职",
-          "salary": "$80K - $120K"
-        }
-      ],
-      "benefits": {
-        "title": "福利",
-        "health": {
-          "title": "健康与保健",
-          "items": [
-            "全面的健康保险",
-            "心理健康支持",
-            "健身津贴",
-            "无限带薪休假"
-          ]
-        },
-        "professional": {
-          "title": "专业发展",
-          "items": [
-            "学习预算",
-            "参加会议",
-            "导师计划",
-            "职业指导"
-          ]
-        },
-        "compensation": {
-          "title": "薪酬",
-          "items": [
-            "有竞争力的薪水",
-            "股权包",
-            "绩效奖金",
-            "加密货币福利"
-          ]
-        },
-        "workLife": {
-          "title": "工作与生活平衡",
-          "items": [
-            "灵活的工作时间",
-            "远程工作",
-            "育儿假",
-            "团队活动"
-          ]
-        }
-      },
-      "cta": {
-        "message": "没有看到合适的职位？",
-        "button": "发送您的简历"
-      }
-    },
-    "company": {
-      "title": "关于 Provena Labs",
-      "subtitle": "在 Pi Network 上构建稳定数字货币的未来",
-      "missionVision": [
-        {
-          "type": "mission",
-          "title": "我们的使命",
-          "description": "创建一个稳定、安全和可访问的稳定币，使个人和企业能够自信轻松地参与数字经济。"
-        },
-        {
-          "type": "vision",
-          "title": "我们的愿景",
-          "description": "一个稳定数字货币成为全球商业基础的世界，为每个人实现无缝交易和金融包容。"
-        }
-      ],
-      "coreValues": {
-        "title": "核心价值观",
-        "items": [
-          {
-            "icon": "excellence",
-            "title": "卓越",
-            "description": "我们在所做的一切中追求最高标准。"
-          },
-          {
-            "icon": "community",
-            "title": "社区",
-            "description": "我们与社区一起并为社区建设。"
-          },
-          {
-            "icon": "innovation",
-            "title": "创新",
-            "description": "我们拥抱新思想和技术。"
-          },
-          {
-            "icon": "transparency",
-            "title": "透明",
-            "description": "我们以完全的开放和诚实运营。"
-          }
+    "roadmap": {
+      "pageTitle": "Product Roadmap",
+      "pageSubtitle": "Our vision for the future of Map of Pi and the Pi Network marketplace ecosystem.",
+      "v140": {
+        "version": "V1.4.0",
+        "description": "The initial release of Map of Pi, establishing the foundation for the Pi Network marketplace.",
+        "features": [
+          "Basic map interface for discovering merchants",
+          "Pi Network authentication integration",
+          "Initial merchant listing functionality",
+          "Core marketplace features"
         ]
       },
-      "stats": {
-        "title": "数据统计",
-        "items": [
-          {
-            "value": "$00M+",
-            "label": "总锁定价值"
-          },
-          {
-            "value": "00K+",
-            "label": "活跃用户"
-          },
-          {
-            "value": "0+",
-            "label": "集成"
-          },
-          {
-            "value": "24/7",
-            "label": "可用支持"
-          }
+      "v155": {
+        "version": "V1.5.5",
+        "description": "Enhanced global map functionality and improved Pi Browser integration for seamless user experience.",
+        "features": [
+          "Global map with merchant locations",
+          "Enhanced Pi Browser integration",
+          "Improved search and discovery",
+          "Better merchant onboarding"
         ]
       },
-      "team": {
-        "title": "领导团队",
-        "description": "我们的团队汇集了区块链、金融和技术方面的专业知识，以构建稳定数字货币的未来。"
-      }
-    },
-    "comingSoon": {
-      "title": "即将推出",
-      "subtitle": "我们正在努力为您带来令人惊叹的东西。请继续关注！",
-      "whatsNext": {
-        "title": "下一步是什么？",
-        "description": "我们正在 Pi Network 上构建稳定价值的未来。加入我们的社区以了解我们的最新进展。",
-        "telegramButton": "加入 Telegram",
-        "homeButton": "返回首页"
+      "v160": {
+        "version": "V1.6.0",
+        "description": "Introduction of QR codes, menu items, and significant improvements to the seller flow.",
+        "features": [
+          "QR code generation for merchants",
+          "Menu items and product listings",
+          "Enhanced seller flow and dashboard",
+          "Improved user experience"
+        ]
       },
-      "footer": "有关更新和公告，请在我们的社交媒体渠道上关注我们。"
+      "v20": {
+        "version": "V2.0 Coming Soon",
+        "description": "The next major release with enhanced search, user reviews, advanced filtering, and EscrowPi integration.",
+        "features": [
+          "Enhanced search functionality",
+          "User reviews and ratings system",
+          "Advanced filtering options",
+          "EscrowPi integration",
+          "AI assistant (M.A.C.) improvements",
+          "Global expansion features"
+        ]
+      }
     },
     "legal": {
-      "privacy": {
-        "title": "隐私政策",
-        "lastUpdated": "最后更新：2025年1月",
-        "sections": [
-          {
-            "title": "1. 介绍",
-            "content": "Provena Labs（“我们”、“我们的”或“公司”）致力于保护您的隐私。本隐私政策解释了我们如何在您访问我们的网站和使用我们的服务时收集、使用、披露和保护您的信息。"
-          },
-          {
-            "title": "2. 我们收集的信息",
-            "content": "我们可能通过多种方式收集有关您的信息：",
-            "items": [
-              "您直接提供的信息（姓名、电子邮件、钱包地址）",
-              "自动收集的信息（IP 地址、浏览器类型、访问的页面）",
-              "来自第三方来源的信息（分析提供商、支付处理商）"
-            ]
-          },
-          {
-            "title": "3. 我们如何使用您的信息",
-            "content": "我们使用收集的信息来：",
-            "items": [
-              "提供、维护和改进我们的服务",
-              "处理交易并发送相关信息",
-              "发送促销通讯（在您同意的情况下）",
-              "遵守法律义务",
-              "防止欺诈并增强安全性"
-            ]
-          },
-          {
-            "title": "4. 数据安全",
-            "content": "我们实施适当的技术和组织措施，以保护您的个人信息免受未经授权的访问、更改、披露或破坏。但是，通过互联网传输的任何方法都不是 100% 安全的。"
-          },
-          {
-            "title": "5. 您的权利",
-            "content": "根据您的位置，您可能有权：",
-            "items": [
-              "访问您的个人信息",
-              "更正不准确的数据",
-              "请求删除您的数据",
-              "选择退出营销通讯"
-            ]
-          },
-          {
-            "title": "6. 联系我们",
-            "content": "如果您对本隐私政策有疑问，请通过 privacy@provenalabs.com 联系我们"
-          }
-        ]
-      },
       "terms": {
-        "title": "服务条款",
-        "lastUpdated": "最后更新：2025年1月",
+        "title": "Map of Pi Terms of Service",
+        "lastUpdated": "Last Updated: 6/3/2024",
+        "emailAddress": "Email Address: philip@mapofpi.com",
         "sections": [
           {
-            "title": "1. 同意条款",
-            "content": "通过访问和使用本网站和服务，您接受并同意受本协议的条款和规定约束。如果您不同意遵守上述内容，请不要使用本服务。"
+            "title": "1. Acceptance of Terms",
+            "content": "Welcome to the Map of Pi app, developed by the Map of Pi team in collaboration with the Pi Community. By using this app, you agree to abide by these Terms of Service, as well as our Privacy Policy."
           },
           {
-            "title": "2. 使用许可",
-            "content": "允许临时下载 Provena Labs 网站上的材料（信息或软件）的一份副本，仅供个人、非商业临时查看。这是许可的授予，不是所有权的转让，在此许可下您不得：",
+            "title": "2. Use of the App",
             "items": [
-              "修改或复制材料",
-              "将材料用于任何商业目的或任何公开展示",
-              "尝试对网站上包含的任何软件进行反编译或逆向工程",
-              "从材料中删除任何版权或其他专有标记",
-              "将材料转让给另一个人或在任何其他服务器上“镜像”材料"
+              "You agree to use the Map of Pi app in compliance with all applicable laws and regulations.",
+              "You shall not use the app for any unlawful or prohibited purpose, or in any way that could damage, disable, overburden, or impair the app.",
+              "To use Map of Pi you must be registered as a pioneer user of the Pi Network."
             ]
           },
           {
-            "title": "3. 免责声明",
-            "content": "Provena Labs 网站上的材料按“原样”提供。Provena Labs 不作任何明示或暗示的保证，并特此否认和否定所有其他保证，包括但不限于适销性、特定用途适用性或知识产权不侵权或其他权利侵犯的默示保证或条件。"
+            "title": "3. Intellectual Property",
+            "content": "The Map of Pi app and all content, features, and functionality are owned by Map of Pi and are protected by copyright, trademark, and other intellectual property laws."
           },
           {
-            "title": "4. 限制",
-            "content": "在任何情况下，Provena Labs 或其供应商均不对因使用或无法使用 Provena Labs 网站上的材料而产生的任何损害（包括但不限于数据或利润损失或因业务中断造成的损害）承担责任。"
+            "title": "4. Limitation of Liability",
+            "content": "Map of Pi shall not be liable for any direct, indirect, incidental, special, or consequential damages arising out of or in any way connected with the use of the Map of Pi app."
           },
           {
-            "title": "5. 材料的准确性",
-            "content": "Provena Labs 网站上出现的材料可能包括技术、排版或摄影错误。Provena Labs 不保证其网站上的任何材料准确、完整或最新。"
+            "title": "5. Indemnification",
+            "content": "You agree to indemnify and hold harmless Map of Pi and its affiliates, officers, directors, employees, and agents from any and all claims, liabilities, damages, losses, or expenses (including attorneys' fees) arising out of or in any way related to your use of the Map of Pi app."
           },
           {
-            "title": "6. 链接",
-            "content": "Provena Labs 尚未审查链接到其网站的所有网站，不对任何此类链接网站的内容负责。包含任何链接并不表示 Provena Labs 认可该网站。使用任何此类链接网站的风险由用户自行承担。"
+            "title": "6. Governing Law",
+            "content": "These Terms of Service shall be governed by and construed in accordance with the law of England and Wales without regard to their conflict of law provisions, including any dispute or claim arising out of or in connection with their subject matter or formation (including non-contractual disputes or claims)."
           },
           {
-            "title": "7. 修改",
-            "content": "Provena Labs 可能随时修改其网站的服务条款，恕不另行通知。使用本网站即表示您同意受当时当前版本的服务条款约束。"
+            "title": "7. Changes to These Terms",
+            "content": "We reserve the right to update or modify these Terms of Service at any time without prior notice. The latest version will be posted on our website or within the app."
           },
           {
-            "title": "8. 适用法律",
-            "content": "这些条款和条件受 Provena Labs 运营所在司法管辖区的法律管辖和解释，您不可撤销地服从该地点法院的专属管辖权。"
+            "title": "8. Contact Us",
+            "content": "If you have any questions or concerns about this Terms of Service, please contact us by sending an email to philip@mapofpi.com."
           }
         ]
       },
-      "compliance": {
-        "title": "合规与监管",
-        "subtitle": "我们对监管合规和透明度的承诺",
+      "privacy": {
+        "title": "Map of Pi Privacy Policy",
+        "lastUpdated": "Last Updated: 6/3/2024",
+        "emailAddress": "Email Address: philip@mapofpi.com",
         "sections": [
           {
-            "title": "监管合规",
-            "description": "Provena Labs 致力于维持最高标准的监管合规。我们与监管机构密切合作，确保我们的运营符合所有适用的法律法规。",
+            "title": "1. Introduction",
+            "content": "Welcome to the Map of Pi app, developed by the Map of Pi team in collaboration with the Pi Community. This Privacy Policy outlines how we collect, use, disclose, and protect your personal information when you use our mobile application."
+          },
+          {
+            "title": "2. Information We Collect"
+          },
+          {
+            "title": "2.1 User Information",
             "items": [
-              {
-                "title": "AML/KYC 合规",
-                "description": "我们实施全面的反洗钱和了解您的客户程序，以防止金融犯罪。"
-              },
-              {
-                "title": "数据保护",
-                "description": "我们遵守 GDPR、CCPA 和其他数据保护法规，以保护用户隐私。"
-              },
-              {
-                "title": "金融法规",
-                "description": "我们遵守所有适用的金融法规，并在需要时保持适当的许可。"
-              },
-              {
-                "title": "审计与透明度",
-                "description": "我们接受定期第三方审计，并在运营中保持完全透明。"
-              }
+              "When you register as a user, we may collect your name, email address, username, and other relevant details.",
+              "We may collect information about your device, including device type, operating system, and unique device identifiers."
             ]
           },
           {
-            "title": "安全审计",
-            "description": "我们的平台接受领先的独立安全公司的定期安全审计，以确保用户资金和数据的安全。",
-            "content": {
-              "title": "最新审计结果",
-              "items": [
-                "安全审计：2024年第四季度 - 通过，无关键问题",
-                "智能合约审计：2024年第四季度 - 通过，无关键问题",
-                "合规审查：2024年第四季度 - 完全合规"
-              ]
-            }
+            "title": "2.2 Seller Information",
+            "content": "Sellers registering on the platform may be required to provide Seller information, including Seller name, location, and contact details."
           },
           {
-            "title": "监管许可",
-            "description": "Provena Labs 在我们运营的司法管辖区保持所有必要的许可和注册。",
-            "grid": [
-              {
-                "title": "货币服务许可",
-                "description": "在 FinCEN 和州监管机构注册"
-              },
-              {
-                "title": "数据保护",
-                "description": "符合 GDPR 和 CCPA"
-              }
+            "title": "3. How We Use Your Information"
+          },
+          {
+            "title": "3.1 Providing Services",
+            "items": [
+              "We use your information to provide and enhance the Map of Pi app services, including user and Seller functionalities."
             ]
           },
           {
-            "title": "报告与透明度",
-            "description": "我们相信透明度，并定期发布关于我们合规努力和运营指标的报告。",
-            "links": [
-              {
-                "text": "2024年第四季度合规报告",
-                "url": "#"
-              },
-              {
-                "text": "安全审计报告",
-                "url": "#"
-              },
-              {
-                "text": "透明度报告",
-                "url": "#"
-              }
+            "title": "3.2 Communications",
+            "content": "We may use your contact information to send you updates, notifications, and promotional messages related to the Map of Pi app."
+          },
+          {
+            "title": "3.3 Analytics",
+            "content": "We collect and analyze data to improve the performance, features, and functionality of the app."
+          },
+          {
+            "title": "4. Sharing Your Information"
+          },
+          {
+            "title": "4.1 With Sellers",
+            "items": [
+              "User information may be shared with Sellers for order fulfillment and communication purposes."
             ]
+          },
+          {
+            "title": "4.2 With Third Parties",
+            "content": "We may share information with third-party service providers for app functionality, analytics, and payment processing."
+          },
+          {
+            "title": "5. Security Measures",
+            "content": "We employ industry-standard security measures to protect your information. However, no method of transmission over the internet or electronic storage is completely secure."
+          },
+          {
+            "title": "6. Your Choices",
+            "content": "You can update your account information through the app settings. You may delete your Map of Pi account by deleting your Pi Network account and then choosing the option to delete your Map of Pi data when you next access Map of Pi. You may opt-out of promotional communications."
+          },
+          {
+            "title": "7. Changes to This Privacy Policy",
+            "content": "We may update this Privacy Policy as necessary. The latest version will be posted on our website or within the app."
+          },
+          {
+            "title": "8. Contact Us",
+            "content": "If you have any questions or concerns about this Privacy Policy, please contact us by sending an email to philip@mapofpi.com."
           }
         ]
       },
       "disclosures": {
-        "title": "风险披露",
-        "subtitle": "关于与 $USDP 相关的风险的重要信息",
+        "title": "Disclosures",
+        "subtitle": "Transparency and Regulatory Information",
         "warning": {
-          "title": "重要免责声明",
-          "text": "加密货币和稳定币投资具有重大风险。在使用 $USDP 或我们的服务之前，请仔细阅读所有披露信息。"
+          "title": "Important Notice",
+          "text": "Map of Pi is a platform connecting users and merchants. We do not facilitate payments directly."
         },
         "sections": [
           {
-            "title": "市场风险",
-            "items": [
-              {
-                "title": "波动性风险",
-                "description": "虽然 $USDP 旨在保持 1:1 美元挂钩，但市场条件可能导致暂时偏差。$USDP 的价值可能会波动。"
-              },
-              {
-                "title": "流动性风险",
-                "description": "不保证在任何给定时间有足够的流动性来买卖 $USDP。市场条件可能影响您的交易能力。"
-              },
-              {
-                "title": "交易对手风险",
-                "description": "$USDP 依赖于我们的抵押品提供商和合作伙伴的财务稳定性。这些实体的失败可能影响 $USDP 的价值。"
-              }
-            ]
-          },
+            "title": "Platform Nature",
+            "content": "Map of Pi serves as a directory and discovery platform. Transactions are peer-to-peer between users and merchants."
+          }
+        ]
+      },
+      "compliance": {
+        "title": "Compliance",
+        "subtitle": "Adhering to Pi Network ecosystem standards.",
+        "sections": [
           {
-            "title": "技术风险",
-            "items": [
-              {
-                "title": "智能合约风险",
-                "description": "虽然我们的智能合约已经过审计，但始终存在未发现的漏洞或利用的风险。"
-              },
-              {
-                "title": "区块链风险",
-                "description": "Pi Network 区块链可能遇到技术问题、网络拥塞或其他可能影响 $USDP 交易的问题。"
-              },
-              {
-                "title": "钱包风险",
-                "description": "丢失私钥或钱包访问可能导致您的 $USDP 永久丢失。我们无法恢复丢失的资金。"
-              }
-            ]
-          },
-          {
-            "title": "监管风险",
-            "items": [
-              {
-                "title": "监管变化",
-                "description": "加密货币法规的变化可能影响 $USDP 在某些司法管辖区的可用性或使用。"
-              },
-              {
-                "title": "法律不确定性",
-                "description": "稳定币和加密货币的法律地位在许多司法管辖区仍然不确定，可能会发生变化。"
-              }
-            ]
-          },
-          {
-            "title": "无投资建议",
-            "content": "本网站和我们的服务不构成投资建议、财务建议或买卖 $USDP 的建议。我们强烈建议在做出任何投资决定之前咨询合格的财务顾问。"
-          },
-          {
-            "title": "责任限制",
-            "content": "在法律允许的最大范围内，Provena Labs 不对因您使用 $USDP 或我们的服务而产生的任何间接、偶然、特殊、后果性或惩罚性损害（包括利润、数据或使用损失）承担责任。"
+            "title": "Pi Network Guidelines",
+            "content": "We follow all applicable Pi Network guidelines and policies."
           }
         ]
       }
-    },
-    "pitch": {
-        "cover": {
-          "tagline": "稳定。安全。简单。",
-          "subtitle": "Pi Network 上稳定价值的未来",
-          "description": "专为下一代数字金融设计的美元稳定币。"
-        },
-        "problem": {
-          "title": "为什么稳定币很重要",
-          "challenges": {
-            "title": "当前市场挑战",
-            "items": [
-              "现有稳定币在高费用网络上运行（以太坊、波场）",
-              "每笔交易成本达到 $1-50+",
-              "5500 万 Pi Network 用户的可访问性有限",
-              "现有解决方案缺乏企业级安全性",
-              "需要透明、经过审计的抵押支持"
-            ]
-          },
-          "opportunity": {
-            "title": "机遇",
-            "description": "全球数十亿用户缺乏低成本、高安全性的稳定数字货币。"
-          }
-        },
-        "introducing": {
-          "title": "什么是 $USDP？",
-          "description": "$USDP 是在 Pi Network 区块链上原生构建的完全抵押美元稳定币。",
-          "valueProps": [
-            {
-              "title": "1:1 美元挂钩",
-              "description": "始终价值一美元"
-            },
-            {
-              "title": "150% 超额抵押",
-              "description": "由超过 115% 的抵押品支持，确保最大稳定性"
-            },
-            {
-              "title": "企业级安全",
-              "description": "多重签名钱包、密钥认证和严格审计"
-            },
-            {
-              "title": "Pi Network 原生",
-              "description": "利用最快、最低成本的区块链基础设施"
-            },
-            {
-              "title": "透明且经过审计",
-              "description": "完全链上透明度，定期合规报告"
-            }
-          ]
-        },
-        "competitiveAdvantages": {
-          "title": "为什么 $USDP 脱颖而出",
-          "subtitle": "竞争优势",
-          "table": {
-            "feature": "功能",
-            "usdp": "$USDP",
-            "competitors": "竞争对手",
-            "rows": [
-              {
-                "feature": "网络",
-                "usdp": "Pi 网络",
-                "competitors": "以太坊、波场"
-              },
-              {
-                "feature": "交易费用",
-                "usdp": "<$0.01",
-                "competitors": "$1-50+"
-              },
-              {
-                "feature": "抵押比率",
-                "usdp": "150%",
-                "competitors": "100-110%"
-              },
-              {
-                "feature": "身份验证",
-                "usdp": "通行密钥",
-                "competitors": "密码/双因素认证"
-              },
-              {
-                "feature": "铸造/赎回费用",
-                "usdp": "0.3%",
-                "competitors": "0.5-1%"
-              },
-              {
-                "feature": "速度",
-                "usdp": "秒级",
-                "competitors": "分钟级"
-              },
-              {
-                "feature": "安全审计",
-                "usdp": "定期",
-                "competitors": "不定"
-              }
-            ]
-          },
-          "conclusion": "$USDP 在成本、安全性和可访问性方面胜出。"
-        },
-        "keyFeatures": {
-          "title": "关键功能",
-          "sections": [
-            {
-              "title": "安全第一",
-              "subtitle": "企业级保护",
-              "items": [
-                "多重签名钱包架构防止未经授权的访问",
-                "密钥认证确保最大安全性",
-                "链上实时储备跟踪",
-                "用户数据的客户端加密",
-                "生物识别认证支持",
-                "定期第三方安全审计"
-              ]
-            },
-            {
-              "title": "闪电般快速交易",
-              "subtitle": "速度与效率",
-              "items": [
-                "交易在 Pi Network 上几秒钟内完成",
-                "接近零的交易费用 (<$0.01)",
-                "商家即时结算",
-                "无中介或延迟"
-              ]
-            },
-            {
-              "title": "全球无边界",
-              "subtitle": "全球访问",
-              "items": [
-                "在世界任何地方发送和接收 $USDP",
-                "无地理限制",
-                "无银行中介",
-                "24/7/365 可用"
-              ]
-            },
-            {
-              "title": "完全透明",
-              "subtitle": "链上验证",
-              "items": [
-                "100% 链上透明度",
-                "可审计的抵押储备",
-                "定期发布合规报告",
-                "智能合约代码由独立公司审计"
-              ]
-            }
-          ]
-        },
-        "technicalSpecs": {
-          "title": "技术规格",
-          "subtitle": "基础设施详情",
-          "items": [
-            {
-              "label": "区块链",
-              "value": "Pi 网络"
-            },
-            {
-              "label": "代币标准",
-              "value": "Pi 网络原生代币"
-            },
-            {
-              "label": "小数位",
-              "value": "18"
-            },
-            {
-              "label": "抵押比率",
-              "value": "150%"
-            },
-            {
-              "label": "铸造费用",
-              "value": "0.3%"
-            },
-            {
-              "label": "赎回费用",
-              "value": "0.3%"
-            },
-            {
-              "label": "转账费用",
-              "value": "0%（完全免费）"
-            },
-            {
-              "label": "审计状态",
-              "value": "定期审计"
-            }
-          ]
-        },
-        "marketOpportunity": {
-          "title": "市场机遇",
-          "subtitle": "巨大的总可寻址市场 (TAM)",
-          "sections": [
-            {
-              "title": "Pi Network 生态系统",
-              "items": [
-                "5500 多万活跃用户准备采用区块链解决方案",
-                "对加密产品有明确兴趣的活跃社区",
-                "在 Pi Network 稳定币领域的先发优势"
-              ]
-            },
-            {
-              "title": "全球稳定币市场",
-              "items": [
-                "$1800+ 亿美元的稳定币市场规模（且不断增长）",
-                "年增长率超过 30%",
-                "机构采用率不断提高",
-                "主要市场的监管明确性"
-              ]
-            },
-            {
-              "title": "用例类别",
-              "items": [
-                "电子商务和支付：寻求低成本支付选项的商家",
-                "DeFi 交易：需要抵押品和流动性提供的交易者",
-                "跨境汇款：负担得起地往家里汇款的工人",
-                "价值存储：寻求无波动性的加密货币敞口的用户"
-              ]
-            }
-          ]
-        },
-        "useCases": {
-          "title": "用例",
-          "subtitle": "$USDP 解决实际问题的地方",
-          "categories": [
-            {
-              "title": "电子商务和支付",
-              "items": [
-                "接受即时结算和零商家欺诈的支付",
-                "最低费用使零售商获得更好的利润率",
-                "无需传统支付处理器的全球支付网络"
-              ]
-            },
-            {
-              "title": "跨境支付和汇款",
-              "items": [
-                "以传统成本的一小部分进行国际汇款",
-                "消除中介（银行、汇款服务）",
-                "即时结算 vs. 3-5 天银行延迟",
-                "非常适合支持海外家庭的移民工人"
-              ]
-            },
-            {
-              "title": "DeFi 和交易",
-              "items": [
-                "在借贷协议中使用 $USDP 作为抵押品",
-                "为去中心化交易所提供流动性并赚取收益",
-                "使用稳定价值对交易波动资产",
-                "参与收益农业策略"
-              ]
-            },
-            {
-              "title": "价值存储",
-              "items": [
-                "持有稳定的购买力，不受加密货币波动影响",
-                "对冲当地货币贬值",
-                "以数字形式保持流动性",
-                "跨境保存财富"
-              ]
-            }
-          ]
-        },
-        "businessModel": {
-          "title": "商业模式和收入来源",
-          "subtitle": "可持续经济",
-          "sections": [
-            {
-              "title": "收入 generation",
-              "items": [
-                "铸造费用：所有新创建的 $USDP 的 0.3%",
-                "赎回费用：所有兑换为 USD 抵押品的 $USDP 的 0.3%",
-                "合作费用：与商家、交易所和协议的集成合作",
-                "企业服务：机构托管和管理解决方案"
-              ]
-            },
-            {
-              "title": "成本结构",
-              "items": [
-                "最低基础设施成本（Pi Network 降低运营开销）",
-                "安全和合规成本通过规模抵消",
-                "通过生态系统合作获得客户"
-              ]
-            }
-          ],
-          "profitability": "费用收入随交易量线性增长，而基础设施成本保持固定，在规模上创造显著的利润率扩张。"
-        },
-        "tokenEconomics": {
-          "title": "代币经济学和供应模型",
-          "subtitle": "为稳定性而设计",
-          "supplyMechanism": {
-            "title": "供应机制",
-            "items": [
-              "由 Pi 抵押品支持 - 每个 $USDP 都有抵押储备",
-              "动态供应根据需求调整，同时保持 1:1 挂钩",
-              "150% 超额抵押确保所有市场条件下的稳定性",
-              "链上透明储备验证"
-            ]
-          },
-          "functions": {
-            "title": "$USDP 的三大功能",
-            "items": [
-              "交换媒介 - 用于快速、低成本的全球交易",
-              "价值存储 - 作为稳定资产持有，无波动风险",
-              "DeFi 抵押品 - 在去中心化金融协议和收益策略中使用"
-            ]
-          },
-          "pegMaintenance": {
-            "title": "挂钩维护",
-            "items": [
-              "用户始终可以以 $1.00 铸造和以 $1.00 赎回",
-              "套利激励使市场价格保持在挂钩",
-              "抵押品超额确保赎回能力"
-            ]
-          }
-        },
-        "goToMarket": {
-          "title": "市场进入策略",
-          "phases": [
-            {
-              "title": "第一阶段：启动和基础",
-              "period": "2025 年第四季度 - 2026 年第一季度",
-              "items": [
-                "在 Pi Network 测试网上进行核心功能的 Beta 发布",
-                "安全审计完成和发布",
-                "与 Pi 生态系统项目的战略合作",
-                "社区教育和入门",
-                "移动应用发布以提高消费者可访问性"
-              ]
-            },
-            {
-              "title": "第二阶段：增长和集成",
-              "period": "2026 年第二季度",
-              "items": [
-                "主网启动和公开可用",
-                "商家合作以实现现实世界采用",
-                "DeFi 协议集成（借贷、交易、流动性）",
-                "跨链桥开发",
-                "治理代币引入以实现去中心化治理"
-              ]
-            },
-            {
-              "title": "第三阶段：规模和扩张",
-              "period": "2026 年第三季度+",
-              "items": [
-                "机构服务启动（托管、结算）",
-                "向新地理市场全球扩张",
-                "高级功能（收益产品、衍生品）",
-                "额外收入来源",
-                "市场领导地位定位"
-              ]
-            }
-          ]
-        },
-        "teamPartnerships": {
-          "title": "团队和合作伙伴",
-          "subtitle": "由 Provena Labs 支持",
-          "partners": {
-            "title": "我们的生态系统合作伙伴",
-            "items": [
-              {
-                "name": "ZyraChain",
-                "description": "基础设施和区块链解决方案"
-              },
-              {
-                "name": "Zyra",
-                "description": "核心平台服务"
-              },
-              {
-                "name": "ZyraPay",
-                "description": "支付处理集成"
-              },
-              {
-                "name": "ZyraWallet",
-                "description": "钱包和托管解决方案"
-              },
-              {
-                "name": "ZyraDEX",
-                "description": "去中心化交易所"
-              },
-              {
-                "name": "Orbit",
-                "description": "跨链解决方案"
-              },
-              {
-                "name": "Dappify",
-                "description": "开发者平台"
-              }
-            ]
-          },
-          "whyMatters": {
-            "title": "为什么这很重要",
-            "description": "Provena Labs 围绕区块链基础设施构建了完整的生态系统。$USDP 被定位为整个产品和服务网络的原生稳定币。"
-          }
-        },
-        "riskMitigation": {
-          "title": "风险缓解",
-          "subtitle": "我们如何管理风险",
-          "risks": [
-            {
-              "title": "抵押品风险",
-              "items": [
-                "150% 超额抵押大大超过最低要求",
-                "定期审计抵押储备",
-                "透明链上验证",
-                "保守的抵押品选择"
-              ]
-            },
-            {
-              "title": "监管风险",
-              "items": [
-                "从一开始就采用合规优先的方法",
-                "定期合规审计和报告",
-                "基于监管明确性的地理扩张",
-                "与监管机构积极接触"
-              ]
-            },
-            {
-              "title": "技术风险",
-              "items": [
-                "由知名公司定期进行安全审计",
-                "多重签名安全架构",
-                "分阶段推出（测试网 → 主网）",
-                "社区安全研究的漏洞赏金计划"
-              ]
-            },
-            {
-              "title": "市场风险",
-              "items": [
-                "1:1 挂钩套利机制",
-                "强大的合作伙伴生态系统创造采用",
-                "在 Pi Network 中的先发优势",
-                "与竞争对手的差异化定位"
-              ]
-            }
-          ]
-        },
-        "financialProjections": {
-          "title": "财务预测",
-          "subtitle": "5 年愿景",
-          "years": [
-            {
-              "period": "第 1 年 (2025-2026)",
-              "items": [
-                "流通中的 1000-5000 万 $USDP",
-                "5,000-20,000 日活跃用户",
-                "数十个商家合作伙伴",
-                "专注于产品市场契合度"
-              ]
-            },
-            {
-              "period": "第 2 年 (2026-2027)",
-              "items": [
-                "流通中的 1-5 亿 $USDP",
-                "50,000-200,000 日活跃用户",
-                "主要企业合作伙伴",
-                "盈利能力里程碑"
-              ]
-            },
-            {
-              "period": "第 3 年+ (2027+)",
-              "items": [
-                "流通中的 $10+ 亿 $USDP",
-                "数百万日活跃用户",
-                "机构采用",
-                "Pi Network 中的市场领导地位"
-              ]
-            }
-          ]
-        },
-        "theAsk": {
-          "title": "融资需求",
-          "amount": "寻求 500 万美元 A 轮融资",
-          "equity": "换取 10% 股权",
-          "valuation": "这将 Provena Labs / $USDP 的投后估值定为 5000 万美元，反映了我们的市场地位、生态系统实力和增长轨迹。",
-          "useOfFunds": {
-            "title": "资金使用分配",
-            "items": [
-              {
-                "category": "产品开发和安全性",
-                "percentage": "35%",
-                "amount": "$175 万",
-                "details": [
-                  "增强的安全基础设施和审计",
-                  "主网启动和优化",
-                  "高级功能（收益产品、跨链桥）"
-                ]
-              },
-              {
-                "category": "市场进入和用户获取",
-                "percentage": "30%",
-                "amount": "$150 万",
-                "details": [
-                  "营销和社区建设",
-                  "商家和合作伙伴开发",
-                  "移动应用和用户界面优化"
-                ]
-              },
-              {
-                "category": "监管和合规",
-                "percentage": "20%",
-                "amount": "$100 万",
-                "details": [
-                  "法律和合规基础设施",
-                  "抵押品管理的银行关系",
-                  "全球监管批准"
-                ]
-              },
-              {
-                "category": "团队和运营",
-                "percentage": "15%",
-                "amount": "$75 万",
-                "details": [
-                  "关键招聘（合作伙伴负责人、工程副总裁、合规官）",
-                  "运营基础设施扩展"
-                ]
-              }
-            ]
-          },
-          "terms": {
-            "title": "投资条款概述",
-            "sections": [
-              {
-                "title": "股权结构",
-                "items": [
-                  "10% 完全稀释股权所有权",
-                  "具有标准保护的优先 A 系列股份",
-                  "反稀释条款（加权平均）"
-                ]
-              },
-              {
-                "title": "治理和董事会席位",
-                "items": [
-                  "董事会会议的观察员权利",
-                  "信息和检查权",
-                  "参与重大决策（融资、并购、转型）"
-                ]
-              },
-              {
-                "title": "财务权利",
-                "items": [
-                  "未来融资轮次的按比例参与权",
-                  "与股权相关的收入百分比（盈利后利润的 10%）",
-                  "清算优先权（1x 非参与优先股）"
-                ]
-              }
-            ]
-          },
-          "milestones": {
-            "title": "里程碑和绩效",
-            "items": [
-              "6 个月内主网启动",
-              "18 个月内流通中的 $1 亿+ $USDP",
-              "24 个月内 50 万+ 日活跃用户",
-              "36 个月内实现盈利路径"
-            ]
-          }
-        },
-        "closing": {
-          "title": "稳定价值的未来就在这里",
-          "intro": "$USDP 代表了稳定币设计的范式转变：",
-          "points": [
-            {
-              "title": "更低的成本",
-              "description": "分币级交易费用 vs. 竞争网络上的美元级费用。"
-            },
-            {
-              "title": "更高的安全性",
-              "description": "150% 抵押率，企业级保护 vs. 100-110% 的竞争对手。"
-            },
-            {
-              "title": "巨大的可访问性",
-              "description": "Pi Network 原生，服务 5500 万+ 用户 vs. 小众市场。"
-            },
-            {
-              "title": "更好的经济性",
-              "description": "收入随交易量扩展，而成本保持固定。"
-            }
-          ],
-          "conclusion": "稳定价值的未来不仅仅是与美元挂钩——而是向全球数十亿人提供稳定性、安全性和可访问性。",
-          "tagline": "$USDP。稳定。安全。简单。",
-          "footer": "更多信息，请访问 www.provenalabs.com"
-        }
-      }
     }
   }
+}

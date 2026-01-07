@@ -1,1875 +1,660 @@
 {
   "nav": {
-    "home": "ホーム",
-    "product": "製品",
-    "features": "機能",
-    "pricing": "価格",
-    "roadmap": "ロードマップ",
-    "developers": "開発者",
-    "blog": "ブログ",
-    "security": "セキュリティ",
-    "launchApp": "アプリを起動",
-    "getStarted": "始める"
+    "home": "Home",
+    "team": "The Team",
+    "contact": "Contact Us",
+    "chatWithMAC": "Chat with M.A.C.",
+    "tryMapOfPi": "Try Map of Pi"
   },
   "header": {
-    "company": "会社",
-    "aboutUs": "私たちについて",
-    "companyPage": "会社",
-    "careers": "採用",
-    "contact": "お問い合わせ",
-    "support": "サポート",
-    "resources": "リソース",
-    "legal": "法的",
-    "privacy": "プライバシーポリシー",
-    "terms": "利用規約",
-    "compliance": "コンプライアンス",
-    "disclosures": "開示"
+    "company": "Company",
+    "aboutUs": "About Us",
+    "companyPage": "Company",
+    "careers": "Careers",
+    "contact": "Contact",
+    "support": "Support Us",
+    "resources": "Resources",
+    "legal": "Legal",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "compliance": "Compliance",
+    "disclosures": "Disclosures"
   },
   "hero": {
-    "title": "安定価値の未来",
-    "description": "$USDPは、Pi Network上に構築されたUSDペッグ型ステーブルコインです。安全で透明性が高く、次世代のデジタル金融のために設計されています。",
-    "launchApp": "アプリを起動",
-    "visitTelegram": "Telegramにアクセス",
-    "usdEquivalence": "1 USD = 1 $USDP",
-    "overcollateralized": "過剰担保",
-    "mintRedeemFees": "鋳造/償還手数料",
-    "transactionCost": "取引コスト"
+    "title": "More than just a map It's the future of Pi eCommerce",
+    "description": "Map of Pi is an active and evolving part of the Pi Network's ecosystem designed to give real-world utility to Pi by connecting users with merchants who accept it. Through the Pi Browser, it's meant to make Pi more than just a mined token, helping it function as a currency in everyday commerce.",
+    "tryMapOfPi": "View RoadMap",
+    "users": "Users",
+    "sellers": "Sellers",
+    "reviews": "Reviews"
   },
   "features": {
-    "title": "なぜ$USDPを選ぶのか？",
-    "subtitle": "最先端技術で構築され、現代の金融エコシステム向けに設計されています。",
-    "secure": {
-      "title": "安全で透明",
-      "description": "パスキー認証とリアルタイムリザーブ追跡を備えたエンタープライズグレードのセキュリティ。"
+    "title": "Why Choose Map of Pi?",
+    "subtitle": "Built with cutting-edge technology and designed for the modern Pi Network marketplace.",
+    "globalMarketplace": {
+      "title": "Global Marketplace",
+      "description": "Find merchants worldwide on an interactive map. Search, discover, and connect with sellers accepting Pi cryptocurrency."
     },
-    "fast": {
-      "title": "超高速",
-      "description": "Pi Networkブロックチェーン上で、最小限の手数料で数秒以内に取引が決済されます。"
+    "piPayments": {
+      "title": "Pi Payments",
+      "description": "Direct Pi Wallet integration enables seamless transactions. Pay directly from your Pi Wallet to merchant Pi Wallets."
     },
-    "backed": {
-      "title": "完全に裏付け",
-      "description": "150%の過剰担保により、安定性が確保され、資産が保護されます。"
+    "verifiedMerchants": {
+      "title": "Verified Merchants",
+      "description": "Trusted sellers with verified badges. Shop with confidence knowing merchants are verified and reviewed."
     },
-    "privacy": {
-      "title": "プライバシー第一",
-      "description": "クライアント側暗号化と生体認証により、最大限のセキュリティを実現。"
+    "searchDiscover": {
+      "title": "Search & Discover",
+      "description": "Easy product and service discovery. Find exactly what you're looking for with powerful search and filtering."
     }
   },
   "useCases": {
-    "title": "ユースケース",
-    "subtitle": "$USDPは、個人ユーザーから企業まで、すべての人に機能します。",
-    "ecommerce": {
-      "title": "Eコマース",
-      "description": "即座の決済と最小限の手数料で$USDP支払いを受け付けます。"
+    "title": "Use Cases",
+    "subtitle": "Map of Pi works for everyone—from individual buyers to merchants and businesses.",
+    "poolTable": {
+      "title": "Pool Table Booking",
+      "description": "Book a pool table in advance or on the spot. Pay with Pi directly from your wallet to the venue owner's wallet."
     },
-    "crossBorder": {
-      "title": "国際送金",
-      "description": "低コストで高速な取引時間で世界中にお金を送金できます。"
+    "localCommerce": {
+      "title": "Local Commerce",
+      "description": "Support local businesses accepting Pi. Buy from cafes, bars, stores, and services in your area."
     },
-    "defi": {
-      "title": "DeFi取引",
-      "description": "$USDPを担保として使用するか、流動性を提供して利回りを獲得します。"
+    "globalMarketplace": {
+      "title": "Global Marketplace",
+      "description": "Buy and sell goods and services worldwide. No borders, no intermediaries—just direct Pi-to-Pi transactions."
     },
-    "storage": {
-      "title": "価値の保存",
-      "description": "暗号通貨のボラティリティにさらされることなく、安定した価値を保持します。"
+    "services": {
+      "title": "Services",
+      "description": "Find and book services like repairs, consultations, and professional services—all paid with Pi."
     }
   },
   "roadmap": {
-    "title": "ロードマップ",
-    "subtitle": "マイルストーンごとに、ステーブルコインの未来を構築しています。",
-    "q4_2025": "2025年第4四半期",
-    "q1_2026": "2026年第1四半期",
-    "q2_2026": "2026年第2四半期",
-    "q3_2026": "2026年第3四半期",
-    "betaLaunch": "ベータ版リリース",
-    "coreFeatures": "コア機能",
-    "securityAudit": "セキュリティ監査",
-    "mainnetLaunch": "メインネット起動",
-    "merchantPartnerships": "マーチャントパートナーシップ",
-    "mobileApps": "モバイルアプリ",
-    "defiIntegrations": "DeFi統合",
-    "crossChainBridge": "クロスチェーンブリッジ",
-    "governanceToken": "ガバナンストークン",
-    "institutionalServices": "機関サービス",
-    "globalExpansion": "グローバル展開",
-    "advancedFeatures": "高度な機能",
-    "pageTitle": "製品ロードマップ",
-    "pageSubtitle": "$USDPとProvena Labsエコシステムの未来へのビジョン。",
-    "betaLaunchTitle": "ベータ版リリースとコア機能",
-    "betaLaunchDesc": "Pi Networkテストネットでのベータ版リリース",
-    "coreMintingDesc": "コア鋳造および償還機能",
-    "securityAuditDesc": "セキュリティ監査の完了",
-    "mainnetTitle": "メインネット起動とパートナーシップ",
-    "mainnetDesc": "Pi Networkでのメインネット起動",
-    "merchantDesc": "マーチャントパートナーシップ",
-    "mobileAppDesc": "モバイルアプリのリリース",
-    "defiTitle": "DeFi統合と展開",
-    "defiProtocolDesc": "DeFiプロトコル統合",
-    "bridgeDesc": "クロスチェーンブリッジの起動",
-    "governanceDesc": "ガバナンストークンの導入",
-    "institutionalTitle": "機関サービスとグローバル展開",
-    "institutionalDesc": "機関サービスの起動",
-    "globalDesc": "新市場へのグローバル展開",
-    "advancedDesc": "高度な機能とツール"
+    "title": "Our Roadmap",
+    "subtitle": "Building the future of Pi commerce, one milestone at a time.",
+    "viewFullRoadmap": "View Full Roadmap",
+    "v140": "V1.4.0",
+    "v155": "V1.5.5",
+    "v160": "V1.6.0",
+    "v20": "V2.0 Coming Soon",
+    "pageTitle": "Product Roadmap",
+    "pageSubtitle": "Our vision for the future of Map of Pi and the Pi Network marketplace ecosystem."
   },
   "security": {
-    "title": "信頼できるセキュリティ",
-    "subtitle": "あなたの資産は、エンタープライズグレードのセキュリティ対策と定期的な監査によって保護されています。私たちはセキュリティを真剣に取り組んでいるため、あなたは心配する必要はありません。",
-    "viewReport": "セキュリティレポートを表示",
-    "webauthn": "WebAuthnパスキー認証",
-    "encryption": "保存時のAES-256暗号化",
-    "tls": "転送中のデータのTLS 1.3",
-    "hsm": "ハードウェアセキュリティモジュール",
-    "audits": "定期的なセキュリティ監査",
-    "detection": "24/7脅威検出",
-    "multisig": "マルチシグ取引",
-    "insurance": "コールドウォレット保険"
+    "title": "Security You Can Trust",
+    "subtitle": "Your transactions are protected by Pi Network's secure infrastructure and Pi Wallet integration. We take security seriously so you don't have to worry.",
+    "viewReport": "View Security Report",
+    "piNetwork": "Pi Network Security",
+    "walletIntegration": "Pi Wallet Integration",
+    "verifiedMerchants": "Verified Merchants",
+    "escrow": "EscrowPi Protection",
+    "transparent": "Transparent Reviews",
+    "securePayments": "Secure Payments"
   },
   "cta": {
-    "title": "始める準備はできましたか？",
-    "subtitle": "安全で安定した価値の保存と取引のために$USDPを既に使用している何千人ものユーザーに参加してください。",
-    "launchApp": "アプリを起動",
-    "contactSales": "営業に連絡"
+    "title": "Ready to Get Started?",
+    "subtitle": "Join millions of users who are already buying and selling on Map of Pi using Pi cryptocurrency.",
+    "launchApp": "Try Map of Pi",
+    "contactSales": "Contact Us"
   },
   "logoCloud": {
-    "title": "Provenaで構築",
-    "subtitle": "エコシステムの主要プラットフォームから信頼されています"
-  },
-  "tokenEconomics": {
-    "title": "トークンエコノミクス",
-    "subtitle": "安定性のために設計され、Piリザーブによって裏付けられ、1:1の米ドルペッグを維持しています。",
-    "utilities": {
-      "mediumOfExchange": {
-        "title": "交換媒体",
-        "description": "$USDPを世界規模で高速で低コストな取引に使用します。"
-      },
-      "storeOfValue": {
-        "title": "価値の保存",
-        "description": "ボラティリティのない安定資産として$USDPを保有します。"
-      },
-      "defiCollateral": {
-        "title": "DeFi担保",
-        "description": "分散型金融プロトコルで$USDPを担保として使用します。"
-      }
-    },
-    "supplyModel": {
-      "title": "供給モデル",
-      "backedByPi": {
-        "title": "Piリザーブによって裏付け",
-        "description": "すべての$USDPはPi担保によって裏付けられています"
-      },
-      "dynamicSupply": {
-        "title": "動的供給",
-        "description": "ペッグを維持しながら需要に基づいて供給が調整されます"
-      },
-      "overcollateralization": {
-        "title": "150%の過剰担保",
-        "description": "追加の担保により安定性が確保され、ユーザーを保護します"
-      }
-    }
+    "title": "Built for Pi Network",
+    "subtitle": "Trusted by merchants and users in the Pi Network ecosystem"
   },
   "targetMarket": {
-    "title": "ターゲット市場",
-    "subtitle": "多様なユーザーセグメントに合わせたソリューションを提供します。",
+    "title": "Who Uses Map of Pi?",
+    "subtitle": "Serving diverse user segments with tailored solutions.",
     "markets": {
-      "defiUsers": {
-        "title": "DeFiユーザー",
-        "description": "分散化と利回りの機会を求めるステーブルコイン保有者。"
+      "buyers": {
+        "title": "Buyers",
+        "description": "Pioneers looking to spend Pi on goods and services in their local area and worldwide."
       },
-      "piNetwork": {
-        "title": "Piネットワークコミュニティ",
-        "description": "ブロックチェーンソリューションを採用する準備ができている5,500万人以上の積極的なユーザー。"
+      "sellers": {
+        "title": "Sellers",
+        "description": "Merchants and service providers accepting Pi payments for their products and services."
       },
-      "ecommerce": {
-        "title": "電子商取引",
-        "description": "低手数料の安定した支払いオプションを必要とする商人。"
+      "merchants": {
+        "title": "Merchants",
+        "description": "Businesses wanting to reach the Pi Network community and accept Pi cryptocurrency payments."
       },
-      "crossBorder": {
-        "title": "国際送金",
-        "description": "グローバルな取引のための低コストな送金ソリューション。"
-      }
-    }
-  },
-  "competitiveAdvantages": {
-    "title": "$USDPが際立つ理由",
-    "subtitle": "他のステーブルコインと差別化する競争上の優位性。",
-    "table": {
-      "feature": "機能",
-      "usdp": "$USDP",
-      "competitors": "競合他社",
-      "network": "ネットワーク",
-      "fees": "手数料",
-      "collateralRatio": "担保比率",
-      "authentication": "認証",
-      "blockchainFees": "ブロックチェーン手数料"
-    },
-    "values": {
-      "piNetwork": "Piネットワーク",
-      "ethereumTron": "イーサリアム、トロン",
-      "fees03": "0.3%",
-      "fees05to1": "0.5-1%",
-      "collateral150": "150%",
-      "collateral100to110": "100-110%",
-      "passkeys": "パスキー",
-      "passwords2fa": "パスワード/2FA",
-      "feesLess001": "<$0.01",
-      "fees1to50": "$1-50"
-    }
-  },
-  "businessModel": {
-    "title": "持続可能なビジネスモデル",
-    "subtitle": "長期的な成長と安定性のために設計された複数の収益源。",
-    "revenueStreams": {
-      "mintingFees": {
-        "title": "鋳造手数料",
-        "description": "すべての鋳造の0.3%"
-      },
-      "redeemingFees": {
-        "title": "償還手数料",
-        "description": "すべての償還の0.3%"
-      },
-      "transferFees": {
-        "title": "転送手数料",
-        "description": "転送ごとに0.0%"
-      },
-      "partnershipFees": {
-        "title": "パートナーシップ手数料",
-        "description": "統合パートナーシップ"
+      "pioneers": {
+        "title": "Pi Network Pioneers",
+        "description": "55+ million engaged users ready to use Pi in real-world commerce."
       }
     }
   },
   "footer": {
-    "tagline": "Pi Network上で安定価値の未来を構築しています。",
-    "product": "製品",
-    "company": "会社",
-    "about": "について",
-    "legal": "法的",
-    "privacy": "プライバシー",
-    "terms": "利用規約",
-    "disclosures": "開示",
-    "copyright": "© {year} Provena Labs。全著作権所有。",
+    "tagline": "More than just a map—It's the future of Pi eCommerce.",
+    "product": "Product",
+    "company": "Company",
+    "about": "About",
+    "roadmap": "Roadmap",
+    "membership": "Membership",
+    "legal": "Legal",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "disclosures": "Disclosures",
+    "copyright": "© {year} Map of Pi Team. All rights reserved.",
     "year": "year"
   },
   "common": {
-    "loading": "読み込み中...",
-    "error": "エラー",
-    "retry": "再試行"
+    "loading": "Loading...",
+    "error": "Error",
+    "retry": "Retry"
+  },
+  "hackathonWinner": {
+    "title": "Map of Pi—2024 Pi Commerce Hackathon Winner!",
+    "description": "Map of Pi stood out for its intuitive user interface (UI), centering around a map where users can find local Pi businesses. Merchants are already able to go through the flow of adding their business to the map, and the Map of Pi team is adding functionality such as QR codes, menu items, and more.",
+    "feature1": "Intuitive user interface with interactive map",
+    "feature2": "Pi Authentication and Pi Payments integrations",
+    "feature3": "Dozens of sample storefronts around the world"
+  },
+  "piFest": {
+    "title": "As featured in Pi Fest!",
+    "subtitle": "Map of Pi has reached incredible milestones in the Pi Network ecosystem.",
+    "users": "Active Users",
+    "sellers": "Verified Sellers",
+    "reviews": "Shop Reviews"
+  },
+  "escrowPi": {
+    "title": "Not just secure payments It's trust built into Pi eCommerce",
+    "subtitle": "EscrowPi is a next-generation utility in the Pi Network ecosystem",
+    "description": "Designed to make transactions safer, smoother, and more reliable for both buyers and sellers, it acts as a neutral and automated escrow layer that only releases Pi when both sides confirm the transaction. Integrated through the Pi Browser, EscrowPi strengthens real-world commerce by reducing risk and removing the need for manual oversight—bringing confidence and fairness to every Pi exchange.",
+    "learnMore": "See more"
+  },
+  "teamHighlights": {
+    "title": "Meet the Team",
+    "subtitle": "Our global volunteer team is building the future of decentralized commerce.",
+    "viewAll": "View All Team Members"
+  },
+  "team": {
+    "philip": {
+      "name": "Philip Jennings",
+      "role": "Founder & Leader",
+      "bio": "Philip is the visionary leader behind Map of Pi, driving the mission to make Pi cryptocurrency usable in everyday commerce."
+    },
+    "abdul": {
+      "name": "Abdulganiyu Balogun (Abdul)",
+      "role": "Ambassador",
+      "bio": "Abdul joined the Map of Pi volunteer team in January 2024, driven by a lifelong dream to be part of a truly decentralized economy. As a distinguished volunteer, he helps ensure the platform reflects real user needs."
+    },
+    "adisa": {
+      "name": "Yusuf Adisa (haycoder)",
+      "role": "Senior Core Developer",
+      "bio": "Passionate about Web3 and decentralized platforms, Adisa joined the team just two months after its foundation. He has actively contributed to building real Pi utilities and helping shape Map of Pi into a platform where people can trade securely."
+    },
+    "ant": {
+      "name": "Ant (Ant CPU)",
+      "role": "Global Marketing Tech Specialist",
+      "bio": "Founder of Ant CPU, a technology company focused on AI-driven web development. Ant brings a unique blend of automation, analytics, and creativity to the Map of Pi team, helping transform how Map of Pi connects, collaborates, and grows."
+    },
+    "danny": {
+      "name": "Danny Lee",
+      "role": "Tech Lead",
+      "bio": "Leading the technical development team and ensuring high-quality code delivery."
+    },
+    "darin": {
+      "name": "Darin Hajou",
+      "role": "Core Developer, Co-Founder",
+      "bio": "Core developer building the foundation of Map of Pi's marketplace platform."
+    },
+    "francis": {
+      "name": "Francis Mwaura",
+      "role": "Developer",
+      "bio": "Developer contributing to Map of Pi's features and functionality."
+    },
+    "fasakin": {
+      "name": "Fasakin Henry",
+      "role": "Developer",
+      "bio": "Developer working on Map of Pi's platform development and improvements."
+    },
+    "oluwabukola": {
+      "name": "Oluwabukola Adesina",
+      "role": "UX Solutions Designer",
+      "bio": "Designing user experiences and solutions to make Map of Pi intuitive and user-friendly."
+    },
+    "andri": {
+      "name": "Andri Nael",
+      "role": "Team Member",
+      "bio": "Contributing to Map of Pi's mission of decentralized commerce."
+    },
+    "franck": {
+      "name": "Franck Baraka",
+      "role": "Team Member",
+      "bio": "Supporting Map of Pi's growth and development."
+    },
+    "godswill": {
+      "name": "Godswill Sam",
+      "role": "Developer",
+      "bio": "Developer contributing to Map of Pi's features and functionality."
+    },
+    "mohamed": {
+      "name": "Mohamed Elsoshani",
+      "role": "Team Member",
+      "bio": "Contributing to Map of Pi's marketplace ecosystem."
+    },
+    "rajasekhar": {
+      "name": "Rajasekhar Reddy",
+      "role": "Team Member",
+      "bio": "Supporting Map of Pi's technical and community initiatives."
+    }
+  },
+  "macChatbot": {
+    "title": "Chat with M.A.C.",
+    "description": "M.A.C., the Map of Pi chatbot, is our intelligent assistant, built to help Pioneers and merchants navigate the Map of Pi experience.",
+    "details": "Whether you're curious about how to list your business, searching for sellers near you, or exploring new app features, M.A.C. is here to provide instant answers and guidance. Available around the clock, M.A.C. ensures that every question—big or small is met with clear, reliable support.",
+    "chatNow": "Chat with M.A.C."
   },
   "pages": {
-    "roadmap": {
-      "pageTitle": "製品ロードマップ",
-      "pageSubtitle": "$USDPとProvena Labsエコシステムの未来へのビジョン。",
-      "q4_2025": "Q4 2025",
-      "q1_2026": "Q1 2026",
-      "q2_2026": "Q2 2026",
-      "q3_2026": "Q3 2026",
-      "betaLaunchTitle": "ベータ版リリースとコア機能",
-      "betaLaunchDesc": "Pi Networkテストネットでのベータ版リリース",
-      "coreMintingDesc": "コア鋳造および償還機能",
-      "securityAuditDesc": "セキュリティ監査の完了",
-      "mainnetTitle": "メインネット起動とパートナーシップ",
-      "mainnetDesc": "Pi Networkでのメインネット起動",
-      "merchantDesc": "マーチャントパートナーシップ",
-      "mobileAppDesc": "モバイルアプリのリリース",
-      "defiTitle": "DeFi統合と展開",
-      "defiProtocolDesc": "DeFiプロトコル統合",
-      "bridgeDesc": "クロスチェーンブリッジの起動",
-      "governanceDesc": "ガバナンストークンの導入",
-      "institutionalTitle": "機関サービスとグローバル展開",
-      "institutionalDesc": "機関サービスの起動",
-      "globalDesc": "新市場へのグローバル展開",
-      "advancedDesc": "高度な機能とツール"
-    },
-    "features": {
-      "title": "現代金融のための強力な機能",
-      "subtitle": "$PNAは最先端技術とユーザーフレンドリーなデザインを組み合わせて、あなたにふさわしいステーブルコイン体験を提供します。",
-      "features": {
-        "secure": {
-          "title": "安全で透明",
-          "description": "マルチシグネチャウォレット、定期的な監査、完全なオンチェーン透明性により、資産が常に保護され、検証可能であることが保証されます。"
-        },
-        "fast": {
-          "title": "超高速",
-          "description": "取引は最小限の手数料で数秒以内に決済されます。待ち時間も遅延もなく、即座に価値が転送されます。"
-        },
-        "stable": {
-          "title": "安定した価値",
-          "description": "115%の過剰担保とアルゴリズムの安定性メカニズムにより、米ドルとの1:1ペッグを維持します。"
-        },
-        "community": {
-          "title": "コミュニティ主導",
-          "description": "ガバナンス参加とコミュニティ重視の開発により、Pi Networkコミュニティのために構築されました。"
-        },
-        "defi": {
-          "title": "DeFi対応",
-          "description": "DeFiプロトコル、レンディングプラットフォーム、分散型取引所とシームレスに統合できます。"
-        },
-        "compliance": {
-          "title": "コンプライアンス第一",
-          "description": "規制コンプライアンスを考慮して設計され、機関の採用と主流の使用をサポートします。"
-        }
+    "team": {
+      "title": "The Team",
+      "subtitle": "Meet the global volunteer team building Map of Pi",
+      "ourBeginning": {
+        "title": "Our beginning",
+        "subtitle": "Where it all started",
+        "description": "The Map of Pi team began its journey during the 2024 Pi Commerce Hackathon, where a group of passionate developers and visionaries came together with a shared mission: to make Pi practical, spendable, and useful in everyday life. Through collaboration, innovation, and a clear focus on utility, Map of Pi quickly stood out among the competition."
       },
-      "advancedSecurity": {
-        "title": "高度なセキュリティ",
-        "description": "あなたのセキュリティが私たちの最優先事項です。$PNAは、マルチシグネチャウォレット、定期的な第三者監査、継続的な監視を含む業界をリードするセキュリティ慣行を実装しています。",
-        "features": [
-          "マルチシグネチャウォレット保護",
-          "主要企業による定期的なセキュリティ監査",
-          "24/7監視と脅威検出",
-          "ユーザー資金の保険カバレッジ"
-        ]
+      "ourDrive": {
+        "title": "Our drive",
+        "subtitle": "What keeps us going",
+        "description": "After winning the Hackathon, our team gained valuable support and resources from the Pi Core Team, which strengthened our foundation and validated the importance of building real-world Pi commerce solutions.",
+        "description2": "Today, we continue to grow Map of Pi as a team of pro bono volunteers, united by our passion for the future of the Pi Ecosystem and the role that Pi eCommerce can play in global adoption. Our dedication is not driven by profit, but by the belief that Pi has the power to reshape how people connect, trade, and thrive."
       },
-      "lightningFast": {
-        "title": "超高速取引",
-        "description": "待つことなくブロックチェーンの速度を体験してください。$PNAの取引は数時間や数日ではなく、数秒で決済されます。",
-        "features": [
-          "1秒未満の取引確認",
-          "最小限の取引手数料",
-          "高いスループット容量",
-          "スケーラブルなインフラストラクチャ"
-        ]
-      }
-    },
-    "product": {
-      "title": "$USDPステーブルコイン",
-      "subtitle": "Pi Network上に構築されたUSDペッグ型ステーブルコインで、安定性、セキュリティ、シームレスな取引のために設計されています。",
-      "tagline": "安定。安全。シンプル。",
-      "whatIs": {
-        "title": "$USDPとは？",
-        "description1": "$USDPは、米ドルとの1:1ペッグを維持する完全に担保されたステーブルコインです。各$USDPトークンは115%以上の担保で裏付けられており、すべてのユーザーの安定性とセキュリティを確保しています。",
-        "description2": "Pi Networkブロックチェーン上に構築された$USDPは、ユーザーがステーブルコインから期待する信頼性と信頼性を維持しながら、高速で低コストの取引を可能にします。",
-        "features": [
-          "150%過剰担保",
-          "1:1 USDペッグ",
-          "透明で監査済み",
-          "Pi Networkネイティブ"
-        ]
+      "ourVision": {
+        "title": "Our vision",
+        "subtitle": "Where we're headed",
+        "description": "Looking ahead, we are preparing to evolve into an equity- and contribution-based system that rewards commitment and creativity, ensuring that every team member shares in the future success of the project. With this foundation, our long-term vision is to scale Map of Pi into a global company and brand, supporting millions of Pioneers and merchants worldwide."
       },
-      "coreFeatures": {
-        "title": "コア機能",
-        "items": [
-          {
-            "icon": "shield",
-            "title": "安全",
-            "description": "マルチシグネチャウォレットと厳格なセキュリティ監査により、資金が保護されます。"
-          },
-          {
-            "icon": "zap",
-            "title": "高速",
-            "description": "Pi Network上で最小限の手数料で数秒以内に取引が決済されます。"
-          },
-          {
-            "icon": "globe",
-            "title": "グローバル",
-            "description": "国境を越えて世界中のどこでも$USDPを送受信できます。"
-          },
-          {
-            "icon": "check",
-            "title": "透明",
-            "description": "定期的な監査とコンプライアンスレポートによる完全なオンチェーン透明性。"
-          }
-        ]
-      },
-      "technicalSpecs": {
-        "title": "技術仕様",
-        "blockchain": {
-          "label": "ブロックチェーン",
-          "value": "Pi Network"
+      "ourOrganization": {
+        "title": "Our organization",
+        "subtitle": "Meet the Map of Pi team",
+        "projectManager": {
+          "title": "Project Manager",
+          "description": "The Project Manager plays a key role in keeping the Map of Pi team organized and aligned. They oversee timelines, coordinate team efforts, and ensure that priorities are clearly defined. This role requires strong communication, leadership, and the ability to balance both short-term tasks and long-term goals."
         },
-        "tokenStandard": {
-          "label": "トークン標準",
-          "value": "Pi Networkネイティブトークン"
+        "ambassador": {
+          "title": "Ambassador",
+          "description": "Ambassadors represent Map of Pi within the global Pi community. They help spread awareness, onboard new users, and build relationships with merchants and Pioneers. Ambassadors act as the voice of the project on the ground, supporting adoption and trust."
         },
-        "decimals": {
-          "label": "小数点",
-          "value": "18"
+        "marketing": {
+          "title": "Marketing",
+          "description": "The Marketing team helps tell the story of Map of Pi to the world. From social media campaigns to branding and partnerships, marketing ensures that Pioneers and merchants understand the value of joining the ecosystem."
         },
-        "collateralization": {
-          "label": "担保化",
-          "value": "150%過剰担保"
+        "uxSolutions": {
+          "title": "UX/ Solutions",
+          "description": "The UX / Solutions role focuses on making Map of Pi intuitive and user-friendly. This team helps design the experience for both merchants and buyers, ensuring the app is accessible, functional, and enjoyable."
         },
-        "mintRedeemFee": {
-          "label": "鋳造/償還手数料",
-          "value": "0.3%"
+        "development": {
+          "title": "Development",
+          "description": "The Development team builds and maintains the Map of Pi app and supporting infrastructure. They translate ideas and designs into features that Pioneers and merchants can use. Developers are responsible for scalability, performance, and security."
         },
-        "auditStatus": {
-          "label": "監査状況",
-          "value": "定期的に監査済み"
+        "qualityAnalyst": {
+          "title": "Quality Analyst",
+          "description": "Quality Analysts play a key role in maintaining the reliability and trust of Map of Pi. They focus on testing new features, identifying issues, and providing clear feedback so that the app delivers a smooth and consistent experience for all Pioneers."
         }
       }
     },
-    "pricing": {
-      "title": "シンプルで透明な価格設定",
-      "subtitle": "隠れた手数料なし。驚きなし。ステーブルコインのニーズに応じた直接的な価格設定。",
-      "plans": [
+    "contact": {
+      "title": "Contact Us",
+      "subtitle": "Have questions? We'd love to hear from you. Send us a message and we'll respond as soon as possible.",
+      "contactInfo": [
         {
-          "title": "鋳造と償還",
-          "description": "$USDPトークンの作成またはバーン",
-          "price": "0.3%",
-          "priceNote": "取引ごと",
-          "features": [
-            "即座の処理",
-            "最低金額なし",
-            "完全な透明性"
-          ]
+          "type": "email",
+          "label": "Email",
+          "value": "contact@mapofpi.com",
+          "note": "We'll get back to you within 24 hours"
         },
         {
-          "popular": true,
-          "badge": "最も人気",
-          "title": "送金",
-          "description": "ウォレット間で$USDPを送信",
-          "price": "<$0.01",
-          "priceNote": "取引ごと",
-          "features": [
-            "超高速",
-            "数秒で決済",
-            "グローバルリーチ"
-          ]
-        },
-        {
-          "title": "APIアクセス",
-          "description": "開発者と企業向け",
-          "price": "カスタム",
-          "priceNote": "ボリュームベースの価格設定",
-          "features": [
-            "専任サポート",
-            "カスタム統合",
-            "SLA保証"
-          ]
+          "type": "office",
+          "label": "Office",
+          "value": "Remote First",
+          "note": "Serving customers worldwide"
         }
       ],
-      "feeBreakdown": {
-        "title": "手数料内訳",
-        "transactionType": "取引タイプ",
-        "fee": "手数料",
-        "speed": "速度",
-        "rows": [
-          {
-            "type": "$USDPを鋳造",
-            "fee": "0.3%",
-            "speed": "即座"
-          },
-          {
-            "type": "$USDPを償還",
-            "fee": "0.3%",
-            "speed": "即座"
-          },
-          {
-            "type": "$USDPを送金",
-            "fee": "<$0.01",
-            "speed": "数秒"
-          },
-          {
-            "type": "API呼び出し",
-            "fee": "カスタム",
-            "speed": "リアルタイム"
-          }
-        ]
-      },
       "faq": {
-        "title": "よくある質問",
+        "title": "Frequently Asked Questions",
         "items": [
           {
-            "question": "隠れた手数料はありますか？",
-            "answer": "いいえ。すべての手数料は透明で、事前に表示されます。表示されている金額が支払う金額です。"
+            "question": "What is the best way to contact support?",
+            "answer": "You can reach our support team via email at contact@mapofpi.com or use the M.A.C. chatbot on mapofpi.com."
           },
           {
-            "question": "ボリューム割引はありますか？",
-            "answer": "はい。高ボリュームユーザーと企業向けに、カスタム価格設定を提供しています。詳細については営業チームにお問い合わせください。"
+            "question": "How long does it take to get a response?",
+            "answer": "We aim to respond to all inquiries within 24 hours during business days."
           },
           {
-            "question": "どのような支払い方法を受け付けていますか？",
-            "answer": "$USDPの鋳造と償還には、USD、その他のステーブルコイン、主要な暗号通貨を受け付けています。"
-          }
-        ]
-      }
-    },
-    "developers": {
-      "title": "開発者リソース",
-      "subtitle": "$PNAをアプリケーションに統合するために必要なすべて。包括的なドキュメント、SDK、ツール。",
-      "quickStart": {
-        "title": "クイックスタート",
-        "installation": {
-          "title": "インストール",
-          "code": "coming soon"
-        },
-        "usage": {
-          "title": "基本的な使用方法",
-          "code": "coming soon"
-        }
-      },
-      "integrationOptions": {
-        "title": "統合オプション",
-        "items": [
-          {
-            "icon": "code",
-            "title": "直接統合",
-            "description": "アプリケーションとの完全なAPI統合には、JavaScript/TypeScript SDKを使用してください。",
-            "linkText": "ドキュメントを見る"
-          },
-          {
-            "icon": "zap",
-            "title": "ウォレット統合",
-            "description": "シームレスなユーザー体験とマルチ通貨サポートのために、Provenaウォレットに接続します。",
-            "linkText": "ドキュメントを見る"
-          },
-          {
-            "icon": "book",
-            "title": "決済ゲートウェイ",
-            "description": "事前構築されたウィジェットを使用して、Webサイトに$PNA決済ボタンを追加します。",
-            "linkText": "ドキュメントを見る"
-          },
-          {
-            "icon": "git",
-            "title": "Webhooks",
-            "description": "取引の更新とステータス変更のリアルタイムイベント通知。",
-            "linkText": "ドキュメントを見る"
-          }
-        ]
-      },
-      "useCases": {
-        "title": "ビルダー向けのユースケース",
-        "items": [
-          {
-            "title": "Eコマース",
-            "features": [
-              "$PNA決済を受け入れる",
-              "低い取引手数料",
-              "即座の決済"
-            ]
-          },
-          {
-            "title": "DeFiプラットフォーム",
-            "features": [
-              "$PNAを担保として追加",
-              "流動性プールを作成",
-              "利回り戦略を構築"
-            ]
-          },
-          {
-            "title": "ウォレット",
-            "features": [
-              "$PNAサポートを統合",
-              "マルチ通貨ウォレット",
-              "ポートフォリオ追跡"
-            ]
-          },
-          {
-            "title": "ゲーム",
-            "features": [
-              "ゲーム内通貨",
-              "報酬配布",
-              "NFTマーケットプレイス決済"
-            ]
+            "question": "Do you have a community forum?",
+            "answer": "Yes! Join our social media communities on Instagram, Facebook, X, Telegram, Reddit, and YouTube to connect with other users."
           }
         ]
       }
     },
     "about": {
-      "title": "Provena Labsについて",
-      "subtitle": "私たちはPi Network上で安定したデジタル金融の未来を構築しています。私たちの使命は、伝統的な金融とブロックチェーン技術を橋渡しする、安全で透明性があり革新的なステーブルコインソリューションを提供することです。",
-      "mission": {
-        "title": "私たちの使命",
-        "description1": "Pi Network上の5500万人以上のユーザーに安全で高速、低コストの取引を可能にする、本番レベルのUSDペッグ型ステーブルコインを作成すること。",
-        "description2": "私たちは、ブロックチェーン技術の力が金融を民主化し、あらゆる場所のすべての人に金融サービスを提供すると信じています。"
+      "title": "About Map of Pi",
+      "subtitle": "Building the bridge between Pi Network and the real economy, one merchant at a time.",
+      "story": {
+        "intro": "Map of Pi was born out of the 2024 Pi Commerce Hackathon, an event designed to spark innovation and unlock real-world utility for the Pi Network. Competing against a wide range of projects, Map of Pi stood out for its intuitive map-based interface and practical approach to solving one of Pi's most important challenges: connecting Pioneers with businesses that accept Pi as payment.",
+        "vision": "From its inception, the vision of Map of Pi has been clear—to make Pi spendable in everyday life. The app allows users to discover merchants across the globe, explore their offerings, and engage in commerce powered by Pi. Merchants, in turn, can easily showcase their businesses, set up shop within the app, and reach a growing global community of Pioneers."
       },
-      "vision": {
-        "title": "私たちのビジョン",
-        "description1": "安定したデジタル資産が誰でもアクセスできる世界で、シームレスなグローバル取引と金融包摂を可能にします。",
-        "description2": "私たちは、$USDPがPi Networkの標準ステーブルコインとなり、DeFi、Eコマース、国境を越えた決済を推進することを想定しています。"
-      },
-      "coreValues": {
-        "title": "私たちのコアバリュー",
+      "growth": {
+        "title": "Since launch, Map of Pi has continued to grow and evolve",
         "items": [
           {
-            "icon": "innovation",
-            "title": "イノベーション",
-            "description": "私たちは、ブロックチェーンエコシステムを前進させる最先端のソリューションを提供するために、継続的に革新しています。"
+            "icon": "merchants",
+            "title": "Global Reach",
+            "description": "Reaching hundreds of thousands of registered merchant locations worldwide, making it one of the largest Pi commerce platforms."
           },
           {
-            "icon": "transparency",
-            "title": "透明性",
-            "description": "リアルタイムのリザーブ追跡と公開検証による完全な透明性を信じています。"
+            "icon": "features",
+            "title": "Enhanced Features",
+            "description": "Adding features such as menus, contact options, and merchant ratings, enhancing trust and usability for both buyers and sellers."
           },
           {
-            "icon": "community",
-            "title": "コミュニティ",
-            "description": "私たちは、コミュニティと共に、コミュニティのために構築し、フィードバックに耳を傾け、共に進化することに取り組んでいます。"
+            "icon": "accessibility",
+            "title": "Pi Browser Integration",
+            "description": "Expanding accessibility through the Pi Browser, ensuring seamless engagement for Pioneers wherever they are."
           }
         ]
       },
-      "whyChoose": {
-        "title": "なぜProvena Labsを選ぶのか？",
-        "items": [
-          {
-            "number": "1",
-            "title": "先駆者の優位性",
-            "description": "私たちはPi Network上で最初の本番レベルのステーブルコインであり、早期の市場シェアを獲得する位置にあります。"
-          },
-          {
-            "number": "2",
-            "title": "大規模なユーザーベース",
-            "description": "ブロックチェーンソリューションを採用する準備ができている5500万人以上のPi Networkユーザーへのアクセス。"
-          },
-          {
-            "number": "3",
-            "title": "本番準備完了",
-            "description": "私たちのプラットフォームは完全に開発され、テスト済みで、即座の展開とスケーリングの準備ができています。"
-          },
-          {
-            "number": "4",
-            "title": "持続可能なモデル",
-            "description": "複数の収益源と財務管理により、長期的な持続可能性と成長が確保されます。"
-          }
-        ]
+      "coreMessage": {
+        "title": "More Than Just a Directory",
+        "description": "At its core, Map of Pi is more than just a directory—it's a bridge between the Pi Network and the real economy. By empowering both local businesses and global Pioneers, Map of Pi continues to play a vital role in building the foundation for Pi's utility as a widely used digital currency."
       }
     },
-    "contact": {
-      "title": "お問い合わせ",
-      "subtitle": "ご質問がありますか？お気軽にお問い合わせください。メッセージをお送りいただければ、できるだけ早く返信いたします。",
-      "contactInfo": [
+    "membership": {
+      "title": "Map of Pi Membership",
+      "subtitle": "Choose the membership tier that works best for your business needs and unlock exclusive benefits.",
+      "tiersTitle": "Membership Tiers",
+      "popular": "Popular",
+      "free": "Free",
+      "notApplicable": "N/A",
+      "yes": "Yes",
+      "no": "No",
+      "mappiAllowance": "Mappi Allowance",
+      "duration": "Membership Duration",
+      "onlineShopping": "Online Shopping Included",
+      "mapMarkerPriority": "Map Marker Priority",
+      "infoTitle": "Ready to Get Started?",
+      "infoDescription": "Join thousands of merchants who are already using Map of Pi to reach the global Pi Network community. Choose your membership tier and start connecting with Pioneers today.",
+      "getStarted": "Get Started on Map of Pi",
+      "tiers": [
         {
-          "type": "email",
-          "label": "メール",
-          "value": "zyrachain@provenalabs.com",
-          "note": "24時間以内にご返信いたします"
-        },
-        {
-          "type": "phone",
-          "label": "電話",
-          "value": "+234-701-067-6567",
-          "note": "月曜日〜金曜日、午前9時〜午後5時（EST）"
-        },
-        {
-          "type": "office",
-          "label": "オフィス",
-          "value": "リモートファースト",
-          "note": "世界中のお客様にサービスを提供"
-        }
-      ],
-      "faq": {
-        "title": "よくある質問",
-        "items": [
-          {
-            "question": "サポートに連絡する最良の方法は何ですか？",
-            "answer": "provenalabs@gmail.comにメールでサポートチームに連絡できます。"
-          },
-          {
-            "question": "返信を得るのにどのくらいかかりますか？",
-            "answer": "営業日中の24時間以内にすべてのお問い合わせに返信することを目指しています。"
-          },
-          {
-            "question": "コミュニティフォーラムはありますか？",
-            "answer": "はい！Discordコミュニティに参加して、他のユーザーとつながり、コミュニティからサポートを受けましょう。"
-          }
-        ]
-      }
-    },
-    "security": {
-      "title": "セキュリティとコンプライアンス",
-      "subtitle": "資産を保護し、規制コンプライアンスを確保するためのエンタープライズレベルのセキュリティ対策とコンプライアンス基準。",
-      "measures": {
-        "title": "セキュリティ対策",
-        "items": [
-          {
-            "icon": "authentication",
-            "title": "認証",
-            "description": "WebAuthn/FIDO2パスキーは、パスワードなしで生体認証とPINベースの認証を提供します。",
-            "features": [
-              "生体認証",
-              "PINベースのセキュリティ",
-              "パスワード保存なし"
-            ]
-          },
-          {
-            "icon": "encryption",
-            "title": "暗号化",
-            "description": "軍事レベルの暗号化により、保存時と転送中のデータが保護されます。",
-            "features": [
-              "保存時のAES-256",
-              "転送中のTLS 1.3",
-              "クライアント側暗号化"
-            ]
-          },
-          {
-            "icon": "keyManagement",
-            "title": "鍵管理",
-            "description": "ハードウェアセキュリティモジュールとマルチシグネチャ取引により、重要な鍵が保護されます。",
-            "features": [
-              "ハードウェアセキュリティモジュール",
-              "マルチシグネチャ取引",
-              "鍵ローテーションポリシー"
-            ]
-          },
-          {
-            "icon": "monitoring",
-            "title": "監視",
-            "description": "24/7の脅威検出と定期的なセキュリティ監査により、継続的な保護が確保されます。",
-            "features": [
-              "24/7脅威検出",
-              "定期的なセキュリティ監査",
-              "インシデント対応チーム"
-            ]
-          }
-        ]
-      },
-      "compliance": {
-        "title": "コンプライアンス基準",
-        "items": [
-          {
-            "title": "KYC/AML",
-            "description": "マネーロンダリング規制に準拠するための包括的なユーザー検証手順。"
-          },
-          {
-            "title": "ライセンス",
-            "description": "主要な管轄区域でのマネートランスミッターコンプライアンスと規制ライセンス。"
-          },
-          {
-            "title": "監査",
-            "description": "独立した第三者企業による定期的な財務およびセキュリティ監査。"
-          },
-          {
-            "title": "保険",
-            "description": "コールドウォレット保険とデジタル資産の包括的なカバレッジ。"
-          },
-          {
-            "title": "リザーブ",
-            "description": "公開リザーブレポートと担保裏付けのリアルタイム検証。"
-          },
-          {
-            "title": "プライバシー",
-            "description": "GDPR準拠のデータ処理とユーザープライバシー保護ポリシー。"
-          }
-        ]
-      },
-      "bestPractices": {
-        "title": "ユーザーセキュリティのベストプラクティス",
-        "dos": {
-          "title": "推奨事項",
-          "items": [
-            "パスフレーズを安全にオフラインで保存",
-            "生体認証を有効にする",
-            "確認前に取引金額を確認",
-            "鋳造前にPi価格を確認",
-            "安全なネットワークで取引を行う"
+          "name": "Triple Gold",
+          "price": "20",
+          "priceNote": "One-time payment",
+          "mappiAllowance": "2000",
+          "duration": "50 WKS",
+          "onlineShopping": true,
+          "mapMarkerPriority": "1",
+          "popular": true,
+          "features": [
+            "Highest map marker priority",
+            "Maximum Mappi allowance",
+            "Longest membership duration",
+            "Full online shopping access"
           ]
         },
-        "donts": {
-          "title": "禁止事項",
-          "items": [
-            "パスフレーズを誰とも共有しない",
-            "機密データのスクリーンショットを撮らない",
-            "保護されていない公共ネットワークで使用しない",
-            "未確認のアドレスに送信しない",
-            "怪しいリンクやメールをクリックしない"
-          ]
-        }
-      }
-    },
-    "support": {
-      "title": "Provena Labsをサポート",
-      "subtitle": "Pi Network上で安定した価値の未来を構築するのを手伝ってください",
-      "whySupport": {
-        "title": "あなたのサポートが重要な理由",
-        "intro": "Provena Labsは、Pi Networkエコシステムの重要なインフラストラクチャを構築しています。あなたの寄付は直接的に以下をサポートします：",
-        "items": [
-          {
-            "title": "開発とイノベーション",
-            "description": "$USDPステーブルコインの継続的な開発、セキュリティ監査、エコシステムを強化する新機能への資金提供。"
-          },
-          {
-            "title": "セキュリティとコンプライアンス",
-            "description": "ユーザーを保護するために、最高水準のセキュリティ、規制コンプライアンス、リスク管理を確保。"
-          },
-          {
-            "title": "コミュニティの成長",
-            "description": "採用と認知を推進する教育、パートナーシップ、コミュニティイニシアチブのサポート。"
-          },
-          {
-            "title": "インフラストラクチャと運用",
-            "description": "24/7の可用性を確保するために、信頼性の高いシステム、監視、運用の卓越性を維持。"
-          }
-        ],
-        "conclusion": "規模に関わらず、すべての貢献が開発を加速し、Pi Network上の何百万人ものユーザーに安定した価値をもたらすのに役立ちます。あなたのサポートは、私たちの使命への信頼の投票です。"
-      },
-      "walletAddress": "GCAO7I2ZBIEFXNYD3KZFA3UXLMDVCYUG6CTCYG56746LZB5MIUFIIBJ5",
-      "donation": {
-        "title": "Piで寄付する",
-        "label": "Piを私たちのウォレットアドレスに送信",
-        "walletLabel": "Piウォレットアドレス",
-        "copy": "ウォレットアドレスをコピー",
-        "warning": {
-          "title": "重要：",
-          "text": "PiウォレットからPiを送信していることを確認してください。寄付が安全に届くように、ウォレットアドレスを再確認してください。"
-        },
-        "howTo": {
-          "title": "送信方法：",
-          "steps": [
-            "Piウォレットアプリケーションを開く",
-            "「送信」または「転送」を選択",
-            "上記のPiウォレットアドレスを貼り付け",
-            "寄付したいPiの金額を入力",
-            "取引を確認",
-            "寄付は数分以内に受信されます"
+        {
+          "name": "Double Gold",
+          "price": "10",
+          "priceNote": "One-time payment",
+          "mappiAllowance": "400",
+          "duration": "20 WKS",
+          "onlineShopping": true,
+          "mapMarkerPriority": "2",
+          "features": [
+            "High map marker priority",
+            "Generous Mappi allowance",
+            "Extended membership duration",
+            "Full online shopping access"
           ]
         },
-        "thankYou": {
-          "title": "ありがとうございます！",
-          "message": "あなたのサポートに深く感謝しています。すべての貢献が、Pi Networkエコシステムのより安定した繁栄した未来を構築するのに役立ちます。",
-          "contactLink": "ご質問がありますか？お問い合わせください"
-        }
-      }
-    },
-    "blog": {
-      "title": "Provena Labsブログ",
-      "subtitle": "Provena Labsチームからの最新ニュース、インサイト、更新情報を常に把握してください。",
-      "featured": "注目",
-      "readMore": "続きを読む",
-      "posts": [
         {
-          "title": "$USDPの紹介：安定した価値の未来",
-          "excerpt": "$USDPのローンチを発表できることを嬉しく思います。これはPi Network上に構築された完全に担保されたステーブルコインです。",
-          "date": "2025年1月15日",
-          "author": "Provena Labsチーム",
-          "category": "お知らせ"
+          "name": "Gold",
+          "price": "5",
+          "priceNote": "One-time payment",
+          "mappiAllowance": "100",
+          "duration": "10 WKS",
+          "onlineShopping": true,
+          "mapMarkerPriority": "3",
+          "features": [
+            "Good map marker priority",
+            "Standard Mappi allowance",
+            "Standard membership duration",
+            "Full online shopping access"
+          ]
         },
         {
-          "title": "ステーブルコインの担保化を理解する",
-          "excerpt": "150%の過剰担保と高度な安定性メカニズムを通じて、$USDPが1:1 USDペッグを維持する方法を学びます。",
-          "date": "2025年1月10日",
-          "author": "技術チーム",
-          "category": "教育"
+          "name": "Green",
+          "price": "2",
+          "priceNote": "One-time payment",
+          "mappiAllowance": "20",
+          "duration": "4 WKS",
+          "onlineShopping": true,
+          "mapMarkerPriority": "4",
+          "features": [
+            "Basic map marker priority",
+            "Limited Mappi allowance",
+            "Short membership duration",
+            "Full online shopping access"
+          ]
         },
         {
-          "title": "DeFi統合ガイド：プロトコルで$USDPを使用する",
-          "excerpt": "DeFiアプリケーションとプロトコルに$USDPを統合しようとしている開発者向けの包括的なガイド。",
-          "date": "2025年1月5日",
-          "author": "開発者関係",
-          "category": "開発者"
+          "name": "White",
+          "price": "1",
+          "priceNote": "One-time payment",
+          "mappiAllowance": "-",
+          "duration": "50 WKS",
+          "onlineShopping": false,
+          "mapMarkerPriority": "5",
+          "features": [
+            "Low map marker priority",
+            "No Mappi allowance",
+            "Long membership duration",
+            "No online shopping access"
+          ]
         },
         {
-          "title": "セキュリティ監査結果：$USDPが包括的なレビューを通過",
-          "excerpt": "最新のセキュリティ監査の結果を共有できることを誇りに思います。これは、プラットフォームの堅牢性を確認するものです。",
-          "date": "2024年12月28日",
-          "author": "セキュリティチーム",
-          "category": "セキュリティ"
-        },
-        {
-          "title": "2024年Q4ロードマップ更新：次に来るもの",
-          "excerpt": "Q4での成果と、2025年に計画しているエキサイティングな機能の概要。",
-          "date": "2024年12月20日",
-          "author": "製品チーム",
-          "category": "ロードマップ"
-        },
-        {
-          "title": "コミュニティスポットライト：ユーザーが$USDPをどのように使用しているか",
-          "excerpt": "コミュニティメンバーからのストーリーと、彼らが日常生活で$USDPをどのように活用しているかを紹介。",
-          "date": "2024年12月15日",
-          "author": "コミュニティチーム",
-          "category": "コミュニティ"
+          "name": "Casual",
+          "price": "-",
+          "priceNote": "Free tier",
+          "mappiAllowance": "-",
+          "duration": "-",
+          "onlineShopping": false,
+          "mapMarkerPriority": "6",
+          "features": [
+            "Lowest map marker priority",
+            "No Mappi allowance",
+            "No membership duration",
+            "No online shopping access"
+          ]
         }
       ]
     },
-    "careers": {
-      "title": "チームに参加",
-      "subtitle": "安定したデジタル通貨の未来を構築するのを手伝ってください。ブロックチェーンと金融に情熱を持つ才能ある人材を探しています。",
-      "whyJoin": [
-        {
-          "icon": "meaningful",
-          "title": "意味のある仕事",
-          "description": "世界中の何百万人もの人々に影響を与えるプロジェクトに取り組む。"
-        },
-        {
-          "icon": "remote",
-          "title": "リモートファースト",
-          "description": "柔軟なスケジュールで世界中のどこからでも働く。"
-        },
-        {
-          "icon": "pay",
-          "title": "競争力のある報酬",
-          "description": "業界をリードする給与と株式パッケージ。"
-        },
-        {
-          "icon": "growth",
-          "title": "成長",
-          "description": "継続的な学習と専門的な発展。"
-        }
-      ],
-      "openPositions": {
-        "title": "募集ポジション"
-      },
-      "jobs": [
-        {
-          "title": "シニアブロックチェーンエンジニア",
-          "department": "エンジニアリング",
-          "location": "リモート",
-          "type": "フルタイム",
-          "salary": "$150K - $200K"
-        },
-        {
-          "title": "プロダクトマネージャー",
-          "department": "製品",
-          "location": "リモート",
-          "type": "フルタイム",
-          "salary": "$130K - $170K"
-        },
-        {
-          "title": "セキュリティ監査員",
-          "department": "セキュリティ",
-          "location": "リモート",
-          "type": "フルタイム",
-          "salary": "$140K - $190K"
-        },
-        {
-          "title": "開発者関係エンジニア",
-          "department": "開発者関係",
-          "location": "リモート",
-          "type": "フルタイム",
-          "salary": "$120K - $160K"
-        },
-        {
-          "title": "マーケティングマネージャー",
-          "department": "マーケティング",
-          "location": "リモート",
-          "type": "フルタイム",
-          "salary": "$100K - $140K"
-        },
-        {
-          "title": "コミュニティマネージャー",
-          "department": "コミュニティ",
-          "location": "リモート",
-          "type": "フルタイム",
-          "salary": "$80K - $120K"
-        }
-      ],
-      "benefits": {
-        "title": "福利",
-        "health": {
-          "title": "健康とウェルネス",
-          "items": [
-            "包括的な健康保険",
-            "メンタルヘルスサポート",
-            "フィットネス手当",
-            "無制限の有給休暇"
-          ]
-        },
-        "professional": {
-          "title": "専門的な発展",
-          "items": [
-            "学習予算",
-            "会議への参加",
-            "メンターシッププログラム",
-            "キャリアコーチング"
-          ]
-        },
-        "compensation": {
-          "title": "報酬",
-          "items": [
-            "競争力のある給与",
-            "株式パッケージ",
-            "パフォーマンスボーナス",
-            "暗号通貨特典"
-          ]
-        },
-        "workLife": {
-          "title": "ワークライフバランス",
-          "items": [
-            "柔軟な時間",
-            "リモートワーク",
-            "育児休暇",
-            "チームイベント"
-          ]
-        }
-      },
-      "cta": {
-        "message": "適切なポジションが見つかりませんか？",
-        "button": "履歴書を送信"
-      }
-    },
-    "company": {
-      "title": "Provena Labsについて",
-      "subtitle": "Pi Network上で安定したデジタル通貨の未来を構築",
-      "missionVision": [
-        {
-          "type": "mission",
-          "title": "私たちの使命",
-          "description": "個人と企業が自信と容易さを持ってデジタル経済に参加できる、安定した、安全で、アクセス可能なステーブルコインを作成すること。"
-        },
-        {
-          "type": "vision",
-          "title": "私たちのビジョン",
-          "description": "安定したデジタル通貨がグローバルコマースの基盤となり、すべての人にシームレスな取引と金融包摂を可能にする世界。"
-        }
-      ],
-      "coreValues": {
-        "title": "コアバリュー",
-        "items": [
-          {
-            "icon": "excellence",
-            "title": "卓越性",
-            "description": "私たちは、行うすべてのことにおいて最高の基準を目指しています。"
-          },
-          {
-            "icon": "community",
-            "title": "コミュニティ",
-            "description": "私たちは、コミュニティと共に、コミュニティのために構築します。"
-          },
-          {
-            "icon": "innovation",
-            "title": "イノベーション",
-            "description": "私たちは新しいアイデアと技術を受け入れます。"
-          },
-          {
-            "icon": "transparency",
-            "title": "透明性",
-            "description": "私たちは完全な開放性と誠実さで運営しています。"
-          }
+    "roadmap": {
+      "pageTitle": "Product Roadmap",
+      "pageSubtitle": "Our vision for the future of Map of Pi and the Pi Network marketplace ecosystem.",
+      "v140": {
+        "version": "V1.4.0",
+        "description": "The initial release of Map of Pi, establishing the foundation for the Pi Network marketplace.",
+        "features": [
+          "Basic map interface for discovering merchants",
+          "Pi Network authentication integration",
+          "Initial merchant listing functionality",
+          "Core marketplace features"
         ]
       },
-      "stats": {
-        "title": "数字で見る",
-        "items": [
-          {
-            "value": "$00M+",
-            "label": "総ロック価値"
-          },
-          {
-            "value": "00K+",
-            "label": "アクティブユーザー"
-          },
-          {
-            "value": "0+",
-            "label": "統合"
-          },
-          {
-            "value": "24/7",
-            "label": "サポート利用可能"
-          }
+      "v155": {
+        "version": "V1.5.5",
+        "description": "Enhanced global map functionality and improved Pi Browser integration for seamless user experience.",
+        "features": [
+          "Global map with merchant locations",
+          "Enhanced Pi Browser integration",
+          "Improved search and discovery",
+          "Better merchant onboarding"
         ]
       },
-      "team": {
-        "title": "リーダーシップチーム",
-        "description": "私たちのチームは、ブロックチェーン、金融、技術の専門知識を結集して、安定したデジタル通貨の未来を構築しています。"
-      }
-    },
-    "comingSoon": {
-      "title": "近日公開",
-      "subtitle": "素晴らしいものをお届けするために一生懸命取り組んでいます。お楽しみに！",
-      "whatsNext": {
-        "title": "次は何ですか？",
-        "description": "私たちはPi Network上で安定した価値の未来を構築しています。進捗状況を把握するために、コミュニティに参加してください。",
-        "telegramButton": "Telegramに参加",
-        "homeButton": "ホームに戻る"
+      "v160": {
+        "version": "V1.6.0",
+        "description": "Introduction of QR codes, menu items, and significant improvements to the seller flow.",
+        "features": [
+          "QR code generation for merchants",
+          "Menu items and product listings",
+          "Enhanced seller flow and dashboard",
+          "Improved user experience"
+        ]
       },
-      "footer": "更新とお知らせについては、ソーシャルチャネルでフォローしてください。"
+      "v20": {
+        "version": "V2.0 Coming Soon",
+        "description": "The next major release with enhanced search, user reviews, advanced filtering, and EscrowPi integration.",
+        "features": [
+          "Enhanced search functionality",
+          "User reviews and ratings system",
+          "Advanced filtering options",
+          "EscrowPi integration",
+          "AI assistant (M.A.C.) improvements",
+          "Global expansion features"
+        ]
+      }
     },
     "legal": {
-      "privacy": {
-        "title": "プライバシーポリシー",
-        "lastUpdated": "最終更新：2025年1月",
-        "sections": [
-          {
-            "title": "1. はじめに",
-            "content": "Provena Labs（「当社」「私たち」「私たちの」または「会社」）は、お客様のプライバシーを保護することに取り組んでいます。このプライバシーポリシーは、お客様が当社のウェブサイトにアクセスし、当社のサービスを使用する際に、お客様の情報をどのように収集、使用、開示、保護するかを説明します。"
-          },
-          {
-            "title": "2. 収集する情報",
-            "content": "当社は、さまざまな方法でお客様に関する情報を収集する場合があります：",
-            "items": [
-              "お客様が直接提供する情報（名前、メールアドレス、ウォレットアドレス）",
-              "自動的に収集される情報（IPアドレス、ブラウザタイプ、訪問したページ）",
-              "第三者ソースからの情報（分析プロバイダー、決済プロセッサー）"
-            ]
-          },
-          {
-            "title": "3. 情報の使用方法",
-            "content": "当社は収集した情報を以下に使用します：",
-            "items": [
-              "サービスの提供、維持、改善",
-              "取引の処理と関連情報の送信",
-              "プロモーション通信の送信（お客様の同意がある場合）",
-              "法的義務の遵守",
-              "詐欺の防止とセキュリティの強化"
-            ]
-          },
-          {
-            "title": "4. データセキュリティ",
-            "content": "当社は、お客様の個人情報を不正アクセス、変更、開示、破壊から保護するために、適切な技術的および組織的措置を実施しています。ただし、インターネット経由の送信方法は100%安全ではありません。"
-          },
-          {
-            "title": "5. お客様の権利",
-            "content": "お客様の所在地に応じて、以下の権利がある場合があります：",
-            "items": [
-              "個人情報へのアクセス",
-              "不正確なデータの訂正",
-              "データの削除を要求",
-              "マーケティング通信のオプトアウト"
-            ]
-          },
-          {
-            "title": "6. お問い合わせ",
-            "content": "このプライバシーポリシーに関するご質問がある場合は、privacy@provenalabs.comまでお問い合わせください"
-          }
-        ]
-      },
       "terms": {
-        "title": "利用規約",
-        "lastUpdated": "最終更新：2025年1月",
+        "title": "Map of Pi Terms of Service",
+        "lastUpdated": "Last Updated: 6/3/2024",
+        "emailAddress": "Email Address: philip@mapofpi.com",
         "sections": [
           {
-            "title": "1. 規約への同意",
-            "content": "このウェブサイトおよびサービスにアクセスし、使用することにより、お客様はこの規約の条項と規定に拘束されることに同意します。上記を遵守することに同意しない場合は、このサービスを使用しないでください。"
+            "title": "1. Acceptance of Terms",
+            "content": "Welcome to the Map of Pi app, developed by the Map of Pi team in collaboration with the Pi Community. By using this app, you agree to abide by these Terms of Service, as well as our Privacy Policy."
           },
           {
-            "title": "2. 使用ライセンス",
-            "content": "Provena Labsのウェブサイト上の資料（情報またはソフトウェア）の1部を、個人的で非商業的な一時的な閲覧のみを目的として一時的にダウンロードする許可が付与されます。これはライセンスの付与であり、所有権の譲渡ではなく、このライセンスの下でお客様は以下を行ってはなりません：",
+            "title": "2. Use of the App",
             "items": [
-              "資料の変更または複製",
-              "商業目的または公的表示のために資料を使用",
-              "ウェブサイトに含まれるソフトウェアの逆コンパイルまたはリバースエンジニアリングを試みる",
-              "資料から著作権またはその他の所有権表記を削除",
-              "資料を他の人に転送するか、他のサーバーで資料を「ミラーリング」する"
+              "You agree to use the Map of Pi app in compliance with all applicable laws and regulations.",
+              "You shall not use the app for any unlawful or prohibited purpose, or in any way that could damage, disable, overburden, or impair the app.",
+              "To use Map of Pi you must be registered as a pioneer user of the Pi Network."
             ]
           },
           {
-            "title": "3. 免責事項",
-            "content": "Provena Labsのウェブサイト上の資料は「現状のまま」提供されます。Provena Labsは、明示的または黙示的な保証を行わず、ここに商品性、特定目的への適合性、または知的財産権の非侵害またはその他の権利侵害の黙示的保証または条件を含むがこれに限定されない、すべてのその他の保証を否認し、否定します。"
+            "title": "3. Intellectual Property",
+            "content": "The Map of Pi app and all content, features, and functionality are owned by Map of Pi and are protected by copyright, trademark, and other intellectual property laws."
           },
           {
-            "title": "4. 制限",
-            "content": "いかなる場合でも、Provena Labsまたはその供給者は、Provena Labsのウェブサイト上の資料の使用または使用不能に起因する損害（データまたは利益の損失、または事業中断による損害を含むがこれに限定されない）について責任を負いません。"
+            "title": "4. Limitation of Liability",
+            "content": "Map of Pi shall not be liable for any direct, indirect, incidental, special, or consequential damages arising out of or in any way connected with the use of the Map of Pi app."
           },
           {
-            "title": "5. 資料の正確性",
-            "content": "Provena Labsのウェブサイトに表示される資料には、技術的、タイポグラフィ的、または写真的な誤りが含まれる場合があります。Provena Labsは、そのウェブサイト上の資料が正確、完全、または最新であることを保証しません。"
+            "title": "5. Indemnification",
+            "content": "You agree to indemnify and hold harmless Map of Pi and its affiliates, officers, directors, employees, and agents from any and all claims, liabilities, damages, losses, or expenses (including attorneys' fees) arising out of or in any way related to your use of the Map of Pi app."
           },
           {
-            "title": "6. リンク",
-            "content": "Provena Labsは、そのウェブサイトにリンクされているすべてのサイトをレビューしておらず、そのようなリンクされたサイトの内容について責任を負いません。リンクの包含は、Provena Labsによるサイトの推奨を意味するものではありません。そのようなリンクされたウェブサイトの使用は、ユーザー自身のリスクで行われます。"
+            "title": "6. Governing Law",
+            "content": "These Terms of Service shall be governed by and construed in accordance with the law of England and Wales without regard to their conflict of law provisions, including any dispute or claim arising out of or in connection with their subject matter or formation (including non-contractual disputes or claims)."
           },
           {
-            "title": "7. 変更",
-            "content": "Provena Labsは、予告なくいつでもそのウェブサイトの利用規約を改訂する場合があります。このウェブサイトを使用することにより、お客様は、これらの利用規約の当時の現在のバージョンに拘束されることに同意します。"
+            "title": "7. Changes to These Terms",
+            "content": "We reserve the right to update or modify these Terms of Service at any time without prior notice. The latest version will be posted on our website or within the app."
           },
           {
-            "title": "8. 準拠法",
-            "content": "これらの条項および条件は、Provena Labsが運営する管轄区域の法律に従って管理され、解釈され、お客様はその場所の裁判所の専属管轄権に不可撤回的に服従します。"
+            "title": "8. Contact Us",
+            "content": "If you have any questions or concerns about this Terms of Service, please contact us by sending an email to philip@mapofpi.com."
           }
         ]
       },
-      "compliance": {
-        "title": "コンプライアンスと規制",
-        "subtitle": "規制コンプライアンスと透明性への私たちの取り組み",
+      "privacy": {
+        "title": "Map of Pi Privacy Policy",
+        "lastUpdated": "Last Updated: 6/3/2024",
+        "emailAddress": "Email Address: philip@mapofpi.com",
         "sections": [
           {
-            "title": "規制コンプライアンス",
-            "description": "Provena Labsは、最高水準の規制コンプライアンスを維持することに取り組んでいます。当社は規制機関と緊密に連携し、当社の運営がすべての適用される法律および規制を満たすことを確保しています。",
+            "title": "1. Introduction",
+            "content": "Welcome to the Map of Pi app, developed by the Map of Pi team in collaboration with the Pi Community. This Privacy Policy outlines how we collect, use, disclose, and protect your personal information when you use our mobile application."
+          },
+          {
+            "title": "2. Information We Collect"
+          },
+          {
+            "title": "2.1 User Information",
             "items": [
-              {
-                "title": "AML/KYCコンプライアンス",
-                "description": "金融犯罪を防ぐために、包括的なマネーロンダリング対策と顧客確認手順を実施しています。"
-              },
-              {
-                "title": "データ保護",
-                "description": "ユーザーのプライバシーを保護するために、GDPR、CCPA、およびその他のデータ保護規制に準拠しています。"
-              },
-              {
-                "title": "金融規制",
-                "description": "すべての適用される金融規制を遵守し、必要に応じて適切なライセンスを維持しています。"
-              },
-              {
-                "title": "監査と透明性",
-                "description": "定期的な第三者監査を受け、運営において完全な透明性を維持しています。"
-              }
+              "When you register as a user, we may collect your name, email address, username, and other relevant details.",
+              "We may collect information about your device, including device type, operating system, and unique device identifiers."
             ]
           },
           {
-            "title": "セキュリティ監査",
-            "description": "当社のプラットフォームは、ユーザーの資金とデータの安全性を確保するために、主要な独立セキュリティ企業による定期的なセキュリティ監査を受けています。",
-            "content": {
-              "title": "最新の監査結果",
-              "items": [
-                "セキュリティ監査：2024年Q4 - 重要な問題なく合格",
-                "スマートコントラクト監査：2024年Q4 - 重要な問題なく合格",
-                "コンプライアンスレビュー：2024年Q4 - 完全に準拠"
-              ]
-            }
+            "title": "2.2 Seller Information",
+            "content": "Sellers registering on the platform may be required to provide Seller information, including Seller name, location, and contact details."
           },
           {
-            "title": "規制ライセンス",
-            "description": "Provena Labsは、当社の管轄区域で運営するために必要なすべての必要なライセンスと登録を維持しています。",
-            "grid": [
-              {
-                "title": "マネーサービスライセンス",
-                "description": "FinCENおよび州規制当局に登録"
-              },
-              {
-                "title": "データ保護",
-                "description": "GDPRおよびCCPA準拠"
-              }
+            "title": "3. How We Use Your Information"
+          },
+          {
+            "title": "3.1 Providing Services",
+            "items": [
+              "We use your information to provide and enhance the Map of Pi app services, including user and Seller functionalities."
             ]
           },
           {
-            "title": "報告と透明性",
-            "description": "当社は透明性を信じており、コンプライアンスの取り組みと運用指標に関するレポートを定期的に公開しています。",
-            "links": [
-              {
-                "text": "2024年Q4コンプライアンスレポート",
-                "url": "#"
-              },
-              {
-                "text": "セキュリティ監査レポート",
-                "url": "#"
-              },
-              {
-                "text": "透明性レポート",
-                "url": "#"
-              }
+            "title": "3.2 Communications",
+            "content": "We may use your contact information to send you updates, notifications, and promotional messages related to the Map of Pi app."
+          },
+          {
+            "title": "3.3 Analytics",
+            "content": "We collect and analyze data to improve the performance, features, and functionality of the app."
+          },
+          {
+            "title": "4. Sharing Your Information"
+          },
+          {
+            "title": "4.1 With Sellers",
+            "items": [
+              "User information may be shared with Sellers for order fulfillment and communication purposes."
             ]
+          },
+          {
+            "title": "4.2 With Third Parties",
+            "content": "We may share information with third-party service providers for app functionality, analytics, and payment processing."
+          },
+          {
+            "title": "5. Security Measures",
+            "content": "We employ industry-standard security measures to protect your information. However, no method of transmission over the internet or electronic storage is completely secure."
+          },
+          {
+            "title": "6. Your Choices",
+            "content": "You can update your account information through the app settings. You may delete your Map of Pi account by deleting your Pi Network account and then choosing the option to delete your Map of Pi data when you next access Map of Pi. You may opt-out of promotional communications."
+          },
+          {
+            "title": "7. Changes to This Privacy Policy",
+            "content": "We may update this Privacy Policy as necessary. The latest version will be posted on our website or within the app."
+          },
+          {
+            "title": "8. Contact Us",
+            "content": "If you have any questions or concerns about this Privacy Policy, please contact us by sending an email to philip@mapofpi.com."
           }
         ]
       },
       "disclosures": {
-        "title": "リスク開示",
-        "subtitle": "$USDPに関連するリスクに関する重要な情報",
+        "title": "Disclosures",
+        "subtitle": "Transparency and Regulatory Information",
         "warning": {
-          "title": "重要な免責事項",
-          "text": "暗号通貨およびステーブルコインへの投資には重大なリスクが伴います。$USDPまたは当社のサービスを使用する前に、すべての開示事項を注意深くお読みください。"
+          "title": "Important Notice",
+          "text": "Map of Pi is a platform connecting users and merchants. We do not facilitate payments directly."
         },
         "sections": [
           {
-            "title": "市場リスク",
-            "items": [
-              {
-                "title": "ボラティリティリスク",
-                "description": "$USDPは1:1 USDペッグを維持するように設計されていますが、市場状況により一時的な偏差が生じる可能性があります。$USDPの価値は変動する可能性があります。"
-              },
-              {
-                "title": "流動性リスク",
-                "description": "任意の時点で$USDPを購入または売却するのに十分な流動性が保証されているわけではありません。市場状況は取引能力に影響を与える可能性があります。"
-              },
-              {
-                "title": "カウンターパーティリスク",
-                "description": "$USDPは、当社の担保プロバイダーおよびパートナーの財務的安定性に依存しています。これらのエンティティの失敗は、$USDPの価値に影響を与える可能性があります。"
-              }
-            ]
-          },
+            "title": "Platform Nature",
+            "content": "Map of Pi serves as a directory and discovery platform. Transactions are peer-to-peer between users and merchants."
+          }
+        ]
+      },
+      "compliance": {
+        "title": "Compliance",
+        "subtitle": "Adhering to Pi Network ecosystem standards.",
+        "sections": [
           {
-            "title": "技術リスク",
-            "items": [
-              {
-                "title": "スマートコントラクトリスク",
-                "description": "当社のスマートコントラクトは監査されていますが、未発見の脆弱性やエクスプロイトのリスクが常に存在します。"
-              },
-              {
-                "title": "ブロックチェーンリスク",
-                "description": "Pi Networkブロックチェーンは、技術的な問題、ネットワークの混雑、または$USDP取引に影響を与える可能性のあるその他の問題を経験する可能性があります。"
-              },
-              {
-                "title": "ウォレットリスク",
-                "description": "秘密鍵またはウォレットアクセスの損失は、$USDPの永久的な損失につながる可能性があります。失われた資金を回復することはできません。"
-              }
-            ]
-          },
-          {
-            "title": "規制リスク",
-            "items": [
-              {
-                "title": "規制の変更",
-                "description": "暗号通貨規制の変更は、特定の管轄区域での$USDPの可用性または使用に影響を与える可能性があります。"
-              },
-              {
-                "title": "法的な不確実性",
-                "description": "ステーブルコインおよび暗号通貨の法的地位は、多くの管轄区域で不確実なままであり、変更される可能性があります。"
-              }
-            ]
-          },
-          {
-            "title": "投資アドバイスなし",
-            "content": "このウェブサイトおよび当社のサービスは、投資アドバイス、財務アドバイス、または$USDPの購入または売却の推奨を構成するものではありません。投資決定を行う前に、資格のある財務アドバイザーに相談することを強くお勧めします。"
-          },
-          {
-            "title": "責任の制限",
-            "content": "法律で許可される最大限の範囲で、Provena Labsは、$USDPまたは当社のサービスの使用に起因する、利益、データ、または使用の損失を含む、間接的、偶発的、特別、結果的、または懲罰的損害について責任を負いません。"
+            "title": "Pi Network Guidelines",
+            "content": "We follow all applicable Pi Network guidelines and policies."
           }
         ]
       }
-    },
-    "pitch": {
-        "cover": {
-          "tagline": "安定。安全。シンプル。",
-          "subtitle": "Pi Network上の安定価値の未来",
-          "description": "次世代のデジタル金融のために設計されたUSDペッグステーブルコイン。"
-        },
-        "problem": {
-          "title": "ステーブルコインが重要な理由",
-          "challenges": {
-            "title": "現在の市場の課題",
-            "items": [
-              "既存のステーブルコインは高額手数料ネットワーク（イーサリアム、トロン）で運営",
-              "取引コストが1取引あたり$1-50+に達する",
-              "5500万人以上のPi Networkユーザーへのアクセスが限定的",
-              "既存のソリューションにエンタープライズグレードのセキュリティが不足",
-              "透明で監査済みの担保バッキングの必要性"
-            ]
-          },
-          "opportunity": {
-            "title": "機会",
-            "description": "世界中の数十億人のユーザーが、低コストで高セキュリティの安定したデジタル通貨へのアクセスを欠いています。"
-          }
-        },
-        "introducing": {
-          "title": "$USDPとは？",
-          "description": "$USDPは、Pi Networkブロックチェーン上にネイティブに構築された完全担保USDペッグステーブルコインです。",
-          "valueProps": [
-            {
-              "title": "1:1 USDペッグ",
-              "description": "常に正確に1ドルの価値"
-            },
-            {
-              "title": "150%過剰担保",
-              "description": "最大の安定性のために115%以上の担保で裏付け"
-            },
-            {
-              "title": "エンタープライズセキュリティ",
-              "description": "マルチシグネチャウォレット、パスキー認証、厳格な監査"
-            },
-            {
-              "title": "Pi Networkネイティブ",
-              "description": "最速で最低コストのブロックチェーンインフラストラクチャを活用"
-            },
-            {
-              "title": "透明で監査済み",
-              "description": "定期的なコンプライアンスレポートによる完全なオンチェーン透明性"
-            }
-          ]
-        },
-        "competitiveAdvantages": {
-          "title": "$USDPが際立つ理由",
-          "subtitle": "競争上の優位性",
-          "table": {
-            "feature": "機能",
-            "usdp": "$USDP",
-            "competitors": "競合他社",
-            "rows": [
-              {
-                "feature": "ネットワーク",
-                "usdp": "Piネットワーク",
-                "competitors": "イーサリアム、トロン"
-              },
-              {
-                "feature": "取引手数料",
-                "usdp": "<$0.01",
-                "competitors": "$1-50+"
-              },
-              {
-                "feature": "担保比率",
-                "usdp": "150%",
-                "competitors": "100-110%"
-              },
-              {
-                "feature": "認証",
-                "usdp": "パスキー",
-                "competitors": "パスワード/2FA"
-              },
-              {
-                "feature": "鋳造/償還手数料",
-                "usdp": "0.3%",
-                "competitors": "0.5-1%"
-              },
-              {
-                "feature": "速度",
-                "usdp": "秒",
-                "competitors": "分"
-              },
-              {
-                "feature": "セキュリティ監査",
-                "usdp": "定期的",
-                "competitors": "様々"
-              }
-            ]
-          },
-          "conclusion": "$USDPはコスト、セキュリティ、アクセシビリティで勝っています。"
-        },
-        "keyFeatures": {
-          "title": "主要機能",
-          "sections": [
-            {
-              "title": "セキュリティ第一",
-              "subtitle": "エンタープライズグレードの保護",
-              "items": [
-                "マルチシグネチャウォレットアーキテクチャが不正アクセスを防止",
-                "最大のセキュリティのためのパスキー認証",
-                "オンチェーンでのリアルタイムリザーブ追跡",
-                "ユーザーデータのクライアント側暗号化",
-                "生体認証サポート",
-                "定期的な第三者セキュリティ監査"
-              ]
-            },
-            {
-              "title": "超高速取引",
-              "subtitle": "速度と効率",
-              "items": [
-                "Pi Network上で数秒で取引が決済",
-                "ほぼゼロの取引手数料（<$0.01）",
-                "商人向けの即時決済",
-                "仲介者や遅延なし"
-              ]
-            },
-            {
-              "title": "グローバルで国境を越えた",
-              "subtitle": "世界中でアクセス可能",
-              "items": [
-                "世界中のどこでも$USDPを送受信",
-                "地理的制限なし",
-                "銀行仲介者なし",
-                "24/7/365利用可能"
-              ]
-            },
-            {
-              "title": "完全に透明",
-              "subtitle": "オンチェーン検証",
-              "items": [
-                "100%オンチェーン透明性",
-                "監査可能な担保リザーブ",
-                "定期的に公開されるコンプライアンスレポート",
-                "独立した企業によるスマートコントラクトコードの監査"
-              ]
-            }
-          ]
-        },
-        "technicalSpecs": {
-          "title": "技術仕様",
-          "subtitle": "インフラストラクチャの詳細",
-          "items": [
-            {
-              "label": "ブロックチェーン",
-              "value": "Piネットワーク"
-            },
-            {
-              "label": "トークンスタンダード",
-              "value": "Piネットワークネイティブトークン"
-            },
-            {
-              "label": "小数点",
-              "value": "18"
-            },
-            {
-              "label": "担保化比率",
-              "value": "150%"
-            },
-            {
-              "label": "鋳造手数料",
-              "value": "0.3%"
-            },
-            {
-              "label": "償還手数料",
-              "value": "0.3%"
-            },
-            {
-              "label": "転送手数料",
-              "value": "0%（完全無料）"
-            },
-            {
-              "label": "監査ステータス",
-              "value": "定期的に監査"
-            }
-          ]
-        },
-        "marketOpportunity": {
-          "title": "市場機会",
-          "subtitle": "巨大な総アドレス可能市場（TAM）",
-          "sections": [
-            {
-              "title": "Pi Networkエコシステム",
-              "items": [
-                "ブロックチェーンソリューションを採用する準備ができている5500万人以上の積極的なユーザー",
-                "暗号通貨製品への実証済みの関心を持つ活発なコミュニティ",
-                "Pi Networkステーブルコインスペースでの先駆者優位性"
-              ]
-            },
-            {
-              "title": "グローバルステーブルコイン市場",
-              "items": [
-                "$1800億以上のステーブルコイン市場規模（成長中）",
-                "30%を超える年間成長率",
-                "機関投資家の採用が増加",
-                "主要市場での規制の明確化"
-              ]
-            },
-            {
-              "title": "ユースケースカテゴリ",
-              "items": [
-                "Eコマースと決済：低コストの決済オプションを求める商人",
-                "DeFi取引：担保と流動性提供を必要とするトレーダー",
-                "国境を越えた送金：手頃な価格で家に送金する労働者",
-                "価値の保存：ボラティリティなしで暗号通貨へのエクスポージャーを求めるユーザー"
-              ]
-            }
-          ]
-        },
-        "useCases": {
-          "title": "ユースケース",
-          "subtitle": "$USDPが実際の問題を解決する場所",
-          "categories": [
-            {
-              "title": "Eコマースと決済",
-              "items": [
-                "即時決済とゼロ商人詐欺で決済を受け入れる",
-                "最小限の手数料により小売業者に優れたマージンを実現",
-                "従来の決済プロセッサーなしのグローバル決済ネットワーク"
-              ]
-            },
-            {
-              "title": "国境を越えた決済と送金",
-              "items": [
-                "従来のコストの一部で国際的に送金",
-                "仲介者（銀行、送金サービス）を排除",
-                "即時決済 vs. 3-5日の銀行遅延",
-                "海外の家族を支援する移民労働者に最適"
-              ]
-            },
-            {
-              "title": "DeFiと取引",
-              "items": [
-                "レンディングプロトコルで$USDPを担保として使用",
-                "分散型取引所に流動性を提供して利回りを獲得",
-                "安定価値ペアでボラティル資産を取引",
-                "イールドファーミング戦略に参加"
-              ]
-            },
-            {
-              "title": "価値の保存",
-              "items": [
-                "暗号通貨のボラティリティにさらされることなく安定した購買力を保持",
-                "現地通貨の下落に対するヘッジ",
-                "デジタル形式で流動性を維持",
-                "国境を越えて富を保存"
-              ]
-            }
-          ]
-        },
-        "businessModel": {
-          "title": "ビジネスモデルと収益源",
-          "subtitle": "持続可能な経済",
-          "sections": [
-            {
-              "title": "収益の創出",
-              "items": [
-                "鋳造手数料：作成されたすべての新しい$USDPの0.3%",
-                "償還手数料：USD担保に償還されたすべての$USDPの0.3%",
-                "パートナーシップ手数料：商人、取引所、プロトコルとの統合パートナーシップ",
-                "エンタープライズサービス：機関のカストディと管理ソリューション"
-              ]
-            },
-            {
-              "title": "コスト構造",
-              "items": [
-                "最小限のインフラストラクチャコスト（Pi Networkが運用オーバーヘッドを削減）",
-                "セキュリティとコンプライアンスコストは規模によって相殺",
-                "エコシステムパートナーシップを通じた顧客獲得"
-              ]
-            }
-          ],
-          "profitability": "手数料からの収益は取引量に比例して線形にスケールし、インフラストラクチャコストは固定のままであるため、規模での大幅なマージン拡大を実現します。"
-        },
-        "tokenEconomics": {
-          "title": "トークンエコノミクスと供給モデル",
-          "subtitle": "安定性のために設計",
-          "supplyMechanism": {
-            "title": "供給メカニズム",
-            "items": [
-              "Pi担保で裏付け - すべての$USDPに担保リザーブがある",
-              "動的供給は1:1ペッグを維持しながら需要に基づいて調整",
-              "150%過剰担保はすべての市場条件で安定性を確保",
-              "オンチェーンでの透明なリザーブ検証"
-            ]
-          },
-          "functions": {
-            "title": "$USDPの3つの機能",
-            "items": [
-              "交換媒体 - 高速で低コストのグローバル取引に使用",
-              "価値の保存 - ボラティリティエクスポージャーなしで安定資産として保持",
-              "DeFi担保 - 分散型金融プロトコルとイールド戦略で使用"
-            ]
-          },
-          "pegMaintenance": {
-            "title": "ペッグ維持",
-            "items": [
-              "ユーザーは常に$1.00で鋳造し、$1.00で償還できる",
-              "アービトラージインセンティブが市場価格をペッグに維持",
-              "担保の超過が償還能力を確保"
-            ]
-          }
-        },
-        "goToMarket": {
-          "title": "市場参入戦略",
-          "phases": [
-            {
-              "title": "フェーズ1：ローンチと基盤",
-              "period": "2025年第4四半期 - 2026年第1四半期",
-              "items": [
-                "コア機能を備えたPi Networkテストネットでのベータローンチ",
-                "セキュリティ監査の完了と公開",
-                "Piエコシステムプロジェクトとの戦略的パートナーシップ",
-                "コミュニティ教育とオンボーディング",
-                "消費者アクセシビリティのためのモバイルアプリローンチ"
-              ]
-            },
-            {
-              "title": "フェーズ2：成長と統合",
-              "period": "2026年第2四半期",
-              "items": [
-                "メインネットローンチと公開利用可能性",
-                "現実世界での採用のための商人パートナーシップ",
-                "DeFiプロトコル統合（レンディング、取引、流動性）",
-                "クロスチェーンブリッジ開発",
-                "分散型ガバナンスのためのガバナンストークンの導入"
-              ]
-            },
-            {
-              "title": "フェーズ3：スケールと拡張",
-              "period": "2026年第3四半期+",
-              "items": [
-                "機関サービスローンチ（カストディ、決済）",
-                "新しい地理的市場へのグローバル拡張",
-                "高度な機能（イールド製品、デリバティブ）",
-                "追加の収益源",
-                "市場リーダーシップのポジショニング"
-              ]
-            }
-          ]
-        },
-        "teamPartnerships": {
-          "title": "チームとパートナーシップ",
-          "subtitle": "Provena Labsが支援",
-          "partners": {
-            "title": "私たちのエコシステムパートナー",
-            "items": [
-              {
-                "name": "ZyraChain",
-                "description": "インフラストラクチャとブロックチェーンソリューション"
-              },
-              {
-                "name": "Zyra",
-                "description": "コアプラットフォームサービス"
-              },
-              {
-                "name": "ZyraPay",
-                "description": "決済処理統合"
-              },
-              {
-                "name": "ZyraWallet",
-                "description": "ウォレットとカストディソリューション"
-              },
-              {
-                "name": "ZyraDEX",
-                "description": "分散型取引所"
-              },
-              {
-                "name": "Orbit",
-                "description": "クロスチェーンソリューション"
-              },
-              {
-                "name": "Dappify",
-                "description": "開発者プラットフォーム"
-              }
-            ]
-          },
-          "whyMatters": {
-            "title": "これが重要な理由",
-            "description": "Provena Labsはブロックチェーンインフラストラクチャを中心に完全なエコシステムを構築しました。$USDPは、この製品とサービスのネットワーク全体でネイティブステーブルコインとして位置づけられています。"
-          }
-        },
-        "riskMitigation": {
-          "title": "リスク軽減",
-          "subtitle": "リスク管理方法",
-          "risks": [
-            {
-              "title": "担保リスク",
-              "items": [
-                "150%過剰担保が最小要件を大幅に超える",
-                "担保リザーブの定期監査",
-                "透明なオンチェーン検証",
-                "保守的な担保選択"
-              ]
-            },
-            {
-              "title": "規制リスク",
-              "items": [
-                "開始時からのコンプライアンス優先アプローチ",
-                "定期的なコンプライアンス監査と報告",
-                "規制の明確性に基づく地理的拡張",
-                "規制当局との積極的な関与"
-              ]
-            },
-            {
-              "title": "技術リスク",
-              "items": [
-                "信頼できる企業による定期的なセキュリティ監査",
-                "マルチシグネチャセキュリティアーキテクチャ",
-                "段階的なロールアウト（テストネット → メインネット）",
-                "コミュニティセキュリティ研究のためのバグ報奨プログラム"
-              ]
-            },
-            {
-              "title": "市場リスク",
-              "items": [
-                "1:1ペッグアービトラージメカニズム",
-                "強力なパートナーシップエコシステムが採用を創出",
-                "Pi Networkでの先駆者優位性",
-                "競合他社との差別化されたポジショニング"
-              ]
-            }
-          ]
-        },
-        "financialProjections": {
-          "title": "財務予測",
-          "subtitle": "5年間のビジョン",
-          "years": [
-            {
-              "period": "1年目（2025-2026）",
-              "items": [
-                "流通中の1000-5000万$USDP",
-                "5,000-20,000人の日次アクティブユーザー",
-                "数十の商人パートナーシップ",
-                "製品市場適合性に焦点"
-              ]
-            },
-            {
-              "period": "2年目（2026-2027）",
-              "items": [
-                "流通中の1-5億$USDP",
-                "50,000-200,000人の日次アクティブユーザー",
-                "主要なエンタープライズパートナーシップ",
-                "収益性のマイルストーン"
-              ]
-            },
-            {
-              "period": "3年目+（2027+）",
-              "items": [
-                "流通中の$10億以上の$USDP",
-                "数百万の日次アクティブユーザー",
-                "機関投資家の採用",
-                "Pi Networkでの市場リーダーシップ"
-              ]
-            }
-          ]
-        },
-        "theAsk": {
-          "title": "要請",
-          "amount": "シリーズA資金調達で500万ドルを募集",
-          "equity": "10%の株式と引き換え",
-          "valuation": "これは、Provena Labs / $USDPを投後評価額5000万ドルと評価し、当社の市場地位、エコシステムの強さ、成長軌道を反映しています。",
-          "useOfFunds": {
-            "title": "資金の使用配分",
-            "items": [
-              {
-                "category": "製品開発とセキュリティ",
-                "percentage": "35%",
-                "amount": "$175万",
-                "details": [
-                  "強化されたセキュリティインフラストラクチャと監査",
-                  "メインネットローンチと最適化",
-                  "高度な機能（イールド製品、クロスチェーンブリッジ）"
-                ]
-              },
-              {
-                "category": "市場参入とユーザー獲得",
-                "percentage": "30%",
-                "amount": "$150万",
-                "details": [
-                  "マーケティングとコミュニティ構築",
-                  "商人とパートナーシップの開発",
-                  "モバイルアプリとユーザーインターフェースの最適化"
-                ]
-              },
-              {
-                "category": "規制とコンプライアンス",
-                "percentage": "20%",
-                "amount": "$100万",
-                "details": [
-                  "法的およびコンプライアンスインフラストラクチャ",
-                  "担保管理のための銀行関係",
-                  "グローバル規制承認"
-                ]
-              },
-              {
-                "category": "チームと運用",
-                "percentage": "15%",
-                "amount": "$75万",
-                "details": [
-                  "重要な採用（パートナーシップ責任者、エンジニアリングVP、コンプライアンス責任者）",
-                  "運用インフラストラクチャのスケーリング"
-                ]
-              }
-            ]
-          },
-          "terms": {
-            "title": "投資条件の概要",
-            "sections": [
-              {
-                "title": "株式構造",
-                "items": [
-                  "10%完全希釈株式所有権",
-                  "標準的な保護を備えた優先シリーズA株式",
-                  "反希釈条項（加重平均）"
-                ]
-              },
-              {
-                "title": "ガバナンスと取締役会議席",
-                "items": [
-                  "取締役会議へのオブザーバー権利",
-                  "情報と検査権利",
-                  "主要な決定への参加（資金調達、M&A、ピボット）"
-                ]
-              },
-              {
-                "title": "財務権利",
-                "items": [
-                  "将来の資金調達ラウンドへの比例参加権利",
-                  "株式に紐づく収益率（収益性後の利益の10%）",
-                  "清算優先権（1x非参加優先）"
-                ]
-              }
-            ]
-          },
-          "milestones": {
-            "title": "マイルストーンとパフォーマンス",
-            "items": [
-              "6か月以内にメインネットローンチ",
-              "18か月以内に流通中の$1億以上の$USDP",
-              "24か月以内に50万人以上の日次アクティブユーザー",
-              "36か月以内に収益性への道"
-            ]
-          }
-        },
-        "closing": {
-          "title": "安定価値の未来がここに",
-          "intro": "$USDPはステーブルコイン設計のパラダイムシフトを表しています：",
-          "points": [
-            {
-              "title": "より低いコスト",
-              "description": "競合ネットワーク上のドルに対してサブペニー取引手数料。"
-            },
-            {
-              "title": "より高いセキュリティ",
-              "description": "エンタープライズグレードの保護を備えた150%担保化 vs. 100-110%の競合他社。"
-            },
-            {
-              "title": "大規模なアクセシビリティ",
-              "description": "5500万人以上のユーザーにサービスを提供するPi Networkネイティブ vs. ニッチ市場。"
-            },
-            {
-              "title": "より良い経済性",
-              "description": "収益は量に比例してスケールし、コストは固定のまま。"
-            }
-          ],
-          "conclusion": "安定価値の未来は、USDにペッグすることだけではありません—世界中の数十億人に安定性、セキュリティ、アクセシビリティを提供することです。",
-          "tagline": "$USDP。安定。安全。シンプル。",
-          "footer": "詳細については、www.provenalabs.comをご覧ください"
-        }
-      }
     }
   }
+}

@@ -1,1875 +1,660 @@
 {
   "nav": {
-    "home": "হোম",
-    "product": "পণ্য",
-    "features": "বৈশিষ্ট্য",
-    "pricing": "মূল্য",
-    "roadmap": "রোডম্যাপ",
-    "developers": "ডেভেলপার",
-    "blog": "ব্লগ",
-    "security": "নিরাপত্তা",
-    "launchApp": "অ্যাপ চালু করুন",
-    "getStarted": "শুরু করুন"
+    "home": "Home",
+    "team": "The Team",
+    "contact": "Contact Us",
+    "chatWithMAC": "Chat with M.A.C.",
+    "tryMapOfPi": "Try Map of Pi"
   },
   "header": {
-    "company": "কোম্পানি",
-    "aboutUs": "আমাদের সম্পর্কে",
-    "companyPage": "কোম্পানি",
-    "careers": "ক্যারিয়ার",
-    "contact": "যোগাযোগ",
-    "support": "আমাদের সমর্থন করুন",
-    "resources": "সম্পদ",
-    "legal": "আইনি",
-    "privacy": "গোপনীয়তা নীতি",
-    "terms": "সেবার শর্তাবলী",
-    "compliance": "সম্মতি",
-    "disclosures": "প্রকাশনা"
+    "company": "Company",
+    "aboutUs": "About Us",
+    "companyPage": "Company",
+    "careers": "Careers",
+    "contact": "Contact",
+    "support": "Support Us",
+    "resources": "Resources",
+    "legal": "Legal",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "compliance": "Compliance",
+    "disclosures": "Disclosures"
   },
   "hero": {
-    "title": "স্থিতিশীল মূল্যের ভবিষ্যৎ",
-    "description": "$USDP হল Pi Network-এ নির্মিত একটি USD-পেগড স্টেবলকয়েন। নিরাপদ, স্বচ্ছ এবং পরবর্তী প্রজন্মের ডিজিটাল অর্থের জন্য ডিজাইন করা হয়েছে।",
-    "launchApp": "অ্যাপ চালু করুন",
-    "visitTelegram": "Telegram পরিদর্শন করুন",
-    "usdEquivalence": "1 USD = 1 $USDP",
-    "overcollateralized": "অতিরিক্ত জামানত",
-    "mintRedeemFees": "মিন্ট/রিডিম ফি",
-    "transactionCost": "লেনদেন খরচ"
+    "title": "More than just a map It's the future of Pi eCommerce",
+    "description": "Map of Pi is an active and evolving part of the Pi Network's ecosystem designed to give real-world utility to Pi by connecting users with merchants who accept it. Through the Pi Browser, it's meant to make Pi more than just a mined token, helping it function as a currency in everyday commerce.",
+    "tryMapOfPi": "View RoadMap",
+    "users": "Users",
+    "sellers": "Sellers",
+    "reviews": "Reviews"
   },
   "features": {
-    "title": "কেন $USDP বেছে নেবেন?",
-    "subtitle": "অত্যাধুনিক প্রযুক্তি দিয়ে নির্মিত এবং আধুনিক আর্থিক ইকোসিস্টেমের জন্য ডিজাইন করা হয়েছে।",
-    "secure": {
-      "title": "নিরাপদ এবং স্বচ্ছ",
-      "description": "পাসকি প্রমাণীকরণ এবং রিয়েল-টাইম রিজার্ভ ট্র্যাকিং সহ এন্টারপ্রাইজ-গ্রেড নিরাপত্তা।"
+    "title": "Why Choose Map of Pi?",
+    "subtitle": "Built with cutting-edge technology and designed for the modern Pi Network marketplace.",
+    "globalMarketplace": {
+      "title": "Global Marketplace",
+      "description": "Find merchants worldwide on an interactive map. Search, discover, and connect with sellers accepting Pi cryptocurrency."
     },
-    "fast": {
-      "title": "বিদ্যুতের মতো দ্রুত",
-      "description": "Pi Network ব্লকচেইনে ন্যূনতম ফি সহ সেকেন্ডের মধ্যে লেনদেন নিষ্পত্তি হয়।"
+    "piPayments": {
+      "title": "Pi Payments",
+      "description": "Direct Pi Wallet integration enables seamless transactions. Pay directly from your Pi Wallet to merchant Pi Wallets."
     },
-    "backed": {
-      "title": "সম্পূর্ণভাবে সমর্থিত",
-      "description": "150% অতিরিক্ত জামানত স্থিতিশীলতা নিশ্চিত করে এবং আপনার সম্পদ রক্ষা করে।"
+    "verifiedMerchants": {
+      "title": "Verified Merchants",
+      "description": "Trusted sellers with verified badges. Shop with confidence knowing merchants are verified and reviewed."
     },
-    "privacy": {
-      "title": "গোপনীয়তা প্রথম",
-      "description": "সর্বোচ্চ নিরাপত্তার জন্য ক্লায়েন্ট-সাইড এনক্রিপশন এবং বায়োমেট্রিক প্রমাণীকরণ।"
+    "searchDiscover": {
+      "title": "Search & Discover",
+      "description": "Easy product and service discovery. Find exactly what you're looking for with powerful search and filtering."
     }
   },
   "useCases": {
-    "title": "ব্যবহারের ক্ষেত্রে",
-    "subtitle": "$USDP সবার জন্য কাজ করে—ব্যক্তিগত ব্যবহারকারী থেকে এন্টারপ্রাইজ পর্যন্ত।",
-    "ecommerce": {
-      "title": "ই-কমার্স",
-      "description": "তাত্ক্ষণিক নিষ্পত্তি এবং ন্যূনতম ফি সহ $USDP পেমেন্ট গ্রহণ করুন।"
+    "title": "Use Cases",
+    "subtitle": "Map of Pi works for everyone—from individual buyers to merchants and businesses.",
+    "poolTable": {
+      "title": "Pool Table Booking",
+      "description": "Book a pool table in advance or on the spot. Pay with Pi directly from your wallet to the venue owner's wallet."
     },
-    "crossBorder": {
-      "title": "সীমান্ত-পার পেমেন্ট",
-      "description": "কম খরচে এবং দ্রুত লেনদেনের সময় সহ বিশ্বব্যাপী টাকা পাঠান।"
+    "localCommerce": {
+      "title": "Local Commerce",
+      "description": "Support local businesses accepting Pi. Buy from cafes, bars, stores, and services in your area."
     },
-    "defi": {
-      "title": "DeFi ট্রেডিং",
-      "description": "জামানত হিসাবে $USDP ব্যবহার করুন বা ফলন অর্জনের জন্য তরলতা প্রদান করুন।"
+    "globalMarketplace": {
+      "title": "Global Marketplace",
+      "description": "Buy and sell goods and services worldwide. No borders, no intermediaries—just direct Pi-to-Pi transactions."
     },
-    "storage": {
-      "title": "মূল্য সঞ্চয়",
-      "description": "ক্রিপ্টোকারেন্সি অস্থিরতার এক্সপোজার ছাড়াই স্থিতিশীল মূল্য ধরে রাখুন।"
+    "services": {
+      "title": "Services",
+      "description": "Find and book services like repairs, consultations, and professional services—all paid with Pi."
     }
   },
   "roadmap": {
-    "title": "আমাদের রোডম্যাপ",
-    "subtitle": "একবারে একটি মাইলফলক, স্টেবলকয়েনের ভবিষ্যৎ গড়ে তুলছি।",
-    "q4_2025": "Q4 2025",
-    "q1_2026": "Q1 2026",
-    "q2_2026": "Q2 2026",
-    "q3_2026": "Q3 2026",
-    "betaLaunch": "বিটা চালু",
-    "coreFeatures": "মূল বৈশিষ্ট্য",
-    "securityAudit": "নিরাপত্তা অডিট",
-    "mainnetLaunch": "মেইননেট চালু",
-    "merchantPartnerships": "মার্চেন্ট অংশীদারিত্ব",
-    "mobileApps": "মোবাইল অ্যাপ",
-    "defiIntegrations": "DeFi ইন্টিগ্রেশন",
-    "crossChainBridge": "ক্রস-চেইন ব্রিজ",
-    "governanceToken": "গভর্নেন্স টোকেন",
-    "institutionalServices": "প্রাতিষ্ঠানিক পরিষেবা",
-    "globalExpansion": "বৈশ্বিক সম্প্রসারণ",
-    "advancedFeatures": "উন্নত বৈশিষ্ট্য",
-    "pageTitle": "পণ্য রোডম্যাপ",
-    "pageSubtitle": "$USDP এবং Provena Labs ইকোসিস্টেমের ভবিষ্যতের জন্য আমাদের দৃষ্টিভঙ্গি।",
-    "betaLaunchTitle": "বিটা চালু এবং মূল বৈশিষ্ট্য",
-    "betaLaunchDesc": "Pi Network টেস্টনেটে বিটা চালু",
-    "coreMintingDesc": "মূল মিন্টিং এবং রিডিম বৈশিষ্ট্য",
-    "securityAuditDesc": "নিরাপত্তা অডিট সম্পূর্ণ",
-    "mainnetTitle": "মেইননেট চালু এবং অংশীদারিত্ব",
-    "mainnetDesc": "Pi Network-এ মেইননেট চালু",
-    "merchantDesc": "মার্চেন্ট অংশীদারিত্ব",
-    "mobileAppDesc": "মোবাইল অ্যাপ চালু",
-    "defiTitle": "DeFi ইন্টিগ্রেশন এবং সম্প্রসারণ",
-    "defiProtocolDesc": "DeFi প্রোটোকল ইন্টিগ্রেশন",
-    "bridgeDesc": "ক্রস-চেইন ব্রিজ চালু",
-    "governanceDesc": "গভর্নেন্স টোকেন পরিচিতি",
-    "institutionalTitle": "প্রাতিষ্ঠানিক পরিষেবা এবং বৈশ্বিক সম্প্রসারণ",
-    "institutionalDesc": "প্রাতিষ্ঠানিক পরিষেবা চালু",
-    "globalDesc": "নতুন বাজারে বৈশ্বিক সম্প্রসারণ",
-    "advancedDesc": "উন্নত বৈশিষ্ট্য এবং সরঞ্জাম"
+    "title": "Our Roadmap",
+    "subtitle": "Building the future of Pi commerce, one milestone at a time.",
+    "viewFullRoadmap": "View Full Roadmap",
+    "v140": "V1.4.0",
+    "v155": "V1.5.5",
+    "v160": "V1.6.0",
+    "v20": "V2.0 Coming Soon",
+    "pageTitle": "Product Roadmap",
+    "pageSubtitle": "Our vision for the future of Map of Pi and the Pi Network marketplace ecosystem."
   },
   "security": {
-    "title": "আপনি বিশ্বাস করতে পারেন এমন নিরাপত্তা",
-    "subtitle": "আপনার সম্পদ এন্টারপ্রাইজ-গ্রেড নিরাপত্তা ব্যবস্থা এবং নিয়মিত অডিট দ্বারা সুরক্ষিত। আমরা নিরাপত্তাকে গুরুত্ব সহকারে নিই যাতে আপনাকে চিন্তা করতে না হয়।",
-    "viewReport": "নিরাপত্তা রিপোর্ট দেখুন",
-    "webauthn": "WebAuthn পাসকি প্রমাণীকরণ",
-    "encryption": "বিশ্রামে AES-256 এনক্রিপশন",
-    "tls": "ট্রানজিটে ডেটার জন্য TLS 1.3",
-    "hsm": "হার্ডওয়্যার নিরাপত্তা মডিউল",
-    "audits": "নিয়মিত নিরাপত্তা অডিট",
-    "detection": "24/7 হুমকি সনাক্তকরণ",
-    "multisig": "মাল্টি-সিগনেচার লেনদেন",
-    "insurance": "কোল্ড ওয়ালেট বীমা"
+    "title": "Security You Can Trust",
+    "subtitle": "Your transactions are protected by Pi Network's secure infrastructure and Pi Wallet integration. We take security seriously so you don't have to worry.",
+    "viewReport": "View Security Report",
+    "piNetwork": "Pi Network Security",
+    "walletIntegration": "Pi Wallet Integration",
+    "verifiedMerchants": "Verified Merchants",
+    "escrow": "EscrowPi Protection",
+    "transparent": "Transparent Reviews",
+    "securePayments": "Secure Payments"
   },
   "cta": {
-    "title": "শুরু করার জন্য প্রস্তুত?",
-    "subtitle": "নিরাপদ, স্থিতিশীল মূল্য সঞ্চয় এবং লেনদেনের জন্য ইতিমধ্যে $USDP ব্যবহার করছে এমন হাজার হাজার ব্যবহারকারীর সাথে যোগ দিন।",
-    "launchApp": "অ্যাপ চালু করুন",
-    "contactSales": "বিক্রয়ের সাথে যোগাযোগ করুন"
+    "title": "Ready to Get Started?",
+    "subtitle": "Join millions of users who are already buying and selling on Map of Pi using Pi cryptocurrency.",
+    "launchApp": "Try Map of Pi",
+    "contactSales": "Contact Us"
   },
   "logoCloud": {
-    "title": "Provena দিয়ে তৈরি",
-    "subtitle": "ইকোসিস্টেমের শীর্ষস্থানীয় প্ল্যাটফর্মগুলির দ্বারা বিশ্বস্ত"
-  },
-  "tokenEconomics": {
-    "title": "টোকেন অর্থনীতি",
-    "subtitle": "স্থিতিশীলতার জন্য নকশা করা হয়েছে, Pi রিজার্ভ দ্বারা সমর্থিত এবং 1:1 USD পেগে বজায় রাখা হয়েছে।",
-    "utilities": {
-      "mediumOfExchange": {
-        "title": "বিনিময় মাধ্যম",
-        "description": "দ্রুত, কম খরচে বৈশ্বিক লেনদেনের জন্য $USDP ব্যবহার করুন।"
-      },
-      "storeOfValue": {
-        "title": "মূল্য সংরক্ষণ",
-        "description": "উচ্চারণ ছাড়াই স্থিতিশীল সম্পদ হিসাবে $USDP রাখুন।"
-      },
-      "defiCollateral": {
-        "title": "DeFi জামানত",
-        "description": "বিকেন্দ্রীভূত অর্থসংস্থান প্রোটোকলে $USDP কে জামানত হিসাবে ব্যবহার করুন।"
-      }
-    },
-    "supplyModel": {
-      "title": "সরবরাহ মডেল",
-      "backedByPi": {
-        "title": "Pi রিজার্ভ দ্বারা সমর্থিত",
-        "description": "প্রতিটি $USDP Pi জামানত দ্বারা সমর্থিত"
-      },
-      "dynamicSupply": {
-        "title": "গতিশীল সরবরাহ",
-        "description": "পেগ বজায় রেখে চাহিদার উপর ভিত্তি করে সরবরাহ সামঞ্জস্য করা হয়"
-      },
-      "overcollateralization": {
-        "title": "150% অতিরিক্ত জামানত",
-        "description": "অতিরিক্ত জামানত স্থিতিশীলতা নিশ্চিত করে এবং ব্যবহারকারীদের রক্ষা করে"
-      }
-    }
+    "title": "Built for Pi Network",
+    "subtitle": "Trusted by merchants and users in the Pi Network ecosystem"
   },
   "targetMarket": {
-    "title": "লক্ষ্য বাজার",
-    "subtitle": "বিভিন্ন ব্যবহারকারী সেগমেন্টের জন্য উপযুক্ত সমাধান প্রদান করা।",
+    "title": "Who Uses Map of Pi?",
+    "subtitle": "Serving diverse user segments with tailored solutions.",
     "markets": {
-      "defiUsers": {
-        "title": "DeFi ব্যবহারকারী",
-        "description": "বৈচিত্র্য এবং ফলনের সুযোগ খুঁজছেন এমন স্থিতিশীল মুদ্রা ধারক।"
+      "buyers": {
+        "title": "Buyers",
+        "description": "Pioneers looking to spend Pi on goods and services in their local area and worldwide."
       },
-      "piNetwork": {
-        "title": "Pi নেটওয়ার্ক সম্প্রদায়",
-        "description": "55+ মিলিয়ন সক্রিয় ব্যবহারকারী ব্লকচেইন সমাধান গ্রহণের জন্য প্রস্তুত।"
+      "sellers": {
+        "title": "Sellers",
+        "description": "Merchants and service providers accepting Pi payments for their products and services."
       },
-      "ecommerce": {
-        "title": "ই-কমার্স",
-        "description": "কম ফিস সহ স্থিতিশীল পেমেন্ট বিকল্প প্রয়োজন এমন ব্যবসায়ীরা।"
+      "merchants": {
+        "title": "Merchants",
+        "description": "Businesses wanting to reach the Pi Network community and accept Pi cryptocurrency payments."
       },
-      "crossBorder": {
-        "title": "ক্রস-বর্ডার পেমেন্ট",
-        "description": "বৈশ্বিক লেনদেনের জন্য কম খরচে রেমিট্যান্স সমাধান।"
-      }
-    }
-  },
-  "competitiveAdvantages": {
-    "title": "$USDP কেন আলাদা",
-    "subtitle": "আমাদেরকে অন্যান্য স্থিতিশীল মুদ্রা থেকে আলাদা করে এমন প্রতিযোগিতামূলক সুবিধা।",
-    "table": {
-      "feature": "বৈশিষ্ট্য",
-      "usdp": "$USDP",
-      "competitors": "প্রতিযোগী",
-      "network": "নেটওয়ার্ক",
-      "fees": "ফি",
-      "collateralRatio": "জামানত অনুপাত",
-      "authentication": "প্রমাণীকরণ",
-      "blockchainFees": "ব্লকচেইন ফি"
-    },
-    "values": {
-      "piNetwork": "Pi নেটওয়ার্ক",
-      "ethereumTron": "ইথেরিয়াম, ট্রন",
-      "fees03": "0.3%",
-      "fees05to1": "0.5-1%",
-      "collateral150": "150%",
-      "collateral100to110": "100-110%",
-      "passkeys": "পাসকি",
-      "passwords2fa": "পাসওয়ার্ড/2FA",
-      "feesLess001": "<$0.01",
-      "fees1to50": "$1-50"
-    }
-  },
-  "businessModel": {
-    "title": "টেকসই ব্যবসায়িক মডেল",
-    "subtitle": "দীর্ঘমেয়াদী বৃদ্ধি এবং স্থিতিশীলতার জন্য নকশা করা একাধিক আয়ের উৎস।",
-    "revenueStreams": {
-      "mintingFees": {
-        "title": "মিন্টিং ফি",
-        "description": "সমস্ত মিন্টের উপর 0.3%"
-      },
-      "redeemingFees": {
-        "title": "রিডিমিং ফি",
-        "description": "সমস্ত রিডিমের উপর 0.3%"
-      },
-      "transferFees": {
-        "title": "স্থানান্তর ফি",
-        "description": "প্রতি স্থানান্তরে 0.0%"
-      },
-      "partnershipFees": {
-        "title": "পার্টনারশিপ ফি",
-        "description": "একীকরণ পার্টনারশিপ"
+      "pioneers": {
+        "title": "Pi Network Pioneers",
+        "description": "55+ million engaged users ready to use Pi in real-world commerce."
       }
     }
   },
   "footer": {
-    "tagline": "Pi Network-এ স্থিতিশীল মূল্যের ভবিষ্যৎ গড়ে তুলছি।",
-    "product": "পণ্য",
-    "company": "কোম্পানি",
-    "about": "সম্পর্কে",
-    "legal": "আইনি",
-    "privacy": "গোপনীয়তা",
-    "terms": "শর্তাবলী",
-    "disclosures": "প্রকাশনা",
-    "copyright": "© {year} Provena Labs। সর্বস্বত্ব সংরক্ষিত।",
+    "tagline": "More than just a map—It's the future of Pi eCommerce.",
+    "product": "Product",
+    "company": "Company",
+    "about": "About",
+    "roadmap": "Roadmap",
+    "membership": "Membership",
+    "legal": "Legal",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "disclosures": "Disclosures",
+    "copyright": "© {year} Map of Pi Team. All rights reserved.",
     "year": "year"
   },
   "common": {
-    "loading": "লোড হচ্ছে...",
-    "error": "ত্রুটি",
-    "retry": "পুনরায় চেষ্টা করুন"
+    "loading": "Loading...",
+    "error": "Error",
+    "retry": "Retry"
+  },
+  "hackathonWinner": {
+    "title": "Map of Pi—2024 Pi Commerce Hackathon Winner!",
+    "description": "Map of Pi stood out for its intuitive user interface (UI), centering around a map where users can find local Pi businesses. Merchants are already able to go through the flow of adding their business to the map, and the Map of Pi team is adding functionality such as QR codes, menu items, and more.",
+    "feature1": "Intuitive user interface with interactive map",
+    "feature2": "Pi Authentication and Pi Payments integrations",
+    "feature3": "Dozens of sample storefronts around the world"
+  },
+  "piFest": {
+    "title": "As featured in Pi Fest!",
+    "subtitle": "Map of Pi has reached incredible milestones in the Pi Network ecosystem.",
+    "users": "Active Users",
+    "sellers": "Verified Sellers",
+    "reviews": "Shop Reviews"
+  },
+  "escrowPi": {
+    "title": "Not just secure payments It's trust built into Pi eCommerce",
+    "subtitle": "EscrowPi is a next-generation utility in the Pi Network ecosystem",
+    "description": "Designed to make transactions safer, smoother, and more reliable for both buyers and sellers, it acts as a neutral and automated escrow layer that only releases Pi when both sides confirm the transaction. Integrated through the Pi Browser, EscrowPi strengthens real-world commerce by reducing risk and removing the need for manual oversight—bringing confidence and fairness to every Pi exchange.",
+    "learnMore": "See more"
+  },
+  "teamHighlights": {
+    "title": "Meet the Team",
+    "subtitle": "Our global volunteer team is building the future of decentralized commerce.",
+    "viewAll": "View All Team Members"
+  },
+  "team": {
+    "philip": {
+      "name": "Philip Jennings",
+      "role": "Founder & Leader",
+      "bio": "Philip is the visionary leader behind Map of Pi, driving the mission to make Pi cryptocurrency usable in everyday commerce."
+    },
+    "abdul": {
+      "name": "Abdulganiyu Balogun (Abdul)",
+      "role": "Ambassador",
+      "bio": "Abdul joined the Map of Pi volunteer team in January 2024, driven by a lifelong dream to be part of a truly decentralized economy. As a distinguished volunteer, he helps ensure the platform reflects real user needs."
+    },
+    "adisa": {
+      "name": "Yusuf Adisa (haycoder)",
+      "role": "Senior Core Developer",
+      "bio": "Passionate about Web3 and decentralized platforms, Adisa joined the team just two months after its foundation. He has actively contributed to building real Pi utilities and helping shape Map of Pi into a platform where people can trade securely."
+    },
+    "ant": {
+      "name": "Ant (Ant CPU)",
+      "role": "Global Marketing Tech Specialist",
+      "bio": "Founder of Ant CPU, a technology company focused on AI-driven web development. Ant brings a unique blend of automation, analytics, and creativity to the Map of Pi team, helping transform how Map of Pi connects, collaborates, and grows."
+    },
+    "danny": {
+      "name": "Danny Lee",
+      "role": "Tech Lead",
+      "bio": "Leading the technical development team and ensuring high-quality code delivery."
+    },
+    "darin": {
+      "name": "Darin Hajou",
+      "role": "Core Developer, Co-Founder",
+      "bio": "Core developer building the foundation of Map of Pi's marketplace platform."
+    },
+    "francis": {
+      "name": "Francis Mwaura",
+      "role": "Developer",
+      "bio": "Developer contributing to Map of Pi's features and functionality."
+    },
+    "fasakin": {
+      "name": "Fasakin Henry",
+      "role": "Developer",
+      "bio": "Developer working on Map of Pi's platform development and improvements."
+    },
+    "oluwabukola": {
+      "name": "Oluwabukola Adesina",
+      "role": "UX Solutions Designer",
+      "bio": "Designing user experiences and solutions to make Map of Pi intuitive and user-friendly."
+    },
+    "andri": {
+      "name": "Andri Nael",
+      "role": "Team Member",
+      "bio": "Contributing to Map of Pi's mission of decentralized commerce."
+    },
+    "franck": {
+      "name": "Franck Baraka",
+      "role": "Team Member",
+      "bio": "Supporting Map of Pi's growth and development."
+    },
+    "godswill": {
+      "name": "Godswill Sam",
+      "role": "Developer",
+      "bio": "Developer contributing to Map of Pi's features and functionality."
+    },
+    "mohamed": {
+      "name": "Mohamed Elsoshani",
+      "role": "Team Member",
+      "bio": "Contributing to Map of Pi's marketplace ecosystem."
+    },
+    "rajasekhar": {
+      "name": "Rajasekhar Reddy",
+      "role": "Team Member",
+      "bio": "Supporting Map of Pi's technical and community initiatives."
+    }
+  },
+  "macChatbot": {
+    "title": "Chat with M.A.C.",
+    "description": "M.A.C., the Map of Pi chatbot, is our intelligent assistant, built to help Pioneers and merchants navigate the Map of Pi experience.",
+    "details": "Whether you're curious about how to list your business, searching for sellers near you, or exploring new app features, M.A.C. is here to provide instant answers and guidance. Available around the clock, M.A.C. ensures that every question—big or small is met with clear, reliable support.",
+    "chatNow": "Chat with M.A.C."
   },
   "pages": {
-    "roadmap": {
-      "pageTitle": "পণ্য রোডম্যাপ",
-      "pageSubtitle": "$USDP এবং Provena Labs ইকোসিস্টেমের ভবিষ্যতের জন্য আমাদের দৃষ্টিভঙ্গি।",
-      "q4_2025": "Q4 2025",
-      "q1_2026": "Q1 2026",
-      "q2_2026": "Q2 2026",
-      "q3_2026": "Q3 2026",
-      "betaLaunchTitle": "বিটা লঞ্চ এবং মূল বৈশিষ্ট্য",
-      "betaLaunchDesc": "Pi Network testnet-এ বিটা লঞ্চ",
-      "coreMintingDesc": "মূল মিন্টিং এবং রিডিমশন বৈশিষ্ট্য",
-      "securityAuditDesc": "নিরাপত্তা অডিট সম্পন্ন",
-      "mainnetTitle": "মেইননেট লঞ্চ এবং অংশীদারিত্ব",
-      "mainnetDesc": "Pi Network-এ মেইননেট লঞ্চ",
-      "merchantDesc": "বণিক অংশীদারিত্ব",
-      "mobileAppDesc": "মোবাইল অ্যাপ লঞ্চ",
-      "defiTitle": "DeFi ইন্টিগ্রেশন এবং সম্প্রসারণ",
-      "defiProtocolDesc": "DeFi প্রোটোকল ইন্টিগ্রেশন",
-      "bridgeDesc": "ক্রস-চেইন ব্রিজ লঞ্চ",
-      "governanceDesc": "গভর্ন্যান্স টোকেন পরিচিতি",
-      "institutionalTitle": "প্রাতিষ্ঠানিক পরিষেবা এবং বিশ্বব্যাপী সম্প্রসারণ",
-      "institutionalDesc": "প্রাতিষ্ঠানিক পরিষেবা লঞ্চ",
-      "globalDesc": "নতুন বাজারে বিশ্বব্যাপী সম্প্রসারণ",
-      "advancedDesc": "উন্নত বৈশিষ্ট্য এবং সরঞ্জাম"
-    },
-    "features": {
-      "title": "আধুনিক অর্থের জন্য শক্তিশালী বৈশিষ্ট্য",
-      "subtitle": "$PNA অত্যাধুনিক প্রযুক্তিকে ব্যবহারকারী-বান্ধব ডিজাইনের সাথে একত্রিত করে আপনার প্রাপ্য স্টেবলকয়েন অভিজ্ঞতা প্রদান করে।",
-      "features": {
-        "secure": {
-          "title": "নিরাপদ এবং স্বচ্ছ",
-          "description": "মাল্টি-সিগনেচার ওয়ালেট, নিয়মিত অডিট এবং সম্পূর্ণ অন-চেইন স্বচ্ছতা নিশ্চিত করে যে আপনার সম্পদ সর্বদা সুরক্ষিত এবং যাচাইযোগ্য।"
-        },
-        "fast": {
-          "title": "বিদ্যুতের মতো দ্রুত",
-          "description": "ন্যূনতম ফি সহ সেকেন্ডের মধ্যে লেনদেন নিষ্পত্তি হয়। অপেক্ষা নেই, বিলম্ব নেই, শুধু তাত্ক্ষণিক মূল্য স্থানান্তর।"
-        },
-        "stable": {
-          "title": "স্থিতিশীল মূল্য",
-          "description": "115% ওভারকল্যাটারালাইজেশন এবং অ্যালগরিদমিক স্থিতিশীলতা প্রক্রিয়ার মাধ্যমে US ডলারের সাথে 1:1 পেগ বজায় রাখে।"
-        },
-        "community": {
-          "title": "কমিউনিটি চালিত",
-          "description": "গভর্ন্যান্স অংশগ্রহণ এবং কমিউনিটি-কেন্দ্রিক উন্নয়নের সাথে Pi Network কমিউনিটির জন্য নির্মিত।"
-        },
-        "defi": {
-          "title": "DeFi প্রস্তুত",
-          "description": "DeFi প্রোটোকল, লেন্ডিং প্ল্যাটফর্ম এবং বিকেন্দ্রীকৃত এক্সচেঞ্জের সাথে নির্বিঘ্নে একীভূত করুন।"
-        },
-        "compliance": {
-          "title": "সম্মতি প্রথম",
-          "description": "নিয়ন্ত্রক সম্মতির কথা মাথায় রেখে ডিজাইন করা হয়েছে, প্রাতিষ্ঠানিক গ্রহণ এবং মূলধারার ব্যবহারকে সমর্থন করে।"
-        }
+    "team": {
+      "title": "The Team",
+      "subtitle": "Meet the global volunteer team building Map of Pi",
+      "ourBeginning": {
+        "title": "Our beginning",
+        "subtitle": "Where it all started",
+        "description": "The Map of Pi team began its journey during the 2024 Pi Commerce Hackathon, where a group of passionate developers and visionaries came together with a shared mission: to make Pi practical, spendable, and useful in everyday life. Through collaboration, innovation, and a clear focus on utility, Map of Pi quickly stood out among the competition."
       },
-      "advancedSecurity": {
-        "title": "উন্নত নিরাপত্তা",
-        "description": "আপনার নিরাপত্তা আমাদের অগ্রাধিকার। $PNA শিল্প-নেতৃত্বাধীন নিরাপত্তা অনুশীলন বাস্তবায়ন করে যার মধ্যে রয়েছে মাল্টি-সিগনেচার ওয়ালেট, নিয়মিত তৃতীয়-পক্ষের অডিট এবং অবিচ্ছিন্ন পর্যবেক্ষণ।",
-        "features": [
-          "মাল্টি-সিগনেচার ওয়ালেট সুরক্ষা",
-          "শীর্ষস্থানীয় ফার্ম দ্বারা নিয়মিত নিরাপত্তা অডিট",
-          "24/7 পর্যবেক্ষণ এবং হুমকি সনাক্তকরণ",
-          "ব্যবহারকারী তহবিলের জন্য বীমা কভারেজ"
-        ]
+      "ourDrive": {
+        "title": "Our drive",
+        "subtitle": "What keeps us going",
+        "description": "After winning the Hackathon, our team gained valuable support and resources from the Pi Core Team, which strengthened our foundation and validated the importance of building real-world Pi commerce solutions.",
+        "description2": "Today, we continue to grow Map of Pi as a team of pro bono volunteers, united by our passion for the future of the Pi Ecosystem and the role that Pi eCommerce can play in global adoption. Our dedication is not driven by profit, but by the belief that Pi has the power to reshape how people connect, trade, and thrive."
       },
-      "lightningFast": {
-        "title": "বিদ্যুতের মতো দ্রুত লেনদেন",
-        "description": "অপেক্ষা ছাড়াই ব্লকচেইনের গতি অনুভব করুন। $PNA লেনদেন সেকেন্ডে নিষ্পত্তি হয়, ঘন্টা বা দিনে নয়।",
-        "features": [
-          "সাব-সেকেন্ড লেনদেন নিশ্চিতকরণ",
-          "ন্যূনতম লেনদেন ফি",
-          "উচ্চ থ্রুপুট ক্ষমতা",
-          "স্কেলযোগ্য অবকাঠামো"
-        ]
-      }
-    },
-    "product": {
-      "title": "$USDP স্টেবলকয়েন",
-      "subtitle": "Pi Network-এ নির্মিত একটি USD-পেগড স্টেবলকয়েন, স্থিতিশীলতা, নিরাপত্তা এবং নির্বিঘ্ন লেনদেনের জন্য ডিজাইন করা হয়েছে।",
-      "tagline": "স্থিতিশীল। নিরাপদ। সহজ।",
-      "whatIs": {
-        "title": "$USDP কি?",
-        "description1": "$USDP হল একটি সম্পূর্ণ জামানতযুক্ত স্টেবলকয়েন যা US ডলারের সাথে 1:1 পেগ বজায় রাখে। প্রতিটি $USDP টোকেন 115% এর বেশি জামানত দ্বারা সমর্থিত, সমস্ত ব্যবহারকারীর জন্য স্থিতিশীলতা এবং নিরাপত্তা নিশ্চিত করে।",
-        "description2": "Pi Network ব্লকচেইনে নির্মিত, $USDP দ্রুত, কম খরচের লেনদেন সক্ষম করে যখন একটি স্টেবলকয়েন থেকে ব্যবহারকারীরা যে বিশ্বাস এবং নির্ভরযোগ্যতা আশা করে তা বজায় রাখে।",
-        "features": [
-          "150% ওভারকল্যাটারালাইজড",
-          "1:1 USD পেগ",
-          "স্বচ্ছ এবং অডিট করা",
-          "Pi Network নেটিভ"
-        ]
+      "ourVision": {
+        "title": "Our vision",
+        "subtitle": "Where we're headed",
+        "description": "Looking ahead, we are preparing to evolve into an equity- and contribution-based system that rewards commitment and creativity, ensuring that every team member shares in the future success of the project. With this foundation, our long-term vision is to scale Map of Pi into a global company and brand, supporting millions of Pioneers and merchants worldwide."
       },
-      "coreFeatures": {
-        "title": "মূল বৈশিষ্ট্য",
-        "items": [
-          {
-            "icon": "shield",
-            "title": "নিরাপদ",
-            "description": "মাল্টি-সিগনেচার ওয়ালেট এবং কঠোর নিরাপত্তা অডিট নিশ্চিত করে যে আপনার তহবিল সুরক্ষিত।"
-          },
-          {
-            "icon": "zap",
-            "title": "দ্রুত",
-            "description": "Pi Network-এ ন্যূনতম ফি সহ সেকেন্ডের মধ্যে লেনদেন নিষ্পত্তি হয়।"
-          },
-          {
-            "icon": "globe",
-            "title": "বিশ্বব্যাপী",
-            "description": "সীমানা ছাড়াই বিশ্বের যেকোনো জায়গায় $USDP পাঠান এবং গ্রহণ করুন।"
-          },
-          {
-            "icon": "check",
-            "title": "স্বচ্ছ",
-            "description": "নিয়মিত অডিট এবং সম্মতি প্রতিবেদনের সাথে সম্পূর্ণ অন-চেইন স্বচ্ছতা।"
-          }
-        ]
-      },
-      "technicalSpecs": {
-        "title": "প্রযুক্তিগত বৈশিষ্ট্য",
-        "blockchain": {
-          "label": "ব্লকচেইন",
-          "value": "Pi Network"
+      "ourOrganization": {
+        "title": "Our organization",
+        "subtitle": "Meet the Map of Pi team",
+        "projectManager": {
+          "title": "Project Manager",
+          "description": "The Project Manager plays a key role in keeping the Map of Pi team organized and aligned. They oversee timelines, coordinate team efforts, and ensure that priorities are clearly defined. This role requires strong communication, leadership, and the ability to balance both short-term tasks and long-term goals."
         },
-        "tokenStandard": {
-          "label": "টোকেন স্ট্যান্ডার্ড",
-          "value": "Pi Network নেটিভ টোকেন"
+        "ambassador": {
+          "title": "Ambassador",
+          "description": "Ambassadors represent Map of Pi within the global Pi community. They help spread awareness, onboard new users, and build relationships with merchants and Pioneers. Ambassadors act as the voice of the project on the ground, supporting adoption and trust."
         },
-        "decimals": {
-          "label": "দশমিক",
-          "value": "18"
+        "marketing": {
+          "title": "Marketing",
+          "description": "The Marketing team helps tell the story of Map of Pi to the world. From social media campaigns to branding and partnerships, marketing ensures that Pioneers and merchants understand the value of joining the ecosystem."
         },
-        "collateralization": {
-          "label": "জামানত",
-          "value": "150% ওভারকল্যাটারালাইজড"
+        "uxSolutions": {
+          "title": "UX/ Solutions",
+          "description": "The UX / Solutions role focuses on making Map of Pi intuitive and user-friendly. This team helps design the experience for both merchants and buyers, ensuring the app is accessible, functional, and enjoyable."
         },
-        "mintRedeemFee": {
-          "label": "মিন্ট/রিডিম ফি",
-          "value": "0.3%"
+        "development": {
+          "title": "Development",
+          "description": "The Development team builds and maintains the Map of Pi app and supporting infrastructure. They translate ideas and designs into features that Pioneers and merchants can use. Developers are responsible for scalability, performance, and security."
         },
-        "auditStatus": {
-          "label": "অডিট স্ট্যাটাস",
-          "value": "নিয়মিত অডিট করা"
+        "qualityAnalyst": {
+          "title": "Quality Analyst",
+          "description": "Quality Analysts play a key role in maintaining the reliability and trust of Map of Pi. They focus on testing new features, identifying issues, and providing clear feedback so that the app delivers a smooth and consistent experience for all Pioneers."
         }
       }
     },
-    "pricing": {
-      "title": "সরল, স্বচ্ছ মূল্য",
-      "subtitle": "কোনো লুকানো ফি নেই। কোনো বিস্ময় নেই। শুধু আপনার সমস্ত স্টেবলকয়েন প্রয়োজনের জন্য সরল মূল্য।",
-      "plans": [
+    "contact": {
+      "title": "Contact Us",
+      "subtitle": "Have questions? We'd love to hear from you. Send us a message and we'll respond as soon as possible.",
+      "contactInfo": [
         {
-          "title": "মিন্ট এবং রিডিম",
-          "description": "$USDP টোকেন তৈরি করুন বা পুড়িয়ে দিন",
-          "price": "0.3%",
-          "priceNote": "প্রতি লেনদেন",
-          "features": [
-            "তাত্ক্ষণিক প্রক্রিয়াকরণ",
-            "কোনো ন্যূনতম পরিমাণ নেই",
-            "সম্পূর্ণ স্বচ্ছতা"
-          ]
+          "type": "email",
+          "label": "Email",
+          "value": "contact@mapofpi.com",
+          "note": "We'll get back to you within 24 hours"
         },
         {
-          "popular": true,
-          "badge": "সবচেয়ে জনপ্রিয়",
-          "title": "স্থানান্তর",
-          "description": "ওয়ালেটের মধ্যে $USDP পাঠান",
-          "price": "<$0.01",
-          "priceNote": "প্রতি লেনদেন",
-          "features": [
-            "বিদ্যুতের মতো দ্রুত",
-            "নিষ্পত্তি করতে সেকেন্ড",
-            "বিশ্বব্যাপী পৌঁছানো"
-          ]
-        },
-        {
-          "title": "API অ্যাক্সেস",
-          "description": "ডেভেলপার এবং ব্যবসার জন্য",
-          "price": "কাস্টম",
-          "priceNote": "ভলিউম-ভিত্তিক মূল্য",
-          "features": [
-            "সমর্পিত সমর্থন",
-            "কাস্টম ইন্টিগ্রেশন",
-            "SLA গ্যারান্টি"
-          ]
+          "type": "office",
+          "label": "Office",
+          "value": "Remote First",
+          "note": "Serving customers worldwide"
         }
       ],
-      "feeBreakdown": {
-        "title": "ফি ব্রেকডাউন",
-        "transactionType": "লেনদেনের ধরন",
-        "fee": "ফি",
-        "speed": "গতি",
-        "rows": [
-          {
-            "type": "মিন্ট $USDP",
-            "fee": "0.3%",
-            "speed": "তাত্ক্ষণিক"
-          },
-          {
-            "type": "রিডিম $USDP",
-            "fee": "0.3%",
-            "speed": "তাত্ক্ষণিক"
-          },
-          {
-            "type": "স্থানান্তর $USDP",
-            "fee": "<$0.01",
-            "speed": "সেকেন্ড"
-          },
-          {
-            "type": "API কল",
-            "fee": "কাস্টম",
-            "speed": "রিয়েল-টাইম"
-          }
-        ]
-      },
       "faq": {
-        "title": "প্রায়শই জিজ্ঞাসিত প্রশ্ন",
+        "title": "Frequently Asked Questions",
         "items": [
           {
-            "question": "কোনো লুকানো ফি আছে?",
-            "answer": "না। সমস্ত ফি স্বচ্ছ এবং আগে থেকে প্রদর্শিত হয়। আপনি যা দেখেন তাই আপনি প্রদান করেন।"
+            "question": "What is the best way to contact support?",
+            "answer": "You can reach our support team via email at contact@mapofpi.com or use the M.A.C. chatbot on mapofpi.com."
           },
           {
-            "question": "আপনারা ভলিউম ডিসকাউন্ট অফার করেন?",
-            "answer": "হ্যাঁ। উচ্চ-ভলিউম ব্যবহারকারী এবং ব্যবসার জন্য, আমরা কাস্টম মূল্য অফার করি। বিস্তারিত জানতে আমাদের বিক্রয় দলের সাথে যোগাযোগ করুন।"
+            "question": "How long does it take to get a response?",
+            "answer": "We aim to respond to all inquiries within 24 hours during business days."
           },
           {
-            "question": "আপনারা কোন পেমেন্ট পদ্ধতি গ্রহণ করেন?",
-            "answer": "আমরা $USDP মিন্টিং এবং রিডিমিংয়ের জন্য USD, অন্যান্য স্টেবলকয়েন এবং প্রধান ক্রিপ্টোকারেন্সি গ্রহণ করি।"
-          }
-        ]
-      }
-    },
-    "developers": {
-      "title": "ডেভেলপার সম্পদ",
-      "subtitle": "আপনার অ্যাপ্লিকেশনে $PNA একীভূত করার জন্য আপনার প্রয়োজনীয় সবকিছু। ব্যাপক ডকুমেন্টেশন, SDK এবং সরঞ্জাম।",
-      "quickStart": {
-        "title": "দ্রুত শুরু",
-        "installation": {
-          "title": "ইনস্টলেশন",
-          "code": "শীঘ্রই আসছে"
-        },
-        "usage": {
-          "title": "মৌলিক ব্যবহার",
-          "code": "শীঘ্রই আসছে"
-        }
-      },
-      "integrationOptions": {
-        "title": "ইন্টিগ্রেশন বিকল্প",
-        "items": [
-          {
-            "icon": "code",
-            "title": "সরাসরি ইন্টিগ্রেশন",
-            "description": "আপনার অ্যাপ্লিকেশনের সাথে সম্পূর্ণ API ইন্টিগ্রেশনের জন্য আমাদের JavaScript/TypeScript SDK ব্যবহার করুন।",
-            "linkText": "ডকুমেন্টেশন দেখুন"
-          },
-          {
-            "icon": "zap",
-            "title": "ওয়ালেট ইন্টিগ্রেশন",
-            "description": "নির্বিঘ্ন ব্যবহারকারী অভিজ্ঞতা এবং মাল্টি-কারেন্সি সমর্থনের জন্য Provena ওয়ালেটের সাথে সংযুক্ত হন।",
-            "linkText": "ডকুমেন্টেশন দেখুন"
-          },
-          {
-            "icon": "book",
-            "title": "পেমেন্ট গেটওয়ে",
-            "description": "আমাদের পূর্বনির্মিত উইজেট দিয়ে আপনার ওয়েবসাইটে $PNA পেমেন্ট বাটন যোগ করুন।",
-            "linkText": "ডকুমেন্টেশন দেখুন"
-          },
-          {
-            "icon": "git",
-            "title": "Webhooks",
-            "description": "লেনদেন আপডেট এবং স্ট্যাটাস পরিবর্তনের জন্য রিয়েল-টাইম ইভেন্ট বিজ্ঞপ্তি।",
-            "linkText": "ডকুমেন্টেশন দেখুন"
-          }
-        ]
-      },
-      "useCases": {
-        "title": "বিল্ডারদের জন্য ব্যবহারের ক্ষেত্রে",
-        "items": [
-          {
-            "title": "ই-কমার্স",
-            "features": [
-              "$PNA পেমেন্ট গ্রহণ করুন",
-              "কম লেনদেন ফি",
-              "তাত্ক্ষণিক নিষ্পত্তি"
-            ]
-          },
-          {
-            "title": "DeFi প্ল্যাটফর্ম",
-            "features": [
-              "$PNA জামানত হিসাবে যোগ করুন",
-              "লিকুইডিটি পুল তৈরি করুন",
-              "ইয়েল্ড কৌশল তৈরি করুন"
-            ]
-          },
-          {
-            "title": "ওয়ালেট",
-            "features": [
-              "$PNA সমর্থন একীভূত করুন",
-              "মাল্টি-কারেন্সি ওয়ালেট",
-              "পোর্টফোলিও ট্র্যাকিং"
-            ]
-          },
-          {
-            "title": "গেমিং",
-            "features": [
-              "ইন-গেম কারেন্সি",
-              "পুরস্কার বিতরণ",
-              "NFT মার্কেটপ্লেস পেমেন্ট"
-            ]
+            "question": "Do you have a community forum?",
+            "answer": "Yes! Join our social media communities on Instagram, Facebook, X, Telegram, Reddit, and YouTube to connect with other users."
           }
         ]
       }
     },
     "about": {
-      "title": "Provena Labs সম্পর্কে",
-      "subtitle": "আমরা Pi Network-এ স্থিতিশীল ডিজিটাল অর্থের ভবিষ্যত তৈরি করছি। আমাদের মিশন হল একটি নিরাপদ, স্বচ্ছ এবং উদ্ভাবনী স্টেবলকয়েন সমাধান প্রদান করা যা ঐতিহ্যগত অর্থকে ব্লকচেইন প্রযুক্তির সাথে সংযুক্ত করে।",
-      "mission": {
-        "title": "আমাদের মিশন",
-        "description1": "Pi Network-এ 55+ মিলিয়ন ব্যবহারকারীর জন্য নিরাপদ, দ্রুত এবং কম খরচের লেনদেন সক্ষম করে এমন একটি প্রোডাকশন-গ্রেড USD-পেগড স্টেবলকয়েন তৈরি করতে।",
-        "description2": "আমরা ব্লকচেইন প্রযুক্তির শক্তিতে বিশ্বাস করি অর্থকে গণতান্ত্রিক করতে এবং সবাইকে, সর্বত্র আর্থিক পরিষেবা প্রদান করতে।"
+      "title": "About Map of Pi",
+      "subtitle": "Building the bridge between Pi Network and the real economy, one merchant at a time.",
+      "story": {
+        "intro": "Map of Pi was born out of the 2024 Pi Commerce Hackathon, an event designed to spark innovation and unlock real-world utility for the Pi Network. Competing against a wide range of projects, Map of Pi stood out for its intuitive map-based interface and practical approach to solving one of Pi's most important challenges: connecting Pioneers with businesses that accept Pi as payment.",
+        "vision": "From its inception, the vision of Map of Pi has been clear—to make Pi spendable in everyday life. The app allows users to discover merchants across the globe, explore their offerings, and engage in commerce powered by Pi. Merchants, in turn, can easily showcase their businesses, set up shop within the app, and reach a growing global community of Pioneers."
       },
-      "vision": {
-        "title": "আমাদের দৃষ্টিভঙ্গি",
-        "description1": "একটি বিশ্ব যেখানে স্থিতিশীল ডিজিটাল সম্পদ সবার কাছে অ্যাক্সেসযোগ্য, নির্বিঘ্ন বিশ্বব্যাপী লেনদেন এবং আর্থিক অন্তর্ভুক্তি সক্ষম করে।",
-        "description2": "আমরা $USDP-কে Pi Network-এর জন্য স্ট্যান্ডার্ড স্টেবলকয়েন হয়ে উঠতে দেখি, DeFi, ই-কমার্স এবং ক্রস-বর্ডার পেমেন্ট চালাচ্ছে।"
-      },
-      "coreValues": {
-        "title": "আমাদের মূল মূল্যবোধ",
+      "growth": {
+        "title": "Since launch, Map of Pi has continued to grow and evolve",
         "items": [
           {
-            "icon": "innovation",
-            "title": "উদ্ভাবন",
-            "description": "আমরা অবিচ্ছিন্নভাবে উদ্ভাবন করি ব্লকচেইন ইকোসিস্টেমকে এগিয়ে নিয়ে যাওয়া অত্যাধুনিক সমাধান প্রদান করতে।"
+            "icon": "merchants",
+            "title": "Global Reach",
+            "description": "Reaching hundreds of thousands of registered merchant locations worldwide, making it one of the largest Pi commerce platforms."
           },
           {
-            "icon": "transparency",
-            "title": "স্বচ্ছতা",
-            "description": "আমরা রিয়েল-টাইম রিজার্ভ ট্র্যাকিং এবং পাবলিক যাচাইকরণের সাথে সম্পূর্ণ স্বচ্ছতায় বিশ্বাস করি।"
+            "icon": "features",
+            "title": "Enhanced Features",
+            "description": "Adding features such as menus, contact options, and merchant ratings, enhancing trust and usability for both buyers and sellers."
           },
           {
-            "icon": "community",
-            "title": "কমিউনিটি",
-            "description": "আমরা আমাদের কমিউনিটির সাথে এবং তাদের জন্য তৈরি করতে প্রতিশ্রুতিবদ্ধ, প্রতিক্রিয়া শুনছি এবং একসাথে বিকশিত হচ্ছি।"
+            "icon": "accessibility",
+            "title": "Pi Browser Integration",
+            "description": "Expanding accessibility through the Pi Browser, ensuring seamless engagement for Pioneers wherever they are."
           }
         ]
       },
-      "whyChoose": {
-        "title": "কেন Provena Labs বেছে নেবেন?",
-        "items": [
-          {
-            "number": "1",
-            "title": "প্রথম মুভার সুবিধা",
-            "description": "আমরা Pi Network-এ প্রথম প্রোডাকশন-গ্রেড স্টেবলকয়েন, প্রাথমিক বাজার শেয়ার ক্যাপচার করার জন্য অবস্থিত।"
-          },
-          {
-            "number": "2",
-            "title": "বিশাল ব্যবহারকারী বেস",
-            "description": "55+ মিলিয়ন নিযুক্ত Pi Network ব্যবহারকারীর অ্যাক্সেস ব্লকচেইন সমাধান গ্রহণ করতে প্রস্তুত।"
-          },
-          {
-            "number": "3",
-            "title": "প্রোডাকশন প্রস্তুত",
-            "description": "আমাদের প্ল্যাটফর্ম সম্পূর্ণরূপে উন্নত এবং পরীক্ষিত, তাত্ক্ষণিক মোতায়েন এবং স্কেলিংয়ের জন্য প্রস্তুত।"
-          },
-          {
-            "number": "4",
-            "title": "টেকসই মডেল",
-            "description": "একাধিক রাজস্ব স্ট্রিম এবং ট্রেজারি ম্যানেজমেন্ট দীর্ঘমেয়াদী বেঁচে থাকা এবং বৃদ্ধি নিশ্চিত করে।"
-          }
-        ]
+      "coreMessage": {
+        "title": "More Than Just a Directory",
+        "description": "At its core, Map of Pi is more than just a directory—it's a bridge between the Pi Network and the real economy. By empowering both local businesses and global Pioneers, Map of Pi continues to play a vital role in building the foundation for Pi's utility as a widely used digital currency."
       }
     },
-    "contact": {
-      "title": "যোগাযোগ করুন",
-      "subtitle": "প্রশ্ন আছে? আমরা আপনার কাছ থেকে শুনতে পছন্দ করি। আমাদের একটি বার্তা পাঠান এবং আমরা যত তাড়াতাড়ি সম্ভব উত্তর দেব।",
-      "contactInfo": [
+    "membership": {
+      "title": "Map of Pi Membership",
+      "subtitle": "Choose the membership tier that works best for your business needs and unlock exclusive benefits.",
+      "tiersTitle": "Membership Tiers",
+      "popular": "Popular",
+      "free": "Free",
+      "notApplicable": "N/A",
+      "yes": "Yes",
+      "no": "No",
+      "mappiAllowance": "Mappi Allowance",
+      "duration": "Membership Duration",
+      "onlineShopping": "Online Shopping Included",
+      "mapMarkerPriority": "Map Marker Priority",
+      "infoTitle": "Ready to Get Started?",
+      "infoDescription": "Join thousands of merchants who are already using Map of Pi to reach the global Pi Network community. Choose your membership tier and start connecting with Pioneers today.",
+      "getStarted": "Get Started on Map of Pi",
+      "tiers": [
         {
-          "type": "email",
-          "label": "ইমেইল",
-          "value": "zyrachain@provenalabs.com",
-          "note": "আমরা 24 ঘন্টার মধ্যে আপনার কাছে ফিরে আসব"
-        },
-        {
-          "type": "phone",
-          "label": "ফোন",
-          "value": "+234-701-067-6567",
-          "note": "সোমবার - শুক্রবার, সকাল 9টা - বিকাল 5টা EST"
-        },
-        {
-          "type": "office",
-          "label": "অফিস",
-          "value": "Remote First",
-          "note": "বিশ্বব্যাপী গ্রাহকদের সেবা"
-        }
-      ],
-      "faq": {
-        "title": "প্রায়শই জিজ্ঞাসিত প্রশ্ন",
-        "items": [
-          {
-            "question": "সাপোর্টের সাথে যোগাযোগ করার সর্বোত্তম উপায় কী?",
-            "answer": "আপনি provenalabs@gmail.com-এ ইমেইলের মাধ্যমে আমাদের সাপোর্ট টিমের সাথে যোগাযোগ করতে পারেন।"
-          },
-          {
-            "question": "উত্তর পেতে কতক্ষণ সময় লাগে?",
-            "answer": "আমরা ব্যবসায়িক দিনগুলিতে 24 ঘন্টার মধ্যে সমস্ত অনুসন্ধানের উত্তর দেওয়ার লক্ষ্য রাখি।"
-          },
-          {
-            "question": "আপনাদের একটি কমিউনিটি ফোরাম আছে?",
-            "answer": "হ্যাঁ! অন্যান্য ব্যবহারকারীদের সাথে সংযুক্ত হতে এবং কমিউনিটি থেকে সমর্থন পেতে আমাদের Discord কমিউনিটিতে যোগ দিন।"
-          }
-        ]
-      }
-    },
-    "security": {
-      "title": "নিরাপত্তা এবং সম্মতি",
-      "subtitle": "আপনার সম্পদ রক্ষা করতে এবং নিয়ন্ত্রক সম্মতি নিশ্চিত করতে এন্টারপ্রাইজ-গ্রেড নিরাপত্তা ব্যবস্থা এবং সম্মতি মান।",
-      "measures": {
-        "title": "নিরাপত্তা ব্যবস্থা",
-        "items": [
-          {
-            "icon": "authentication",
-            "title": "প্রমাণীকরণ",
-            "description": "WebAuthn/FIDO2 passkeys পাসওয়ার্ড ছাড়াই বায়োমেট্রিক এবং PIN-ভিত্তিক প্রমাণীকরণ প্রদান করে।",
-            "features": [
-              "বায়োমেট্রিক প্রমাণীকরণ",
-              "PIN-ভিত্তিক নিরাপত্তা",
-              "কোনো পাসওয়ার্ড স্টোরেজ নেই"
-            ]
-          },
-          {
-            "icon": "encryption",
-            "title": "এনক্রিপশন",
-            "description": "সামরিক-গ্রেড এনক্রিপশন আপনার ডেটা বিশ্রামে এবং ট্রানজিটে রক্ষা করে।",
-            "features": [
-              "বিশ্রামে AES-256",
-              "ট্রানজিটে TLS 1.3",
-              "ক্লায়েন্ট-সাইড এনক্রিপশন"
-            ]
-          },
-          {
-            "icon": "keyManagement",
-            "title": "কী ম্যানেজমেন্ট",
-            "description": "হার্ডওয়্যার নিরাপত্তা মডিউল এবং মাল্টি-সিগনেচার লেনদেন গুরুত্বপূর্ণ কীগুলি রক্ষা করে।",
-            "features": [
-              "হার্ডওয়্যার নিরাপত্তা মডিউল",
-              "মাল্টি-সিগনেচার লেনদেন",
-              "কী রোটেশন নীতি"
-            ]
-          },
-          {
-            "icon": "monitoring",
-            "title": "পর্যবেক্ষণ",
-            "description": "24/7 হুমকি সনাক্তকরণ এবং নিয়মিত নিরাপত্তা অডিট অবিচ্ছিন্ন সুরক্ষা নিশ্চিত করে।",
-            "features": [
-              "24/7 হুমকি সনাক্তকরণ",
-              "নিয়মিত নিরাপত্তা অডিট",
-              "ঘটনা প্রতিক্রিয়া দল"
-            ]
-          }
-        ]
-      },
-      "compliance": {
-        "title": "সম্মতি মান",
-        "items": [
-          {
-            "title": "KYC/AML",
-            "description": "অ্যান্টি-মানি লন্ডারিং নিয়ম মেনে চলার জন্য ব্যাপক ব্যবহারকারী যাচাইকরণ পদ্ধতি।"
-          },
-          {
-            "title": "লাইসেন্সিং",
-            "description": "মূল এখতিয়ারে মানি ট্রান্সমিটার সম্মতি এবং নিয়ন্ত্রক লাইসেন্স।"
-          },
-          {
-            "title": "অডিট",
-            "description": "স্বাধীন তৃতীয়-পক্ষের ফার্ম দ্বারা নিয়মিত আর্থিক এবং নিরাপত্তা অডিট।"
-          },
-          {
-            "title": "বীমা",
-            "description": "কোল্ড ওয়ালেট বীমা এবং ডিজিটাল সম্পদের জন্য ব্যাপক কভারেজ।"
-          },
-          {
-            "title": "রিজার্ভ",
-            "description": "পাবলিক রিজার্ভ রিপোর্ট এবং জামানত ব্যাকিংয়ের রিয়েল-টাইম যাচাইকরণ।"
-          },
-          {
-            "title": "গোপনীয়তা",
-            "description": "GDPR-সম্মত ডেটা হ্যান্ডলিং এবং ব্যবহারকারী গোপনীয়তা সুরক্ষা নীতি।"
-          }
-        ]
-      },
-      "bestPractices": {
-        "title": "ব্যবহারকারী নিরাপত্তা সেরা অনুশীলন",
-        "dos": {
-          "title": "করণীয়",
-          "items": [
-            "আপনার পাসফ্রেজ নিরাপদে অফলাইনে সংরক্ষণ করুন",
-            "বায়োমেট্রিক প্রমাণীকরণ সক্ষম করুন",
-            "নিশ্চিত করার আগে লেনদেনের পরিমাণ যাচাই করুন",
-            "মিন্টিং করার আগে Pi মূল্য পরীক্ষা করুন",
-            "লেনদেনের জন্য নিরাপদ নেটওয়ার্ক ব্যবহার করুন"
+          "name": "Triple Gold",
+          "price": "20",
+          "priceNote": "One-time payment",
+          "mappiAllowance": "2000",
+          "duration": "50 WKS",
+          "onlineShopping": true,
+          "mapMarkerPriority": "1",
+          "popular": true,
+          "features": [
+            "Highest map marker priority",
+            "Maximum Mappi allowance",
+            "Longest membership duration",
+            "Full online shopping access"
           ]
         },
-        "donts": {
-          "title": "না করা",
-          "items": [
-            "কাউকে আপনার পাসফ্রেজ শেয়ার করবেন না",
-            "সংবেদনশীল ডেটা স্ক্রিনশট করবেন না",
-            "অনিরাপদ পাবলিক নেটওয়ার্কে ব্যবহার করবেন না",
-            "অযাচাইকৃত ঠিকানায় পাঠাবেন না",
-            "সন্দেহজনক লিঙ্ক বা ইমেইলে ক্লিক করবেন না"
-          ]
-        }
-      }
-    },
-    "support": {
-      "title": "Provena Labs সমর্থন করুন",
-      "subtitle": "Pi Network-এ স্থিতিশীল মূল্যের ভবিষ্যত তৈরি করতে আমাদের সাহায্য করুন",
-      "whySupport": {
-        "title": "কেন আপনার সমর্থন গুরুত্বপূর্ণ",
-        "intro": "Provena Labs Pi Network ইকোসিস্টেমের জন্য গুরুত্বপূর্ণ অবকাঠামো তৈরি করছে। আপনার অনুদান সরাসরি সমর্থন করে:",
-        "items": [
-          {
-            "title": "উন্নয়ন এবং উদ্ভাবন",
-            "description": "$USDP স্টেবলকয়েনের অবিচ্ছিন্ন উন্নয়ন, নিরাপত্তা অডিট এবং ইকোসিস্টেমকে উন্নত করে এমন নতুন বৈশিষ্ট্যগুলির জন্য তহবিল।"
-          },
-          {
-            "title": "নিরাপত্তা এবং সম্মতি",
-            "description": "ব্যবহারকারীদের রক্ষা করতে নিরাপত্তা, নিয়ন্ত্রক সম্মতি এবং ঝুঁকি ব্যবস্থাপনার সর্বোচ্চ মান নিশ্চিত করা।"
-          },
-          {
-            "title": "কমিউনিটি বৃদ্ধি",
-            "description": "শিক্ষা, অংশীদারিত্ব এবং কমিউনিটি উদ্যোগকে সমর্থন করা যা গ্রহণ এবং সচেতনতা চালায়।"
-          },
-          {
-            "title": "অবকাঠামো এবং অপারেশন",
-            "description": "24/7 উপলব্ধতা নিশ্চিত করতে নির্ভরযোগ্য সিস্টেম, পর্যবেক্ষণ এবং অপারেশনাল উৎকর্ষতা বজায় রাখা।"
-          }
-        ],
-        "conclusion": "প্রতিটি অবদান, আকার যাই হোক না কেন, আমাদের উন্নয়ন ত্বরান্বিত করতে এবং Pi Network-এ লক্ষ লক্ষ ব্যবহারকারীর কাছে স্থিতিশীল মূল্য নিয়ে আসতে সাহায্য করে। আপনার সমর্থন আমাদের মিশনে আস্থার ভোট।"
-      },
-      "walletAddress": "GCAO7I2ZBIEFXNYD3KZFA3UXLMDVCYUG6CTCYG56746LZB5MIUFIIBJ5",
-      "donation": {
-        "title": "Pi দিয়ে অনুদান দিন",
-        "label": "আমাদের ওয়ালেট ঠিকানায় Pi পাঠান",
-        "walletLabel": "Pi ওয়ালেট ঠিকানা",
-        "copy": "ওয়ালেট ঠিকানা কপি করুন",
-        "warning": {
-          "title": "গুরুত্বপূর্ণ:",
-          "text": "নিশ্চিত করুন যে আপনি আপনার Pi ওয়ালেট থেকে Pi পাঠাচ্ছেন। আপনার অনুদান আমাদের কাছে নিরাপদে পৌঁছেছে তা নিশ্চিত করতে ওয়ালেট ঠিকানা দ্বিগুণ পরীক্ষা করুন।"
-        },
-        "howTo": {
-          "title": "কিভাবে পাঠাবেন:",
-          "steps": [
-            "আপনার Pi ওয়ালেট অ্যাপ্লিকেশন খুলুন",
-            "\"পাঠান\" বা \"স্থানান্তর\" নির্বাচন করুন",
-            "উপরের Pi ওয়ালেট ঠিকানা পেস্ট করুন",
-            "আপনি যে পরিমাণ Pi অনুদান করতে চান তা লিখুন",
-            "লেনদেন নিশ্চিত করুন",
-            "আপনার অনুদান কয়েক মিনিটের মধ্যে গ্রহণ করা হবে"
+        {
+          "name": "Double Gold",
+          "price": "10",
+          "priceNote": "One-time payment",
+          "mappiAllowance": "400",
+          "duration": "20 WKS",
+          "onlineShopping": true,
+          "mapMarkerPriority": "2",
+          "features": [
+            "High map marker priority",
+            "Generous Mappi allowance",
+            "Extended membership duration",
+            "Full online shopping access"
           ]
         },
-        "thankYou": {
-          "title": "ধন্যবাদ!",
-          "message": "আমরা আপনার সমর্থনের জন্য গভীরভাবে কৃতজ্ঞ। প্রতিটি অবদান Pi Network ইকোসিস্টেমের জন্য আরও স্থিতিশীল এবং সমৃদ্ধ ভবিষ্যত তৈরি করতে আমাদের সাহায্য করে।",
-          "contactLink": "প্রশ্ন আছে? আমাদের সাথে যোগাযোগ করুন"
-        }
-      }
-    },
-    "blog": {
-      "title": "Provena Labs ব্লগ",
-      "subtitle": "Provena Labs দলের সর্বশেষ খবর, অন্তর্দৃষ্টি এবং আপডেটের সাথে আপ টু ডেট থাকুন।",
-      "featured": "ফিচার্ড",
-      "readMore": "আরও পড়ুন",
-      "posts": [
         {
-          "title": "$USDP পরিচয় করিয়ে দেওয়া: স্থিতিশীল মূল্যের ভবিষ্যত",
-          "excerpt": "আমরা $USDP-এর লঞ্চ ঘোষণা করতে উত্তেজিত, Pi Network-এ নির্মিত একটি সম্পূর্ণ জামানতযুক্ত স্টেবলকয়েন।",
-          "date": "15 জানুয়ারী, 2025",
-          "author": "Provena Labs দল",
-          "category": "ঘোষণা"
+          "name": "Gold",
+          "price": "5",
+          "priceNote": "One-time payment",
+          "mappiAllowance": "100",
+          "duration": "10 WKS",
+          "onlineShopping": true,
+          "mapMarkerPriority": "3",
+          "features": [
+            "Good map marker priority",
+            "Standard Mappi allowance",
+            "Standard membership duration",
+            "Full online shopping access"
+          ]
         },
         {
-          "title": "স্টেবলকয়েন জামানত বোঝা",
-          "excerpt": "শিখুন কিভাবে $USDP 150% ওভারকল্যাটারালাইজেশন এবং উন্নত স্থিতিশীলতা প্রক্রিয়ার মাধ্যমে তার 1:1 USD পেগ বজায় রাখে।",
-          "date": "10 জানুয়ারী, 2025",
-          "author": "প্রযুক্তিগত দল",
-          "category": "শিক্ষা"
+          "name": "Green",
+          "price": "2",
+          "priceNote": "One-time payment",
+          "mappiAllowance": "20",
+          "duration": "4 WKS",
+          "onlineShopping": true,
+          "mapMarkerPriority": "4",
+          "features": [
+            "Basic map marker priority",
+            "Limited Mappi allowance",
+            "Short membership duration",
+            "Full online shopping access"
+          ]
         },
         {
-          "title": "DeFi ইন্টিগ্রেশন গাইড: আপনার প্রোটোকলে $USDP ব্যবহার করা",
-          "excerpt": "ডেভেলপারদের জন্য একটি ব্যাপক গাইড যারা তাদের DeFi অ্যাপ্লিকেশন এবং প্রোটোকলে $USDP একীভূত করতে চান।",
-          "date": "5 জানুয়ারী, 2025",
-          "author": "ডেভেলপার রিলেশন",
-          "category": "ডেভেলপার"
+          "name": "White",
+          "price": "1",
+          "priceNote": "One-time payment",
+          "mappiAllowance": "-",
+          "duration": "50 WKS",
+          "onlineShopping": false,
+          "mapMarkerPriority": "5",
+          "features": [
+            "Low map marker priority",
+            "No Mappi allowance",
+            "Long membership duration",
+            "No online shopping access"
+          ]
         },
         {
-          "title": "নিরাপত্তা অডিট ফলাফল: $USDP ব্যাপক পর্যালোচনা পাস",
-          "excerpt": "আমরা আমাদের সর্বশেষ নিরাপত্তা অডিটের ফলাফল শেয়ার করতে গর্বিত, আমাদের প্ল্যাটফর্মের শক্তিশালীতা নিশ্চিত করে।",
-          "date": "28 ডিসেম্বর, 2024",
-          "author": "নিরাপত্তা দল",
-          "category": "নিরাপত্তা"
-        },
-        {
-          "title": "Q4 2024 রোডম্যাপ আপডেট: পরবর্তী কী আসছে",
-          "excerpt": "Q4-এ আমাদের অর্জনের একটি ওভারভিউ এবং 2025-এর জন্য আমরা কী উত্তেজনাপূর্ণ বৈশিষ্ট্য পরিকল্পনা করেছি।",
-          "date": "20 ডিসেম্বর, 2024",
-          "author": "পণ্য দল",
-          "category": "রোডম্যাপ"
-        },
-        {
-          "title": "কমিউনিটি স্পটলাইট: ব্যবহারকারীরা $USDP কীভাবে ব্যবহার করছেন",
-          "excerpt": "আমাদের কমিউনিটি সদস্যদের কাহিনী এবং তারা তাদের দৈনন্দিন জীবনে $USDP-কে কীভাবে কাজে লাগাচ্ছেন তা প্রদর্শন করা।",
-          "date": "15 ডিসেম্বর, 2024",
-          "author": "কমিউনিটি দল",
-          "category": "কমিউনিটি"
+          "name": "Casual",
+          "price": "-",
+          "priceNote": "Free tier",
+          "mappiAllowance": "-",
+          "duration": "-",
+          "onlineShopping": false,
+          "mapMarkerPriority": "6",
+          "features": [
+            "Lowest map marker priority",
+            "No Mappi allowance",
+            "No membership duration",
+            "No online shopping access"
+          ]
         }
       ]
     },
-    "careers": {
-      "title": "আমাদের দলে যোগ দিন",
-      "subtitle": "স্থিতিশীল ডিজিটাল কারেন্সির ভবিষ্যত তৈরি করতে আমাদের সাহায্য করুন। আমরা ব্লকচেইন এবং অর্থের প্রতি উত্সাহী প্রতিভাবান ব্যক্তিদের খুঁজছি।",
-      "whyJoin": [
-        {
-          "icon": "meaningful",
-          "title": "অর্থপূর্ণ কাজ",
-          "description": "বিশ্বব্যাপী লক্ষ লক্ষ মানুষকে প্রভাবিত করে এমন প্রকল্পে কাজ করুন।"
-        },
-        {
-          "icon": "remote",
-          "title": "Remote First",
-          "description": "লচিক সময়সূচি সহ বিশ্বের যেকোনো জায়গা থেকে কাজ করুন।"
-        },
-        {
-          "icon": "pay",
-          "title": "প্রতিযোগিতামূলক বেতন",
-          "description": "শিল্প-নেতৃত্বাধীন বেতন এবং ইকুইটি প্যাকেজ।"
-        },
-        {
-          "icon": "growth",
-          "title": "বৃদ্ধি",
-          "description": "অবিচ্ছিন্ন শিক্ষা এবং পেশাদার উন্নয়ন।"
-        }
-      ],
-      "openPositions": {
-        "title": "খোলা পদ"
-      },
-      "jobs": [
-        {
-          "title": "সিনিয়র ব্লকচেইন ইঞ্জিনিয়ার",
-          "department": "ইঞ্জিনিয়ারিং",
-          "location": "Remote",
-          "type": "পূর্ণ-সময়",
-          "salary": "$150K - $200K"
-        },
-        {
-          "title": "পণ্য ব্যবস্থাপক",
-          "department": "পণ্য",
-          "location": "Remote",
-          "type": "পূর্ণ-সময়",
-          "salary": "$130K - $170K"
-        },
-        {
-          "title": "নিরাপত্তা অডিটর",
-          "department": "নিরাপত্তা",
-          "location": "Remote",
-          "type": "পূর্ণ-সময়",
-          "salary": "$140K - $190K"
-        },
-        {
-          "title": "ডেভেলপার রিলেশন ইঞ্জিনিয়ার",
-          "department": "ডেভেলপার রিলেশন",
-          "location": "Remote",
-          "type": "পূর্ণ-সময়",
-          "salary": "$120K - $160K"
-        },
-        {
-          "title": "মার্কেটিং ব্যবস্থাপক",
-          "department": "মার্কেটিং",
-          "location": "Remote",
-          "type": "পূর্ণ-সময়",
-          "salary": "$100K - $140K"
-        },
-        {
-          "title": "কমিউনিটি ব্যবস্থাপক",
-          "department": "কমিউনিটি",
-          "location": "Remote",
-          "type": "পূর্ণ-সময়",
-          "salary": "$80K - $120K"
-        }
-      ],
-      "benefits": {
-        "title": "সুবিধা",
-        "health": {
-          "title": "স্বাস্থ্য এবং সুস্থতা",
-          "items": [
-            "ব্যাপক স্বাস্থ্য বীমা",
-            "মানসিক স্বাস্থ্য সমর্থন",
-            "ফিটনেস স্টিপেন্ড",
-            "সীমাহীন PTO"
-          ]
-        },
-        "professional": {
-          "title": "পেশাদার উন্নয়ন",
-          "items": [
-            "শিক্ষার বাজেট",
-            "কনফারেন্স উপস্থিতি",
-            "মেন্টরশিপ প্রোগ্রাম",
-            "ক্যারিয়ার কোচিং"
-          ]
-        },
-        "compensation": {
-          "title": "ক্ষতিপূরণ",
-          "items": [
-            "প্রতিযোগিতামূলক বেতন",
-            "ইকুইটি প্যাকেজ",
-            "পারফরম্যান্স বোনাস",
-            "ক্রিপ্টো সুবিধা"
-          ]
-        },
-        "workLife": {
-          "title": "কাজ-জীবন ভারসাম্য",
-          "items": [
-            "লচিক ঘন্টা",
-            "রিমোট কাজ",
-            "প্যারেন্টাল ছুটি",
-            "দলগত ইভেন্ট"
-          ]
-        }
-      },
-      "cta": {
-        "message": "কোনো উপযুক্ত পদ দেখছেন না?",
-        "button": "আমাদের আপনার রিজিউমে পাঠান"
-      }
-    },
-    "company": {
-      "title": "Provena Labs সম্পর্কে",
-      "subtitle": "Pi Network-এ স্থিতিশীল ডিজিটাল কারেন্সির ভবিষ্যত তৈরি করা",
-      "missionVision": [
-        {
-          "type": "mission",
-          "title": "আমাদের মিশন",
-          "description": "একটি স্থিতিশীল, নিরাপদ এবং অ্যাক্সেসযোগ্য স্টেবলকয়েন তৈরি করতে যা ব্যক্তি এবং ব্যবসাগুলিকে আত্মবিশ্বাস এবং সহজতার সাথে ডিজিটাল অর্থনীতিতে অংশগ্রহণ করতে সক্ষম করে।"
-        },
-        {
-          "type": "vision",
-          "title": "আমাদের দৃষ্টিভঙ্গি",
-          "description": "একটি বিশ্ব যেখানে স্থিতিশীল ডিজিটাল কারেন্সি বিশ্বব্যাপী বাণিজ্যের ভিত্তি, সবার জন্য নির্বিঘ্ন লেনদেন এবং আর্থিক অন্তর্ভুক্তি সক্ষম করে।"
-        }
-      ],
-      "coreValues": {
-        "title": "মূল মূল্যবোধ",
-        "items": [
-          {
-            "icon": "excellence",
-            "title": "উৎকর্ষ",
-            "description": "আমরা আমাদের করা সবকিছুতেই সর্বোচ্চ মানের জন্য প্রচেষ্টা করি।"
-          },
-          {
-            "icon": "community",
-            "title": "কমিউনিটি",
-            "description": "আমরা আমাদের কমিউনিটির সাথে এবং তাদের জন্য তৈরি করি।"
-          },
-          {
-            "icon": "innovation",
-            "title": "উদ্ভাবন",
-            "description": "আমরা নতুন ধারণা এবং প্রযুক্তি গ্রহণ করি।"
-          },
-          {
-            "icon": "transparency",
-            "title": "স্বচ্ছতা",
-            "description": "আমরা সম্পূর্ণ খোলামেলাভাবে এবং সততার সাথে কাজ করি।"
-          }
+    "roadmap": {
+      "pageTitle": "Product Roadmap",
+      "pageSubtitle": "Our vision for the future of Map of Pi and the Pi Network marketplace ecosystem.",
+      "v140": {
+        "version": "V1.4.0",
+        "description": "The initial release of Map of Pi, establishing the foundation for the Pi Network marketplace.",
+        "features": [
+          "Basic map interface for discovering merchants",
+          "Pi Network authentication integration",
+          "Initial merchant listing functionality",
+          "Core marketplace features"
         ]
       },
-      "stats": {
-        "title": "সংখ্যা অনুযায়ী",
-        "items": [
-          {
-            "value": "$00M+",
-            "label": "মোট লক করা মূল্য"
-          },
-          {
-            "value": "00K+",
-            "label": "সক্রিয় ব্যবহারকারী"
-          },
-          {
-            "value": "0+",
-            "label": "ইন্টিগ্রেশন"
-          },
-          {
-            "value": "24/7",
-            "label": "সমর্থন উপলব্ধ"
-          }
+      "v155": {
+        "version": "V1.5.5",
+        "description": "Enhanced global map functionality and improved Pi Browser integration for seamless user experience.",
+        "features": [
+          "Global map with merchant locations",
+          "Enhanced Pi Browser integration",
+          "Improved search and discovery",
+          "Better merchant onboarding"
         ]
       },
-      "team": {
-        "title": "নেতৃত্ব দল",
-        "description": "আমাদের দল স্থিতিশীল ডিজিটাল কারেন্সির ভবিষ্যত তৈরি করতে ব্লকচেইন, অর্থ এবং প্রযুক্তিতে দক্ষতা একত্রিত করে।"
-      }
-    },
-    "comingSoon": {
-      "title": "শীঘ্রই আসছে",
-      "subtitle": "আমরা আপনার জন্য কিছু আশ্চর্যজনক নিয়ে আসতে কঠোর পরিশ্রম করছি। সাথে থাকুন!",
-      "whatsNext": {
-        "title": "পরবর্তী কী?",
-        "description": "আমরা Pi Network-এ স্থিতিশীল মূল্যের ভবিষ্যত তৈরি করছি। আমাদের অগ্রগতির সাথে আপ টু ডেট থাকতে আমাদের কমিউনিটিতে যোগ দিন।",
-        "telegramButton": "Telegram-এ যোগ দিন",
-        "homeButton": "হোমে ফিরে যান"
+      "v160": {
+        "version": "V1.6.0",
+        "description": "Introduction of QR codes, menu items, and significant improvements to the seller flow.",
+        "features": [
+          "QR code generation for merchants",
+          "Menu items and product listings",
+          "Enhanced seller flow and dashboard",
+          "Improved user experience"
+        ]
       },
-      "footer": "আপডেট এবং ঘোষণার জন্য, আমাদের সোশ্যাল চ্যানেলে আমাদের অনুসরণ করুন।"
+      "v20": {
+        "version": "V2.0 Coming Soon",
+        "description": "The next major release with enhanced search, user reviews, advanced filtering, and EscrowPi integration.",
+        "features": [
+          "Enhanced search functionality",
+          "User reviews and ratings system",
+          "Advanced filtering options",
+          "EscrowPi integration",
+          "AI assistant (M.A.C.) improvements",
+          "Global expansion features"
+        ]
+      }
     },
     "legal": {
-      "privacy": {
-        "title": "গোপনীয়তা নীতি",
-        "lastUpdated": "সর্বশেষ আপডেট: জানুয়ারী 2025",
-        "sections": [
-          {
-            "title": "1. ভূমিকা",
-            "content": "Provena Labs (\"আমরা,\" \"আমাদের,\" \"আমাদের,\" বা \"কোম্পানি\") আপনার গোপনীয়তা রক্ষা করতে প্রতিশ্রুতিবদ্ধ। এই গোপনীয়তা নীতি ব্যাখ্যা করে যে আমরা কীভাবে আপনার তথ্য সংগ্রহ, ব্যবহার, প্রকাশ এবং সুরক্ষা করি যখন আপনি আমাদের ওয়েবসাইট পরিদর্শন করেন এবং আমাদের পরিষেবা ব্যবহার করেন।"
-          },
-          {
-            "title": "2. আমরা যে তথ্য সংগ্রহ করি",
-            "content": "আমরা বিভিন্ন উপায়ে আপনার সম্পর্কে তথ্য সংগ্রহ করতে পারি:",
-            "items": [
-              "আপনি সরাসরি প্রদান করা তথ্য (নাম, ইমেইল, ওয়ালেট ঠিকানা)",
-              "স্বয়ংক্রিয়ভাবে সংগ্রহ করা তথ্য (IP ঠিকানা, ব্রাউজার টাইপ, পরিদর্শন করা পৃষ্ঠা)",
-              "তৃতীয়-পক্ষের উৎস থেকে তথ্য (বিশ্লেষণ প্রদানকারী, পেমেন্ট প্রসেসর)"
-            ]
-          },
-          {
-            "title": "3. আমরা কীভাবে আপনার তথ্য ব্যবহার করি",
-            "content": "আমরা যে তথ্য সংগ্রহ করি তা ব্যবহার করি:",
-            "items": [
-              "আমাদের পরিষেবা প্রদান, রক্ষণাবেক্ষণ এবং উন্নতি করতে",
-              "লেনদেন প্রক্রিয়া করতে এবং সম্পর্কিত তথ্য পাঠাতে",
-              "প্রচারমূলক যোগাযোগ পাঠাতে (আপনার সম্মতির সাথে)",
-              "আইনি বাধ্যবাধকতা মেনে চলতে",
-              "জালিয়াতি প্রতিরোধ করতে এবং নিরাপত্তা বাড়াতে"
-            ]
-          },
-          {
-            "title": "4. ডেটা নিরাপত্তা",
-            "content": "আমরা আপনার ব্যক্তিগত তথ্যকে অননুমোদিত অ্যাক্সেস, পরিবর্তন, প্রকাশ বা ধ্বংস থেকে রক্ষা করতে উপযুক্ত প্রযুক্তিগত এবং সাংগঠনিক ব্যবস্থা বাস্তবায়ন করি। যাইহোক, ইন্টারনেটের মাধ্যমে প্রেরণের কোনো পদ্ধতি 100% নিরাপদ নয়।"
-          },
-          {
-            "title": "5. আপনার অধিকার",
-            "content": "আপনার অবস্থানের উপর নির্ভর করে, আপনার অধিকার থাকতে পারে:",
-            "items": [
-              "আপনার ব্যক্তিগত তথ্যে অ্যাক্সেস",
-              "ভুল তথ্য সংশোধন",
-              "আপনার ডেটা মুছে ফেলার অনুরোধ",
-              "মার্কেটিং যোগাযোগ থেকে বেরিয়ে আসা"
-            ]
-          },
-          {
-            "title": "6. আমাদের সাথে যোগাযোগ করুন",
-            "content": "এই গোপনীয়তা নীতির বিষয়ে আপনার যদি প্রশ্ন থাকে, অনুগ্রহ করে privacy@provenalabs.com-এ আমাদের সাথে যোগাযোগ করুন"
-          }
-        ]
-      },
       "terms": {
-        "title": "সেবার শর্তাবলী",
-        "lastUpdated": "সর্বশেষ আপডেট: জানুয়ারী 2025",
+        "title": "Map of Pi Terms of Service",
+        "lastUpdated": "Last Updated: 6/3/2024",
+        "emailAddress": "Email Address: philip@mapofpi.com",
         "sections": [
           {
-            "title": "1. শর্তাবলীতে সম্মতি",
-            "content": "এই ওয়েবসাইট এবং পরিষেবা অ্যাক্সেস করে এবং ব্যবহার করে, আপনি এই চুক্তির শর্তাবলী এবং বিধান দ্বারা আবদ্ধ হতে স্বীকার করেন এবং সম্মত হন। আপনি যদি উপরের মেনে চলতে সম্মত না হন, অনুগ্রহ করে এই পরিষেবা ব্যবহার করবেন না।"
+            "title": "1. Acceptance of Terms",
+            "content": "Welcome to the Map of Pi app, developed by the Map of Pi team in collaboration with the Pi Community. By using this app, you agree to abide by these Terms of Service, as well as our Privacy Policy."
           },
           {
-            "title": "2. ব্যবহার লাইসেন্স",
-            "content": "ব্যক্তিগত, অ-বাণিজ্যিক অস্থায়ী দেখার জন্য Provena Labs-এর ওয়েবসাইটে উপকরণ (তথ্য বা সফ্টওয়্যার) এর একটি কপি অস্থায়ীভাবে ডাউনলোড করার অনুমতি দেওয়া হয়েছে। এটি একটি লাইসেন্সের অনুদান, শিরোনামের স্থানান্তর নয়, এবং এই লাইসেন্সের অধীনে আপনি নাও করতে পারেন:",
+            "title": "2. Use of the App",
             "items": [
-              "উপকরণ পরিবর্তন বা কপি করা",
-              "যেকোনো বাণিজ্যিক উদ্দেশ্যে বা যেকোনো পাবলিক প্রদর্শনের জন্য উপকরণ ব্যবহার করা",
-              "ওয়েবসাইটে থাকা যেকোনো সফ্টওয়্যার ডিকম্পাইল বা রিভার্স ইঞ্জিনিয়ার করার চেষ্টা করা",
-              "উপকরণ থেকে যেকোনো কপিরাইট বা অন্যান্য মালিকানাধীন নোটেশন সরানো",
-              "উপকরণ অন্য ব্যক্তির কাছে স্থানান্তর করা বা অন্য কোনো সার্ভারে উপকরণ \"মিরর\" করা"
+              "You agree to use the Map of Pi app in compliance with all applicable laws and regulations.",
+              "You shall not use the app for any unlawful or prohibited purpose, or in any way that could damage, disable, overburden, or impair the app.",
+              "To use Map of Pi you must be registered as a pioneer user of the Pi Network."
             ]
           },
           {
-            "title": "3. অস্বীকার",
-            "content": "Provena Labs-এর ওয়েবসাইটে উপকরণ 'যেমন আছে' ভিত্তিতে প্রদান করা হয়। Provena Labs কোনো ওয়ারেন্টি দেয় না, প্রকাশ্য বা অন্তর্নিহিত, এবং এখানে সমস্ত অন্যান্য ওয়ারেন্টি অস্বীকার এবং নেতিবাচক করে, সীমাবদ্ধতা ছাড়াই, অন্তর্নিহিত ওয়ারেন্টি বা বাণিজ্যিকতার শর্তাবলী, একটি নির্দিষ্ট উদ্দেশ্যের জন্য ফিটনেস, বা বৌদ্ধিক সম্পত্তির লঙ্ঘন না করা বা অধিকারের অন্যান্য লঙ্ঘন।"
+            "title": "3. Intellectual Property",
+            "content": "The Map of Pi app and all content, features, and functionality are owned by Map of Pi and are protected by copyright, trademark, and other intellectual property laws."
           },
           {
-            "title": "4. সীমাবদ্ধতা",
-            "content": "কোনো অবস্থাতেই Provena Labs বা এর সরবরাহকারীরা Provena Labs-এর ওয়েবসাইটে উপকরণ ব্যবহার বা ব্যবহার করতে অক্ষমতার কারণে উদ্ভূত যেকোনো ক্ষতির জন্য দায়ী হবে না (সীমাবদ্ধতা ছাড়াই, ডেটা বা লাভের ক্ষতির জন্য ক্ষতি, বা ব্যবসায়িক বাধার কারণে)।"
+            "title": "4. Limitation of Liability",
+            "content": "Map of Pi shall not be liable for any direct, indirect, incidental, special, or consequential damages arising out of or in any way connected with the use of the Map of Pi app."
           },
           {
-            "title": "5. উপকরণের নির্ভুলতা",
-            "content": "Provena Labs-এর ওয়েবসাইটে উপস্থিত উপকরণগুলিতে প্রযুক্তিগত, টাইপোগ্রাফিক্যাল বা ফটোগ্রাফিক ত্রুটি থাকতে পারে। Provena Labs গ্যারান্টি দেয় না যে এর ওয়েবসাইটের কোনো উপকরণ সঠিক, সম্পূর্ণ বা বর্তমান।"
+            "title": "5. Indemnification",
+            "content": "You agree to indemnify and hold harmless Map of Pi and its affiliates, officers, directors, employees, and agents from any and all claims, liabilities, damages, losses, or expenses (including attorneys' fees) arising out of or in any way related to your use of the Map of Pi app."
           },
           {
-            "title": "6. লিঙ্ক",
-            "content": "Provena Labs এর ওয়েবসাইটের সাথে লিঙ্ক করা সমস্ত সাইট পর্যালোচনা করেনি এবং এই ধরনের যেকোনো লিঙ্ক করা সাইটের বিষয়বস্তুর জন্য দায়ী নয়। যেকোনো লিঙ্কের অন্তর্ভুক্তি Provena Labs দ্বারা সাইটের অনুমোদন বোঝায় না। এই ধরনের যেকোনো লিঙ্ক করা ওয়েবসাইট ব্যবহার করা ব্যবহারকারীর নিজস্ব ঝুঁকিতে।"
+            "title": "6. Governing Law",
+            "content": "These Terms of Service shall be governed by and construed in accordance with the law of England and Wales without regard to their conflict of law provisions, including any dispute or claim arising out of or in connection with their subject matter or formation (including non-contractual disputes or claims)."
           },
           {
-            "title": "7. পরিবর্তন",
-            "content": "Provena Labs যেকোনো সময় নোটিশ ছাড়াই এর ওয়েবসাইটের জন্য এই সেবার শর্তাবলী সংশোধন করতে পারে। এই ওয়েবসাইট ব্যবহার করে, আপনি এই সেবার শর্তাবলীর সেই সময়ের বর্তমান সংস্করণ দ্বারা আবদ্ধ হতে সম্মত হচ্ছেন।"
+            "title": "7. Changes to These Terms",
+            "content": "We reserve the right to update or modify these Terms of Service at any time without prior notice. The latest version will be posted on our website or within the app."
           },
           {
-            "title": "8. শাসন আইন",
-            "content": "এই শর্তাবলী এবং বিধানগুলি Provena Labs যে এখতিয়ারে কাজ করে সেই এখতিয়ারের আইন অনুসারে শাসিত এবং ব্যাখ্যা করা হয়, এবং আপনি সেই অবস্থানে আদালতের একচেটিয়া এখতিয়ারে অপরিবর্তনীয়ভাবে জমা দেন।"
+            "title": "8. Contact Us",
+            "content": "If you have any questions or concerns about this Terms of Service, please contact us by sending an email to philip@mapofpi.com."
           }
         ]
       },
-      "compliance": {
-        "title": "সম্মতি এবং নিয়ন্ত্রক",
-        "subtitle": "নিয়ন্ত্রক সম্মতি এবং স্বচ্ছতার প্রতি আমাদের প্রতিশ্রুতি",
+      "privacy": {
+        "title": "Map of Pi Privacy Policy",
+        "lastUpdated": "Last Updated: 6/3/2024",
+        "emailAddress": "Email Address: philip@mapofpi.com",
         "sections": [
           {
-            "title": "নিয়ন্ত্রক সম্মতি",
-            "description": "Provena Labs নিয়ন্ত্রক সম্মতির সর্বোচ্চ মান বজায় রাখতে প্রতিশ্রুতিবদ্ধ। আমরা নিয়ন্ত্রক সংস্থাগুলির সাথে ঘনিষ্ঠভাবে কাজ করি যাতে আমাদের কার্যক্রম সমস্ত প্রযোজ্য আইন এবং নিয়মাবলী পূরণ করে।",
+            "title": "1. Introduction",
+            "content": "Welcome to the Map of Pi app, developed by the Map of Pi team in collaboration with the Pi Community. This Privacy Policy outlines how we collect, use, disclose, and protect your personal information when you use our mobile application."
+          },
+          {
+            "title": "2. Information We Collect"
+          },
+          {
+            "title": "2.1 User Information",
             "items": [
-              {
-                "title": "AML/KYC সম্মতি",
-                "description": "আমরা আর্থিক অপরাধ প্রতিরোধের জন্য ব্যাপক অ্যান্টি-মানি লন্ডারিং এবং নো ইয়োর কাস্টমার পদ্ধতি বাস্তবায়ন করি।"
-              },
-              {
-                "title": "ডেটা সুরক্ষা",
-                "description": "আমরা ব্যবহারকারীর গোপনীয়তা রক্ষার জন্য GDPR, CCPA এবং অন্যান্য ডেটা সুরক্ষা নিয়মাবলী মেনে চলি।"
-              },
-              {
-                "title": "আর্থিক নিয়মাবলী",
-                "description": "আমরা সমস্ত প্রযোজ্য আর্থিক নিয়মাবলী মেনে চলি এবং যেখানে প্রয়োজন সেখানে সঠিক লাইসেন্স বজায় রাখি।"
-              },
-              {
-                "title": "অডিট এবং স্বচ্ছতা",
-                "description": "আমরা নিয়মিত তৃতীয়-পক্ষের অডিট করি এবং আমাদের কার্যক্রমে সম্পূর্ণ স্বচ্ছতা বজায় রাখি।"
-              }
+              "When you register as a user, we may collect your name, email address, username, and other relevant details.",
+              "We may collect information about your device, including device type, operating system, and unique device identifiers."
             ]
           },
           {
-            "title": "নিরাপত্তা অডিট",
-            "description": "আমাদের প্ল্যাটফর্ম ব্যবহারকারীর তহবিল এবং ডেটার নিরাপত্তা নিশ্চিত করার জন্য শীর্ষস্থানীয় স্বাধীন নিরাপত্তা ফার্ম দ্বারা নিয়মিত নিরাপত্তা অডিটের মধ্য দিয়ে যায়।",
-            "content": {
-              "title": "সর্বশেষ অডিট ফলাফল",
-              "items": [
-                "নিরাপত্তা অডিট: Q4 2024 - কোনো গুরুতর সমস্যা ছাড়াই পাস",
-                "স্মার্ট কন্ট্র্যাক্ট অডিট: Q4 2024 - কোনো গুরুতর সমস্যা ছাড়াই পাস",
-                "সম্মতি পর্যালোচনা: Q4 2024 - সম্পূর্ণ সম্মতিপূর্ণ"
-              ]
-            }
+            "title": "2.2 Seller Information",
+            "content": "Sellers registering on the platform may be required to provide Seller information, including Seller name, location, and contact details."
           },
           {
-            "title": "নিয়ন্ত্রক লাইসেন্স",
-            "description": "Provena Labs আমাদের এখতিয়ারে কাজ করার জন্য প্রয়োজনীয় সমস্ত লাইসেন্স এবং নিবন্ধন বজায় রাখে।",
-            "grid": [
-              {
-                "title": "মানি সার্ভিস লাইসেন্স",
-                "description": "FinCEN এবং রাজ্য নিয়ন্ত্রকদের সাথে নিবন্ধিত"
-              },
-              {
-                "title": "ডেটা সুরক্ষা",
-                "description": "GDPR এবং CCPA সম্মতিপূর্ণ"
-              }
+            "title": "3. How We Use Your Information"
+          },
+          {
+            "title": "3.1 Providing Services",
+            "items": [
+              "We use your information to provide and enhance the Map of Pi app services, including user and Seller functionalities."
             ]
           },
           {
-            "title": "রিপোর্টিং এবং স্বচ্ছতা",
-            "description": "আমরা স্বচ্ছতায় বিশ্বাস করি এবং নিয়মিতভাবে আমাদের সম্মতি প্রচেষ্টা এবং কার্যক্রম মেট্রিক্স সম্পর্কে রিপোর্ট প্রকাশ করি।",
-            "links": [
-              {
-                "text": "Q4 2024 সম্মতি রিপোর্ট",
-                "url": "#"
-              },
-              {
-                "text": "নিরাপত্তা অডিট রিপোর্ট",
-                "url": "#"
-              },
-              {
-                "text": "স্বচ্ছতা রিপোর্ট",
-                "url": "#"
-              }
+            "title": "3.2 Communications",
+            "content": "We may use your contact information to send you updates, notifications, and promotional messages related to the Map of Pi app."
+          },
+          {
+            "title": "3.3 Analytics",
+            "content": "We collect and analyze data to improve the performance, features, and functionality of the app."
+          },
+          {
+            "title": "4. Sharing Your Information"
+          },
+          {
+            "title": "4.1 With Sellers",
+            "items": [
+              "User information may be shared with Sellers for order fulfillment and communication purposes."
             ]
+          },
+          {
+            "title": "4.2 With Third Parties",
+            "content": "We may share information with third-party service providers for app functionality, analytics, and payment processing."
+          },
+          {
+            "title": "5. Security Measures",
+            "content": "We employ industry-standard security measures to protect your information. However, no method of transmission over the internet or electronic storage is completely secure."
+          },
+          {
+            "title": "6. Your Choices",
+            "content": "You can update your account information through the app settings. You may delete your Map of Pi account by deleting your Pi Network account and then choosing the option to delete your Map of Pi data when you next access Map of Pi. You may opt-out of promotional communications."
+          },
+          {
+            "title": "7. Changes to This Privacy Policy",
+            "content": "We may update this Privacy Policy as necessary. The latest version will be posted on our website or within the app."
+          },
+          {
+            "title": "8. Contact Us",
+            "content": "If you have any questions or concerns about this Privacy Policy, please contact us by sending an email to philip@mapofpi.com."
           }
         ]
       },
       "disclosures": {
-        "title": "ঝুঁকি প্রকাশ",
-        "subtitle": "$USDP-এর সাথে সম্পর্কিত ঝুঁকি সম্পর্কে গুরুত্বপূর্ণ তথ্য",
+        "title": "Disclosures",
+        "subtitle": "Transparency and Regulatory Information",
         "warning": {
-          "title": "গুরুত্বপূর্ণ অস্বীকার",
-          "text": "ক্রিপ্টোকারেন্সি এবং স্টেবলকয়েন বিনিয়োগ উল্লেখযোগ্য ঝুঁকি বহন করে। $USDP বা আমাদের পরিষেবা ব্যবহার করার আগে অনুগ্রহ করে সমস্ত প্রকাশনা স carefully পড়ুন।"
+          "title": "Important Notice",
+          "text": "Map of Pi is a platform connecting users and merchants. We do not facilitate payments directly."
         },
         "sections": [
           {
-            "title": "বাজার ঝুঁকি",
-            "items": [
-              {
-                "title": "অস্থিরতা ঝুঁকি",
-                "description": "$USDP 1:1 USD পেগ বজায় রাখার জন্য ডিজাইন করা হয়েছে, বাজার পরিস্থিতি অস্থায়ী বিচ্যুতি ঘটাতে পারে। $USDP-এর মান ওঠানামা করতে পারে।"
-              },
-              {
-                "title": "তরলতা ঝুঁকি",
-                "description": "যেকোনো সময় $USDP কেনা বা বিক্রি করার জন্য পর্যাপ্ত তরলতার কোনো গ্যারান্টি নেই। বাজার পরিস্থিতি আপনার ট্রেড করার ক্ষমতাকে প্রভাবিত করতে পারে।"
-              },
-              {
-                "title": "কাউন্টারপার্টি ঝুঁকি",
-                "description": "$USDP আমাদের জামানত প্রদানকারী এবং অংশীদারদের আর্থিক স্থিতিশীলতার উপর নির্ভর করে। এই সত্তাগুলির ব্যর্থতা $USDP-এর মানকে প্রভাবিত করতে পারে।"
-              }
-            ]
-          },
+            "title": "Platform Nature",
+            "content": "Map of Pi serves as a directory and discovery platform. Transactions are peer-to-peer between users and merchants."
+          }
+        ]
+      },
+      "compliance": {
+        "title": "Compliance",
+        "subtitle": "Adhering to Pi Network ecosystem standards.",
+        "sections": [
           {
-            "title": "প্রযুক্তি ঝুঁকি",
-            "items": [
-              {
-                "title": "স্মার্ট কন্ট্র্যাক্ট ঝুঁকি",
-                "description": "যদিও আমাদের স্মার্ট কন্ট্র্যাক্টগুলি অডিট করা হয়েছে, অজানা দুর্বলতা বা শোষণের ঝুঁকি সবসময় থাকে।"
-              },
-              {
-                "title": "ব্লকচেইন ঝুঁকি",
-                "description": "Pi Network ব্লকচেইন প্রযুক্তিগত সমস্যা, নেটওয়ার্ক ভিড় বা অন্যান্য সমস্যার সম্মুখীন হতে পারে যা $USDP লেনদেনকে প্রভাবিত করতে পারে।"
-              },
-              {
-                "title": "ওয়ালেট ঝুঁকি",
-                "description": "প্রাইভেট কী বা ওয়ালেট অ্যাক্সেস হারানো আপনার $USDP-এর স্থায়ী ক্ষতির কারণ হতে পারে। আমরা হারানো তহবিল পুনরুদ্ধার করতে পারি না।"
-              }
-            ]
-          },
-          {
-            "title": "নিয়ন্ত্রক ঝুঁকি",
-            "items": [
-              {
-                "title": "নিয়ন্ত্রক পরিবর্তন",
-                "description": "ক্রিপ্টোকারেন্সি নিয়মাবলীর পরিবর্তন নির্দিষ্ট এখতিয়ারে $USDP-এর প্রাপ্যতা বা ব্যবহারকে প্রভাবিত করতে পারে।"
-              },
-              {
-                "title": "আইনি অনিশ্চয়তা",
-                "description": "স্টেবলকয়েন এবং ক্রিপ্টোকারেন্সির আইনি অবস্থা অনেক এখতিয়ারে অনিশ্চিত থাকে এবং পরিবর্তিত হতে পারে।"
-              }
-            ]
-          },
-          {
-            "title": "কোনো বিনিয়োগ পরামর্শ নেই",
-            "content": "এই ওয়েবসাইট এবং আমাদের পরিষেবা বিনিয়োগ পরামর্শ, আর্থিক পরামর্শ বা $USDP কেনা বা বিক্রি করার সুপারিশ গঠন করে না। আমরা দৃ strongly 强烈 সুপারিশ করি যে কোনো বিনিয়োগ সিদ্ধান্ত নেওয়ার আগে একজন যোগ্য আর্থিক উপদেষ্টার সাথে পরামর্শ করুন।"
-          },
-          {
-            "title": "দায়িত্বের সীমাবদ্ধতা",
-            "content": "আইন দ্বারা অনুমোদিত সর্বোচ্চ সীমা পর্যন্ত, Provena Labs $USDP বা আমাদের পরিষেবা ব্যবহার থেকে উদ্ভূত যেকোনো পরোক্ষ, ঘটনাচক্রে, বিশেষ, ফলস্বরূপ বা শাস্তিমূলক ক্ষতির জন্য দায়ী হবে না, যার মধ্যে লাভ, ডেটা বা ব্যবহারের ক্ষতি অন্তর্ভুক্ত।"
+            "title": "Pi Network Guidelines",
+            "content": "We follow all applicable Pi Network guidelines and policies."
           }
         ]
       }
-    },
-    "pitch": {
-        "cover": {
-          "tagline": "স্থিতিশীল। নিরাপদ। সহজ।",
-          "subtitle": "Pi Network-এ স্থিতিশীল মূল্যের ভবিষ্যৎ",
-          "description": "পরবর্তী প্রজন্মের ডিজিটাল অর্থের জন্য ডিজাইন করা USD-পেগড স্টেবলকয়েন।"
-        },
-        "problem": {
-          "title": "কেন স্টেবলকয়েন গুরুত্বপূর্ণ",
-          "challenges": {
-            "title": "বর্তমান বাজার চ্যালেঞ্জ",
-            "items": [
-              "বিদ্যমান স্টেবলকয়েন উচ্চ ফি নেটওয়ার্কে (Ethereum, Tron) কাজ করে",
-              "লেনদেনের খরচ প্রতি লেনদেনে $1-50+ পৌঁছায়",
-              "55+ মিলিয়ন Pi Network ব্যবহারকারীর জন্য সীমিত অ্যাক্সেস",
-              "বিদ্যমান সমাধানে এন্টারপ্রাইজ-গ্রেড নিরাপত্তার অভাব",
-              "স্বচ্ছ, অডিট করা জামানত ব্যাকিংয়ের প্রয়োজন"
-            ]
-          },
-          "opportunity": {
-            "title": "সুযোগ",
-            "description": "বিশ্বব্যাপী কোটি কোটি ব্যবহারকারীর কম খরচ এবং উচ্চ নিরাপত্তা সহ স্থিতিশীল ডিজিটাল মুদ্রার অ্যাক্সেস নেই।"
-          }
-        },
-        "introducing": {
-          "title": "$USDP কি?",
-          "description": "$USDP হল Pi Network ব্লকচেইনে নেটিভভাবে নির্মিত একটি সম্পূর্ণ জামানত USD-পেগড স্টেবলকয়েন।",
-          "valueProps": [
-            {
-              "title": "1:1 USD পেগ",
-              "description": "সর্বদা ঠিক এক ডলারের মূল্য"
-            },
-            {
-              "title": "150% অতিরিক্ত জামানত",
-              "description": "সর্বোচ্চ স্থিতিশীলতার জন্য 115% এর বেশি জামানত দ্বারা সমর্থিত"
-            },
-            {
-              "title": "এন্টারপ্রাইজ নিরাপত্তা",
-              "description": "মাল্টি-সিগনেচার ওয়ালেট, পাসকি প্রমাণীকরণ, এবং কঠোর অডিট"
-            },
-            {
-              "title": "Pi Network নেটিভ",
-              "description": "দ্রুততম, সর্বনিম্ন খরচের ব্লকচেইন অবকাঠামো ব্যবহার করে"
-            },
-            {
-              "title": "স্বচ্ছ এবং অডিট করা",
-              "description": "নিয়মিত কমপ্লায়েন্স রিপোর্ট সহ সম্পূর্ণ অন-চেইন স্বচ্ছতা"
-            }
-          ]
-        },
-        "competitiveAdvantages": {
-          "title": "কেন $USDP আলাদা",
-          "subtitle": "প্রতিযোগিতামূলক সুবিধা",
-          "table": {
-            "feature": "বৈশিষ্ট্য",
-            "usdp": "$USDP",
-            "competitors": "প্রতিযোগী",
-            "rows": [
-              {
-                "feature": "নেটওয়ার্ক",
-                "usdp": "Pi নেটওয়ার্ক",
-                "competitors": "Ethereum, Tron"
-              },
-              {
-                "feature": "লেনদেন ফি",
-                "usdp": "<$0.01",
-                "competitors": "$1-50+"
-              },
-              {
-                "feature": "জামানত অনুপাত",
-                "usdp": "150%",
-                "competitors": "100-110%"
-              },
-              {
-                "feature": "প্রমাণীকরণ",
-                "usdp": "পাসকি",
-                "competitors": "পাসওয়ার্ড/2FA"
-              },
-              {
-                "feature": "মিন্ট/রিডিম ফি",
-                "usdp": "0.3%",
-                "competitors": "0.5-1%"
-              },
-              {
-                "feature": "গতি",
-                "usdp": "সেকেন্ড",
-                "competitors": "মিনিট"
-              },
-              {
-                "feature": "নিরাপত্তা অডিট",
-                "usdp": "নিয়মিত",
-                "competitors": "বিভিন্ন"
-              }
-            ]
-          },
-          "conclusion": "$USDP খরচ, নিরাপত্তা এবং অ্যাক্সেসিবিলিটিতে জয়ী।"
-        },
-        "keyFeatures": {
-          "title": "মূল বৈশিষ্ট্য",
-          "sections": [
-            {
-              "title": "নিরাপত্তা প্রথম",
-              "subtitle": "এন্টারপ্রাইজ-গ্রেড সুরক্ষা",
-              "items": [
-                "মাল্টি-সিগনেচার ওয়ালেট আর্কিটেকচার অননুমোদিত অ্যাক্সেস প্রতিরোধ করে",
-                "সর্বোচ্চ নিরাপত্তার জন্য পাসকি প্রমাণীকরণ",
-                "অন-চেইনে রিয়েল-টাইম রিজার্ভ ট্র্যাকিং",
-                "ব্যবহারকারী ডেটার জন্য ক্লায়েন্ট-সাইড এনক্রিপশন",
-                "বায়োমেট্রিক প্রমাণীকরণ সমর্থন",
-                "নিয়মিত তৃতীয়-পক্ষ নিরাপত্তা অডিট"
-              ]
-            },
-            {
-              "title": "বজ্রপাত-দ্রুত লেনদেন",
-              "subtitle": "গতি এবং দক্ষতা",
-              "items": [
-                "Pi Network-এ সেকেন্ডে লেনদেন নিষ্পত্তি",
-                "প্রায় শূন্য লেনদেন ফি (<$0.01)",
-                "ব্যবসায়ীদের জন্য তাৎক্ষণিক নিষ্পত্তি",
-                "কোনো মধ্যস্থতাকারী বা বিলম্ব নেই"
-              ]
-            },
-            {
-              "title": "বৈশ্বিক এবং সীমানাহীন",
-              "subtitle": "বিশ্বব্যাপী অ্যাক্সেস",
-              "items": [
-                "বিশ্বের যেকোনো জায়গায় $USDP পাঠান এবং গ্রহণ করুন",
-                "কোনো ভৌগোলিক সীমাবদ্ধতা নেই",
-                "কোনো ব্যাঙ্কিং মধ্যস্থতাকারী নেই",
-                "24/7/365 উপলব্ধ"
-              ]
-            },
-            {
-              "title": "সম্পূর্ণ স্বচ্ছ",
-              "subtitle": "অন-চেইন যাচাইকরণ",
-              "items": [
-                "100% অন-চেইন স্বচ্ছতা",
-                "অডিটযোগ্য জামানত রিজার্ভ",
-                "নিয়মিত প্রকাশিত কমপ্লায়েন্স রিপোর্ট",
-                "স্বাধীন ফার্ম দ্বারা অডিট করা স্মার্ট কন্ট্র্যাক্ট কোড"
-              ]
-            }
-          ]
-        },
-        "technicalSpecs": {
-          "title": "প্রযুক্তিগত বৈশিষ্ট্য",
-          "subtitle": "অবকাঠামো বিবরণ",
-          "items": [
-            {
-              "label": "ব্লকচেইন",
-              "value": "Pi নেটওয়ার্ক"
-            },
-            {
-              "label": "টোকেন স্ট্যান্ডার্ড",
-              "value": "Pi নেটওয়ার্ক নেটিভ টোকেন"
-            },
-            {
-              "label": "দশমিক",
-              "value": "18"
-            },
-            {
-              "label": "জামানত অনুপাত",
-              "value": "150%"
-            },
-            {
-              "label": "মিন্টিং ফি",
-              "value": "0.3%"
-            },
-            {
-              "label": "রিডিম্পশন ফি",
-              "value": "0.3%"
-            },
-            {
-              "label": "ট্রান্সফার ফি",
-              "value": "0% (সম্পূর্ণ বিনামূল্যে)"
-            },
-            {
-              "label": "অডিট স্ট্যাটাস",
-              "value": "নিয়মিত অডিট"
-            }
-          ]
-        },
-        "marketOpportunity": {
-          "title": "বাজার সুযোগ",
-          "subtitle": "বিশাল মোট অ্যাড্রেসেবল মার্কেট (TAM)",
-          "sections": [
-            {
-              "title": "Pi Network ইকোসিস্টেম",
-              "items": [
-                "ব্লকচেইন সমাধান গ্রহণের জন্য প্রস্তুত 55+ মিলিয়ন সক্রিয় ব্যবহারকারী",
-                "ক্রিপ্টো পণ্যে প্রমাণিত আগ্রহ সহ সক্রিয় সম্প্রদায়",
-                "Pi Network স্টেবলকয়েন স্পেসে প্রথম-মুভার সুবিধা"
-              ]
-            },
-            {
-              "title": "বৈশ্বিক স্টেবলকয়েন বাজার",
-              "items": [
-                "$180+ বিলিয়ন স্টেবলকয়েন বাজার আকার (এবং বৃদ্ধি পাচ্ছে)",
-                "30% ছাড়িয়ে বার্ষিক বৃদ্ধির হার",
-                "বৃদ্ধি পাচ্ছে ইনস্টিটিউশনাল অ্যাডপশন",
-                "প্রধান বাজারে নিয়ন্ত্রক স্পষ্টতা"
-              ]
-            },
-            {
-              "title": "ব্যবহারের ক্ষেত্র বিভাগ",
-              "items": [
-                "ই-কমার্স এবং পেমেন্ট: কম খরচের পেমেন্ট বিকল্প খুঁজছেন এমন ব্যবসায়ীরা",
-                "DeFi ট্রেডিং: জামানত এবং লিকুইডিটি প্রদানের প্রয়োজন এমন ট্রেডাররা",
-                "ক্রস-বর্ডার রেমিট্যান্স: সাশ্রয়ী মূল্যে বাড়িতে টাকা পাঠাচ্ছেন এমন শ্রমিকরা",
-                "মূল্য স্টোরেজ: ভোলাটিলিটি ছাড়াই ক্রিপ্টোকারেন্সি এক্সপোজার খুঁজছেন এমন ব্যবহারকারীরা"
-              ]
-            }
-          ]
-        },
-        "useCases": {
-          "title": "ব্যবহারের ক্ষেত্র",
-          "subtitle": "যেখানে $USDP বাস্তব সমস্যা সমাধান করে",
-          "categories": [
-            {
-              "title": "ই-কমার্স এবং পেমেন্ট",
-              "items": [
-                "তাৎক্ষণিক নিষ্পত্তি এবং শূন্য ব্যবসায়ী জালিয়াতি সহ পেমেন্ট গ্রহণ করুন",
-                "ন্যূনতম ফি খুচরা বিক্রেতাদের জন্য ভালো মার্জিন সক্ষম করে",
-                "ঐতিহ্যগত পেমেন্ট প্রসেসর ছাড়া বৈশ্বিক পেমেন্ট নেটওয়ার্ক"
-              ]
-            },
-            {
-              "title": "ক্রস-বর্ডার পেমেন্ট এবং রেমিট্যান্স",
-              "items": [
-                "ঐতিহ্যগত খরচের একটি ভগ্নাংশে আন্তর্জাতিকভাবে টাকা পাঠান",
-                "মধ্যস্থতাকারীদের দূর করুন (ব্যাঙ্ক, মানি ট্রান্সফার সার্ভিস)",
-                "তাৎক্ষণিক নিষ্পত্তি বনাম 3-5 দিন ব্যাঙ্কিং বিলম্ব",
-                "বিদেশে পরিবারকে সমর্থনকারী অভিবাসী শ্রমিকদের জন্য নিখুঁত"
-              ]
-            },
-            {
-              "title": "DeFi এবং ট্রেডিং",
-              "items": [
-                "লেন্ডিং প্রোটোকলে $USDP কে জামানত হিসাবে ব্যবহার করুন",
-                "বিকেন্দ্রীভূত এক্সচেঞ্জে লিকুইডিটি প্রদান করুন এবং ফলন অর্জন করুন",
-                "স্থিতিশীল-মূল্য জোড়া সহ ভোলাটাইল অ্যাসেট ট্রেড করুন",
-                "ফলন চাষ কৌশলে অংশগ্রহণ করুন"
-              ]
-            },
-            {
-              "title": "মূল্য স্টোরেজ",
-              "items": [
-                "ক্রিপ্টো ভোলাটিলিটির এক্সপোজার ছাড়াই স্থিতিশীল ক্রয় ক্ষমতা ধরে রাখুন",
-                "স্থানীয় মুদ্রার অবমূল্যায়নের বিরুদ্ধে হেজ",
-                "ডিজিটাল আকারে লিকুইডিটি বজায় রাখুন",
-                "সীমানা জুড়ে সম্পদ সংরক্ষণ করুন"
-              ]
-            }
-          ]
-        },
-        "businessModel": {
-          "title": "ব্যবসায়িক মডেল এবং রাজস্ব স্ট্রিম",
-          "subtitle": "টেকসই অর্থনীতি",
-          "sections": [
-            {
-              "title": "রাজস্ব উৎপাদন",
-              "items": [
-                "মিন্টিং ফি: তৈরি করা সমস্ত নতুন $USDP-এর 0.3%",
-                "রিডিম্পশন ফি: USD জামানতে রিডিম করা সমস্ত $USDP-এর 0.3%",
-                "পার্টনারশিপ ফি: ব্যবসায়ী, এক্সচেঞ্জ এবং প্রোটোকলের সাথে ইন্টিগ্রেশন পার্টনারশিপ",
-                "এন্টারপ্রাইজ সার্ভিস: ইনস্টিটিউশনাল কাস্টডি এবং ম্যানেজমেন্ট সমাধান"
-              ]
-            },
-            {
-              "title": "খরচ কাঠামো",
-              "items": [
-                "ন্যূনতম অবকাঠামো খরচ (Pi Network অপারেশনাল ওভারহেড হ্রাস করে)",
-                "নিরাপত্তা এবং কমপ্লায়েন্স খরচ স্কেল দ্বারা অফসেট",
-                "ইকোসিস্টেম পার্টনারশিপের মাধ্যমে গ্রাহক অধিগ্রহণ"
-              ]
-            }
-          ],
-          "profitability": "ফি থেকে রাজস্ব লেনদেনের পরিমাণের সাথে রৈখিকভাবে স্কেল করে যখন অবকাঠামো খরচ স্থির থাকে, স্কেলে উল্লেখযোগ্য মার্জিন সম্প্রসারণ তৈরি করে।"
-        },
-        "tokenEconomics": {
-          "title": "টোকেন ইকোনমিক্স এবং সাপ্লাই মডেল",
-          "subtitle": "স্থিতিশীলতার জন্য ডিজাইন করা",
-          "supplyMechanism": {
-            "title": "সাপ্লাই মেকানিজম",
-            "items": [
-              "Pi জামানত দ্বারা সমর্থিত - প্রতিটি $USDP-এর জামানত রিজার্ভ আছে",
-              "গতিশীল সাপ্লাই 1:1 পেগ বজায় রেখে চাহিদার উপর ভিত্তি করে সামঞ্জস্য করে",
-              "150% অতিরিক্ত জামানত সমস্ত বাজার অবস্থায় স্থিতিশীলতা নিশ্চিত করে",
-              "অন-চেইনে স্বচ্ছ রিজার্ভ যাচাইকরণ"
-            ]
-          },
-          "functions": {
-            "title": "$USDP-এর তিনটি কার্য",
-            "items": [
-              "বিনিময়ের মাধ্যম - দ্রুত, কম খরচের বৈশ্বিক লেনদেনের জন্য ব্যবহার করুন",
-              "মূল্য স্টোরেজ - ভোলাটিলিটি এক্সপোজার ছাড়াই স্থিতিশীল অ্যাসেট হিসাবে ধরে রাখুন",
-              "DeFi জামানত - বিকেন্দ্রীভূত অর্থ প্রোটোকল এবং ফলন কৌশলে ব্যবহার করুন"
-            ]
-          },
-          "pegMaintenance": {
-            "title": "পেগ রক্ষণাবেক্ষণ",
-            "items": [
-              "ব্যবহারকারীরা সর্বদা $1.00-এ মিন্ট করতে পারে এবং $1.00-এ রিডিম করতে পারে",
-              "আর্বিট্রেজ ইনসেনটিভ বাজার মূল্যকে পেগে রাখে",
-              "জামানতের অতিরিক্ত রিডিম্পশন ক্ষমতা নিশ্চিত করে"
-            ]
-          }
-        },
-        "goToMarket": {
-          "title": "বাজারে যাওয়ার কৌশল",
-          "phases": [
-            {
-              "title": "ফেজ 1: লঞ্চ এবং ফাউন্ডেশন",
-              "period": "Q4 2025 - Q1 2026",
-              "items": [
-                "মূল বৈশিষ্ট্য সহ Pi Network টেস্টনেটে বিটা লঞ্চ",
-                "নিরাপত্তা অডিট সম্পূর্ণতা এবং প্রকাশনা",
-                "Pi ইকোসিস্টেম প্রকল্পের সাথে কৌশলগত পার্টনারশিপ",
-                "কমিউনিটি শিক্ষা এবং অনবোর্ডিং",
-                "ভোক্তা অ্যাক্সেসিবিলিটির জন্য মোবাইল অ্যাপ লঞ্চ"
-              ]
-            },
-            {
-              "title": "ফেজ 2: বৃদ্ধি এবং ইন্টিগ্রেশন",
-              "period": "Q2 2026",
-              "items": [
-                "মেইননেট লঞ্চ এবং পাবলিক অ্যাভেইলেবিলিটি",
-                "বাস্তব-বিশ্ব অ্যাডপশনের জন্য ব্যবসায়ী পার্টনারশিপ",
-                "DeFi প্রোটোকল ইন্টিগ্রেশন (লেন্ডিং, ট্রেডিং, লিকুইডিটি)",
-                "ক্রস-চেইন ব্রিজ ডেভেলপমেন্ট",
-                "বিকেন্দ্রীভূত গভর্নেন্সের জন্য গভর্নেন্স টোকেন পরিচয়"
-              ]
-            },
-            {
-              "title": "ফেজ 3: স্কেল এবং সম্প্রসারণ",
-              "period": "Q3 2026+",
-              "items": [
-                "ইনস্টিটিউশনাল সার্ভিস লঞ্চ (কাস্টডি, নিষ্পত্তি)",
-                "নতুন ভৌগোলিক বাজারে বৈশ্বিক সম্প্রসারণ",
-                "উন্নত বৈশিষ্ট্য (ফলন পণ্য, ডেরিভেটিভ)",
-                "অতিরিক্ত রাজস্ব স্ট্রিম",
-                "বাজার নেতৃত্ব অবস্থান"
-              ]
-            }
-          ]
-        },
-        "teamPartnerships": {
-          "title": "দল এবং পার্টনারশিপ",
-          "subtitle": "Provena Labs দ্বারা সমর্থিত",
-          "partners": {
-            "title": "আমাদের ইকোসিস্টেম পার্টনার",
-            "items": [
-              {
-                "name": "ZyraChain",
-                "description": "অবকাঠামো এবং ব্লকচেইন সমাধান"
-              },
-              {
-                "name": "Zyra",
-                "description": "মূল প্ল্যাটফর্ম সার্ভিস"
-              },
-              {
-                "name": "ZyraPay",
-                "description": "পেমেন্ট প্রসেসিং ইন্টিগ্রেশন"
-              },
-              {
-                "name": "ZyraWallet",
-                "description": "ওয়ালেট এবং কাস্টডি সমাধান"
-              },
-              {
-                "name": "ZyraDEX",
-                "description": "বিকেন্দ্রীভূত এক্সচেঞ্জ"
-              },
-              {
-                "name": "Orbit",
-                "description": "ক্রস-চেইন সমাধান"
-              },
-              {
-                "name": "Dappify",
-                "description": "ডেভেলপার প্ল্যাটফর্ম"
-              }
-            ]
-          },
-          "whyMatters": {
-            "title": "কেন এটি গুরুত্বপূর্ণ",
-            "description": "Provena Labs ব্লকচেইন অবকাঠামোর চারপাশে একটি সম্পূর্ণ ইকোসিস্টেম তৈরি করেছে। $USDP এই সম্পূর্ণ পণ্য এবং পরিষেবা নেটওয়ার্ক জুড়ে নেটিভ স্টেবলকয়েন হিসাবে অবস্থিত।"
-          }
-        },
-        "riskMitigation": {
-          "title": "ঝুঁকি প্রশমন",
-          "subtitle": "আমরা কীভাবে ঝুঁকি পরিচালনা করি",
-          "risks": [
-            {
-              "title": "জামানত ঝুঁকি",
-              "items": [
-                "150% অতিরিক্ত জামানত ন্যূনতম প্রয়োজনীয়তাকে উল্লেখযোগ্যভাবে ছাড়িয়ে যায়",
-                "জামানত রিজার্ভের নিয়মিত অডিট",
-                "স্বচ্ছ অন-চেইন যাচাইকরণ",
-                "রক্ষণশীল জামানত নির্বাচন"
-              ]
-            },
-            {
-              "title": "নিয়ন্ত্রক ঝুঁকি",
-              "items": [
-                "শুরুর থেকেই কমপ্লায়েন্স-প্রথম পদ্ধতি",
-                "নিয়মিত কমপ্লায়েন্স অডিট এবং রিপোর্টিং",
-                "নিয়ন্ত্রক স্পষ্টতার উপর ভিত্তি করে ভৌগোলিক সম্প্রসারণ",
-                "নিয়ন্ত্রকদের সাথে সক্রিয় জড়িত"
-              ]
-            },
-            {
-              "title": "প্রযুক্তিগত ঝুঁকি",
-              "items": [
-                "সম্মানিত ফার্ম দ্বারা নিয়মিত নিরাপত্তা অডিট",
-                "মাল্টি-সিগনেচার নিরাপত্তা আর্কিটেকচার",
-                "পর্যায়ক্রমিক রোলআউট (টেস্টনেট → মেইননেট)",
-                "কমিউনিটি নিরাপত্তা গবেষণার জন্য বাগ বাউন্টি প্রোগ্রাম"
-              ]
-            },
-            {
-              "title": "বাজার ঝুঁকি",
-              "items": [
-                "1:1 পেগ আর্বিট্রেজ মেকানিজম",
-                "শক্তিশালী পার্টনারশিপ ইকোসিস্টেম অ্যাডপশন তৈরি করে",
-                "Pi Network-এ প্রথম-মুভার সুবিধা",
-                "প্রতিযোগীদের থেকে আলাদা অবস্থান"
-              ]
-            }
-          ]
-        },
-        "financialProjections": {
-          "title": "আর্থিক অনুমান",
-          "subtitle": "5-বছরের দৃষ্টিভঙ্গি",
-          "years": [
-            {
-              "period": "বছর 1 (2025-2026)",
-              "items": [
-                "প্রচলনে 10-50 মিলিয়ন $USDP",
-                "5,000-20,000 দৈনিক সক্রিয় ব্যবহারকারী",
-                "কয়েক ডজন ব্যবসায়ী পার্টনারশিপ",
-                "পণ্য-বাজার ফিটে ফোকাস"
-              ]
-            },
-            {
-              "period": "বছর 2 (2026-2027)",
-              "items": [
-                "প্রচলনে 100-500 মিলিয়ন $USDP",
-                "50,000-200,000 দৈনিক সক্রিয় ব্যবহারকারী",
-                "প্রধান এন্টারপ্রাইজ পার্টনারশিপ",
-                "লাভজনকতা মাইলফলক"
-              ]
-            },
-            {
-              "period": "বছর 3+ (2027+)",
-              "items": [
-                "প্রচলনে $1+ বিলিয়ন $USDP",
-                "লক্ষ লক্ষ দৈনিক সক্রিয় ব্যবহারকারী",
-                "ইনস্টিটিউশনাল অ্যাডপশন",
-                "Pi Network-এ বাজার নেতৃত্ব"
-              ]
-            }
-          ]
-        },
-        "theAsk": {
-          "title": "অনুরোধ",
-          "amount": "সিরিজ A ফান্ডিংয়ে $5M চাওয়া হচ্ছে",
-          "equity": "10% ইকুইটি বিনিময়ে",
-          "valuation": "এটি Provena Labs / $USDP-কে $50 মিলিয়নের পোস্ট-মানি মূল্যায়নে মূল্যায়ন করে, যা আমাদের বাজার অবস্থান, ইকোসিস্টেম শক্তি এবং বৃদ্ধির গতিপথকে প্রতিফলিত করে।",
-          "useOfFunds": {
-            "title": "তহবিল ব্যবহার বরাদ্দ",
-            "items": [
-              {
-                "category": "পণ্য উন্নয়ন এবং নিরাপত্তা",
-                "percentage": "35%",
-                "amount": "$1.75M",
-                "details": [
-                  "উন্নত নিরাপত্তা অবকাঠামো এবং অডিট",
-                  "মেইননেট লঞ্চ এবং অপ্টিমাইজেশন",
-                  "উন্নত বৈশিষ্ট্য (ফলন পণ্য, ক্রস-চেইন ব্রিজ)"
-                ]
-              },
-              {
-                "category": "বাজারে যাওয়া এবং ব্যবহারকারী অধিগ্রহণ",
-                "percentage": "30%",
-                "amount": "$1.5M",
-                "details": [
-                  "মার্কেটিং এবং কমিউনিটি বিল্ডিং",
-                  "ব্যবসায়ী এবং পার্টনারশিপ উন্নয়ন",
-                  "মোবাইল অ্যাপ এবং ইউজার ইন্টারফেস অপ্টিমাইজেশন"
-                ]
-              },
-              {
-                "category": "নিয়ন্ত্রক এবং কমপ্লায়েন্স",
-                "percentage": "20%",
-                "amount": "$1M",
-                "details": [
-                  "আইনি এবং কমপ্লায়েন্স অবকাঠামো",
-                  "জামানত ব্যবস্থাপনার জন্য ব্যাঙ্কিং সম্পর্ক",
-                  "বৈশ্বিক নিয়ন্ত্রক অনুমোদন"
-                ]
-              },
-              {
-                "category": "দল এবং অপারেশন",
-                "percentage": "15%",
-                "amount": "$750K",
-                "details": [
-                  "মূল নিয়োগ (পার্টনারশিপ প্রধান, VP ইঞ্জিনিয়ারিং, কমপ্লায়েন্স অফিসার)",
-                  "অপারেশনাল অবকাঠামো স্কেলিং"
-                ]
-              }
-            ]
-          },
-          "terms": {
-            "title": "বিনিয়োগ শর্তাবলী ওভারভিউ",
-            "sections": [
-              {
-                "title": "ইকুইটি কাঠামো",
-                "items": [
-                  "10% সম্পূর্ণ ডিলিউশন ইকুইটি মালিকানা",
-                  "মানক সুরক্ষা সহ পছন্দসই সিরিজ A শেয়ার",
-                  "এন্টি-ডিলিউশন বিধান (ওয়েটেড এভারেজ)"
-                ]
-              },
-              {
-                "title": "গভর্নেন্স এবং বোর্ড সীট",
-                "items": [
-                  "বোর্ড মিটিংয়ে পর্যবেক্ষক অধিকার",
-                  "তথ্য এবং পরিদর্শন অধিকার",
-                  "প্রধান সিদ্ধান্তে অংশগ্রহণ (ফান্ডরেইজিং, M&A, পিভট)"
-                ]
-              },
-              {
-                "title": "আর্থিক অধিকার",
-                "items": [
-                  "ভবিষ্যত ফান্ডিং রাউন্ডে প্রো-রাটা অংশগ্রহণ অধিকার",
-                  "ইকুইটির সাথে সংযুক্ত রাজস্ব শতাংশ (লাভজনকতার পর লাভের 10%)",
-                  "লিকুইডেশন প্রেফারেন্স (1x নন-পার্টিসিপেটিং প্রেফার্ড)"
-                ]
-              }
-            ]
-          },
-          "milestones": {
-            "title": "মাইলফলক এবং পারফরম্যান্স",
-            "items": [
-              "6 মাসের মধ্যে মেইননেট লঞ্চ",
-              "18 মাসের মধ্যে প্রচলনে $100M+ $USDP",
-              "24 মাসের মধ্যে 500K+ দৈনিক সক্রিয় ব্যবহারকারী",
-              "36 মাসের মধ্যে লাভজনকতার পথ"
-            ]
-          }
-        },
-        "closing": {
-          "title": "স্থিতিশীল মূল্যের ভবিষ্যৎ এখানে",
-          "intro": "$USDP স্টেবলকয়েন ডিজাইনে একটি প্যারাডাইম শিফট উপস্থাপন করে:",
-          "points": [
-            {
-              "title": "কম খরচ",
-              "description": "প্রতিযোগী নেটওয়ার্কে ডলারের বিপরীতে সাব-পেনি লেনদেন ফি।"
-            },
-            {
-              "title": "উচ্চতর নিরাপত্তা",
-              "description": "এন্টারপ্রাইজ-গ্রেড সুরক্ষা সহ 150% জামানত বনাম 100-110% প্রতিযোগী।"
-            },
-            {
-              "title": "বিশাল অ্যাক্সেসিবিলিটি",
-              "description": "55+ মিলিয়ন ব্যবহারকারীকে সেবা দেওয়া Pi Network নেটিভ বনাম নিচে বাজার।"
-            },
-            {
-              "title": "ভালো অর্থনীতি",
-              "description": "রাজস্ব পরিমাণের সাথে স্কেল করে যখন খরচ স্থির থাকে।"
-            }
-          ],
-          "conclusion": "স্থিতিশীল মূল্যের ভবিষ্যৎ শুধু USD-এ পেগ করার বিষয়ে নয়—এটি বিশ্বব্যাপী কোটি কোটি মানুষকে স্থিতিশীলতা, নিরাপত্তা এবং অ্যাক্সেসিবিলিটি প্রদান করার বিষয়ে।",
-          "tagline": "$USDP। স্থিতিশীল। নিরাপদ। সহজ।",
-          "footer": "আরও তথ্যের জন্য, www.provenalabs.com পরিদর্শন করুন"
-        }
-      }
     }
   }
+}
